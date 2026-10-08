@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "version": "v6",
+    "universe": "SET100 H2/2026",
+    "researchOrder": "Market Cap 100%",
+    "companiesResearched": 5,
+    "totalUniverse": 100,
+    "marketDataUpdated": "2026-10-08 10:02",
+    "financialDataUpdated": "Q2/2026; AOT 9M FY2026",
+    "researchReviewed": "2026-10-08",
+    "generatedAt": "2026-10-08T05:22:09.327184+00:00",
+    "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
+  },
+  "marketIndex": {
+    "symbol": "SET",
+    "name": "SET Index",
+    "last": 1583.85,
+    "change": -0.78,
+    "changePct": -0.05,
+    "open": 1580.16,
+    "high": 1584.45,
+    "low": 1579.79,
+    "volumeThousandShares": 894721,
+    "valueMillionBaht": 5174.19,
+    "status": "Open",
+    "updatedAt": "2026-10-08 10:02:09",
+    "source": "https://www.set.or.th/th/market/index/set/overview",
+    "history": [
+      {
+        "date": "2026-06-30",
+        "value": 1591.24,
+        "type": "close"
+      },
+      {
+        "date": "2026-07-31",
+        "value": 1623.64,
+        "type": "close"
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1595.16,
+        "type": "close"
+      },
+      {
+        "date": "2026-09-25",
+        "value": 1607.63,
+        "type": "close"
+      },
+      {
+        "date": "2026-09-28",
+        "value": 1602.37,
+        "type": "close"
+      },
+      {
+        "date": "2026-09-29",
+        "value": 1594.3,
+        "type": "close"
+      },
+      {
+        "date": "2026-09-30",
+        "value": 1559.01,
+        "type": "close"
+      },
+      {
+        "date": "2026-10-01",
+        "value": 1563.91,
+        "type": "close"
+      },
+      {
+        "date": "2026-10-07",
+        "value": 1584.63,
+        "type": "close"
+      },
+      {
+        "date": "2026-10-08",
+        "value": 1583.85,
+        "type": "intraday"
+      }
+    ],
+    "historyNote": "ค่าเดือน มิ.ย.–ส.ค. เป็นดัชนีสิ้นเดือนจาก SET; 25 ก.ย.–1 ต.ค. และ 7 ต.ค. เป็นค่าปิดจากข้อมูล SET; 8 ต.ค. เป็นค่าล่าสุดระหว่างวัน. Market Data Engine สามารถเติมข้อมูลรายวันเพิ่มภายหลัง."
+  },
+  "stocks": [
+    {
+      "rank": 1,
+      "ticker": "DELTA",
+      "company": "Delta Electronics (Thailand) PCL.",
+      "sector": "Electronic Components",
+      "valuation": "Very Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 6074.6,
+      "periodNpat": 15155.77,
+      "npatGrowth": 49.8,
+      "debtEbitda": 0.19,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "ประมาณการจาก SET: (EV - Market Cap + Cash) / EBITDA; ใช้เป็น screening value เพราะหน้า SET ratio ไม่แสดงค่าด้วย text parser",
+      "score": 7.8125,
+      "flags": [
+        "Moat",
+        "Growth",
+        "Strong Balance Sheet",
+        "Extreme Valuation"
+      ],
+      "summary": "Structural Growth สูงจาก AI/Data Center และ Power Electronics แต่ต้องระวัง Valuation ที่สูงมาก ซึ่งทำให้ Margin of Safety ต่ำ",
+      "framework": {
+        "1. Management": "Global Delta ecosystem; strong engineering and manufacturing execution. Minority investors remain exposed to parent-group strategic priorities.",
+        "2. Product / Moat": "Power management and electronic components for data center, industrial and EV applications. Engineering know-how, qualification, scale and global customer relationships create a strong moat.",
+        "3. TAM / Growth Runway": "Structural exposure to AI/data-center power infrastructure, high-efficiency power conversion and EV. Growth runway is strong, but market expectations are already high.",
+        "4. Positive Catalysts": "AI/data-center power demand; margin expansion; regional manufacturing growth; EV and industrial automation.",
+        "5. Competitors": "Vertiv, Schneider, Eaton and Asian power-supply manufacturers.",
+        "6. Revenue Growth & Margin": "Growth and margin expansion are occurring together; the operating profile is excellent.",
+        "7. Regulation": "Main risk is global trade/geopolitical policy: tariffs, export controls, local-content rules and supply-chain fragmentation.",
+        "8. Narrative & Sentiment": "AI infrastructure / data-center power winner; positive sentiment, but the equity story is no longer early-stage.",
+        "9. Valuation Effect": "Exceptional business quality is offset by an extreme starting multiple. Multiple compression is a material risk.",
+        "10. Earnings & Macro": "1H2026 profit rose sharply YoY. Base case assumes continued earnings growth but lower equity upside because valuation is demanding.",
+        "11. Risk Radar": "Valuation; AI capex cycle; customer concentration; FX; geopolitics / supply chain."
+      },
+      "thesis": "High-quality structural-growth compounder with strong moat and balance sheet.",
+      "bear": "Even strong earnings growth may not offset valuation compression if AI expectations normalize.",
+      "teamComment": "",
+      "marketBelieves": "AI/data-center demand can sustain premium growth for years.",
+      "marketMissing": "The operating thesis can be right while the stock return disappoints because the entry multiple is extreme.",
+      "variables": "AI capex, order growth, gross margin, customer mix, capex and P/E de-rating.",
+      "fit": "Growth investor with high tolerance for valuation risk.",
+      "moatStatus": "มี",
+      "moatReason": "มี Moat จาก Engineering Know-how, Customer Qualification, Scale, ความสัมพันธ์กับลูกค้าระดับโลก และการอยู่ใน Supply Chain ของ Delta Group ซึ่งทำให้การเปลี่ยน Supplier มีต้นทุนและความเสี่ยงต่อผู้ซื้อ",
+      "industryComparison": "เปรียบเทียบกับอุตสาหกรรม Electronic Components / Power Electronics โดยเน้น Growth, Margin, ROIC, Balance Sheet และ Valuation เทียบผู้เล่น Global Power Management",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-07",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-08",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/DELTA/factsheet"
+        },
+        {
+          "label": "Latest Reviewed Financial Result",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105530200&symbol=DELTA"
+        },
+        {
+          "label": "Investor Relations / Company Website",
+          "url": "https://www.deltathailand.com/en/financial-highlights"
+        },
+        {
+          "label": "Debt / EBITDA screening calculation",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/DELTA/factsheet"
+        }
+      ],
+      "price": 268.0,
+      "marketCap": 3342982.73,
+      "pe": 111.98,
+      "pbv": 31.71,
+      "evEbitda": 75.35
+    },
+    {
+      "rank": 2,
+      "ticker": "PTT",
+      "company": "PTT Public Company Limited",
+      "sector": "Energy & Utilities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 52524.59,
+      "periodNpat": 78262.89,
+      "npatGrowth": 74.5,
+      "debtEbitda": 2.22,
+      "debtEbitdaBasis": "SET",
+      "debtEbitdaNote": "Total Interest Bearing Debt / EBITDA, 6M/2026 (TTM-adjusted by SET)",
+      "score": 7.625,
+      "flags": [
+        "Dividend",
+        "Value",
+        "Bond Candidate",
+        "Asset Backing"
+      ],
+      "summary": "จุดเด่นคือ Value, Dividend, Asset Backing และคุณภาพเครดิต ขณะที่ Growth มีลักษณะ Cyclical และขึ้นกับ Commodity/บริษัทย่อย",
+      "framework": {
+        "1. Management": "State-controlled strategic energy company. Access to capital and strategic importance are strengths; minority-shareholder alignment can be affected by policy objectives.",
+        "2. Product / Moat": "Integrated energy infrastructure with gas, trading and major listed subsidiaries. Scale, infrastructure and strategic national role create a durable barrier.",
+        "3. TAM / Growth Runway": "Mature domestic platform. Growth depends on the energy cycle, subsidiaries, infrastructure, portfolio restructuring and new-energy investment.",
+        "4. Positive Catalysts": "Oil/gas cycle; subsidiary recovery; petrochemical/refining normalization; portfolio restructuring; dividends.",
+        "5. Competitors": "Few true like-for-like peers because PTT is an integrated group; vertical integration and funding access are key advantages.",
+        "6. Revenue Growth & Margin": "Earnings are driven by commodity prices, refining/petrochemical spreads, inventory effects, FX and subsidiary profit.",
+        "7. Regulation": "Energy-price policy is both a barrier and a risk; policy can shift value among PTT, the state and consumers.",
+        "8. Narrative & Sentiment": "Cheap integrated energy conglomerate with dividend support and a persistent state/conglomerate discount.",
+        "9. Valuation Effect": "Low headline multiples and asset backing provide support, but re-rating may remain constrained by policy and conglomerate discount.",
+        "10. Earnings & Macro": "1H2026 attributable profit increased strongly YoY. Macro sensitivity remains tied to oil, gas and downstream spreads.",
+        "11. Risk Radar": "Commodity cycle; government policy; petrochemical oversupply; capital allocation; energy transition."
+      },
+      "thesis": "Value, dividend and asset-backing case with strong funding access.",
+      "bear": "Cheap valuation may persist if downstream returns stay weak or state-policy burden rises.",
+      "teamComment": "",
+      "marketBelieves": "PTT is mature, cyclical and deserves a state/conglomerate discount.",
+      "marketMissing": "Subsidiary recovery and asset monetization can improve cash returns without requiring a high-growth narrative.",
+      "variables": "Oil/gas prices, refining/petrochemical spreads, PTTEP earnings, dividends, capex and policy intervention.",
+      "fit": "Value/dividend investor and credit investor.",
+      "moatStatus": "มี",
+      "moatReason": "มี Moat จากโครงสร้างพื้นฐานพลังงานขนาดใหญ่ ระบบท่อและก๊าซ Scale, Vertical Integration และบทบาทเชิงยุทธศาสตร์ของประเทศ ซึ่งสร้าง Barrier to Entry สูง",
+      "industryComparison": "เปรียบเทียบกับ Integrated Energy / Oil & Gas peers โดยเน้น EV/EBITDA, P/BV, Dividend, Commodity sensitivity และ Balance Sheet",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-07",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-08",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PTT/factsheet"
+        },
+        {
+          "label": "Latest Reviewed Financial Result",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106015900&symbol=PTT"
+        },
+        {
+          "label": "Investor Relations / Company Website",
+          "url": "https://investor.pttplc.com/en/downloads/financial-statements-mda"
+        },
+        {
+          "label": "Financial Statements Analysis",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PTT/financial-statement/financial-statements-analysis"
+        }
+      ],
+      "price": 40.5,
+      "marketCap": 1156801.35,
+      "pe": 9.28,
+      "pbv": 0.96,
+      "evEbitda": 5.08
+    },
+    {
+      "rank": 3,
+      "ticker": "ADVANC",
+      "company": "Advanced Info Service PCL.",
+      "sector": "Information & Communication Technology",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 13716.01,
+      "periodNpat": 27211.51,
+      "npatGrowth": 26.2,
+      "debtEbitda": 1.86,
+      "debtEbitdaBasis": "SET",
+      "debtEbitdaNote": "Total Interest Bearing Debt / EBITDA, 6M/2026 (TTM-adjusted by SET)",
+      "score": 8.4375,
+      "flags": [
+        "Moat",
+        "Dividend",
+        "Growth",
+        "Bond Candidate",
+        "Quality"
+      ],
+      "summary": "มี Business Quality, Moat, Cash Flow และ Earnings Visibility แข็งแรง Valuation อยู่ในระดับที่ต้องติดตามเทียบกับ Telecom peers",
+      "framework": {
+        "1. Management": "Strong historical execution with strategic shareholders GULF and Singtel. Capital discipline and operating track record are key strengths.",
+        "2. Product / Moat": "Mobile, fixed broadband, enterprise and digital services. Spectrum, network scale, subscriber base, switching friction and distribution create a strong moat.",
+        "3. TAM / Growth Runway": "Core mobile is mature, but 5G monetization, broadband, enterprise, cloud, data center, AI and digital-finance optionality extend the growth runway.",
+        "4. Positive Catalysts": "ARPU recovery; rational competition; broadband synergy; enterprise/cloud growth; operating leverage.",
+        "5. Competitors": "TRUE is the principal direct telecom peer. ADVANC currently has stronger profitability, balance-sheet quality and execution visibility.",
+        "6. Revenue Growth & Margin": "A quality-compounder pattern: moderate service-revenue growth, high margins, disciplined capex and strong cash generation.",
+        "7. Regulation": "NBTC spectrum, tariff, competition and service-quality regulation are both entry barriers and return-on-capital risks.",
+        "8. Narrative & Sentiment": "Thai telecom cash-flow compounder; positive sentiment supported by earnings growth and market structure.",
+        "9. Valuation Effect": "Not cheap, but substantially more reasonable than extreme-growth names. Earnings growth can still drive returns without aggressive re-rating.",
+        "10. Earnings & Macro": "1H2026 attributable profit grew materially YoY. Telecom is relatively defensive, while ARPU and spectrum economics remain key variables.",
+        "11. Risk Radar": "Renewed price competition; spectrum cost; capex cycle; regulation; returns on new digital ventures."
+      },
+      "thesis": "Best balance of quality, moat, growth, cash flow and valuation in Batch 1.",
+      "bear": "A return of aggressive price competition or expensive spectrum can reduce ROIC and cash-return capacity.",
+      "teamComment": "",
+      "marketBelieves": "Defensive telecom leader with improving earnings.",
+      "marketMissing": "Enterprise/cloud and operating leverage may add more growth than a traditional telecom multiple implies.",
+      "variables": "ARPU, churn, service revenue, EBITDA margin, capex, spectrum payments, FCF and dividend payout.",
+      "fit": "Core quality/compounder investor and credit investor.",
+      "moatStatus": "มี",
+      "moatReason": "มี Moat จาก Spectrum, Network Scale, ฐานลูกค้าขนาดใหญ่, Distribution, Switching Friction และโครงสร้างตลาดที่ต้องใช้เงินลงทุนสูง ทำให้ผู้เล่นใหม่เข้ามาแข่งขันได้ยาก",
+      "industryComparison": "เปรียบเทียบกับ Telecom peers โดยเน้น ARPU, Churn, EBITDA Margin, Capex/Sales, FCF, Spectrum Cost และ Leverage",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-07",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-08",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/ADVANC/factsheet"
+        },
+        {
+          "label": "Latest Reviewed Financial Result",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105664800&symbol=ADVANC"
+        },
+        {
+          "label": "Investor Relations / Company Website",
+          "url": "https://investor.ais.co.th/en/document/quarterly-results"
+        },
+        {
+          "label": "Financial Statements Analysis",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/ADVANC/financial-statement/financial-statements-analysis"
+        }
+      ],
+      "price": 339.0,
+      "marketCap": 1008257.19,
+      "pe": 18.95,
+      "pbv": 19.4,
+      "evEbitda": 9.69
+    },
+    {
+      "rank": 4,
+      "ticker": "GULF",
+      "company": "Gulf Development PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 12445.68,
+      "periodNpat": 21562.49,
+      "npatGrowth": -66.2,
+      "debtEbitda": 4.2,
+      "debtEbitdaBasis": "SET",
+      "debtEbitdaNote": "Total Interest Bearing Debt / EBITDA, 6M/2026 (TTM-adjusted by SET)",
+      "score": 8.0625,
+      "flags": [
+        "Growth",
+        "Ecosystem Moat",
+        "Infrastructure",
+        "AI/Data Center"
+      ],
+      "summary": "มี Growth Optionality จาก Energy, ADVANC, Data Center และ Cloud แต่ต้องติดตาม Leverage, Funding Cost และ ROIC ของโครงการใหม่",
+      "framework": {
+        "1. Management": "Founder-led capital allocation with high ownership alignment. Complexity and leverage require close monitoring as the platform expands.",
+        "2. Product / Moat": "Energy, infrastructure, telecom exposure through ADVANC, data center/cloud and investments. Ecosystem breadth is difficult for a local peer to replicate.",
+        "3. TAM / Growth Runway": "Power and infrastructure remain core, while data center/cloud create a new structural growth leg.",
+        "4. Positive Catalysts": "ADVANC earnings; new power capacity; data centers; cloud/AI infrastructure; renewable projects; infrastructure investments.",
+        "5. Competitors": "Energy peers include GPSC, EGCO, RATCH and BGRIM, but no Thai peer has exactly the same energy-telecom-data ecosystem.",
+        "6. Revenue Growth & Margin": "Core profit and EBITDA are more useful than headline P/E because amalgamation-related one-offs distort reported comparisons.",
+        "7. Regulation": "Exposed to electricity, PPA, telecom, data/privacy, cloud and digital-finance regulation.",
+        "8. Narrative & Sentiment": "Thailand infrastructure-tech conglomerate rather than a traditional power stock.",
+        "9. Valuation Effect": "Headline P/E can be misleading due to amalgamation effects; SOTP is the preferred framework.",
+        "10. Earnings & Macro": "Q2 core profit and EBITDA were strong. Reported YoY net-profit comparisons are distorted by the 2025 amalgamation gain.",
+        "11. Risk Radar": "Leverage; execution across multiple businesses; regulation; capital allocation; data-center overbuild."
+      },
+      "thesis": "High-growth infrastructure platform with strategic telecom and data-center optionality.",
+      "bear": "Complexity, leverage and large capital commitments can reduce returns if new projects earn below expected ROIC.",
+      "teamComment": "",
+      "marketBelieves": "GULF is evolving into a broad infrastructure holding company.",
+      "marketMissing": "Data-center/cloud economics could become a more meaningful earnings leg than currently assumed.",
+      "variables": "Core profit, ADVANC contribution, net debt, project COD, data-center MW contracted, funding cost and SOTP discount.",
+      "fit": "Growth/infrastructure investor comfortable with leverage and complexity.",
+      "moatStatus": "มี",
+      "moatReason": "มี Moat จาก Scale, Long-term Infrastructure/PPA assets, ความสามารถเข้าถึงเงินทุนและโครงการขนาดใหญ่ รวมถึง Strategic Ecosystem ใน Energy–Telecom–Data แต่ต้องติดตามว่าการขยายธุรกิจใหม่จะสร้าง ROIC ได้ยั่งยืนเพียงใด",
+      "industryComparison": "เปรียบเทียบกับ Energy & Utilities / Infrastructure peers โดยเน้น Core Profit, ROIC, Net Debt, PPA quality, Funding Cost และ SOTP",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-07",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-08",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GULF/factsheet"
+        },
+        {
+          "label": "Latest Reviewed Financial Result",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105685400&symbol=GULF"
+        },
+        {
+          "label": "Investor Relations / Company Website",
+          "url": "https://www.gulf.co.th/en/investor-relations"
+        },
+        {
+          "label": "Financial Statements Analysis",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/GULF/financial-statement/financial-statements-analysis"
+        }
+      ],
+      "price": 59.75,
+      "marketCap": 892655.3,
+      "pe": 11.92,
+      "pbv": 2.83,
+      "evEbitda": 12.78
+    },
+    {
+      "rank": 5,
+      "ticker": "AOT",
+      "company": "Airports of Thailand PCL.",
+      "sector": "Transportation & Logistics",
+      "valuation": "Expensive",
+      "period": "9M FY2026 / Q3 FY2026",
+      "qNpat": 4441.68,
+      "periodNpat": 14812.34,
+      "npatGrowth": 3.9,
+      "debtEbitda": 0.24,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "คำนวณจากหนี้ที่มีภาระดอกเบี้ยในงบ 9M/FY2026 หาร SET EBITDA 29,108.74 ล้านบาท",
+      "score": 7.8125,
+      "flags": [
+        "Monopoly Moat",
+        "Tourism Recovery",
+        "Premium Valuation",
+        "Bond Candidate"
+      ],
+      "summary": "มี Natural Monopoly Moat ชัดเจนจากสนามบินหลักของประเทศ แต่ราคาหุ้นสะท้อน Premium Valuation และต้องอาศัย Passenger/Commercial Growth ต่อเนื่อง",
+      "framework": {
+        "1. Management": "State-controlled airport operator. Strategic infrastructure quality is high, while policy and concession decisions remain important.",
+        "2. Product / Moat": "Major Thai airport network with location-based natural-monopoly characteristics, regulated concessions and airline-route network effects.",
+        "3. TAM / Growth Runway": "Growth linked to international arrivals, airport capacity, commercial revenue, passenger charges and Thailand's hub strategy.",
+        "4. Positive Catalysts": "Tourism recovery; passenger growth; airport capacity expansion; non-aeronautical revenue; concession economics.",
+        "5. Competitors": "Minimal direct domestic competition for the same locations; competitive benchmark is other regional aviation hubs.",
+        "6. Revenue Growth & Margin": "Passenger growth provides operating leverage, but earnings growth must be judged against a premium starting valuation.",
+        "7. Regulation": "Passenger charges, concessions, airport fees, capacity investment and commercial contracts are policy-sensitive.",
+        "8. Narrative & Sentiment": "Thailand tourism and airport-monopoly proxy.",
+        "9. Valuation Effect": "The market pays a substantial premium for monopoly quality. Upside requires sustained passenger and commercial growth.",
+        "10. Earnings & Macro": "9M FY2026 profit grew modestly YoY; tourism, airline capacity and concession terms are central drivers.",
+        "11. Risk Radar": "Tourism shock; concession/regulatory change; government influence; large capex; valuation."
+      },
+      "thesis": "One of the strongest moats in SET100 with long-duration aviation infrastructure value.",
+      "bear": "Premium valuation can compress if tourism or commercial revenue grows slower than expected.",
+      "teamComment": "",
+      "marketBelieves": "AOT deserves a premium as Thailand's airport monopoly and tourism proxy.",
+      "marketMissing": "The moat is exceptional, but high valuation leaves limited room for execution disappointment.",
+      "variables": "International passengers, Chinese arrivals, aero/non-aero revenue, concession terms, capex and P/E.",
+      "fit": "Quality infrastructure investor willing to pay a premium.",
+      "moatStatus": "มี",
+      "moatReason": "มี Moat ชัดเจนจาก Location และสิทธิบริหารสนามบินหลักของประเทศ ลักษณะ Natural Monopoly, Regulation และ Network Effect ของสายการบิน ทำให้การสร้างคู่แข่งทดแทนทำได้ยากมาก",
+      "industryComparison": "เปรียบเทียบกับ Airport Operators / Transportation Infrastructure peers โดยเน้น Passenger Growth, Aero/Non-aero Revenue, EBITDA Margin, Capex และ Valuation",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-07",
+      "financialDataUpdated": "9M FY2026 / Q3 FY2026",
+      "researchReviewed": "2026-10-08",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AOT/factsheet"
+        },
+        {
+          "label": "Latest Reviewed Financial Result",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106027100&symbol=AOT"
+        },
+        {
+          "label": "Investor Relations / Company Website",
+          "url": "https://investor.airportthai.co.th/"
+        },
+        {
+          "label": "Balance sheet + SET EBITDA",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/AOT/factsheet"
+        }
+      ],
+      "price": 59.75,
+      "marketCap": 853570.58,
+      "pe": 45.71,
+      "pbv": 6.36,
+      "evEbitda": 23.29
+    }
+  ]
+}
