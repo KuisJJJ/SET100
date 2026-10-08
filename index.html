@@ -251,7 +251,7 @@ function renderSetIndex(){
 function initIndustryFilter(){
  const sel=document.getElementById("industryFilter"); if(!sel) return;
  const current=sel.value;
- const sectors=[...new Set(DATA.filter(industryMatch).map(x=>x.sector).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+ const sectors=[...new Set(DATA.map(x=>x.sector).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
  sel.innerHTML='<option value="">ทุกอุตสาหกรรม</option>'+sectors.map(s=>`<option value="${s}">${s}</option>`).join("");
  sel.value=current;
 }
@@ -262,7 +262,11 @@ function industryMatch(x){
 
 function render(){
  const q=document.getElementById("q").value.toLowerCase(),val=document.getElementById("valuation").value,stat=document.getElementById("status").value;
- const list=DATA.filter(x=>industryMatch(x)&&{const hay=(x.ticker+" "+x.company+" "+x.sector+" "+(x.flags||[]).join(" ")).toLowerCase();return(!q||hay.includes(q))&&(!val||x.valuation===val)&&(!stat||x.updateStatus===stat)});
+ const list=DATA.filter(x=>{
+   if(!industryMatch(x)) return false;
+   const hay=(x.ticker+" "+x.company+" "+x.sector+" "+(x.flags||[]).join(" ")).toLowerCase();
+   return(!q||hay.includes(q))&&(!val||x.valuation===val)&&(!stat||x.updateStatus===stat);
+ });
  document.getElementById("cards").innerHTML=list.map(x=>`
  <article class="card">
  <div class="top"><div><div class="ticker">${x.ticker}</div><div class="meta">MCap Rank #${x.rank} • ${x.sector}</div></div><div style="text-align:right"><div class="meta">Overall Score</div><div class="score">${fmt(x.score,1)}</div><span class="badge ${valClass(x.valuation)}">${x.valuation}</span></div></div>
