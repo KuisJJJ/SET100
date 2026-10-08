@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "v6.1",
+    "version": "v6.1-batch3",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 15,
@@ -8,7 +8,7 @@
     "marketDataUpdated": "2026-10-08 10:02",
     "financialDataUpdated": "Q2/2026; AOT 9M FY2026",
     "researchReviewed": "2026-10-08",
-    "generatedAt": "2026-10-08T09:35:47.033997+00:00",
+    "generatedAt": "2026-10-08T16:01:00+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -619,6 +619,10 @@
         {
           "label": "Investor Relations / Company Website",
           "url": "https://investor.ais.co.th/en/document/quarterly-results"
+        },
+        {
+          "label": "Financial Statements Analysis",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/ADVANC/financial-statement/financial-statements-analysis"
         }
       ],
       "price": 339.0,
@@ -687,6 +691,10 @@
         {
           "label": "Investor Relations / Company Website",
           "url": "https://www.gulf.co.th/en/investor-relations"
+        },
+        {
+          "label": "Financial Statements Analysis",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/GULF/financial-statement/financial-statements-analysis"
         }
       ],
       "price": 59.75,
@@ -755,6 +763,10 @@
         {
           "label": "Investor Relations / Company Website",
           "url": "https://investor.airportthai.co.th/"
+        },
+        {
+          "label": "Balance sheet + SET EBITDA",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/AOT/factsheet"
         }
       ],
       "price": 59.75,
@@ -764,351 +776,15 @@
       "evEbitda": 23.29
     },
     {
-      "rank": 6,
-      "ticker": "KTB",
-      "company": "Krung Thai Bank PCL.",
-      "sector": "Banking",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 12125.0,
-      "periodNpat": 24562.0,
-      "npatGrowth": 7.6,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "N/A - Banking",
-      "debtEbitdaNote": "NPL 2.92%; Coverage 205%; ROE ~10.5%; use capital/asset-quality metrics instead.",
-      "score": 7.75,
-      "flags": [
-        "Dividend",
-        "Digital Platform",
-        "Government Ecosystem",
-        "Bond Candidate"
-      ],
-      "summary": "กำไรและคุณภาพสินทรัพย์ดีขึ้นชัด แต่ราคาหุ้นได้ re-rate ไปมากแล้ว จุดต่อไปต้องพิสูจน์ว่า Fee/Digital/Cost Efficiency ชดเชย NIM ขาลงได้ต่อเนื่อง.",
-      "framework": {
-        "1. Management": "State-linked bank with strong strategic role in public-sector payment/digital infrastructure. Management under Payong Srivanich has improved profitability, efficiency and asset quality while scaling digital ecosystems. Capital allocation is conservative; alignment is strong on stability and dividends, though state-linked objectives can influence strategy.",
-        "2. Product / Moat": "Universal bank serving government, corporate, SME and retail customers. Moat comes from government ecosystem integration, Paotang/Krungthai NEXT scale, deposits and nationwide distribution. Moat: มี — especially data/distribution and public-sector rails; durability high while digital engagement stays active.",
-        "3. TAM / Growth Runway": "Thai banking TAM is mature, so runway comes from fee income, wealth, digital monetization, government-payment ecosystem and selective quality lending rather than rapid loan growth.",
-        "4. Positive Catalysts": "Fee/wealth growth; digital monetization; operating efficiency; lower credit cost; dividend; potential policy-driven transaction volumes. Probability medium-high / impact medium over 6-24 months.",
-        "5. Competitors": "Compare only with Thai large-bank industry on ROE, NIM, NPL, coverage, CAR and P/BV. Competitive edge is public-sector ecosystem and digital reach; risk is lower pricing flexibility around policy objectives.",
-        "6. Revenue Growth & Margin": "1H26 profit grew 7.6% YoY despite NII pressure. Revenue mix is shifting toward non-interest income while cost/income improved. Margin expansion depends more on fees, productivity and credit cost than NIM.",
-        "7. Regulation": "BOT capital/liquidity/consumer-protection rules and government policy are key. Beginner: regulation limits risk-taking. Technical: it constrains leverage/pricing but raises barriers to entry and supports funding confidence.",
-        "8. Narrative & Sentiment": "Narrative is 'high-quality state-linked bank + digital platform + dividend'. Sentiment positive but re-rating has already occurred. Story is middle stage rather than beginning.",
-        "9. Valuation Effect": "At ~1.3x P/BV and ~11.8x P/E, valuation is no longer deep value. Expected return should come mainly from earnings/dividend; multiple expansion is less likely than earlier in the cycle.",
-        "10. Earnings & Macro": "1H26 NPAT ~THB24.6bn, +7.6% YoY; Q2 NPAT THB12.1bn. NPL 2.92%, coverage 205%, NIM ~2.45%. Low Thai rates pressure NIM, but weak growth also supports benign funding costs. Base: resilient earnings; Bull: fee/credit-cost upside; Bear: NIM/asset-quality pressure.",
-        "11. Risk Radar": "Top risks: NIM compression (high probability/medium impact), Thai weak growth and household debt (medium/high), policy influence (medium/medium), credit normalization (medium/high). Monitor NIM, NPL, coverage, fee income and credit cost."
-      },
-      "thesis": "Strong franchise with public-sector digital ecosystem, improving efficiency and high reserve coverage; attractive for income/quality exposure rather than rapid growth.",
-      "bear": "Re-rating has already lifted P/BV; falling rates can compress NIM faster than fees grow, while state-linked objectives may constrain pure shareholder optimization.",
-      "teamComment": "",
-      "marketBelieves": "Market sees KTB as a structurally better bank than in the past, with digital reach, improving ROE and strong asset quality.",
-      "marketMissing": "Market may underappreciate monetization of Paotang/public payment rails and fee mix, but may also over-extrapolate recent re-rating.",
-      "variables": "NIM, fee growth, cost/income, NPL, coverage, credit cost, ROE, dividend payout, digital active users.",
-      "fit": "Income/quality bank investor; suitable for investors comfortable with policy linkage and moderate growth.",
-      "moatStatus": "มี",
-      "moatReason": "Government ecosystem, Paotang/Krungthai NEXT scale, distribution, deposits and high regulatory barriers create durable customer access and data advantages.",
-      "industryComparison": "เทียบกับ Large Thai Banks ด้วย ROE, NIM, NPL, Coverage, CAR, Cost/Income และ P/BV เท่านั้น.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/KTB/factsheet"
-        },
-        {
-          "label": "Latest 2Q/1H2026 Result",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/KTB/financial-statement/latest/income"
-        },
-        {
-          "label": "Investor Relations / Company Website",
-          "url": "https://krungthai.com/en/investor-relations"
-        }
-      ],
-      "price": 42.0,
-      "marketCap": 586994.57,
-      "pe": 11.76,
-      "pbv": 1.3,
-      "evEbitda": null
-    },
-    {
-      "rank": 7,
-      "ticker": "PTTEP",
-      "company": "PTT Exploration and Production PCL.",
-      "sector": "Energy & Utilities",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": 39032.45,
-      "npatGrowth": 29.8,
-      "debtEbitda": 0.5,
-      "debtEbitdaBasis": "Calculation",
-      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / SET EBITDA = ~0.50x.",
-      "score": 8.125,
-      "flags": [
-        "Dividend",
-        "Energy Security",
-        "Growth Projects",
-        "Strong Balance Sheet"
-      ],
-      "summary": "ธุรกิจแข็งแรงและงบดุลดีมาก กำไร 1H26 ได้ทั้ง Volume และ Price หนุน แต่ต้องแยก 'คุณภาพบริษัท' ออกจาก 'ราคาน้ำมันที่สูงผิดปกติ' เวลาประเมินมูลค่า.",
-      "framework": {
-        "1. Management": "PTT holds 63.79%, giving strategic alignment with Thailand energy security. CEO Montri Rawanchaikul has E&P technical background and has led production ramp-up plus Malaysia expansion. Management track record is disciplined on upstream execution and dividends; state-linked strategic objectives remain part of the mandate.",
-        "2. Product / Moat": "Core upstream oil & gas E&P. Moat: มี — reserves/resources, operating licenses, geological/engineering know-how, scale, long-cycle project capability and access to strategic acreage. Durability high but economics remain commodity-price dependent.",
-        "3. TAM / Growth Runway": "Runway comes from Thailand gas production, Malaysia and acquired assets. Five-year investment plan 2026-30 is USD33.3bn; company targets volume growth through project development and M&A. TAM is global upstream energy, but capital intensity is high.",
-        "4. Positive Catalysts": "High oil/gas prices; volume growth; SK405B first oil targeted 2028; Malaysia portfolio expansion; new discoveries/M&A; dividends. Near-term oil catalyst high impact but externally driven; project catalysts medium/high over 1-5 years.",
-        "5. Competitors": "Compare with regional/global E&P peers on reserve life, production growth, unit cost, realized price, FCF, net debt and EV/EBITDA. Competitive edge is Thailand/Malaysia resource position and strong balance sheet.",
-        "6. Revenue Growth & Margin": "1H26 revenue THB176.8bn, sales volume +14% YoY and ASP +10%; operating leverage to commodity prices is strong. Margin expansion is mostly price/mix/volume-driven; cost discipline and reuse initiatives help capex efficiency.",
-        "7. Regulation": "Petroleum concessions/PSC, royalties, taxes, decommissioning and environmental regulation are central. Regulation is both barrier to entry and cash-flow burden; host-country terms can materially change project NPV.",
-        "8. Narrative & Sentiment": "Narrative currently benefits from energy security and high oil prices. Sentiment positive, but part of the story is cyclical. With Brent above US$100 amid Middle East disruption, market is pricing a stronger commodity backdrop.",
-        "9. Valuation Effect": "8.4x P/E and 2.8x EV/EBITDA look low, but normalized valuation should assume lower long-term oil. Multiple expansion is possible only if production growth raises normalized FCF rather than relying on spot oil.",
-        "10. Earnings & Macro": "1H26 NPAT THB39.0bn vs ~THB30.1bn prior year; revenue THB176.8bn; volume 563k BOED. Base: oil normalizes but volume grows; Bull: sustained high oil + project execution; Bear: oil normalization + cost/capex slippage.",
-        "11. Risk Radar": "Top risks: oil/gas price (high/high), geopolitics (medium/high), project execution/reserves (medium/high), host-country regulation/tax (medium/medium), energy transition (low-medium/long-term high). Monitor Brent, gas prices, sales volume, unit cost, reserve replacement and capex."
-      },
-      "thesis": "Strong upstream franchise, low leverage, dividend capacity and visible production growth provide a robust base even if commodity prices normalize.",
-      "bear": "Current oil prices are unusually elevated; earnings and valuation can look optically cheap near the top of a commodity cycle. Exploration/project misses can erode reserve replacement.",
-      "teamComment": "",
-      "marketBelieves": "Market sees PTTEP as a high-quality oil/gas proxy with strong dividends and direct benefit from energy tightness.",
-      "marketMissing": "Market may underprice the durability of Malaysia/Thailand production growth, but may overprice the persistence of current oil prices.",
-      "variables": "Brent/Dubai, realized price, sales volume, unit cost, reserve replacement, capex, new project FID/COD, net debt, dividend.",
-      "fit": "Commodity/dividend investor seeking strong balance sheet; must tolerate oil-price volatility.",
-      "moatStatus": "มี",
-      "moatReason": "Resource access, licenses, subsurface/engineering expertise, project scale and strategic domestic position create high entry barriers; commodity exposure limits pricing power.",
-      "industryComparison": "เทียบกับ E&P peers ด้วย Production Growth, Reserve Life, Unit Cost, FCF, Net Debt, EV/EBITDA และ Dividend.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/PTTEP/factsheet"
-        },
-        {
-          "label": "Latest 2Q/1H2026 Result",
-          "url": "https://www.pttep.com/en/newsroom/press-releases/1192/pttep-announces-first-half-performance-of-2026-and-interim-dividend-payment-at-thb-450-per-share"
-        },
-        {
-          "label": "Investor Relations / Company Website",
-          "url": "https://www.pttep.com/en/investor-relations"
-        }
-      ],
-      "price": 147.0,
-      "marketCap": 583587.85,
-      "pe": 8.43,
-      "pbv": 1.03,
-      "evEbitda": 2.83
-    },
-    {
-      "rank": 8,
-      "ticker": "KBANK",
-      "company": "Kasikornbank PCL.",
-      "sector": "Banking",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 13247.0,
-      "periodNpat": 27914.9,
-      "npatGrowth": 6.2,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "N/A - Banking",
-      "debtEbitdaNote": "Use NIM, NPL, Coverage, CAR and ROE instead of Debt/EBITDA.",
-      "score": 8.0625,
-      "flags": [
-        "Digital Banking",
-        "Wealth",
-        "Quality",
-        "Strong Capital"
-      ],
-      "summary": "ภาพรวมคือ 'คุณภาพดีขึ้น แต่ไม่ใช่ Growth Bank' — ผลตอบแทนระยะต่อไปขึ้นกับ Fee/Wealth/Productivity และการคุม Credit Cost มากกว่าการเร่งสินเชื่อ.",
-      "framework": {
-        "1. Management": "CEO Kattiya Indaravijaya has led a quality-over-volume strategy focused on customer economics, productivity and prudent credit. Ownership is widely held/free-float high, reducing controlling-shareholder risk. Capital allocation prioritizes capital strength and risk-adjusted returns.",
-        "2. Product / Moat": "Universal bank with strong SME/corporate/retail, K PLUS, wealth, payments and regional network. Moat: มี — customer data, K PLUS ecosystem, deposit franchise, SME relationships, brand and regulatory barriers. Durability high if digital engagement translates into fee income and risk selection.",
-        "3. TAM / Growth Runway": "Thai loan TAM is mature; growth runway comes from wealth, payments, cross-border, digital engagement and selective secured/high-quality lending. 2026 loan target only 0-2%, signaling value over volume.",
-        "4. Positive Catalysts": "Wealth fee growth; productivity/AI; lower operating cost; quality lending; capital return; asset-quality improvement. Probability high / impact medium over 6-24 months.",
-        "5. Competitors": "Industry comparison only with Thai large banks on NIM, ROE, NPL, coverage, CAR, fee growth and P/BV. KBank's strengths are digital/SME/customer analytics; risk is SME/retail credit sensitivity.",
-        "6. Revenue Growth & Margin": "1H26 NPAT THB27.9bn +6.2% YoY; underlying ex-one-off growth only ~1.3%. NIM fell to 2.91% but non-interest income and lower opex offset pressure. Margin story is productivity + fees rather than NIM expansion.",
-        "7. Regulation": "BOT capital, responsible lending, cyber/data/privacy and consumer rules are key. Regulation raises fixed costs and constrains loan pricing but protects incumbents and deposit confidence.",
-        "8. Narrative & Sentiment": "Narrative is 'high-quality digital bank + improving efficiency' rather than aggressive loan growth. Sentiment positive/neutral; story is middle stage and increasingly depends on sustainable ROE.",
-        "9. Valuation Effect": "235 baht, ~10.8x P/E, ~0.96x P/BV. Around book value is reasonable for ~9-10% ROE; meaningful re-rating requires sustained ROE above cost of equity and stable asset quality.",
-        "10. Earnings & Macro": "1H26 NPAT THB27.9bn, NIM 2.91%, NPL 3.18%, coverage 173.9%, CAR 19.24%, ROE 9.65%. Base: stable profit with NIM pressure; Bull: wealth/fees/productivity; Bear: credit cost/NIM deterioration.",
-        "11. Risk Radar": "Top risks: NIM compression (high/medium), SME/retail asset quality (medium/high), weak domestic growth (medium/high), cyber/digital risk (low-medium/high), fee-market sensitivity (medium/medium). Monitor NIM, NPL, credit cost, coverage, fee income, ROE, CAR."
-      },
-      "thesis": "Strong digital/customer franchise, high capital and disciplined risk management give resilience; current valuation is reasonable for a quality bank.",
-      "bear": "Underlying profit growth is modest after stripping one-off income; weak economy and rate cuts can limit ROE improvement, especially if SME credit worsens.",
-      "teamComment": "",
-      "marketBelieves": "Market sees KBank as a digital leader with improving cost efficiency and strong capital, but still exposed to Thailand/SME cycle.",
-      "marketMissing": "Market may underappreciate long-term wealth/payment monetization and AI productivity, while underestimating NIM and SME-credit drag.",
-      "variables": "NIM, credit cost, NPL, coverage, ROE, CAR, fee/wealth income, loan mix, K PLUS engagement.",
-      "fit": "Core bank investor seeking digital franchise + capital strength; moderate cyclical risk.",
-      "moatStatus": "มี",
-      "moatReason": "K PLUS/customer data, SME relationships, deposit franchise, brand and regulation produce durable switching/data/distribution advantages.",
-      "industryComparison": "เทียบกับ Large Thai Banks ด้วย ROE, NIM, NPL, Coverage, CAR, Fee Growth, Cost/Income และ P/BV.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/KBANK%20/factsheet"
-        },
-        {
-          "label": "Latest 2Q/1H2026 Result",
-          "url": "https://www.kasikornbank.com/en/News/Pages/q2_2026.aspx"
-        },
-        {
-          "label": "Investor Relations / Company Website",
-          "url": "https://www.kasikornbank.com/en/IR/Pages/home.aspx"
-        }
-      ],
-      "price": 235.0,
-      "marketCap": 556791.98,
-      "pe": 10.79,
-      "pbv": 0.96,
-      "evEbitda": null
-    },
-    {
-      "rank": 9,
-      "ticker": "SCB",
-      "company": "SCB X PCL.",
-      "sector": "Banking",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 11117.0,
-      "periodNpat": 21312.12,
-      "npatGrowth": -15.7,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "N/A - Banking",
-      "debtEbitdaNote": "Use NIM, NPL, Coverage, CAR and ROE instead of Debt/EBITDA.",
-      "score": 7.8125,
-      "flags": [
-        "Dividend",
-        "Wealth",
-        "Digital Finance",
-        "AI/BankX"
-      ],
-      "summary": "ฐานธนาคารยังแข็งแรง แต่กำไร 1H26 ลดจากดอกเบี้ยขาลง จุดชี้ขาดคือ Wealth/Fees และ Gen2-Gen3 จะสร้าง ROE เพิ่มได้จริงหรือไม่.",
-      "framework": {
-        "1. Management": "SCBX is led by CEO Arthid Nanthawithaya; group structure separates core bank, consumer/digital finance and technology/platform businesses. Management has demonstrated cost discipline and active portfolio redesign, but returns from Gen2/Gen3 remain the key proof point.",
-        "2. Product / Moat": "Core bank plus CardX, AutoX, InnovestX, SCB 10X, DataX/TechX and BankX optionality. Moat: มี — large customer/deposit base, wealth franchise, data/technology assets and regulatory barriers. Durability high in core bank; digital moat still developing.",
-        "3. TAM / Growth Runway": "Core banking TAM is mature. Growth runway comes from wealth, fee income, consumer finance normalization and Gen3/BankX technology businesses. BankX can widen addressable digital-finance markets but execution risk is meaningful.",
-        "4. Positive Catalysts": "Wealth fees; trading/investment income normalization; cost control; CardX/AutoX credit normalization; BankX launch/AI capabilities; capital return. Timeline 6-36 months.",
-        "5. Competitors": "Industry comparison only with Thai large banks on ROE/NIM/NPL/CAR/PBV, while digital subsidiaries should be judged on profitability, CAC, credit loss and unit economics rather than hype.",
-        "6. Revenue Growth & Margin": "2Q26 fee income +14.8% YoY and opex -2.2% helped offset NIM pressure. Margin expansion depends on mix shift toward fee/wealth and better Gen2 economics; core NIM remains pressured by low rates.",
-        "7. Regulation": "BOT consolidated supervision, capital rules, digital banking approvals, responsible lending, data privacy and cyber regulation are central. Regulation is barrier to entry but can slow innovation/monetization.",
-        "8. Narrative & Sentiment": "Narrative is 'bank cash cow funding digital optionality'. Sentiment neutral-positive; market gives some credit for optionality but still values SCB mainly as a bank/dividend stock. Story is middle stage.",
-        "9. Valuation Effect": "At ~1.02x P/BV and 11.3x P/E, valuation is fair for current ROE/profit trend. Re-rating needs visible Gen2/Gen3 profit contribution or stronger sustainable fee growth.",
-        "10. Earnings & Macro": "2Q26 NPAT THB11.1bn, +9% QoQ but -13.1% YoY; 1H26 NPAT THB21.3bn vs THB25.3bn. NPL 3.17%, coverage 158.6%, CAR 18.6%. Base: resilient but slower; Bull: digital/fee upside; Bear: NIM+credit pressure.",
-        "11. Risk Radar": "Top risks: NIM compression (high/medium), consumer finance credit losses (medium/high), execution of BankX/digital portfolio (medium/high), macro/household debt (medium/high), regulatory change (medium/medium)."
-      },
-      "thesis": "Core SCB franchise generates cash and capital while wealth/digital initiatives provide optionality; downside is cushioned by capital strength and diversified income.",
-      "bear": "Gen2/Gen3 may continue consuming capital without sufficient ROE; falling rates pressure the core earnings engine before new businesses become material.",
-      "teamComment": "",
-      "marketBelieves": "Market believes SCBX is a mature bank with attractive dividend plus some fintech optionality, but not yet a proven high-growth tech platform.",
-      "marketMissing": "Market may be missing upside from AI/wealth/BankX if unit economics improve, or may be too generous about timing of digital profitability.",
-      "variables": "NIM, fee/wealth income, Gen2 credit cost, NPL/coverage, CAR, BankX milestones, cost/income, dividend payout.",
-      "fit": "Income/value bank investor who wants digital optionality but accepts execution risk.",
-      "moatStatus": "มี",
-      "moatReason": "Large customer/deposit base, wealth franchise, data/technology stack and banking regulation create durable core-bank moat; digital moat is not yet fully proven.",
-      "industryComparison": "เทียบกับ Large Thai Banks ด้วย ROE, NIM, NPL, Coverage, CAR, Cost/Income, P/BV; digital businessesดู Unit Economics แยก.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/SCB/factsheet/"
-        },
-        {
-          "label": "Latest 2Q/1H2026 Result",
-          "url": "https://investor.scbx.com/en/newsroom/press-releases/202896/scbx-reports-2q26-net-profit-of-thb-11117-million-up-9-qoq"
-        },
-        {
-          "label": "Investor Relations / Company Website",
-          "url": "https://investor.scbx.com/en/resource-center"
-        }
-      ],
-      "price": 146.0,
-      "marketCap": 491597.66,
-      "pe": 11.3,
-      "pbv": 1.02,
-      "evEbitda": null
-    },
-    {
-      "rank": 10,
-      "ticker": "TRUE",
-      "company": "True Corporation PCL.",
-      "sector": "Information & Communication Technology",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 6600.0,
-      "periodNpat": 13200.0,
-      "npatGrowth": null,
-      "debtEbitda": 3.7,
-      "debtEbitdaBasis": "Company",
-      "debtEbitdaNote": "Net debt/EBITDA reported by company at 3.7x for Q2/2026.",
-      "score": 7.75,
-      "flags": [
-        "Moat",
-        "Synergy",
-        "Margin Expansion",
-        "Deleveraging",
-        "AI"
-      ],
-      "summary": "TRUE เปลี่ยนจาก 'เรื่องควบรวม' เป็น 'เรื่อง Margin + FCF + Deleveraging' แล้ว จุดสำคัญคือรายได้โตไม่มาก แต่ EBITDA โตแรงจาก Synergy; ราคาปัจจุบันต้องการให้การปรับดีขึ้นดำเนินต่อ.",
-      "framework": {
-        "1. Management": "Post-merger management has focused on synergy capture, network modernization, cost discipline and deleveraging. Execution has improved materially since 2023. Strategic alignment benefits from large CP Group/Telenor ecosystems, though ownership concentration and capital-intensity require governance monitoring.",
-        "2. Product / Moat": "Mobile, broadband, enterprise, TV/content and digital services. Moat: มี — spectrum, nationwide network, subscriber scale, distribution, converged services and high capex/regulatory barriers. Durability high if network quality and pricing discipline are sustained.",
-        "3. TAM / Growth Runway": "Thai mobile is mature, but growth runway exists in ARPU, 5G monetization, broadband, enterprise/cloud, data/AI services and cross-sell. Biggest value driver is not TAM expansion alone but post-merger unit-economics improvement.",
-        "4. Positive Catalysts": "Synergy realization; network opex/capex efficiency; ARPU/pricing discipline; deleveraging; lower finance cost; enterprise/cloud/AI; dividends. Probability high / impact high over 6-24 months.",
-        "5. Competitors": "Industry comparison with Thai telecom only: ARPU, churn, service revenue growth, EBITDA margin, capex/sales, spectrum cost, FCF and leverage. TRUE's scale/convergence is strong; balance sheet remains weaker than ideal.",
-        "6. Revenue Growth & Margin": "Q2 service revenue +0.8% YoY while EBITDA +13.5% demonstrates operating leverage. Margin expansion comes from synergy, network consolidation, opex reduction and mix; leverage fell to ~3.7x.",
-        "7. Regulation": "NBTC spectrum, pricing/competition, service quality, data privacy and telecom infrastructure rules are key. Regulation is a high barrier but spectrum obligations and policy intervention affect cash flow.",
-        "8. Narrative & Sentiment": "Narrative is 'turnaround to cash-flow compounder' rather than merger clean-up. Sentiment positive but expectations now include continuing synergy and deleveraging. Story is middle stage, not early.",
-        "9. Valuation Effect": "P/E 23.4x and P/BV 5.5x appear high; EV/EBITDA 7.8x is more relevant. Fair value requires continued EBITDA/FCF growth and falling leverage. Multiple expansion is less likely than earnings-driven return.",
-        "10. Earnings & Macro": "Q2 reported NPAT ~THB6.6bn, service revenue ~THB41.4bn +0.8% YoY, EBITDA +13.5%, capex ~THB4.6bn, leverage 3.7x. Base: synergy + modest revenue growth; Bull: ARPU/enterprise upside; Bear: price war/spectrum/capex.",
-        "11. Risk Radar": "Top risks: leverage/refinancing (medium/high), renewed price competition (medium/high), spectrum/capex burden (medium/high), regulation (medium/medium), execution of synergy/network quality (medium/high). Monitor ARPU, churn, service revenue, EBITDA margin, capex, FCF, leverage and interest cost."
-      },
-      "thesis": "Merger synergies are now visible in EBITDA and profit; network scale and convergence create durable competitive economics if pricing remains rational.",
-      "bear": "Valuation already anticipates successful synergy and deleveraging. Revenue growth remains modest, leverage is still material, and renewed competition could reverse margin progress.",
-      "teamComment": "",
-      "marketBelieves": "Market believes TRUE has passed the merger pain point and is becoming a higher-margin, cash-generative telecom with improving leverage.",
-      "marketMissing": "Market may underestimate additional synergy/AI efficiency and enterprise monetization, but may also underestimate spectrum/refinancing and competitive risk.",
-      "variables": "Mobile ARPU, subscribers/churn, broadband revenue, EBITDA margin, capex, FCF, net debt/EBITDA, financing cost, spectrum payments.",
-      "fit": "Turnaround/growth investor comfortable with leverage and execution risk; also increasingly relevant to credit investors as leverage falls.",
-      "moatStatus": "มี",
-      "moatReason": "Spectrum, nationwide network, subscriber scale, convergence, distribution and regulatory/capital barriers create a durable telecom moat.",
-      "industryComparison": "เทียบกับ Telecom peers ด้วย ARPU, Churn, Service Revenue Growth, EBITDA Margin, Capex/Sales, FCF, Spectrum Cost และ Leverage.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/TRUE/factsheet"
-        },
-        {
-          "label": "Latest 2Q/1H2026 Result",
-          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105627201&symbol=TRUE"
-        },
-        {
-          "label": "Investor Relations / Company Website",
-          "url": "https://investor-th.truecorp.co.th/financials.html"
-        }
-      ],
-      "price": 12.7,
-      "marketCap": 438811.68,
-      "pe": 23.44,
-      "pbv": 5.53,
-      "evEbitda": 7.8
-    },
-    {
       "rank": 11,
       "ticker": "CPALL",
       "company": "CP ALL PCL.",
       "sector": "Commerce",
+      "price": 42.5,
+      "marketCap": 381781.81,
+      "pe": 12.42,
+      "pbv": 2.68,
+      "evEbitda": 10.43,
       "valuation": "Cheap",
       "period": "1H2026 / Q2 2026",
       "qNpat": 7511.91,
@@ -1158,25 +834,25 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/CPALL/factsheet"
         },
         {
-          "label": "Latest 2Q/1H2026 Result",
+          "label": "Primary result",
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105990300&symbol=CPALL"
         },
         {
-          "label": "Investor / operating context",
+          "label": "IR / snapshot",
           "url": "https://www.cpall.co.th/investor"
         }
-      ],
-      "price": 42.5,
-      "marketCap": 381781.81,
-      "pe": 12.42,
-      "pbv": 2.68,
-      "evEbitda": 10.43
+      ]
     },
     {
       "rank": 12,
       "ticker": "BBL",
       "company": "Bangkok Bank PCL.",
       "sector": "Banking",
+      "price": 183.0,
+      "marketCap": 349318.25,
+      "pe": 8.31,
+      "pbv": 0.6,
+      "evEbitda": null,
       "valuation": "Cheap",
       "period": "1H2026 / Q2 2026",
       "qNpat": 9497.92,
@@ -1226,25 +902,25 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BBL/factsheet"
         },
         {
-          "label": "Latest 2Q/1H2026 Result",
+          "label": "Primary result",
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106562800&symbol=BBL"
         },
         {
-          "label": "Investor / operating context",
+          "label": "IR / snapshot",
           "url": "https://www.bangkokbank.com/en/Investor-Relations"
         }
-      ],
-      "price": 183.0,
-      "marketCap": 349318.25,
-      "pe": 8.31,
-      "pbv": 0.6,
-      "evEbitda": null
+      ]
     },
     {
       "rank": 13,
       "ticker": "SCC",
       "company": "The Siam Cement PCL.",
       "sector": "Construction Materials",
+      "price": 265.0,
+      "marketCap": 318000.0,
+      "pe": 23.74,
+      "pbv": 0.88,
+      "evEbitda": 10.69,
       "valuation": "Fair Value",
       "period": "1H2026 / Q2 2026",
       "qNpat": 11534.56,
@@ -1294,25 +970,25 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/SCC/factsheet"
         },
         {
-          "label": "Latest 2Q/1H2026 Result",
+          "label": "Primary result",
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105502000&symbol=SCC"
         },
         {
-          "label": "Investor / operating context",
+          "label": "IR / snapshot",
           "url": "https://www.scg.com/investor-relations"
         }
-      ],
-      "price": 265.0,
-      "marketCap": 318000.0,
-      "pe": 23.74,
-      "pbv": 0.88,
-      "evEbitda": 10.69
+      ]
     },
     {
       "rank": 14,
       "ticker": "BDMS",
       "company": "Bangkok Dusit Medical Services PCL.",
       "sector": "Health Care Services",
+      "price": 19.0,
+      "marketCap": 301948.04,
+      "pe": 19.71,
+      "pbv": 2.93,
+      "evEbitda": 12.19,
       "valuation": "Fair Value",
       "period": "1H2026 / Q2 2026",
       "qNpat": 3248.39,
@@ -1362,25 +1038,25 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BDMS/factsheet"
         },
         {
-          "label": "Latest 2Q/1H2026 Result",
+          "label": "Primary result",
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106062400&symbol=BDMS"
         },
         {
-          "label": "Investor / operating context",
-          "url": "https://investor.bdms.co.th/en/financial-info/financial-highlights"
+          "label": "IR / snapshot",
+          "url": "https://investor.bdms.co.th/en/home"
         }
-      ],
-      "price": 19.0,
-      "marketCap": 301948.04,
-      "pe": 19.71,
-      "pbv": 2.93,
-      "evEbitda": 12.19
+      ]
     },
     {
       "rank": 15,
       "ticker": "CPN",
       "company": "Central Pattana PCL.",
       "sector": "Property Development",
+      "price": 62.75,
+      "marketCap": 281622.0,
+      "pe": 14.06,
+      "pbv": 2.59,
+      "evEbitda": 10.7,
       "valuation": "Fair Value",
       "period": "1H2026 / Q2 2026",
       "qNpat": 4750.44,
@@ -1430,19 +1106,14 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/CPN/factsheet"
         },
         {
-          "label": "Latest 2Q/1H2026 Result",
+          "label": "Primary result",
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105742500&symbol=CPN"
         },
         {
-          "label": "Investor / operating context",
-          "url": "https://lssmedia.setlink.set.or.th/2026/6M/CPN-6M69-ListedCompanySnapshot-EN.html"
+          "label": "IR / snapshot",
+          "url": "https://investor.centralpattana.co.th/en/home"
         }
-      ],
-      "price": 62.75,
-      "marketCap": 281622.0,
-      "pe": 14.06,
-      "pbv": 2.59,
-      "evEbitda": 10.7
+      ]
     }
   ]
 }
