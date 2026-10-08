@@ -5,7 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'SET100_Investment_Research_Master.xlsx'
-      - 'scripts/excel_to_json.py'
+      - 'scripts/**'
   workflow_dispatch:
 
 permissions:
@@ -23,17 +23,20 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Preserve Team Comments
+        run: python scripts/preserve_comments.py
+
       - name: Generate data.json from Excel
         run: python scripts/excel_to_json.py
 
-      - name: Commit updated data.json
+      - name: Commit synchronized files
         run: |
-          if git diff --quiet -- data.json; then
-            echo "No data.json changes."
+          if git diff --quiet -- data.json team_comments.json SET100_Investment_Research_Master.xlsx; then
+            echo "No synchronized changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Auto-update dashboard data from Excel"
+          git add data.json team_comments.json SET100_Investment_Research_Master.xlsx
+          git commit -m "Sync dashboard data and preserve team comments"
           git push
