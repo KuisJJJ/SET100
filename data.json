@@ -1,14 +1,14 @@
 {
   "meta": {
-    "version": "v3",
+    "version": "v4",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 5,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-10-07",
+    "marketDataUpdated": "2026-10-08 10:02",
     "financialDataUpdated": "Q2/2026; AOT 9M FY2026",
     "researchReviewed": "2026-10-08",
-    "generatedAt": "2026-10-08T10:51:00+07:00"
+    "generatedAt": "2026-10-08T10:02:09+07:00"
   },
   "stocks": [
     {
@@ -407,5 +407,51 @@
       "financialDataUpdated": "9M FY2026 / Q3 FY2026",
       "researchReviewed": "2026-10-08"
     }
-  ]
+  ],
+  "marketIndex": {
+    "symbol": "SET",
+    "name": "SET Index",
+    "last": 1583.85,
+    "change": -0.78,
+    "changePct": -0.05,
+    "open": 1580.16,
+    "high": 1584.45,
+    "low": 1579.79,
+    "volumeThousandShares": 894721,
+    "valueMillionBaht": 5174.19,
+    "status": "Open",
+    "updatedAt": "2026-10-08 10:02:09",
+    "source": "https://www.set.or.th/th/market/index/set/overview",
+    "history": [
+      {
+        "date": "25 ก.ย.",
+        "value": 1607.63
+      },
+      {
+        "date": "28 ก.ย.",
+        "value": 1602.37
+      },
+      {
+        "date": "29 ก.ย.",
+        "value": 1594.3
+      },
+      {
+        "date": "30 ก.ย.",
+        "value": 1559.01
+      },
+      {
+        "date": "1 ต.ค.",
+        "value": 1563.91
+      },
+      {
+        "date": "7 ต.ค.",
+        "value": 1584.63
+      },
+      {
+        "date": "8 ต.ค.",
+        "value": 1583.85
+      }
+    ],
+    "historyNote": "จุดวันที่ 8 ต.ค. เป็นค่าล่าสุดระหว่างวัน; จุดก่อนหน้าเป็นค่าปิดจาก SET"
+  }
 }
