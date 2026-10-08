@@ -66,6 +66,10 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 .range-presets button.active{background:#17395C;color:#fff;border-color:#17395C}
 .range-error{color:var(--red);font-size:11px;margin-top:5px;display:none}
 
+
+#industryFilter{padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);font:inherit;min-width:190px}
+.toolbar-extra{display:flex;justify-content:flex-end;margin:8px 0 14px}
+
 @media(max-width:900px){.metrics{grid-template-columns:repeat(2,1fr)}}@media(max-width:820px){.set-stats{grid-template-columns:repeat(2,1fr)}.kpis{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}
 </style>
 </head>
@@ -135,6 +139,9 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 </div>
 </details>
 
+<div class="toolbar-extra"><select id="industryFilter" aria-label="กรองตามอุตสาหกรรม">
+<option value="">ทุกอุตสาหกรรม</option>
+</select></div>
 <div id="cards" class="grid"></div>
 </div></main>
 <script>
@@ -240,9 +247,22 @@ function renderSetIndex(){
  ${hist.map((d,i)=>`<circle class="chart-dot" cx="${x(i)}" cy="${y(Number(d.value))}" r="${hist.length>30?2.5:3.5}"/>${(i%labelEvery===0||i===hist.length-1)?`<text class="chart-label" text-anchor="middle" x="${x(i)}" y="${H-10}">${d.date.slice(0,7)}</text>`:""}`).join("")}
  <text class="chart-value" text-anchor="end" x="${W-pR}" y="${Math.max(13,y(Number(hist[hist.length-1].value))-9)}">${fmt(hist[hist.length-1].value,2)}</text>`;
 }
+
+function initIndustryFilter(){
+ const sel=document.getElementById("industryFilter"); if(!sel) return;
+ const current=sel.value;
+ const sectors=[...new Set(DATA.filter(industryMatch).map(x=>x.sector).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+ sel.innerHTML='<option value="">ทุกอุตสาหกรรม</option>'+sectors.map(s=>`<option value="${s}">${s}</option>`).join("");
+ sel.value=current;
+}
+function industryMatch(x){
+ const sel=document.getElementById("industryFilter");
+ return !sel || !sel.value || x.sector===sel.value;
+}
+
 function render(){
  const q=document.getElementById("q").value.toLowerCase(),val=document.getElementById("valuation").value,stat=document.getElementById("status").value;
- const list=DATA.filter(x=>{const hay=(x.ticker+" "+x.company+" "+x.sector+" "+(x.flags||[]).join(" ")).toLowerCase();return(!q||hay.includes(q))&&(!val||x.valuation===val)&&(!stat||x.updateStatus===stat)});
+ const list=DATA.filter(x=>industryMatch(x)&&{const hay=(x.ticker+" "+x.company+" "+x.sector+" "+(x.flags||[]).join(" ")).toLowerCase();return(!q||hay.includes(q))&&(!val||x.valuation===val)&&(!stat||x.updateStatus===stat)});
  document.getElementById("cards").innerHTML=list.map(x=>`
  <article class="card">
  <div class="top"><div><div class="ticker">${x.ticker}</div><div class="meta">MCap Rank #${x.rank} • ${x.sector}</div></div><div style="text-align:right"><div class="meta">Overall Score</div><div class="score">${fmt(x.score,1)}</div><span class="badge ${valClass(x.valuation)}">${x.valuation}</span></div></div>
@@ -281,7 +301,7 @@ function render(){
 
 async function loadData(force=false){
  const err=document.getElementById("error");err.style.display="none";
- try{const url="data.json"+(force?`?t=${Date.now()}`:"");const res=await fetch(url,{cache:force?"no-store":"default"});if(!res.ok)throw new Error(`โหลด data.json ไม่สำเร็จ (${res.status})`);const p=await res.json();META=p.meta||{};META.marketIndex=p.marketIndex||null;DATA=p.stocks||[];updateMeta();default3MRange();renderSetIndex();render()}
+ try{const url="data.json"+(force?`?t=${Date.now()}`:"");const res=await fetch(url,{cache:force?"no-store":"default"});if(!res.ok)throw new Error(`โหลด data.json ไม่สำเร็จ (${res.status})`);const p=await res.json();META=p.meta||{};META.marketIndex=p.marketIndex||null;DATA=p.stocks||[];updateMeta();initIndustryFilter();default3MRange();renderSetIndex();render()}
  catch(e){err.textContent="ไม่สามารถโหลด data.json ได้: "+e.message+" — หากเปิด index.html จากเครื่องโดยตรง ให้เปิดผ่าน GitHub Pages หรือ local web server";err.style.display="block"}
 }
 ["q","valuation","status"].forEach(id=>document.getElementById(id).addEventListener("input",render));
@@ -290,6 +310,9 @@ document.getElementById("applySetRange").addEventListener("click",()=>{setPreset
 document.getElementById("setStart").addEventListener("change",()=>{setPresetActive("");renderSetIndex()});
 document.getElementById("setEnd").addEventListener("change",()=>{setPresetActive("");renderSetIndex()});
 document.querySelectorAll("#setPresets button").forEach(btn=>btn.addEventListener("click",()=>applyPreset(btn.dataset.range)));
+
+const industryFilterEl=document.getElementById("industryFilter");
+if(industryFilterEl) industryFilterEl.addEventListener("change",render);
 loadData(false);
 </script>
 </body></html>
