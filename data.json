@@ -3,12 +3,12 @@
     "version": "v6.1",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
-    "companiesResearched": 20,
+    "companiesResearched": 28,
     "totalUniverse": 100,
     "marketDataUpdated": "2026-10-08 10:02",
     "financialDataUpdated": "Q2/2026; AOT 9M FY2026",
     "researchReviewed": "2026-10-08",
-    "generatedAt": "2026-10-08T10:09:07.377638+00:00",
+    "generatedAt": "2026-10-12T10:23:32.908677+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -1509,7 +1509,7 @@
       "evEbitda": 10.7
     },
     {
-      "rank": 17,
+      "rank": 18,
       "ticker": "CRC",
       "company": "Central Retail Corporation PCL.",
       "sector": "Commerce",
@@ -1520,7 +1520,7 @@
       "npatGrowth": null,
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending source",
-      "debtEbitdaNote": "Leverage metric to monitor from company/SET; do not infer from lease-heavy balance sheet without consistent basis.",
+      "debtEbitdaNote": "Leverage metric to monitor from company/SET; lease-heavy retail model requires consistent basis.",
       "score": 7.81,
       "flags": [
         "Omnichannel",
@@ -1553,9 +1553,9 @@
       "moatReason": "Brand/location ecosystem, supplier scale, loyalty data and omnichannel infrastructure create durable retail/distribution advantages.",
       "industryComparison": "เทียบกับ Regional Retail peers ด้วย SSSG, Gross Margin, EBITDA Margin, Inventory Turns, Digital Mix, ROIC และ EV/EBITDA.",
       "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
+      "marketDataUpdated": "2026-10-08",
       "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
+      "researchReviewed": "2026-10-09",
       "sources": [
         {
           "label": "SET Factsheet",
@@ -1573,7 +1573,7 @@
       "evEbitda": 9.03
     },
     {
-      "rank": 18,
+      "rank": 19,
       "ticker": "CPF",
       "company": "Charoen Pokphand Foods PCL.",
       "sector": "Food & Beverage",
@@ -1584,7 +1584,7 @@
       "npatGrowth": -52.7,
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending source",
-      "debtEbitdaNote": "Use Net Debt/EBITDA from company IR when refreshed; leverage remains material in food conglomerate.",
+      "debtEbitdaNote": "Use Net Debt/EBITDA from company IR when refreshed; leverage remains material.",
       "score": 7.13,
       "flags": [
         "Global Food",
@@ -1617,9 +1617,9 @@
       "moatReason": "Vertical integration, global procurement, genetics/feed know-how, distribution and food-safety systems create durable cost/quality advantages, but pricing remains cyclical.",
       "industryComparison": "เทียบกับ Global Protein/Food peers ด้วย Gross Margin, Feed Conversion, Livestock Spread, ROIC, Net Debt/EBITDA, FCF และ Value-added Mix.",
       "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
+      "marketDataUpdated": "2026-10-08",
       "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
+      "researchReviewed": "2026-10-09",
       "sources": [
         {
           "label": "6M26 Snapshot",
@@ -1633,7 +1633,7 @@
       "evEbitda": 8.07
     },
     {
-      "rank": 19,
+      "rank": 20,
       "ticker": "TOP",
       "company": "Thai Oil PCL.",
       "sector": "Energy & Utilities",
@@ -1644,7 +1644,7 @@
       "npatGrowth": null,
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending source",
-      "debtEbitdaNote": "Monitor net debt, project capex and covenant headroom; current verified SET EV/EBITDA 5.43x.",
+      "debtEbitdaNote": "Monitor net debt, project capex and covenant headroom; verified SET EV/EBITDA 5.37x.",
       "score": 7.0,
       "flags": [
         "Refining Moat",
@@ -1677,9 +1677,9 @@
       "moatReason": "Complexity, operating cost, integrated logistics and refinery optimization create a durable operational moat, though end-product spreads remain cyclical.",
       "industryComparison": "เทียบกับ Asian Refiners ด้วย GRM, Utilization, Cash Cost, Complexity, Net Debt/EBITDA, Capex และ EV/EBITDA.",
       "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
+      "marketDataUpdated": "2026-10-08",
       "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
+      "researchReviewed": "2026-10-09",
       "sources": [
         {
           "label": "SET Factsheet",
@@ -1693,7 +1693,7 @@
       "evEbitda": 5.43
     },
     {
-      "rank": 20,
+      "rank": 21,
       "ticker": "IVL",
       "company": "Indorama Ventures PCL.",
       "sector": "Petrochemicals & Chemicals",
@@ -1702,9 +1702,9 @@
       "qNpat": null,
       "periodNpat": null,
       "npatGrowth": null,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Pending source",
-      "debtEbitdaNote": "Monitor net debt/EBITDA, free cash flow and asset optimization from company IR.",
+      "debtEbitda": 3.92,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (EV - Market Cap) / EBITDA ≈ 3.9x; screening only.",
       "score": 7.0,
       "flags": [
         "Global Scale",
@@ -1737,9 +1737,9 @@
       "moatReason": "Global scale, integrated PET chain, customer relationships and specialty platforms create advantages, but commodity spreads and overcapacity limit pricing power.",
       "industryComparison": "เทียบกับ Global Chemicals/PET peers ด้วย Utilization, EBITDA/ton, Specialty Mix, FCF, Net Debt/EBITDA, ROIC และ EV/EBITDA.",
       "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-07",
+      "marketDataUpdated": "2026-10-08",
       "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-08",
+      "researchReviewed": "2026-10-09",
       "sources": [
         {
           "label": "SET Factsheet",
@@ -1755,6 +1755,538 @@
       "pe": null,
       "pbv": 1.2,
       "evEbitda": 9.96
+    },
+    {
+      "rank": 22,
+      "ticker": "THAI",
+      "company": "Thai Airways International PCL.",
+      "sector": "Transportation & Logistics",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 11620.84,
+      "npatGrowth": -47.1,
+      "debtEbitda": 2.06,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / SET EBITDA ≈ 2.06x; D/E 2.94x at 6M26.",
+      "score": 7.56,
+      "flags": [
+        "Turnaround",
+        "Flag Carrier",
+        "Yield Recovery",
+        "Fuel Risk"
+      ],
+      "summary": "THAI หลัง Rehab คุณภาพงบดุลและ Yield Management ดีขึ้นมาก แต่ยังต้องวัดด้วย FCF ผ่านวัฏจักรน้ำมัน ไม่ใช่ดู P/E ต่ำอย่างเดียว.",
+      "framework": {
+        "1. Management": "National flag carrier that emerged from rehabilitation with a much cleaner capital structure and stronger operational discipline. Management has improved pricing/yield management and fleet planning; execution credibility is better, but aviation remains highly cyclical and state influence persists.",
+        "2. Product / Moat": "Full-service airline with Bangkok hub, premium brand, Star Alliance connectivity, slots and international network. Moat: มี — hub position, brand, bilateral rights/slots and network connectivity. Durability moderate-high, though pricing power varies by route.",
+        "3. TAM / Growth Runway": "Air-travel TAM grows with Thailand tourism, outbound travel and long-haul connectivity. Growth runway comes from fleet renewal, route optimization, premium mix and better aircraft utilization rather than indiscriminate capacity growth.",
+        "4. Positive Catalysts": "Tourism recovery; yield discipline; fleet additions; lower fuel prices; network normalization after Middle East disruption; dividend restoration; JUMP+ execution. Probability medium-high / impact high over 6-36 months.",
+        "5. Competitors": "Compare with Asian full-service carriers on RASK/CASK, load factor, yield, fleet age, net debt/EBITDA, EBITDAR margin and ROIC. THAI's hub/brand are advantages; fuel exposure and fleet capex remain structural risks.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB103.1bn, NPAT THB11.6bn -47% YoY. Q2 revenue ex-one-offs rose 8.5% YoY, but fuel-price shock lifted costs sharply. Revenue quality improved, but operating leverage cuts both ways.",
+        "7. Regulation": "Aviation safety, bilateral rights, airport slots, consumer protection, environmental/carbon rules and state policy matter. Regulation creates entry barriers but also limits route/fleet flexibility and raises compliance cost.",
+        "8. Narrative & Sentiment": "Narrative is 'post-rehab turnaround to normalized airline'. Sentiment is mixed-positive: balance sheet and yield management improved, but Middle East fuel shock reminded investors that airline earnings remain volatile.",
+        "9. Valuation Effect": "~7.6x P/E and ~4.5x EV/EBITDA look cheap, but normalized-cycle earnings matter more than spot multiples. Multiple expansion is possible only if FCF survives a normal fuel cycle and fleet capex.",
+        "10. Earnings & Macro": "Base: fuel normalizes and yields stay firm. Bull: tourism + fleet productivity + lower fuel. Bear: fuel/geopolitical shock + weaker load factor. 3-5y outcome depends on fleet economics, route profitability and leverage discipline.",
+        "11. Risk Radar": "Top risks: fuel price (high/high), geopolitics (medium-high/high), fleet/capex (medium/high), FX (medium/medium), demand shock (medium/high). Monitor yield, load factor, RASK/CASK, jet fuel, fleet capex, net debt and FCF."
+      },
+      "thesis": "Hub strength, brand and improved post-rehab discipline create meaningful recovery potential, with valuation still modest on normalized earnings.",
+      "bear": "Airline economics remain structurally volatile; high fuel prices and geopolitical disruption can erase profit quickly while fleet renewal demands large capital.",
+      "teamComment": "",
+      "marketBelieves": "Market believes THAI is structurally healthier after rehabilitation and can sustain better pricing/yields than pre-rehab years.",
+      "marketMissing": "Market may underprice the durability of yield management and hub economics, but may underestimate future fleet-capex and fuel-cycle volatility.",
+      "variables": "Passenger yield, load factor, ASK/RPK, fuel price, RASK/CASK, fleet deliveries, capex, D/E, FCF, dividend.",
+      "fit": "Turnaround/value investor comfortable with airline cyclicality and geopolitical risk.",
+      "moatStatus": "มี",
+      "moatReason": "Bangkok hub, premium brand, slots/bilateral rights and network connectivity form a defensible airline moat, though route-level pricing remains competitive.",
+      "industryComparison": "เทียบกับ Asian Full-Service Airlines ด้วย Yield, Load Factor, RASK/CASK, EBITDAR Margin, Fleet Age, Net Debt/EBITDA และ ROIC.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-08",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-09",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/THAI/factsheet"
+        },
+        {
+          "label": "6M26 Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/THAI-6M69-ListedCompanySnapshot-EN.html"
+        }
+      ],
+      "price": 5.55,
+      "marketCap": 157083.27,
+      "pe": 7.63,
+      "pbv": 1.92,
+      "evEbitda": 4.49
+    },
+    {
+      "rank": 23,
+      "ticker": "BH",
+      "company": "Bumrungrad Hospital PCL.",
+      "sector": "Health Care Services",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1889.0,
+      "periodNpat": 3679.19,
+      "npatGrowth": 2.4,
+      "debtEbitda": 0.0,
+      "debtEbitdaBasis": "Net Cash / very low leverage",
+      "debtEbitdaNote": "SET EV below Market Cap implies net cash; Debt/EBITDA not a binding risk metric.",
+      "score": 8.5,
+      "flags": [
+        "Moat",
+        "Medical Tourism",
+        "Net Cash",
+        "Premium Quality"
+      ],
+      "summary": "BH เป็น Quality Compounder ชัดเจน: Margin/ROE สูงและ Net Cash แต่ upside ต่อจากนี้ต้องมาจาก Earnings Growth ไม่ใช่หวัง Multiple ขยาย.",
+      "framework": {
+        "1. Management": "Professionally managed premium hospital with a long record of high ROIC, clinical quality and conservative balance-sheet management. Ownership is dispersed relative to founder-controlled peers; shareholder alignment is supported by strong cash generation and dividends.",
+        "2. Product / Moat": "Single-campus premium tertiary hospital with international referral network, complex-care specialties and high-end medical tourism. Moat: มี — physician reputation, clinical outcomes, brand, international referral channels and difficult-to-replicate high-acuity expertise. Durability very high.",
+        "3. TAM / Growth Runway": "Growth runway comes from aging, complex-care intensity, Middle East/CLMV medical tourism, digital healthcare and new capacity such as Phuket. TAM is smaller than mass-market hospital networks but higher-value per patient.",
+        "4. Positive Catalysts": "Middle East patient recovery; complex-care mix; Phuket ramp-up; pricing; digital healthcare; dividends. Probability medium-high / impact medium over 6-36 months.",
+        "5. Competitors": "Compare with premium hospital peers on revenue/patient, international mix, EBITDA/net margin, ROIC, occupancy, net cash and P/E/EV-EBITDA. BH's margin/ROE profile is exceptional.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB12.63bn +1.7% YoY and NPAT THB3.68bn +2.4%; Q2 NPAT THB1.89bn +1.7%. Net margin ~29% remains exceptionally high despite softer growth.",
+        "7. Regulation": "Hospital licensing, professional standards, insurance/copayment policy, data privacy and medical-tourism regulations matter. Regulation raises entry barriers but can affect reimbursement and patient flows.",
+        "8. Narrative & Sentiment": "Narrative is 'premium healthcare moat + net cash'. Sentiment is positive but not euphoric; market debates whether Middle East growth and new Phuket capacity can reaccelerate earnings.",
+        "9. Valuation Effect": "~19.7x P/E and 13.9x EV/EBITDA are premium but supported by net cash, ROE and margins. Multiple expansion is less likely than earnings/dividend-driven returns.",
+        "10. Earnings & Macro": "Base: low-to-mid single-digit growth with stable margins. Bull: Middle East + Phuket + complex-care mix. Bear: geopolitical travel shock + slower domestic affordability. Long term depends on maintaining clinical premium.",
+        "11. Risk Radar": "Top risks: international patient concentration (medium/high), geopolitical travel disruption (medium/high), new-hospital ramp-up (medium/medium), medical staff cost (medium/medium), policy/insurance (low-medium/medium)."
+      },
+      "thesis": "Exceptional clinical brand, physician network, premium pricing and net cash support durable compounding and downside resilience.",
+      "bear": "Premium valuation can compress if international patient growth stalls; a concentrated premium model has less volume diversification than broad hospital networks.",
+      "teamComment": "",
+      "marketBelieves": "Market believes BH deserves a premium for superior margins, medical tourism and balance-sheet strength.",
+      "marketMissing": "Market may underappreciate long-term Phuket/complex-care upside, but may overestimate how quickly Middle East patient growth normalizes.",
+      "variables": "International revenue mix, revenue per patient, net margin, ROE, Phuket ramp-up, cash balance, dividend, Middle East travel flows.",
+      "fit": "Quality/defensive growth investor seeking premium healthcare economics and low balance-sheet risk.",
+      "moatStatus": "มี",
+      "moatReason": "Clinical reputation, international referrals, high-acuity specialties, physician network and brand create strong intangible/quality barriers.",
+      "industryComparison": "เทียบกับ Premium Hospital peers ด้วย Revenue/Patient, International Mix, EBITDA/Net Margin, ROE/ROIC, Net Cash และ P/E/EV-EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-08",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-09",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BH/factsheet"
+        },
+        {
+          "label": "6M26 Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/BH-6M69-ListedCompanySnapshot-EN.html"
+        }
+      ],
+      "price": 188.5,
+      "marketCap": 149851.2,
+      "pe": 19.74,
+      "pbv": 5.48,
+      "evEbitda": 13.88
+    },
+    {
+      "rank": 25,
+      "ticker": "OR",
+      "company": "PTT Oil and Retail Business PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": -1774.95,
+      "periodNpat": 639.8,
+      "npatGrowth": -90.3,
+      "debtEbitda": 1.96,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / SET EBITDA ≈ 1.96x.",
+      "score": 7.13,
+      "flags": [
+        "Retail Network",
+        "Café Amazon",
+        "EV Transition",
+        "Earnings Volatility"
+      ],
+      "summary": "OR มี Distribution Moat ชัด แต่ 1H26 แสดงว่ากำไรยังผันผวนมากจาก Oil Margin/Inventory; Thesis จะดีขึ้นเมื่อ Non-oil EBITDA มีสัดส่วนและ ROIC สูงขึ้นจริง.",
+      "framework": {
+        "1. Management": "PTT-controlled retail platform with nationwide fuel network and lifestyle assets such as Café Amazon. Management is pushing non-oil growth and overseas expansion while navigating energy transition. Capital allocation must balance network defense, lifestyle growth and EV infrastructure.",
+        "2. Product / Moat": "Integrated mobility and lifestyle platform: PTT Station, commercial fuel, Café Amazon, convenience/food concepts and overseas operations. Moat: มี — nationwide locations, brand, PTT ecosystem, loyalty data and dealer network. Durability high in distribution, lower in commodity fuel margins.",
+        "3. TAM / Growth Runway": "Fuel retail TAM is mature; growth runway is non-oil/lifestyle, EV charging, commercial channels, overseas expansion and higher site productivity.",
+        "4. Positive Catalysts": "Oil-margin normalization; inventory gains; Café Amazon growth; EV ecosystem; cost control; regional expansion; PTT ecosystem cross-sell. Probability medium / impact medium-high.",
+        "5. Competitors": "Compare with fuel-retail/convenience peers on marketing margin, sales volume, non-oil EBITDA mix, station productivity, ROIC, FCF and EV/EBITDA. OR's network is strong but earnings quality is still fuel-margin sensitive.",
+        "6. Revenue Growth & Margin": "Q2/26 loss THB1.77bn; 1H26 NPAT only THB0.64bn vs THB6.61bn prior year. This highlights volatility from oil price/inventory and marketing margins. Structural margin expansion requires higher non-oil mix.",
+        "7. Regulation": "Fuel pricing, excise/tax, competition, EV policy, environmental regulation and franchise/food standards are key. Regulation can compress fuel margins but EV transition creates optionality.",
+        "8. Narrative & Sentiment": "Narrative is 'fuel retailer becoming lifestyle/EV platform'. Sentiment is cautious after sharp earnings deterioration; market wants proof that non-oil can stabilize group profit.",
+        "9. Valuation Effect": "~27x P/E and ~10x EV/EBITDA are demanding given weak 1H26 earnings. Multiple compression risk is higher than expansion unless earnings normalize strongly.",
+        "10. Earnings & Macro": "Base: fuel margins normalize and non-oil grows. Bull: inventory/margin recovery + Café Amazon/EV scale. Bear: regulated margins + weak oil demand + capex drag. 3-5y value depends on non-oil ROIC.",
+        "11. Risk Radar": "Top risks: oil/inventory margin volatility (high/high), regulation/price controls (medium-high/high), EV transition (medium/medium), overseas execution (medium/medium), capital allocation (medium/high)."
+      },
+      "thesis": "Nationwide network and PTT ecosystem provide durable distribution value, while non-oil and EV optionality could improve earnings quality over time.",
+      "bear": "Current earnings are volatile and valuation is not cheap; non-oil growth may not offset fuel-margin compression quickly enough.",
+      "teamComment": "",
+      "marketBelieves": "Market believes OR has valuable stations and Café Amazon but needs a more stable profit mix beyond oil retail.",
+      "marketMissing": "Market may underprice long-term EV/lifestyle ecosystem value, but may overestimate speed of non-oil monetization.",
+      "variables": "Oil marketing margin, inventory gain/loss, fuel volume, non-oil EBITDA mix, Café Amazon SSSG, EV charging utilization, ROIC, FCF.",
+      "fit": "Consumer/energy-transition investor who accepts earnings volatility and policy risk.",
+      "moatStatus": "มี",
+      "moatReason": "Nationwide station footprint, PTT brand, dealer network, loyalty ecosystem and site traffic create durable distribution advantages.",
+      "industryComparison": "เทียบกับ Fuel Retail/Lifestyle peers ด้วย Marketing Margin, Volume, Non-oil EBITDA Mix, Site Productivity, ROIC, FCF และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/OR/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105675100&symbol=OR"
+        }
+      ],
+      "price": 12.0,
+      "marketCap": 144000.0,
+      "pe": 27.01,
+      "pbv": 1.31,
+      "evEbitda": 10.08
+    },
+    {
+      "rank": 26,
+      "ticker": "GPSC",
+      "company": "Global Power Synergy PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1819.1,
+      "periodNpat": 3538.45,
+      "npatGrowth": 12.0,
+      "debtEbitda": 9.46,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / SET EBITDA ≈ 9.46x; high leverage screening, use company debt metrics for covenant view.",
+      "score": 7.56,
+      "flags": [
+        "Power Platform",
+        "Energy Transition",
+        "Battery",
+        "Deleveraging"
+      ],
+      "summary": "GPSC Business Quality ดีจาก Contracted Cash Flow แต่ Investment Case ต้องดู ROIC หลังหัก Funding Cost เพราะ Growth ในพลังงานสะอาดใช้เงินทุนสูง.",
+      "framework": {
+        "1. Management": "PTT Group power flagship with experienced utility management and access to strategic industrial customers/capital. Management is balancing conventional generation, renewables, batteries and debt reduction. Capital discipline is important after years of expansion.",
+        "2. Product / Moat": "Power, steam and utilities platform serving EGAT and industrial users, with renewables and battery/energy-storage exposure. Moat: มี — long-term contracts, industrial customer relationships, permits, scale and PTT ecosystem. Durability high, but returns depend on tariff/fuel pass-through and project ROIC.",
+        "3. TAM / Growth Runway": "Thailand power demand is mature but electrification, renewables, storage and industrial decarbonization expand the addressable market. Growth runway comes from clean energy, batteries, utility optimization and selective acquisitions.",
+        "4. Positive Catalysts": "Lower gas/fuel costs; Ft/tariff normalization; new renewable projects; battery/energy-storage scaling; interest-cost reduction; Energy Recovery Unit acquisition. Probability medium-high / impact medium.",
+        "5. Competitors": "Compare with IPP/SPP peers on contracted capacity, gross margin/MW, fuel pass-through, ROIC, net debt/EBITDA, capex and EV/EBITDA. GPSC's industrial/PTT customer base is a structural advantage.",
+        "6. Revenue Growth & Margin": "1H26 NPAT THB3.54bn +12% YoY; Q2 THB1.82bn. Earnings improved despite rate/fuel volatility. Margin expansion depends on fuel cost, tariff pass-through, efficiency and financing cost.",
+        "7. Regulation": "Power purchase agreements, Ft/tariff policy, environmental/carbon rules, renewable incentives and utility regulation are central. Regulation is both barrier to entry and return-setting mechanism.",
+        "8. Narrative & Sentiment": "Narrative is 'earnings recovery + energy transition'. Sentiment is constructive, but high leverage/capital intensity keep valuation anchored to ROIC and funding cost.",
+        "9. Valuation Effect": "~21.1x P/E and ~11.0x EV/EBITDA are fair for contracted power with growth optionality, but not cheap given leverage. Multiple expansion needs better ROIC and deleveraging.",
+        "10. Earnings & Macro": "Base: stable contracted earnings + gradual renewables growth. Bull: lower fuel/finance cost + battery/renewables upside. Bear: tariff lag + high capex + project underperformance. Long-term value depends on energy-transition ROIC.",
+        "11. Risk Radar": "Top risks: leverage/refinancing (medium-high/high), tariff/fuel mismatch (medium/high), project execution (medium/high), power-demand growth (low-medium/medium), technology/battery risk (medium/medium)."
+      },
+      "thesis": "Contracted utility cash flows, strategic industrial customers and energy-transition optionality create a solid long-term platform.",
+      "bear": "High leverage and capital intensity can dilute returns; energy-transition projects must earn above funding cost to justify current valuation.",
+      "teamComment": "",
+      "marketBelieves": "Market believes GPSC offers defensive power earnings plus renewables/battery optionality, but with balance-sheet constraints.",
+      "marketMissing": "Market may underprice operating leverage from lower fuel/funding cost, while underestimating the capital required for transition growth.",
+      "variables": "Fuel cost, Ft/tariff, SPP margin, contracted MW, net debt/EBITDA, interest cost, capex, renewable pipeline, battery economics.",
+      "fit": "Infrastructure/utility investor seeking contracted cash flow plus energy-transition exposure.",
+      "moatStatus": "มี",
+      "moatReason": "Long-term contracts, industrial customers, permits, utility scale and PTT ecosystem create durable infrastructure/regulatory barriers.",
+      "industryComparison": "เทียบกับ IPP/SPP peers ด้วย Contracted Capacity, Margin/MW, Fuel Pass-through, ROIC, Net Debt/EBITDA, Capex และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GPSC/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.settrade.com/th/news-and-articles/news/105655800?symbol=GPSC"
+        },
+        {
+          "label": "Q2/2026 IR",
+          "url": "https://www.gpscgroup.com/en/investor-relations/home"
+        }
+      ],
+      "price": 50.75,
+      "marketCap": 143101.27,
+      "pe": 21.11,
+      "pbv": 1.36,
+      "evEbitda": 11.03
+    },
+    {
+      "rank": 28,
+      "ticker": "MINT",
+      "company": "Minor International PCL.",
+      "sector": "Tourism & Leisure",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 3308.0,
+      "periodNpat": 3956.78,
+      "npatGrowth": 13.0,
+      "debtEbitda": 9.21,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / EBITDA; screening only.",
+      "score": 7.94,
+      "flags": [
+        "Global Hotels",
+        "Food",
+        "Tourism Recovery",
+        "Deleveraging"
+      ],
+      "summary": "MINT Earnings โตเร็วกว่ารายได้และ Valuation ต่ำกว่ากลุ่ม แต่ Upside จะยั่งยืนเมื่อ FCF + Deleveraging เดินหน้าต่อ.",
+      "framework": {
+        "1. Management": "Founder-led global hospitality/food group with professional management; key capital-allocation issue is deleveraging after global expansion.",
+        "2. Product / Moat": "Hotels + restaurants. Moat: มี — brands, locations, distribution/loyalty, operating know-how and global scale.",
+        "3. TAM / Growth Runway": "Large global travel/food TAM; runway from RevPAR, asset-light management contracts, Europe/Asia recovery and food growth.",
+        "4. Positive Catalysts": "RevPAR/ADR, asset-light expansion, food recovery, lower finance cost, deleveraging, asset recycling. 6-36m medium-high/high.",
+        "5. Competitors": "Compare with global hotels on RevPAR, ADR, occupancy, EBITDA margin, asset-light mix, FCF and net debt/EBITDA.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB80.68bn +3.9%, EBITDA THB21.69bn and NPAT THB3.96bn +13.0%; operating leverage + lower finance cost are working.",
+        "7. Regulation": "Hotel/food licensing, labor, data/privacy, tourism and country tax rules; scarce locations and scale are barriers.",
+        "8. Narrative & Sentiment": "Narrative: global tourism compounder + deleveraging. Sentiment cautious due Europe/FX/leverage.",
+        "9. Valuation Effect": "12.1x P/E and 7.0x EV/EBITDA look Cheap versus tourism peers; re-rating requires sustained FCF and lower leverage.",
+        "10. Earnings & Macro": "Base: steady RevPAR/food growth + deleveraging. Bull: stronger travel + asset-light. Bear: recession/FX/geopolitics. 3-5y depends on asset-light ROIC.",
+        "11. Risk Radar": "Risks: leverage/refinancing, Europe demand, FX, travel shocks, labor inflation. Monitor RevPAR, ADR, occupancy, FCF, leverage, finance cost."
+      },
+      "thesis": "Global brands/locations and operating capability support long-duration growth; valuation leaves upside if deleveraging persists.",
+      "bear": "High leverage and owned-hotel exposure amplify downturns; tourism/FX shocks can reverse operating leverage.",
+      "teamComment": "",
+      "marketBelieves": "Market believes MINT has recovered structurally but deserves a leverage/Europe discount.",
+      "marketMissing": "Market may underprice asset-light growth and deleveraging torque.",
+      "variables": "RevPAR, ADR, occupancy, food SSSG, EBITDA margin, FCF, net debt/EBITDA, finance cost.",
+      "fit": "Global tourism/value investor comfortable with leverage and FX.",
+      "moatStatus": "มี",
+      "moatReason": "Global hotel/food brands, locations, distribution, loyalty and operating know-how create durable scale advantages.",
+      "industryComparison": "เทียบกับ Global Hotel peers ด้วย RevPAR, ADR, Occupancy, EBITDA Margin, Asset-light Mix, FCF และ Net Debt/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MINT/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105707100&symbol=MINT"
+        },
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MINT/financial-statement/company-highlights"
+        }
+      ],
+      "price": 20.4,
+      "marketCap": 115667.53,
+      "pe": 12.12,
+      "pbv": 1.39,
+      "evEbitda": 6.99
+    },
+    {
+      "rank": 29,
+      "ticker": "TISCO",
+      "company": "Tisco Financial Group PCL.",
+      "sector": "Banking",
+      "valuation": "Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1763.85,
+      "periodNpat": 3497.47,
+      "npatGrowth": 6.4,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "N/A - Banking",
+      "debtEbitdaNote": "Use NPL, Coverage, CAR, ROE and funding metrics instead of Debt/EBITDA.",
+      "score": 7.44,
+      "flags": [
+        "Dividend",
+        "High ROE",
+        "Auto Finance",
+        "Strong Coverage"
+      ],
+      "summary": "TISCO คุณภาพดีและปันผลเด่น แต่ราคาไม่ถูกแล้ว — Return ควรมาจาก Dividend + Earnings มากกว่า Multiple Expansion.",
+      "framework": {
+        "1. Management": "Professionally managed financial group with conservative underwriting and strong capital-return culture.",
+        "2. Product / Moat": "Auto finance, wealth, brokerage, asset management and bancassurance. Moat: มีบางส่วน — auto franchise, wealth relationships, underwriting discipline and brand.",
+        "3. TAM / Growth Runway": "Mature banking TAM; runway from EV/new-car finance, wealth/insurance and capital markets rather than large loan growth.",
+        "4. Positive Catalysts": "Auto/EV recovery, bancassurance, capital markets, stable credit cost, dividends. 6-24m medium-high/medium.",
+        "5. Competitors": "Compare on ROE, NIM, NPL, coverage, CAR, fee mix and P/BV; Debt/EBITDA = N/A.",
+        "6. Revenue Growth & Margin": "1H26 NPAT THB3.50bn +6.4%; NPL 2.12%, coverage 190%. NII/fees recovered while credit cost stayed controlled.",
+        "7. Regulation": "BOT capital/liquidity, responsible lending, auto consumer rules and cyber/data regulation.",
+        "8. Narrative & Sentiment": "Narrative: high-ROE dividend bank. Sentiment positive; valuation already reflects quality.",
+        "9. Valuation Effect": "14.4x P/E and 2.33x P/BV = Expensive for Thai banking; further re-rating is difficult without earnings surprise.",
+        "10. Earnings & Macro": "Base: stable profit + high payout. Bull: auto/fee recovery. Bear: used-car collateral/credit loss worsens. 3-5y returns likely dividend-heavy.",
+        "11. Risk Radar": "Risks: auto-credit cycle, used-car prices, funding/NIM, low loan growth, premium valuation. Monitor NPL, coverage, ROE, CAR, payout."
+      },
+      "thesis": "Disciplined underwriting, high coverage and payout culture support resilient returns.",
+      "bear": "Premium valuation and auto concentration leave limited room for credit disappointment.",
+      "teamComment": "",
+      "marketBelieves": "Market believes TISCO deserves a premium for ROE, dividend and risk discipline.",
+      "marketMissing": "Market may underprice fee/wealth upside, but much of quality is already priced in.",
+      "variables": "NPL, coverage, credit cost, auto growth, NIM, ROE, CAR, fee income, dividend.",
+      "fit": "Income/quality bank investor focused on dividends.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Auto-finance/wealth franchise, underwriting discipline and brand are advantages, but scale/funding moat is lower than large banks.",
+      "industryComparison": "เทียบกับ Banking/Auto Finance peers ด้วย ROE, NIM, NPL, Coverage, CAR, Fee Mix, P/BV และ Dividend Yield.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/TISCO/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105408900&symbol=TISCO"
+        },
+        {
+          "label": "1H26 Results",
+          "url": "https://www.tisco.co.th/th/news/20260714-20260416-tisco-announces-q2-2026"
+        }
+      ],
+      "price": 123.5,
+      "marketCap": 98879.73,
+      "pe": 14.39,
+      "pbv": 2.33,
+      "evEbitda": null
+    },
+    {
+      "rank": 30,
+      "ticker": "AWC",
+      "company": "Asset World Corp PCL.",
+      "sector": "Property Development",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1468.4,
+      "periodNpat": 3454.88,
+      "npatGrowth": 2.4,
+      "debtEbitda": 14.9,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA from SET EV/market cap/EBITDA; screening only.",
+      "score": 7.31,
+      "flags": [
+        "Hospitality",
+        "Tourism",
+        "Asset Ramp-up",
+        "TCC Ecosystem"
+      ],
+      "summary": "AWC เป็น Asset/NAV Story มากกว่า Earnings Compounder ตอนนี้ จุดชี้ขาดคือทรัพย์สินใหม่ต้องเปลี่ยนเป็น EBITDA/ROIC ที่สูงพอ.",
+      "framework": {
+        "1. Management": "TCC Group-controlled hospitality/property platform; strategy is long-duration asset development and ramp-up of high-quality tourism assets.",
+        "2. Product / Moat": "Luxury hotels, commercial properties and mixed-use destinations. Moat: มีบางส่วน — prime locations, TCC land bank/ecosystem and global hotel-brand partnerships.",
+        "3. TAM / Growth Runway": "Runway from tourism, luxury/MICE, commercial space and converting underutilized assets into higher-return destinations.",
+        "4. Positive Catalysts": "Hotel ramp-up, tourism, new openings, RevPAR/occupancy, NAV realization, lower funding cost. 1-5y medium-high/high.",
+        "5. Competitors": "Compare on RevPAR, occupancy, EBITDA margin, NAV, debt/EBITDA, ROIC and project pipeline.",
+        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB3.45bn +2.4%; earnings growth is modest versus invested-asset scale, so utilization/asset maturity are key.",
+        "7. Regulation": "Zoning, hotel licensing, environmental approvals, property tax and tourism rules; scarce land and approvals create barriers.",
+        "8. Narrative & Sentiment": "Narrative: asset ramp-up + tourism/NAV. Sentiment constructive, but cash conversion remains the debate.",
+        "9. Valuation Effect": "~15.3x P/E, ~1.0x P/BV and ~15.5x EV/EBITDA = Fair Value if EBITDA ramps. Need proof NAV converts to cash ROIC.",
+        "10. Earnings & Macro": "Base: gradual RevPAR/occupancy ramp. Bull: stronger tourism + faster maturation. Bear: capex/funding rises while ramp-up is slow.",
+        "11. Risk Radar": "Risks: leverage/funding, project ramp-up, tourism cycle, execution across many assets. Monitor RevPAR, occupancy, EBITDA, CFO, debt/EBITDA, capex."
+      },
+      "thesis": "Prime assets and land pipeline create long-duration NAV optionality.",
+      "bear": "Large capex and long ramp-up periods can keep cash returns below cost of capital.",
+      "teamComment": "",
+      "marketBelieves": "Market believes AWC owns attractive tourism assets but requires patience.",
+      "marketMissing": "Market may underprice long-duration land optionality while underestimating funding cost/time-to-ROIC.",
+      "variables": "RevPAR, occupancy, EBITDA margin, project openings, operating cash flow, debt/EBITDA, capex, ROIC/NAV.",
+      "fit": "Long-duration property/tourism investor comfortable with leverage and development risk.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Prime assets, TCC land bank/ecosystem and global hotel-brand partnerships create barriers, but monetization depends on execution.",
+      "industryComparison": "เทียบกับ Hotel/Property peers ด้วย RevPAR, Occupancy, EBITDA Margin, NAV, ROIC, Debt/EBITDA, Capex และ Ramp-up.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AWC/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106186900&symbol=AWC"
+        },
+        {
+          "label": "Q2 MD&A",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106187000&symbol=AWC"
+        }
+      ],
+      "price": 3.08,
+      "marketCap": 98641.74,
+      "pe": 15.25,
+      "pbv": 1.02,
+      "evEbitda": 15.5
+    },
+    {
+      "rank": 31,
+      "ticker": "BEM",
+      "company": "Bangkok Expressway and Metro PCL.",
+      "sector": "Transportation & Logistics",
+      "valuation": "Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1011.88,
+      "periodNpat": 1886.65,
+      "npatGrowth": 1.2,
+      "debtEbitda": 28.2,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / EBITDA; concession/project-finance structure limits comparability.",
+      "score": 7.31,
+      "flags": [
+        "Concession Moat",
+        "Recurring Traffic",
+        "MRT",
+        "Long-duration Assets"
+      ],
+      "summary": "BEM Moat แข็งมากจาก Concession + Network แต่หุ้นต้องดูแบบ DCF เพราะ Multiple สูงสะท้อนความ Defensive ไปเยอะแล้ว.",
+      "framework": {
+        "1. Management": "Infrastructure operator with long experience in expressway and MRT concessions; value depends on concession economics and disciplined project execution.",
+        "2. Product / Moat": "Expressways + MRT. Moat: มี — long-duration concessions, urban network effects, permits and huge replacement cost.",
+        "3. TAM / Growth Runway": "Runway from traffic/ridership growth, network extensions, commercial income and new concessions.",
+        "4. Positive Catalysts": "Ridership, expressway traffic, network extensions, concession extensions, lower rates. 1-5y medium-high/medium-high.",
+        "5. Competitors": "Compare on traffic/ridership, EBITDA margin, concession life, debt service, ROIC, capex and EV/EBITDA.",
+        "6. Revenue Growth & Margin": "1H26 NPAT THB1.89bn +1.2%; revenue THB8.26bn, EBITDA THB4.48bn. Stable but modest growth emphasizes concession duration.",
+        "7. Regulation": "Concession agreements, fares/tolls, PPP rules and government policy are both moat and risk.",
+        "8. Narrative & Sentiment": "Narrative: urban infrastructure bond-proxy with growth optionality. Sentiment stable.",
+        "9. Valuation Effect": "~25x P/E / ~24x EV/EBITDA = Expensive on conventional multiples; DCF/concession life is more appropriate.",
+        "10. Earnings & Macro": "Base: steady traffic/ridership. Bull: extensions/new projects. Bear: regulatory delay/capex with low return. 3-5y depends on concession value.",
+        "11. Risk Radar": "Risks: concession/regulation, leverage/project finance, construction, traffic growth, valuation. Monitor ridership, traffic, EBITDA, debt service, concession life."
+      },
+      "thesis": "Concessions and network effects create one of the stronger infrastructure moats in SET100.",
+      "bear": "Premium valuation already prices much of the defensiveness; regulatory delays can cap returns.",
+      "teamComment": "",
+      "marketBelieves": "Market believes BEM deserves a premium for predictable infrastructure cash flow.",
+      "marketMissing": "Market may underprice network-extension value, but overpaying for defensiveness is a risk.",
+      "variables": "Traffic, ridership, fare/toll changes, EBITDA, debt service, concession expiry/extensions, capex.",
+      "fit": "Defensive infrastructure investor willing to accept regulated returns and premium valuation.",
+      "moatStatus": "มี",
+      "moatReason": "Long-duration expressway/MRT concessions, network effects, permits and replacement cost create very high entry barriers.",
+      "industryComparison": "เทียบกับ Toll Road/Rail peers ด้วย Traffic/Ridership, EBITDA Margin, Concession Life, Debt Service, ROIC, Capex และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BEM/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106053900&symbol=BEM"
+        },
+        {
+          "label": "Financial Statements Analysis",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BEM/financial-statement/financial-statements-analysis"
+        }
+      ],
+      "price": 6.4,
+      "marketCap": 97824.0,
+      "pe": 25.2,
+      "pbv": 2.58,
+      "evEbitda": 24.2
     }
   ]
 }
