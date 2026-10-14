@@ -3,12 +3,12 @@
     "version": "v6.1",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
-    "companiesResearched": 28,
+    "companiesResearched": 38,
     "totalUniverse": 100,
     "marketDataUpdated": "2026-10-08 10:02",
     "financialDataUpdated": "Q2/2026; AOT 9M FY2026",
     "researchReviewed": "2026-10-08",
-    "generatedAt": "2026-10-12T10:23:32.908677+00:00",
+    "generatedAt": "2026-10-14T02:56:48.296099+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -2017,7 +2017,7 @@
       "evEbitda": 11.03
     },
     {
-      "rank": 28,
+      "rank": 29,
       "ticker": "MINT",
       "company": "Minor International PCL.",
       "sector": "Tourism & Leisure",
@@ -2085,7 +2085,7 @@
       "evEbitda": 6.99
     },
     {
-      "rank": 29,
+      "rank": 32,
       "ticker": "TISCO",
       "company": "Tisco Financial Group PCL.",
       "sector": "Banking",
@@ -2153,7 +2153,7 @@
       "evEbitda": null
     },
     {
-      "rank": 30,
+      "rank": 33,
       "ticker": "AWC",
       "company": "Asset World Corp PCL.",
       "sector": "Property Development",
@@ -2221,7 +2221,7 @@
       "evEbitda": 15.5
     },
     {
-      "rank": 31,
+      "rank": 34,
       "ticker": "BEM",
       "company": "Bangkok Expressway and Metro PCL.",
       "sector": "Transportation & Logistics",
@@ -2287,6 +2287,678 @@
       "pe": 25.2,
       "pbv": 2.58,
       "evEbitda": 24.2
+    },
+    {
+      "rank": 35,
+      "ticker": "KCE",
+      "company": "KCE Electronics PCL.",
+      "sector": "Electronic Components",
+      "valuation": "Very Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 275.917,
+      "periodNpat": 510.189,
+      "npatGrowth": 23.8,
+      "debtEbitda": 0.0,
+      "debtEbitdaBasis": "Net Cash / Calculation",
+      "debtEbitdaNote": "EV below market cap; Debt/EBITDA is not a binding risk metric.",
+      "score": 6.88,
+      "flags": [
+        "Auto Electronics",
+        "Export",
+        "Recovery",
+        "Extreme Valuation"
+      ],
+      "summary": "KCE Business Quality ดีและมี Automotive PCB Moat แต่ราคาหุ้นสะท้อนอนาคตไปมาก ต้องแยก 'บริษัทดี' ออกจาก 'หุ้นราคาดี'.",
+      "framework": {
+        "1. Management": "Founder/family-influenced electronics manufacturer with long export track record. Management has strong PCB manufacturing experience, but recent stock rerating raises the burden of execution. Capital allocation is conservative with net cash.",
+        "2. Product / Moat": "High-end printed circuit boards for automotive, industrial and electronics customers. Moat: มี — customer qualification, process know-how, quality/reliability standards, long product cycles and export relationships. Durability medium-high, especially in automotive-grade PCB.",
+        "3. TAM / Growth Runway": "Runway comes from EV/ADAS, automotive electronics, data connectivity and higher electronic content per vehicle. TAM is structurally attractive, but customer cycles and FX create volatility.",
+        "4. Positive Catalysts": "Automotive electronics demand; utilization recovery; product mix; baht weakness; new capacity productivity; margin normalization. Probability medium-high / impact high over 6-24 months.",
+        "5. Competitors": "Compare with PCB/electronic component peers on revenue growth, gross margin, utilization, ROIC, net cash and EV/EBITDA. KCE's automotive qualification is an advantage; scale is smaller than global leaders.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB276m +51.5% YoY; 1H26 THB510m +23.8%. Earnings are recovering, but current TTM EBITDA remains low relative to market value, implying expectations well ahead of present fundamentals.",
+        "7. Regulation": "Trade policy, export controls, automotive standards, environmental/chemical rules and FX are key. Qualification standards create barriers, while tariffs/geopolitics can disrupt sourcing and customer demand.",
+        "8. Narrative & Sentiment": "Narrative is 'automotive electronics recovery / EV optionality'. Sentiment is very positive after a sharp share-price rerating; story is late-middle rather than early.",
+        "9. Valuation Effect": "100x P/E / 42.5x EV/EBITDA = Very Expensive. Even strong earnings growth may not offset multiple compression if expectations normalize.",
+        "10. Earnings & Macro": "Base: earnings recover with auto cycle. Bull: EV/ADAS mix + utilization lift. Bear: auto slowdown/baht appreciation + multiple de-rating. 3-5y returns depend on real earnings catching up to valuation.",
+        "11. Risk Radar": "Risks: valuation (high/high), auto cycle (medium-high/high), FX (high/medium), customer concentration (medium/high), technology/capacity execution (medium/medium)."
+      },
+      "thesis": "Automotive-grade qualification and engineering know-how provide a real moat and structural electronics growth exposure.",
+      "bear": "Valuation is extremely demanding versus current earnings/EBITDA; the company can execute well while the stock still delivers poor returns.",
+      "teamComment": "",
+      "marketBelieves": "Market believes KCE is entering a strong automotive-electronics recovery with EV/ADAS growth.",
+      "marketMissing": "Market may be pricing the recovery too far forward and underestimating valuation compression risk.",
+      "variables": "Orders, utilization, gross margin, automotive share, EUR/USD/THB, capex, customer concentration, P/E/EV-EBITDA.",
+      "fit": "High-growth investor with very high tolerance for valuation risk.",
+      "moatStatus": "มี",
+      "moatReason": "Automotive qualification, engineering/process know-how, quality standards and long customer relationships create meaningful switching barriers.",
+      "industryComparison": "เทียบกับ PCB/Electronic Components peers ด้วย Revenue Growth, Gross Margin, Utilization, ROIC, Net Cash และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/KCE/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105907100&symbol=KCE"
+        },
+        {
+          "label": "Company Website",
+          "url": "http://www.kcethai.in.th"
+        }
+      ],
+      "price": 78.75,
+      "marketCap": 93089.48,
+      "pe": 100.0,
+      "pbv": 7.18,
+      "evEbitda": 42.48
+    },
+    {
+      "rank": 36,
+      "ticker": "KTC",
+      "company": "Krungthai Card PCL.",
+      "sector": "Finance & Securities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 2225.308,
+      "periodNpat": 4396.542,
+      "npatGrowth": 17.1,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "N/A - Finance",
+      "debtEbitdaNote": "Use NPL, Coverage, credit cost, ROE and funding metrics instead of Debt/EBITDA.",
+      "score": 8.19,
+      "flags": [
+        "Credit Card",
+        "High ROE",
+        "Asset Quality",
+        "Digital/Data"
+      ],
+      "summary": "KTC จุดเด่นไม่ใช่โตเร็วที่สุด แต่คือ ROE ~20% + NPL ต่ำ + Coverage สูงมาก ถ้าโตโดยไม่เสียคุณภาพ Valuation ปัจจุบันยังรับได้.",
+      "framework": {
+        "1. Management": "KTB is the major shareholder, while professional management has built a high-ROE consumer-finance franchise. Management emphasizes disciplined underwriting, collections, digital/data use and capital efficiency. Alignment is strong on profitability and asset quality.",
+        "2. Product / Moat": "Credit cards, personal loans, merchant acquiring/payment and related financial services. Moat: มี — brand, merchant network, customer data, risk models, collection capability and KTB ecosystem. Durability high if underwriting discipline is maintained.",
+        "3. TAM / Growth Runway": "Thai consumer credit TAM is mature but KTC can gain share through card spending, digital engagement, merchant acquiring and selective personal-loan growth. Growth should be quality-led rather than balance-sheet-led.",
+        "4. Positive Catalysts": "Credit-card spending growth; personal-loan growth; merchant acquiring; lower credit cost; digital/data monetization; dividends. Probability high / impact medium over 6-24 months.",
+        "5. Competitors": "Compare with consumer-finance/credit-card peers on ROE, NPL, coverage, credit cost, cost/income, receivable growth and P/BV. KTC's credit quality and collection efficiency are key advantages.",
+        "6. Revenue Growth & Margin": "1H26 NPAT THB4.40bn +17.1% YoY. Loan portfolio THB107.7bn +0.6%; card spending +4.7%. NPL 1.86%, coverage 426.3%, credit cost 5.0%, ROE ~20%.",
+        "7. Regulation": "BOT consumer-finance rules, interest-rate caps, responsible lending, data privacy and cyber regulation are central. Regulation caps pricing but also raises entry barriers and rewards efficient risk management.",
+        "8. Narrative & Sentiment": "Narrative is 'high-ROE, high-quality consumer finance'. Sentiment positive but less speculative than growth-finance names because investors focus on credit quality and capital returns.",
+        "9. Valuation Effect": "10.7x P/E / 2.05x P/BV = Fair Value for ~20% ROE and very strong coverage. Re-rating needs faster quality growth, not looser underwriting.",
+        "10. Earnings & Macro": "Base: modest portfolio growth + stable credit cost. Bull: spending/loan growth accelerates with stable NPL. Bear: household stress raises credit cost. 3-5y depends on ROE durability and digital distribution.",
+        "11. Risk Radar": "Risks: household debt (medium-high/high), regulatory rate caps (medium/high), credit-cost normalization (medium/high), funding cost (medium/medium), growth saturation (medium/medium)."
+      },
+      "thesis": "High ROE, strong reserve coverage and disciplined risk management support durable compounding without requiring aggressive leverage.",
+      "bear": "Thai household debt and regulatory caps can constrain growth; premium P/BV can compress if ROE or asset quality weakens.",
+      "teamComment": "",
+      "marketBelieves": "Market believes KTC is one of Thailand's highest-quality consumer-finance franchises.",
+      "marketMissing": "Market may underprice merchant/data monetization, while underestimating long-term saturation in consumer credit.",
+      "variables": "NPL, coverage, credit cost, card spending, receivables growth, ROE, cost/income, funding cost.",
+      "fit": "Quality financial investor prioritizing ROE and asset quality over rapid loan growth.",
+      "moatStatus": "มี",
+      "moatReason": "Merchant network, customer data, underwriting/collection capability, brand and KTB ecosystem create durable risk/distribution advantages.",
+      "industryComparison": "เทียบกับ Consumer Finance/Credit Card peers ด้วย ROE, NPL, Coverage, Credit Cost, Cost/Income, Receivable Growth และ P/BV.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/KTC/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105460300&symbol=KTC"
+        },
+        {
+          "label": "Q2/2026 Performance",
+          "url": "https://www.ktc.co.th/en/news/corporate/ktc-performance-q2-2026"
+        }
+      ],
+      "price": 35.0,
+      "marketCap": 90241.69,
+      "pe": 10.71,
+      "pbv": 2.05,
+      "evEbitda": null
+    },
+    {
+      "rank": 37,
+      "ticker": "HMPRO",
+      "company": "Home Product Center PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1594.181,
+      "periodNpat": 2998.152,
+      "npatGrowth": -3.5,
+      "debtEbitda": 3.74,
+      "debtEbitdaBasis": "Calculation",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap) / SET EBITDA; lease accounting can affect comparability.",
+      "score": 7.75,
+      "flags": [
+        "Brand",
+        "Store Network",
+        "Private Label",
+        "Defensive Retail"
+      ],
+      "summary": "HMPRO ไม่ใช่ High Growth แต่เป็น Quality Retail: Q2 ฟื้นดี แต่ต้องเห็น SSSG/กำไร 2H26 ยืนยันว่าการฟื้นไม่ใช่แค่ฐานต่ำ.",
+      "framework": {
+        "1. Management": "Founder-led home-improvement retailer with experienced professional management and long track record of disciplined store expansion, private-label development and service integration. Capital allocation is conservative and shareholder alignment is supported by steady dividends.",
+        "2. Product / Moat": "Home improvement, appliances, renovation products/services and Mega Home. Moat: มี — brand, store network, procurement scale, private label, service capability, logistics and customer trust. Durability high in Thailand.",
+        "3. TAM / Growth Runway": "Thai home-improvement TAM grows with housing renovation, aging housing stock, appliances, contractor/professional demand and regional expansion. Runway is more productivity/mix than aggressive store growth.",
+        "4. Positive Catalysts": "Consumption recovery; Q2 profit momentum; private-label mix; Mega Home productivity; tourism/provincial demand; lower rates. Probability medium / impact medium over 6-24 months.",
+        "5. Competitors": "Compare with home-improvement retailers on SSSG, gross margin, inventory turns, sales/sqm, ROIC, FCF and EV/EBITDA. HMPRO's brand/service/private-label mix are key strengths.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB1.59bn +14.0% YoY, but 1H26 NPAT THB3.00bn -3.5%. This suggests sequential recovery while weak domestic consumption still weighs on the first half.",
+        "7. Regulation": "Consumer protection, product safety, labor, zoning, data/privacy and import/tariff rules matter. Regulation is mainly compliance cost; scale and trusted service are practical barriers.",
+        "8. Narrative & Sentiment": "Narrative is 'defensive retail recovery'. Sentiment neutral-positive after Q2 improvement, but investors remain cautious on Thai household spending.",
+        "9. Valuation Effect": "14.0x P/E / 9.1x EV/EBITDA = Fair Value, below historical premium but not distressed. Upside requires SSSG and margin improvement.",
+        "10. Earnings & Macro": "Base: flat-to-low SSSG + stable margin. Bull: consumption/renovation recovery and private-label mix. Bear: prolonged weak housing/consumption. 3-5y depends on store productivity/ROIC.",
+        "11. Risk Radar": "Risks: weak household demand (high/medium), housing cycle (medium/medium), price competition (medium/medium), inventory execution (medium/medium), wage/logistics costs (medium/medium)."
+      },
+      "thesis": "Trusted brand, national network, service capability and private labels create resilient economics through consumer cycles.",
+      "bear": "Structural growth is moderate; if Thai consumption stays weak, the historical premium multiple may not return.",
+      "teamComment": "",
+      "marketBelieves": "Market believes HMPRO is a high-quality but mature retailer waiting for domestic consumption recovery.",
+      "marketMissing": "Market may underprice operating leverage from private label/service and Mega Home productivity.",
+      "variables": "SSSG, gross margin, inventory days, sales/sqm, Mega Home performance, FCF, ROIC, dividend.",
+      "fit": "Defensive consumer/quality investor seeking stable cash flow and moderate growth.",
+      "moatStatus": "มี",
+      "moatReason": "Brand, nationwide stores, procurement, private label, services/logistics and customer trust create durable retail advantages.",
+      "industryComparison": "เทียบกับ Home Improvement Retail peers ด้วย SSSG, Gross Margin, Inventory Turns, Sales/Sqm, ROIC, FCF และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/HMPRO/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105535400&symbol=HMPRO"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://hmpro.listedcompany.com/"
+        }
+      ],
+      "price": 6.4,
+      "marketCap": 84167.67,
+      "pe": 13.97,
+      "pbv": 3.19,
+      "evEbitda": 9.11
+    },
+    {
+      "rank": 38,
+      "ticker": "RATCH",
+      "company": "Ratch Group PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 2627.98,
+      "npatGrowth": -19.8,
+      "debtEbitda": 15.13,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA from SET EV/market cap/EBITDA; use project debt/cash flow and ratings for leverage analysis.",
+      "score": 7.81,
+      "flags": [
+        "Contracted Power",
+        "Dividend",
+        "Asset Backing",
+        "Defensive"
+      ],
+      "summary": "RATCH เหมาะกับมุม Income/Asset Value มากกว่า Growth ราคาต่ำกว่า Book ช่วยพยุง แต่ต้องติดตาม ROIC ของโครงการใหม่และการแปลงกำไรเป็นเงินปันผล.",
+      "framework": {
+        "1. Management": "State-linked power holding company with EGAT as strategic shareholder and professional utility management. Capital allocation emphasizes contracted projects, geographic diversification and dividends; holding-company complexity and project leverage require discipline.",
+        "2. Product / Moat": "Power generation portfolio across thermal, gas and renewable assets plus related infrastructure. Moat: มี — long-term PPAs, permits, financing access, operating expertise and strategic relationships. Durability high at asset level.",
+        "3. TAM / Growth Runway": "Power demand is mature domestically, but runway comes from renewables, overseas projects, acquisitions and adjacent energy/infrastructure businesses. Growth is capital-intensive and should be judged by ROIC.",
+        "4. Positive Catalysts": "New project CODs; renewable capacity; lower rates; asset recycling; dividend; power-demand recovery. Probability medium / impact medium over 1-5 years.",
+        "5. Competitors": "Compare with IPP/utility peers on contracted MW, availability, EBITDA/ROIC, net debt, credit rating, dividend and P/BV. RATCH has diversified contracted assets but lower growth than aggressive developers.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB23.21bn but net profit THB2.63bn -19.8% YoY. Earnings can vary with associate/JV contributions, outages and accounting items; cash distributions from projects are more important than consolidated revenue alone.",
+        "7. Regulation": "PPA/tariff rules, environmental/carbon standards, permits and cross-border power policies are central. Regulation is both moat and constraint because returns are contractually/regulatorily shaped.",
+        "8. Narrative & Sentiment": "Narrative is 'high-dividend contracted utility / asset value'. Sentiment neutral-positive as investors favor defensiveness, but growth remains modest.",
+        "9. Valuation Effect": "14.7x P/E / 0.82x P/BV = Cheap on asset value, but EV/EBITDA is less straightforward for an equity-accounted power holding company. Expected return is mainly dividend + book-value growth.",
+        "10. Earnings & Macro": "Base: stable project cash flow + dividend. Bull: new projects/renewables + lower rates. Bear: outages/project delays/rising leverage. 3-5y value depends on ROIC of new investments.",
+        "11. Risk Radar": "Risks: project execution (medium/high), leverage/refinancing (medium/high), regulation/PPA (medium/medium), FX/cross-border (medium/medium), low growth (high/medium)."
+      },
+      "thesis": "Contracted cash flows, diversified assets and sub-book valuation provide downside support and dividend visibility.",
+      "bear": "Cheap P/BV can persist if ROIC stays low or new projects dilute returns; holding-company structure can obscure cash conversion.",
+      "teamComment": "",
+      "marketBelieves": "Market believes RATCH is a defensive, high-dividend utility with limited growth.",
+      "marketMissing": "Market may underprice asset value and lower-rate benefit, but may overestimate the value of growth projects if ROIC is weak.",
+      "variables": "Equity MW, project availability, associate/JV profit, project dividends, net debt, credit rating, dividend payout, P/BV.",
+      "fit": "Income/value utility investor prioritizing defensive cash flow over high growth.",
+      "moatStatus": "มี",
+      "moatReason": "Long-term PPAs, permits, utility expertise, financing access and strategic relationships create high infrastructure/regulatory barriers.",
+      "industryComparison": "เทียบกับ IPP/Utility peers ด้วย Contracted MW, Availability, ROIC, Net Debt/Credit Rating, Dividend Yield และ P/BV.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/RATCH/factsheet"
+        },
+        {
+          "label": "6M26 Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/RATCH-6M69-ListedCompanySnapshot-TH.html"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://www.ratch.co.th/en/investor-relations/home"
+        }
+      ],
+      "price": 37.75,
+      "marketCap": 82106.25,
+      "pe": 14.74,
+      "pbv": 0.82,
+      "evEbitda": 12.9
+    },
+    {
+      "rank": 40,
+      "ticker": "BCP",
+      "company": "Bangchak Corporation PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 12239.355,
+      "periodNpat": 18383.117,
+      "npatGrowth": -4232.9,
+      "debtEbitda": 3.24,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA from recent SET EV less market cap divided by TTM EBITDA; use company net-debt and project/lease detail for covenant analysis.",
+      "score": 7.44,
+      "flags": [
+        "Integrated Energy",
+        "Refining",
+        "Marketing",
+        "Upstream",
+        "Synergy"
+      ],
+      "summary": "BCP ถูกมากบน Trailing Multiple แต่ต้อง Normalize กำไรอย่างเข้มงวด เพราะ 1H26 ฟื้นแรงมาก Thesis ที่สำคัญกว่าคือ Synergy + FCF + Deleveraging.",
+      "framework": {
+        "1. Management": "Integrated Thai energy company with refinery, marketing, clean power, bio-based and upstream/natural-resource exposure. Management has executed large-scale integration and portfolio expansion; the key capital-allocation test is synergy realization and deleveraging after expansion.",
+        "2. Product / Moat": "Refining and oil trading, Bangchak retail/marketing, clean power, bio products and upstream resources. Moat: มี — refinery/retail network, brand, logistics, integration and scale. Durability moderate-high operationally, but commodity spreads dominate returns.",
+        "3. TAM / Growth Runway": "Energy demand is mature, but runway comes from refinery/marketing integration, upstream cash flow, SAF/clean fuels, bio/green businesses and portfolio optimization.",
+        "4. Positive Catalysts": "Integration synergies; refinery utilization/GRM; marketing margin; upstream commodity strength; SAF/clean fuel ramp; debt reduction. Probability medium-high / impact high over 6-36 months.",
+        "5. Competitors": "Compare with integrated refiners/energy peers on GRM, utilization, marketing margin, upstream cash cost, FCF, leverage and EV/EBITDA. BCP's integration improves resilience but increases complexity.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB12.24bn and 1H26 THB18.38bn versus prior-year losses. The rebound is very strong, but headline earnings must be normalized for refining/inventory/upstream/integration effects before extrapolation.",
+        "7. Regulation": "Fuel-price policy, refining/environment permits, carbon rules, excise, SAF mandates and upstream regulation matter. Regulation can create clean-fuel opportunity while increasing capex.",
+        "8. Narrative & Sentiment": "Narrative is 'integration success + energy-cycle cash flow'. Sentiment positive after earnings surge, but current profits are clearly cyclical.",
+        "9. Valuation Effect": "~3.5x P/E, ~0.9x P/BV and ~3.8x EV/EBITDA = Cheap on trailing numbers, but headline P/E overstates cheapness if current spreads/profits normalize.",
+        "10. Earnings & Macro": "Base: normalized refining/marketing + integration synergies. Bull: strong GRM/upstream + faster deleveraging. Bear: oil/spread reversal + high debt. 3-5y depends on FCF after capex and integration ROIC.",
+        "11. Risk Radar": "Top risks: refining/oil cycle (high/high), leverage/refinancing (medium-high/high), integration complexity (medium/high), upstream commodity (high/medium), transition capex/regulation (medium/medium)."
+      },
+      "thesis": "Integrated assets, distribution and diversified energy cash flows can generate strong FCF when synergies and commodity conditions align.",
+      "bear": "Low trailing multiples may be a cyclical illusion; leverage and multi-business complexity can destroy value if normalized returns are weak.",
+      "teamComment": "",
+      "marketBelieves": "Market believes BCP has become a larger integrated energy platform and is monetizing integration synergies.",
+      "marketMissing": "Market may over-extrapolate 1H26 profits, while underpricing longer-run synergy/deleveraging if management executes.",
+      "variables": "GRM, utilization, marketing margin, inventory gain/loss, upstream EBITDA, FCF, net debt, synergy targets, capex.",
+      "fit": "Cyclical/value energy investor comfortable with commodity and leverage risk.",
+      "moatStatus": "มี",
+      "moatReason": "Refinery/retail integration, nationwide brand/network, logistics and multi-energy platform create scale advantages, though commodity pricing limits moat strength.",
+      "industryComparison": "เทียบกับ Integrated Refining/Energy peers ด้วย GRM, Utilization, Marketing Margin, Upstream Cost, FCF, Net Debt/EBITDA และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BCP/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105694700&symbol=BCP"
+        }
+      ],
+      "price": 52.0,
+      "marketCap": 76577.31,
+      "pe": 3.5,
+      "pbv": 0.91,
+      "evEbitda": 3.85
+    },
+    {
+      "rank": 41,
+      "ticker": "BJC",
+      "company": "Berli Jucker PCL.",
+      "sector": "Commerce",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 2881.532,
+      "periodNpat": 3938.906,
+      "npatGrowth": 89.3,
+      "debtEbitda": 13.18,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA from recent SET EV less market cap divided by TTM EBITDA; includes capital structure effects and is a screening measure.",
+      "score": 7.13,
+      "flags": [
+        "Big C",
+        "Packaging",
+        "Consumer",
+        "Asset Value",
+        "Deleveraging"
+      ],
+      "summary": "BJC จุดน่าสนใจคือ P/BV ต่ำ + กำไรฟื้น แต่ Thesis ต้องจบที่ FCF/ลดหนี้ ไม่ใช่กำไรบัญชีอย่างเดียว เพราะ Leverage ยังเป็นตัวกด Valuation.",
+      "framework": {
+        "1. Management": "TCC Group-controlled conglomerate with Big C modern retail plus packaging, consumer and healthcare distribution. Management's key task is improving retail productivity and cash returns while reducing leverage accumulated from the Big C acquisition.",
+        "2. Product / Moat": "Big C hypermarket/supermarket, packaging, consumer goods and healthcare/technical distribution. Moat: มี — Big C locations, procurement/distribution scale, packaging assets, supplier relationships, private labels and TCC ecosystem. Durability medium-high, but retail competition is intense.",
+        "3. TAM / Growth Runway": "Runway comes from store productivity, food/private label, smaller formats, packaging recovery, omnichannel and regional consumer distribution. Thailand hypermarket growth itself is mature.",
+        "4. Positive Catalysts": "Big C SSSG/margin; cost reduction; lower interest expense; packaging recovery; asset monetization; debt reduction. Probability medium-high / impact high over 6-24 months.",
+        "5. Competitors": "Compare with modern retail/consumer peers on SSSG, gross/EBITDA margin, inventory turns, FCF, leverage and EV/EBITDA. BJC's diversified operations add resilience but reduce transparency.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB2.88bn +191% YoY; 1H26 THB3.94bn +89.3%. Profit recovery is substantial; investors should verify how much is recurring operating improvement versus finance/one-off effects.",
+        "7. Regulation": "Competition, retail zoning, food/product safety, labor, packaging/environment rules, data/privacy and healthcare distribution regulation apply. Scale is a barrier, but price competition constrains margin.",
+        "8. Narrative & Sentiment": "Narrative is 'Big C/consumer recovery + deleveraging'. Sentiment improving on earnings, while leverage remains the central reason for the valuation discount.",
+        "9. Valuation Effect": "~12.8x P/E, ~0.64x P/BV and ~10.8x EV/EBITDA = Cheap-to-Fair; low book multiple provides asset support, but leverage caps re-rating.",
+        "10. Earnings & Macro": "Base: modest retail growth + margin/interest improvement. Bull: stronger SSSG + packaging recovery + debt paydown. Bear: weak consumption + price competition + refinancing cost. 3-5y depends on FCF/deleveraging.",
+        "11. Risk Radar": "Top risks: leverage/refinancing (high/high), weak consumption (medium-high/high), retail competition (high/medium), packaging input costs (medium/medium), capital allocation (medium/high)."
+      },
+      "thesis": "Big C footprint, distribution and packaging/consumer assets provide real franchise value with meaningful operating-recovery leverage.",
+      "bear": "High leverage and mature hypermarket economics can keep ROIC and valuation depressed even when accounting earnings rebound.",
+      "teamComment": "",
+      "marketBelieves": "Market believes BJC is recovering operationally but remains a leveraged value stock.",
+      "marketMissing": "Market may underprice debt-reduction torque and asset value, while overestimating the durability of recent profit growth.",
+      "variables": "Big C SSSG, gross margin, EBITDA, packaging margin, FCF, net debt/EBITDA, interest expense, capex.",
+      "fit": "Value/turnaround consumer investor comfortable with leverage and mature retail.",
+      "moatStatus": "มี",
+      "moatReason": "Big C locations, procurement/distribution scale, packaging assets, supplier relationships and TCC ecosystem create meaningful barriers, though retail pricing power is limited.",
+      "industryComparison": "เทียบกับ Modern Retail/Consumer peers ด้วย SSSG, Gross/EBITDA Margin, Inventory Turns, FCF, Net Debt/EBITDA และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BJC/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106105100&symbol=BJC"
+        }
+      ],
+      "price": 18.7,
+      "marketCap": 74945.8,
+      "pe": 12.77,
+      "pbv": 0.64,
+      "evEbitda": 10.8
+    },
+    {
+      "rank": 43,
+      "ticker": "EGCO",
+      "company": "Electricity Generating PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 1537.61,
+      "npatGrowth": -73.2,
+      "debtEbitda": 9.51,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap)/TTM EBITDA; holding-company/JV accounting reduces comparability.",
+      "score": 7.5,
+      "flags": [
+        "Contracted Power",
+        "Asset Value",
+        "Dividend",
+        "Recovery"
+      ],
+      "summary": "EGCO ตอนนี้เป็น Asset Value + Turnaround มากกว่า Growth — P/BV ต่ำมีความหมายก็ต่อเมื่อ ROE ฟื้นและ Asset Recycling สร้างมูลค่า.",
+      "framework": {
+        "1. Management": "Long-established power holding company with EGAT as strategic shareholder and professional utility management. Capital allocation is shifting toward portfolio optimization, asset recycling and U.S./renewables growth after several years of weak ROE.",
+        "2. Product / Moat": "Global IPP/SPP power portfolio, renewable projects and technical services. Moat: มี — PPAs, permits, project-development expertise, financing access and strategic relationships. Durability high at contracted-asset level.",
+        "3. TAM / Growth Runway": "Domestic power TAM is mature; runway comes from renewable projects, U.S. energy investments, asset recycling and selective acquisitions. Growth should be judged on ROIC rather than MW alone.",
+        "4. Positive Catalysts": "Portfolio divestments; renewable CODs; lower rates; recovery at overseas plants; asset recycling; dividend. Probability medium / impact medium-high over 6-36 months.",
+        "5. Competitors": "Compare with power holding peers on equity MW, operating profit, ROIC, net debt, credit rating, dividend and P/BV. EGCO's contracted base is a strength; low ROE is the key weakness.",
+        "6. Revenue Growth & Margin": "1H26 NPAT THB1.54bn -73% YoY and operating profit THB1.02bn -71%. Softer Quezon/Yunlin/PAJU results and loss/fair-value effects outweighed improvements elsewhere.",
+        "7. Regulation": "PPA, tariff policy, environmental/carbon rules, cross-border power regulation and financing constraints are central. Regulation is both barrier to entry and return-setting mechanism.",
+        "8. Narrative & Sentiment": "Narrative is 'deep asset value + portfolio repair'. Sentiment is cautious because book-value discount is large but earnings/ROE are weak.",
+        "9. Valuation Effect": "~0.67x P/BV = Cheap on asset value; headline P/E is not useful at trough earnings. Re-rating needs operating-profit recovery and better capital turnover.",
+        "10. Earnings & Macro": "Base: gradual operating-profit normalization + dividend. Bull: asset recycling + project recovery + lower rates. Bear: overseas underperformance and weak ROIC persist. 3-5y depends on portfolio ROIC.",
+        "11. Risk Radar": "Top risks: overseas project performance (medium-high/high), leverage/refinancing (medium/high), low ROE (high/medium), regulation/PPA (medium/medium), FX (medium/medium)."
+      },
+      "thesis": "Contracted assets and sub-book valuation create downside support and option value from portfolio optimization.",
+      "bear": "Book value can remain trapped for years if ROE stays below cost of equity; asset sales at poor prices can destroy value.",
+      "teamComment": "",
+      "marketBelieves": "Market believes EGCO is cheap for a reason: weak ROE and uneven overseas project performance.",
+      "marketMissing": "Market may underprice the value of successful asset recycling and renewable/U.S. portfolio optimization.",
+      "variables": "Operating profit, equity MW, project availability, asset sales, net debt, ROE, dividend, P/BV.",
+      "fit": "Income/value utility investor willing to wait for portfolio repair.",
+      "moatStatus": "มี",
+      "moatReason": "Long-term PPAs, permits, project-development capability and financing relationships create high infrastructure/regulatory barriers.",
+      "industryComparison": "เทียบกับ IPP/Power Holding peers ด้วย Operating Profit, Equity MW, ROIC, Net Debt/Credit Rating, Dividend และ P/BV.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/EGCO/factsheet"
+        },
+        {
+          "label": "6M26 Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/EGCO-6M69-ListedCompanySnapshot-EN.html"
+        }
+      ],
+      "price": 128.5,
+      "marketCap": 67650.75,
+      "pe": 127.41,
+      "pbv": 0.67,
+      "evEbitda": 14.21
+    },
+    {
+      "rank": 44,
+      "ticker": "BANPU",
+      "company": "Banpu PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 2870.01,
+      "npatGrowth": null,
+      "debtEbitda": 14.02,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA based on SET EV less market cap; unusually high and distorted by amalgamation/accounting, so use company net-debt metrics and cash flow.",
+      "score": 6.5,
+      "flags": [
+        "Energy Platform",
+        "Gas",
+        "Power",
+        "CCUS",
+        "High Leverage"
+      ],
+      "summary": "BANPU ต้องอ่านหลังควบรวมใหม่ทั้งหมด: Thesis คือ U.S. Gas/Power/CCUS จะสร้าง FCF มากพอให้ลดหนี้ได้หรือไม่ มากกว่าดู P/BV ต่ำ.",
+      "framework": {
+        "1. Management": "New BANPU emerged from the 2026 amalgamation with Banpu Power, creating a more integrated energy platform across coal, U.S. gas, power and future technologies. Management's core test is deleveraging and proving synergy after a complex corporate restructuring.",
+        "2. Product / Moat": "Mining, U.S. natural gas, power and future-tech/CCUS platform. Moat: มีบางส่วน — resource positions, gas/power integration, operating expertise and BKV/CCUS optionality. Durability moderate because commodity prices dominate economics.",
+        "3. TAM / Growth Runway": "Energy TAM is large, but growth runway is increasingly tied to U.S. gas/power, data-center electricity demand, CCUS and portfolio integration rather than traditional coal expansion.",
+        "4. Positive Catalysts": "Post-amalgamation synergies; gas/power recovery; CCUS commercialization; BKV optionality; debt reduction; stronger gas prices. Probability medium / impact high over 12-36 months.",
+        "5. Competitors": "Compare with diversified energy peers on realized coal/gas prices, power EBITDA, reserve economics, FCF, net debt/EBITDA and EV/EBITDA. BANPU's integration adds optionality but also complexity.",
+        "6. Revenue Growth & Margin": "Pro forma 1H26 revenue THB90.77bn and NPAT THB2.87bn. Comparability with prior periods is limited by amalgamation; investors should focus on pro forma FCF and leverage rather than simple YoY growth.",
+        "7. Regulation": "Mining permits, carbon policy, U.S. gas regulation, power markets, CCUS tax credits and environmental rules matter. Regulation can both penalize coal and create high-value CCUS incentives.",
+        "8. Narrative & Sentiment": "Narrative is 'post-merger integrated energy + U.S. gas/AI power optionality'. Sentiment is speculative-positive on gas/CCUS, but leverage remains the main constraint.",
+        "9. Valuation Effect": "~0.5x P/BV looks cheap, but ~15x EV/EBITDA and very high leverage dilute the value case. Fair Value until deleveraging is visible.",
+        "10. Earnings & Macro": "Base: commodity normalization + gradual synergy. Bull: U.S. gas/power/CCUS upside + debt paydown. Bear: commodity weakness + high interest burden. 3-5y depends on FCF/deleveraging.",
+        "11. Risk Radar": "Top risks: leverage (high/high), coal/gas prices (high/high), integration execution (medium-high/high), U.S. market/regulation (medium/medium), capex/CCUS execution (medium/high)."
+      },
+      "thesis": "Integrated gas/power/resource platform provides substantial upside torque if U.S. energy demand and CCUS scale as planned.",
+      "bear": "High leverage and commodity cyclicality can overwhelm operational upside; post-amalgamation complexity makes accounting multiples unreliable.",
+      "teamComment": "",
+      "marketBelieves": "Market believes New BANPU has more strategic optionality than old BANPU but still carries a leveraged commodity discount.",
+      "marketMissing": "Market may underprice U.S. gas/power/CCUS value, while underestimating how much cash must go to debt before shareholders benefit.",
+      "variables": "Henry Hub, coal prices, power EBITDA, CCUS injection volumes, BKV value, FCF, net debt/EBITDA, interest cost.",
+      "fit": "Cyclical/turnaround energy investor with high leverage tolerance.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Resource positions, U.S. gas/power integration and operating expertise offer advantages, but commodity exposure limits moat durability.",
+      "industryComparison": "เทียบกับ Diversified Energy peers ด้วย Realized Coal/Gas Prices, Power EBITDA, FCF, Net Debt/EBITDA, Reserve Economics และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BANPU/factsheet"
+        },
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BANPU/financial-statement/company-highlights"
+        },
+        {
+          "label": "Amalgamation filing",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105437300&symbol=SET"
+        }
+      ],
+      "price": 15.0,
+      "marketCap": 60744.33,
+      "pe": 25.12,
+      "pbv": 0.49,
+      "evEbitda": 15.84
+    },
+    {
+      "rank": 45,
+      "ticker": "MTC",
+      "company": "Muangthai Capital PCL.",
+      "sector": "Finance & Securities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1904.95,
+      "periodNpat": 3727.98,
+      "npatGrowth": 15.8,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "N/A - Finance",
+      "debtEbitdaNote": "Use NPL, credit cost, coverage, ROE, funding cost and capital adequacy rather than Debt/EBITDA.",
+      "score": 7.75,
+      "flags": [
+        "Title Loan",
+        "Branch Scale",
+        "High ROE",
+        "Credit Discipline"
+      ],
+      "summary": "MTC Valuation ไม่แพงและกำไรฟื้น แต่ Thesis ต้องยืนยันด้วย NPL/Credit Cost ไม่ใช่เร่ง Loan Growth อย่างเดียว.",
+      "framework": {
+        "1. Management": "Founder/family-led title-loan and consumer-finance company with a nationwide branch network and long underwriting/collections track record. Management has emphasized disciplined branch expansion and asset-quality repair after the sector credit cycle.",
+        "2. Product / Moat": "Vehicle/land title loans, personal/nano finance, motorcycle HP and insurance brokerage. Moat: มี — dense branch network, local customer relationships, underwriting/collection data and operational scale. Durability medium-high in underserved borrower segments.",
+        "3. TAM / Growth Runway": "Thai underbanked/secured-consumer credit remains large. Growth runway comes from branch productivity, cross-sell, digital collection and share gains, but household debt and regulation cap sustainable growth.",
+        "4. Positive Catalysts": "Loan growth; credit-cost normalization; better NPL; lower funding rates; branch productivity; insurance cross-sell. Probability medium-high / impact high over 6-24 months.",
+        "5. Competitors": "Compare with title-loan peers on loan growth, yield, NIM/spread, NPL, credit cost, ROE, funding cost and P/BV. MTC's network/collection scale is a key advantage.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB1.90bn +15.7% YoY; 1H26 THB3.73bn +15.8%. ROE ~16.9%; credit losses remain material but earnings trend is improving.",
+        "7. Regulation": "BOT/consumer-finance rate caps, responsible lending, collection practices, data/privacy and funding regulations are critical. Regulation limits pricing but favors scaled compliant operators.",
+        "8. Narrative & Sentiment": "Narrative is 'credit-cycle recovery + low valuation'. Sentiment has improved but remains cautious due household leverage and past NPL volatility.",
+        "9. Valuation Effect": "~8.1x P/E and ~1.3x P/BV = Fair Value to slightly cheap for ~17% ROE. Re-rating requires cleaner asset quality, not just loan growth.",
+        "10. Earnings & Macro": "Base: mid-teens earnings growth + stable credit cost. Bull: faster NPL normalization and lower funding cost. Bear: household stress raises credit losses. 3-5y depends on ROE discipline.",
+        "11. Risk Radar": "Top risks: household debt/credit cost (high/high), regulatory caps (medium-high/high), funding cost/refinancing (medium/high), aggressive competition (medium/medium), collateral values (medium/medium)."
+      },
+      "thesis": "Nationwide branch/collection scale and improving credit cycle can support durable earnings growth at a reasonable valuation.",
+      "bear": "Consumer-finance economics can deteriorate quickly if underwriting loosens; low P/E is not protective when credit losses spike.",
+      "teamComment": "",
+      "marketBelieves": "Market believes MTC is past the worst of the credit cycle but deserves a discount for household-debt risk.",
+      "marketMissing": "Market may underprice earnings torque from lower funding cost and normalized credit cost.",
+      "variables": "NPL, credit cost, loan growth, yield/spread, funding cost, ROE, branch productivity, collection efficiency.",
+      "fit": "Value/growth financial investor comfortable with consumer-credit volatility.",
+      "moatStatus": "มี",
+      "moatReason": "Dense branch network, local relationships, underwriting data and collections capability create meaningful scale/switching advantages.",
+      "industryComparison": "เทียบกับ Title Loan/Consumer Finance peers ด้วย Loan Growth, Yield, NPL, Credit Cost, ROE, Funding Cost และ P/BV; Debt/EBITDA = N/A.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105933500&symbol=MTC"
+        },
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/financial-statement/company-highlights"
+        }
+      ],
+      "price": 27.75,
+      "marketCap": 58830.0,
+      "pe": 8.13,
+      "pbv": 1.28,
+      "evEbitda": null
+    },
+    {
+      "rank": 46,
+      "ticker": "CENTEL",
+      "company": "Central Plaza Hotel PCL.",
+      "sector": "Tourism & Leisure",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 2308.99,
+      "npatGrowth": 169.1,
+      "debtEbitda": 5.48,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA = (SET EV - Market Cap)/TTM EBITDA; hotel lease/accounting and new-project ramp-up can distort comparability.",
+      "score": 7.56,
+      "flags": [
+        "Hotel",
+        "Food",
+        "Brand",
+        "Tourism",
+        "Expansion"
+      ],
+      "summary": "CENTEL 1H26 กำไรโตแรงมาก แต่ต้องตัด Other Activities ออกก่อนประเมิน run-rate จริง จุดชี้ขาดคือ RevPAR + Food SSSG + ROIC ของโรงแรมใหม่.",
+      "framework": {
+        "1. Management": "Central Group-linked hospitality and food platform with professional management and long brand-operating track record. Capital allocation spans owned hotels, management contracts and restaurant franchises; new projects require disciplined ramp-up.",
+        "2. Product / Moat": "Centara hotel brands in Thailand/overseas plus large restaurant franchise/owned-brand portfolio. Moat: มี — hotel/food brands, locations, loyalty/distribution, Central ecosystem and operating expertise. Durability high in Thailand, moderate across new overseas markets.",
+        "3. TAM / Growth Runway": "Tourism, domestic dining and regional hospitality TAM remain attractive. Runway comes from hotel pipeline, management contracts, Maldives/Japan/overseas expansion, F&B productivity and premiumization.",
+        "4. Positive Catalysts": "Tourism arrivals; RevPAR/occupancy; new hotel ramp-up; food SSSG; lower rates; management-fee growth. Probability medium-high / impact high over 6-36 months.",
+        "5. Competitors": "Compare with hotel/food peers on RevPAR, ADR, occupancy, restaurant SSSG, EBITDA margin, ROIC, leverage and EV/EBITDA. CENTEL's dual hotel-food model diversifies demand.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB12.94bn and NPAT THB2.31bn vs THB858m. However, THB1.78bn profit from other activities materially lifted headline earnings, so normalized operating trend should be separated.",
+        "7. Regulation": "Hotel licenses, tourism policy, food safety, labor, franchise agreements, environmental rules and cross-border tax/regulation matter. Brand/location scale provides practical barriers.",
+        "8. Narrative & Sentiment": "Narrative is 'tourism recovery + portfolio expansion'. Sentiment is positive but headline 1H26 profit overstates underlying operating acceleration due one-off/other gains.",
+        "9. Valuation Effect": "~17x P/E / ~10x EV/EBITDA = Fair Value on reported numbers, but normalized earnings are more important. Multiple expansion requires sustained RevPAR/F&B growth.",
+        "10. Earnings & Macro": "Base: steady tourism + hotel ramp-up + moderate food SSSG. Bull: stronger international tourism/new hotels. Bear: travel shock + F&B weakness + project costs. 3-5y depends on ROIC from expansion.",
+        "11. Risk Radar": "Top risks: tourism/geopolitics (medium-high/high), new-hotel ramp-up (medium/high), food consumption (medium/medium), leverage (medium/high), FX (medium/medium)."
+      },
+      "thesis": "Strong hotel/food brands and Central ecosystem create diversified tourism-consumer exposure with credible long-term expansion.",
+      "bear": "Headline profit can mislead due non-operating gains; aggressive hotel expansion can dilute ROIC and raise leverage.",
+      "teamComment": "",
+      "marketBelieves": "Market believes CENTEL is a high-quality tourism beneficiary with a growing international hotel platform.",
+      "marketMissing": "Market may overestimate normalized 2026 earnings if one-off gains are treated as recurring, while underpricing long-run management-contract growth.",
+      "variables": "RevPAR, ADR, occupancy, food SSSG, normalized EBITDA/NPAT, new hotel openings, debt/EBITDA, ROIC.",
+      "fit": "Quality tourism/consumer investor comfortable with cyclicality and expansion capex.",
+      "moatStatus": "มี",
+      "moatReason": "Hotel/food brands, locations, distribution/loyalty, Central ecosystem and operating expertise create durable demand and execution advantages.",
+      "industryComparison": "เทียบกับ Hotel/Food peers ด้วย RevPAR, ADR, Occupancy, Restaurant SSSG, EBITDA Margin, ROIC, Debt/EBITDA และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/CENTEL/factsheet"
+        },
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/CENTEL/financial-statement/company-highlights"
+        },
+        {
+          "label": "Q2 MD&A",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105806400&symbol=CENTEL"
+        }
+      ],
+      "price": 43.5,
+      "marketCap": 58725.0,
+      "pe": 17.05,
+      "pbv": 2.42,
+      "evEbitda": 9.91
     }
   ]
 }
