@@ -8,6 +8,8 @@ Design:
   (price, marketCap, P/E, P/BV, EV/EBITDA, SET Index).
 - This prevents an Excel upload from overwriting fresher market data.
 - New tickers can still be initialized from Excel when no existing JSON record exists.
+- Dashboard meta dates are rebuilt from the latest nonblank stock-level dates in Excel,
+  so a fresh Master upload cannot leave stale research/market labels in data.json.
 
 No external Python packages are required.
 """
@@ -107,6 +109,16 @@ def fnum(v):
 
 def split_flags(v):
     return [x.strip() for x in str(v or "").split("|") if x.strip()]
+
+def latest_iso_date(values):
+    """Return latest YYYY-MM-DD-like value; ignore blanks/non-date labels."""
+    dates=[]
+    for v in values:
+        s=str(v or "").strip()
+        m=re.match(r"^(\d{4}-\d{2}-\d{2})", s)
+        if m:
+            dates.append(m.group(1))
+    return max(dates) if dates else ""
 
 if not MASTER.exists():
     raise SystemExit(f"Missing master workbook: {MASTER}")
@@ -226,15 +238,27 @@ for ticker, u in universe.items():
 
 stocks.sort(key=lambda x: x.get("rank", 999))
 
+latest_market_date = latest_iso_date(s.get("marketDataUpdated") for s in stocks)
+latest_research_date = latest_iso_date(s.get("researchReviewed") for s in stocks)
+financial_periods = [str(s.get("financialDataUpdated") or "").strip() for s in stocks if str(s.get("financialDataUpdated") or "").strip()]
+
 meta = dict(existing.get("meta", {}))
 meta.update({
-    "version": "v6.1",
+    "version": "v7",
     "masterWorkbook": MASTER.name,
     "companiesResearched": len(stocks),
     "totalUniverse": 100,
     "researchOrder": "Market Cap 100%",
     "generatedAt": datetime.now(timezone.utc).isoformat(),
 })
+if latest_market_date:
+    meta["marketDataUpdated"] = latest_market_date
+if latest_research_date:
+    meta["researchReviewed"] = latest_research_date
+if financial_periods:
+    # Keep a compact label. Individual stock periods remain authoritative.
+    unique_periods = sorted(set(financial_periods))
+    meta["financialDataUpdated"] = unique_periods[0] if len(unique_periods)==1 else "Latest reviewed period by company"
 
 # Keep SET Index / market-series data untouched; only research/stocks are rebuilt.
 out = {
