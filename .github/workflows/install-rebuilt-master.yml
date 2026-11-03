@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'master_payload/chunk08.txt'
+      - 'master_payload/chunk16.txt'
 
 permissions:
   contents: write
@@ -22,13 +22,13 @@ jobs:
 
       - name: Verify payload
         run: |
-          for n in 01 02 03 04 05 06 07 08; do
+          for n in $(seq -w 1 16); do
             test -s "master_payload/chunk${n}.txt" || { echo "Missing chunk ${n}"; exit 1; }
           done
 
       - name: Rebuild Master Excel
         run: |
-          cat master_payload/chunk01.txt master_payload/chunk02.txt master_payload/chunk03.txt master_payload/chunk04.txt master_payload/chunk05.txt master_payload/chunk06.txt master_payload/chunk07.txt master_payload/chunk08.txt | base64 --decode > SET100_Investment_Research_Master.xlsx
+          cat master_payload/chunk{01..16}.txt | base64 --decode > SET100_Investment_Research_Master.xlsx
           python - <<'PY'
           import zipfile
           p='SET100_Investment_Research_Master.xlsx'
