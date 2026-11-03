@@ -3,12 +3,12 @@
     "version": "v7",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
-    "companiesResearched": 80,
+    "companiesResearched": 85,
     "totalUniverse": 100,
     "marketDataUpdated": "2026-10-09",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T05:59:28.733038+00:00",
+    "generatedAt": "2026-11-03T07:42:46.997922+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -5669,14 +5669,6 @@
           "url": "https://www.set.or.th/th/market/product/stock/quote/WHAUP/price"
         },
         {
-          "label": "WHAUP Q2/2026 Result",
-          "url": "https://www.wha-up.com/en/updates/company-news/1112/whaup-reports-strong-q22026-net-profit-growth-of-276-yoy-to-thb-532-million-higher-water-and-power-demand-drives-growth-company-signals-readiness-to-pursue-direct-ppa-opportunities"
-        },
-        {
-          "label": "SET F45 Q2/2026",
-          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105778500&symbol=WHAUP"
-        },
-        {
           "label": "WHAUP Historical Price",
           "url": "https://www.wha-up.com/en/investor-relations/stock-information/historical-price"
         },
@@ -5767,6 +5759,351 @@
       "pe": 5.81,
       "pbv": 0.5,
       "evEbitda": 15.55
+    },
+    {
+      "rank": 81,
+      "ticker": "AP",
+      "company": "AP (Thailand) PCL.",
+      "sector": "Property Development",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1063.0,
+      "periodNpat": 1966.91,
+      "npatGrowth": 5.2,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "",
+      "debtEbitdaNote": "Property developer: use IBD/E / D/E",
+      "score": 7.9375,
+      "flags": [
+        "Housing",
+        "Condominium",
+        "Backlog",
+        "Dividend",
+        "Low P/BV"
+      ],
+      "summary": "AP is a high-quality Thai residential developer trading at a low valuation. 1H26 revenue rose ~14.8% and NPAT +5.2%; backlog THB37.4bn supports visibility, while 6M26 D/E remained 0.90x. Main risk is margin pressure and a weak housing/credit cycle.",
+      "framework": {
+        "1. Management": "Founder/major shareholder Anuphong Assavabhokhin remains the key owner; professional management has a long execution record in low-rise and condominium development. Capital allocation discipline is reflected in manageable leverage and consistent dividends.",
+        "2. Product / Moat": "Develops detached houses, twin houses, townhomes and condominiums. Competitive advantages are brand, product design, land acquisition/development know-how, sales network and scale across 200+ locations.",
+        "3. TAM / Growth Runway": "Thailand housing is mature but fragmented. AP can gain share through low-rise strength, provincial expansion and condominium launches; runway depends more on share gain and product mix than structural market growth.",
+        "4. Positive Catalysts": "Catalysts: backlog transfer, new launches, easing mortgage conditions/rates, stronger low-rise demand, dividend. Probability medium-high; impact medium-high over 6-24 months.",
+        "5. Competitors": "Peers include SIRI, SPALI, LH, QH and other Thai developers. AP stands out for breadth and execution, while sector-wide affordability and mortgage approvals remain constraints.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB20.41bn +14.8% YoY and NPAT THB1.97bn +5.2%. Growth was volume/transfer-led while GP margin fell to 30.27% from 31.93%, showing mix/competition pressure.",
+        "7. Regulation": "Key rules: EIA/building permits, land-use/zoning, LTV/mortgage regulation, property taxes and consumer protection. Easing credit helps sales; tighter LTV and bank underwriting hurt conversion.",
+        "8. Narrative & Sentiment": "Narrative: quality property value/dividend play. Sentiment is neutral-to-improving if rates ease, but property remains discounted because of household debt and weak affordability.",
+        "9. Valuation Effect": "At 8.00 baht, valuation is around mid-single-digit P/E and ~0.5x P/BV with ~6%+ dividend yield. Cheap, but rerating needs evidence that margins and cash conversion have stabilized.",
+        "10. Earnings & Macro": "Base: modest transfer growth with stable backlog. Bull: rate/credit easing lifts take-up and multiple. Bear: weak economy, mortgage rejection and inventory discounting. 3-5y return comes mainly from earnings normalization + dividend.",
+        "11. Risk Radar": "Top risks: housing downturn, mortgage rejection, inventory/working capital, margin competition, interest rates. Monitor presales, cancellations, backlog, GP margin, OCF, IBD/E and inventory."
+      },
+      "thesis": "Low P/E/PBV, strong backlog, broad low-rise franchise and disciplined leverage create attractive risk/reward if housing demand stabilizes.",
+      "bear": "Mortgage rejection, weak purchasing power, heavy inventory and price competition can compress margins and delay cash conversion even when presales look healthy.",
+      "teamComment": "",
+      "marketBelieves": "AP is a mature value/dividend property name with limited growth but strong execution.",
+      "marketMissing": "The market may underprice backlog quality, provincial expansion and operating discipline if transfers normalize, but could still underestimate prolonged mortgage tightness.",
+      "variables": "Presales, transfers, backlog conversion, GP margin, mortgage rejection rate, inventory, IBD/E, land purchases, dividend.",
+      "fit": "Value/dividend investor comfortable with Thai housing-cycle and inventory risk.",
+      "moatStatus": "มี",
+      "moatReason": "Brand, land sourcing/development execution, nationwide project platform, product-design capability and scale create a moderate durable advantage, though property remains cyclical.",
+      "industryComparison": "Compare Thai residential developers on presales, backlog, transfers, GP margin, IBD/E, inventory turns, ROE, P/E, P/BV and dividend yield.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/AP-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AP/factsheet"
+        },
+        {
+          "label": "Q2/2026 MD&A",
+          "url": "https://ap.listedcompany.com/misc/MDNA/20260813-ap-mdna-2q2026-en.pdf"
+        }
+      ],
+      "price": 8.0,
+      "marketCap": 25167.2,
+      "pe": 5.7,
+      "pbv": 0.54,
+      "evEbitda": null
+    },
+    {
+      "rank": 82,
+      "ticker": "AEONTS",
+      "company": "AEON Thana Sinsap (Thailand) PCL.",
+      "sector": "Finance & Securities",
+      "valuation": "Cheap",
+      "period": "6M FY2027 / Q2 FY2027",
+      "qNpat": 642.361,
+      "periodNpat": 1435.371,
+      "npatGrowth": -8.2,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "",
+      "debtEbitdaNote": "Finance company: Debt/EBITDA N/A",
+      "score": 7.375,
+      "flags": [
+        "Consumer Finance",
+        "Credit Card",
+        "Personal Loan",
+        "Buyback",
+        "Low P/BV"
+      ],
+      "summary": "AEONTS is a mature consumer-finance franchise trading below book around the snapshot. 6M FY2027 attributable NPAT fell ~8.2% YoY to THB1.44bn as credit costs remained meaningful, but balance-sheet funding and cash generation remain solid. Upside depends on credit-cost normalization.",
+      "framework": {
+        "1. Management": "AEON Financial Service/Japan-linked management provides consumer-finance expertise and funding discipline. Managing Director Toshiya Shimakata leads the business. A 2026 share-repurchase program signals capital-return discipline.",
+        "2. Product / Moat": "Credit cards, personal loans and hire purchase. Moat comes from AEON brand/ecosystem, merchant reach, customer data, collections and underwriting experience.",
+        "3. TAM / Growth Runway": "Thai unsecured consumer finance is large but mature. Growth runway is selective customer acquisition, digital channels, cross-sell and regional/merchant ecosystem rather than rapid balance-sheet expansion.",
+        "4. Positive Catalysts": "Catalysts: lower credit cost/ECL, better collections, lower funding cost, buyback, consumer recovery. Probability medium; impact high over 6-18 months.",
+        "5. Competitors": "Competitors include KTC, TIDLOR, MTC, SAWAD, banks and digital lenders. AEONTS has long credit-card/personal-loan experience but faces intense pricing and risk-selection competition.",
+        "6. Revenue Growth & Margin": "6M FY2027 attributable NPAT THB1.44bn -8.2% YoY; Q2 NPAT THB642m -18.9%. Total revenue was THB8.95bn and ECL expense remained high, so earnings recovery depends primarily on credit cost.",
+        "7. Regulation": "BOT consumer-credit regulation, interest-rate caps, responsible lending, debt restructuring and data/privacy rules directly affect yield, approval rates and credit cost. Regulation is both barrier and margin constraint.",
+        "8. Narrative & Sentiment": "Narrative: deep-value consumer finance waiting for asset-quality normalization. Sentiment is cautious/neutral; a sustained decline in ECL would improve momentum.",
+        "9. Valuation Effect": "At 90.25 baht with 250m shares, market cap ~THB22.56bn. Historical snapshot valuation was around ~0.8x P/BV and high-single-digit P/E. Cheap if normalized ROE returns; value trap risk if credit cost stays elevated.",
+        "10. Earnings & Macro": "Base: subdued growth, gradual credit-cost normalization. Bull: collections improve and rates fall. Bear: unemployment/household stress raises NPL/ECL. 3-5y return depends on ROE restoration and dividends/buyback.",
+        "11. Risk Radar": "Top risks: consumer credit deterioration, regulatory caps, funding cost, competition, macro slowdown. Monitor NPL/ECL, receivable growth, ROE, funding mix and liquidity."
+      },
+      "thesis": "Strong consumer-finance franchise, low valuation and potential credit-cost normalization offer upside; share repurchase supports alignment.",
+      "bear": "Weak household finances, high ECL, regulatory caps and funding costs can keep ROE and profit under pressure.",
+      "teamComment": "",
+      "marketBelieves": "AEONTS is cheap because consumer credit quality and growth are weak.",
+      "marketMissing": "If ECL normalizes faster than receivable growth slows, earnings can recover without aggressive balance-sheet expansion.",
+      "variables": "Receivables, NPL, ECL/credit cost, collection efficiency, funding cost, NIM/yield, card spending, personal loans, buyback.",
+      "fit": "Value/income investor comfortable with consumer-credit and regulatory risk.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "AEON ecosystem, merchant network, underwriting data and funding access create advantages, but unsecured lending is competitive and regulation constrains pricing.",
+      "industryComparison": "Compare consumer-finance peers on receivable growth, yield, credit cost/ECL, NPL, coverage, funding cost, ROE, capital and P/BV/P-E.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "6M FY2027 / Q2 FY2027",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2 FY2027 F45",
+          "url": "https://www.tfex.co.th/en/market-data/news-and-notice/trading-notice/newsdetails?id=107043300&symbol=AEONTS"
+        },
+        {
+          "label": "Latest Financial Statements",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AEONTS/financial-statement/latest/income"
+        },
+        {
+          "label": "Historical Price",
+          "url": "https://investor.aeon.co.th/en/stock-information/historical-price"
+        }
+      ],
+      "price": 90.25,
+      "marketCap": 22562.5,
+      "pe": 7.0,
+      "pbv": 0.8,
+      "evEbitda": null
+    },
+    {
+      "rank": 83,
+      "ticker": "BAM",
+      "company": "Bangkok Commercial Asset Management PCL.",
+      "sector": "Finance & Securities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 234.087,
+      "periodNpat": 450.738,
+      "npatGrowth": -70.2,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "",
+      "debtEbitdaNote": "AMC: Debt/EBITDA N/A",
+      "score": 7.0,
+      "flags": [
+        "AMC",
+        "NPL/NPA",
+        "Credit Cycle",
+        "Recovery",
+        "High Leverage"
+      ],
+      "summary": "BAM has a real scale moat in distressed-asset management, but 1H26 profit fell to THB451m from THB1.51bn as last year's base included stronger recoveries. At ~0.5x P/BV the stock is inexpensive, yet leverage and collection execution justify a discount.",
+      "framework": {
+        "1. Management": "State-linked/strategic ownership background and professional AMC management. CEO Dr. Rak Vorrakitpokatorn and executive team focus on collections, asset monetization and portfolio purchases. Capital discipline is critical due to leverage.",
+        "2. Product / Moat": "BAM buys/manages NPLs and NPAs. Moat comes from one of Thailand's largest servicing platforms, legal/restructuring expertise, property disposition network and long workout data.",
+        "3. TAM / Growth Runway": "TAM rises with banking-system NPL sales and household/SME stress. SOM depends on auction discipline, funding capacity and recovery execution; growth is counter-cyclical.",
+        "4. Positive Catalysts": "Catalysts: larger NPL supply, higher cash collections, property-market recovery, lower funding costs, strategic partnerships. Probability medium; impact high over 12-36 months.",
+        "5. Competitors": "Peers include JMT and other AMCs/bank AMCs. BAM has scale and asset depth but historically lower ROE and slower monetization than best-in-class private operators.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB4.64bn and NPAT THB451m vs THB1.51bn prior year. Earnings are recovery/collection-driven and can be lumpy; OCF was positive ~THB998m.",
+        "7. Regulation": "AMC licenses, BOT rules, debt-collection law, consumer protection, foreclosure/legal process and accounting for purchased impaired assets affect economics. Regulation creates entry barriers but can lengthen recovery.",
+        "8. Narrative & Sentiment": "Narrative: deep-value AMC with optionality from rising NPL supply. Sentiment is cautious because low ROE and volatile profit outweigh asset-value appeal.",
+        "9. Valuation Effect": "At 6.45 baht, market cap ~THB20.85bn and P/BV around ~0.5x. Fair Value rather than Cheap until ROE/collections visibly improve; low P/BV alone is not sufficient.",
+        "10. Earnings & Macro": "Base: collections gradually normalize. Bull: NPL supply bought at attractive IRRs + lower rates. Bear: weak property market and slow legal recovery. 3-5y return depends on cash recovery spread over funding cost.",
+        "11. Risk Radar": "Top risks: collection/recovery shortfall, leverage/refinancing, funding cost, property-price weakness, aggressive NPL purchase pricing."
+      },
+      "thesis": "Large NPL/NPA platform and low P/BV offer recovery optionality as the banking system sells more distressed assets and collections improve.",
+      "bear": "Cash collections are lumpy; high leverage/funding cost and weak asset recoveries can suppress ROE for a long period.",
+      "teamComment": "",
+      "marketBelieves": "BAM is asset-rich but low-ROE, with volatile collections and limited near-term earnings visibility.",
+      "marketMissing": "A stronger NPL supply cycle can improve future purchase economics, but benefits require disciplined pricing and efficient recoveries.",
+      "variables": "Cash collections, NPL/NPA purchases, recovery yield, interest/funding cost, D/E, ROE, auctions, property sales.",
+      "fit": "Contrarian/credit-cycle investor comfortable with lumpy earnings and collection timing.",
+      "moatStatus": "มี",
+      "moatReason": "Scale, workout expertise, legal/recovery infrastructure, long NPL/NPA data and funding access create barriers in asset management.",
+      "industryComparison": "Compare AMC peers on cash collections, NPL/NPA acquisition price, recovery yield, cost-to-collect, funding cost, D/E, ROE and P/BV.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105916200&symbol=BAM"
+        },
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/BAM-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.settrade.com/th/equities/quote/bam/historical-trading"
+        }
+      ],
+      "price": 6.45,
+      "marketCap": 20846.67,
+      "pe": 28.0,
+      "pbv": 0.48,
+      "evEbitda": null
+    },
+    {
+      "rank": 84,
+      "ticker": "BCPG",
+      "company": "BCPG PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 876.94,
+      "npatGrowth": -275.9,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "",
+      "debtEbitdaNote": "Energy: EV/EBITDA / Net Debt-EBITDA",
+      "score": 7.6875,
+      "flags": [
+        "Renewables",
+        "Power",
+        "Turnaround",
+        "Dividend",
+        "Low P/BV"
+      ],
+      "summary": "BCPG is a renewable-power turnaround: 1H26 attributable NPAT rebounded to THB877m from a loss, EBITDA more than doubled to THB2.54bn, while the stock traded ~0.67x P/BV and ~7.5x EV/EBITDA on 9-Oct. Balance-sheet leverage remains the key constraint.",
+      "framework": {
+        "1. Management": "Bangchak-related renewable platform with professional energy management. Management is shifting focus toward portfolio optimization, cash flow and growth projects; leverage and capital allocation are critical.",
+        "2. Product / Moat": "Renewable generation and power investments across solar, hydro, wind and other assets. Moat is moderate through permits, PPAs, development capability, financing relationships and portfolio scale.",
+        "3. TAM / Growth Runway": "Decarbonization and regional electricity demand provide long runway. SAM is constrained by bankable PPAs, grid access and project returns; growth can come from greenfield, M&A and asset optimization.",
+        "4. Positive Catalysts": "Catalysts: new project COD, stronger hydro/resource conditions, lower funding costs, asset recycling, dividend and earnings normalization. Probability medium-high / impact high.",
+        "5. Competitors": "Peers include GPSC, BGRIM, GULF, CKP and renewable developers. BCPG is smaller and more leveraged but trades at a lower multiple.",
+        "6. Revenue Growth & Margin": "1H26 operating revenue THB1.91bn +26%; EBITDA THB2.54bn vs THB1.08bn; attributable NPAT THB877m versus -THB498m. Improvement reflects stronger operations/other income and base effects.",
+        "7. Regulation": "Energy licenses, PPA terms, tariff policy, grid connection, environmental permits and cross-border regulation affect revenue/capex. Contracted PPAs are barriers; policy changes can alter project returns.",
+        "8. Narrative & Sentiment": "Narrative: renewable turnaround + value. Sentiment is improving after a return to profit, but leverage keeps the market cautious.",
+        "9. Valuation Effect": "On 9-Oct, P/E ~8.7x, P/BV ~0.67x, EV/EBITDA ~7.5x and dividend yield ~5.4%. Cheap if earnings/cash flow sustain; multiple expansion requires deleveraging.",
+        "10. Earnings & Macro": "Base: stable power output and gradual debt improvement. Bull: strong resource conditions/COD and rate cuts. Bear: weak generation, delays or refinancing stress. 3-5y return = EBITDA growth + dividend + possible rerating.",
+        "11. Risk Radar": "Top risks: leverage/refinancing, project execution, resource variability, regulatory/PPA risk, FX/cross-border exposure."
+      },
+      "thesis": "Earnings turnaround, low valuation, renewable portfolio and dividend provide rerating potential if cash flow/deleveraging improve.",
+      "bear": "Project leverage, refinancing, resource variability and execution can absorb operating gains; cheap P/BV may persist without stronger FCF.",
+      "teamComment": "",
+      "marketBelieves": "BCPG is a leveraged renewable turnaround rather than a premium growth platform.",
+      "marketMissing": "The market may underprice normalized earnings from newer assets and cost/refinancing improvements if deleveraging accelerates.",
+      "variables": "Operating MW, capacity factor, electricity price/PPA, EBITDA, net debt, refinancing cost, project COD, asset recycling, dividend.",
+      "fit": "Value/renewable-infrastructure investor comfortable with project leverage, power-price and execution risk.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Long-lived contracted power assets, development pipeline and Bangchak ecosystem create barriers, but returns depend on project economics, financing and resource quality.",
+      "industryComparison": "Compare renewable/IPPs on operating MW, contracted capacity, EBITDA, CFADS, net debt/EBITDA, project IRR, dividend and EV/EBITDA/PBV.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Factsheet 09-Oct-2026",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BCPG/factsheet"
+        },
+        {
+          "label": "Q2/2026 MD&A",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105652801&symbol=BCPG"
+        },
+        {
+          "label": "Latest Financial Statements",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/BCPG/financial-statement/latest/income"
+        }
+      ],
+      "price": 6.45,
+      "marketCap": 19322.65,
+      "pe": 8.66,
+      "pbv": 0.67,
+      "evEbitda": 7.54
+    },
+    {
+      "rank": 85,
+      "ticker": "PRM",
+      "company": "Prima Marine PCL.",
+      "sector": "Transportation & Logistics",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 1172.08,
+      "npatGrowth": -0.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "",
+      "debtEbitdaNote": "Shipping: EV/EBITDA / Net Debt-EBITDA",
+      "score": 7.5625,
+      "flags": [
+        "Marine Logistics",
+        "Tanker",
+        "FSU",
+        "OSV",
+        "Dividend"
+      ],
+      "summary": "PRM is a specialized marine-logistics franchise with stable 1H26 profit of THB1.17bn, diversified across tanker, FSU and offshore support. At ~6x EV/EBITDA and with recurring dividends, valuation is reasonable; key risks are fleet capex and energy/shipping cycles.",
+      "framework": {
+        "1. Management": "Founder/family-influenced Thai marine-logistics operator with professional management. Long operating history in petroleum shipping and offshore support; capital allocation centers on fleet renewal/expansion and dividends.",
+        "2. Product / Moat": "Five segments: petroleum/chemical tanker, crude carrier, FSU, OSV, and ship agency. Moat comes from specialized assets, safety/operating track record, customer relationships and regulatory qualification.",
+        "3. TAM / Growth Runway": "Thailand/ASEAN petroleum logistics and offshore E&P create a durable service market. Runway comes from fleet expansion, OSV/offshore recovery, FSU demand and regional routes.",
+        "4. Positive Catalysts": "Catalysts: higher utilization/charter rates, OSV/offshore cycle, new fleet contribution, lower financing costs, dividend. Probability medium-high / impact medium.",
+        "5. Competitors": "Competitors are domestic/regional tanker and offshore-vessel operators. PRM benefits from scale/diversification, while global shipping cycles still influence asset returns.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB4.57bn +0.5% YoY and NPAT THB1.17bn roughly flat. Earnings stability despite higher expenses indicates mature cash generation; growth needs fleet/mix improvement.",
+        "7. Regulation": "Maritime safety, cabotage, vessel registration, IMO environmental rules, oil-spill liability and offshore regulations matter. Compliance/capital requirements create barriers but raise capex.",
+        "8. Narrative & Sentiment": "Narrative: defensive shipping/dividend with offshore optionality. Sentiment is neutral-positive; market wants evidence that new fleet earns attractive returns.",
+        "9. Valuation Effect": "09-Oct price 8.60 implies ~THB19.09bn market cap. Mid-Oct SET EV/EBITDA ~5.8x and P/E ~9x; Fair Value with dividend support, with rerating dependent on ROIC growth.",
+        "10. Earnings & Macro": "Base: stable tanker/FSU with gradual OSV growth. Bull: offshore cycle + new vessels raise utilization. Bear: rates/utilization fall or capex runs ahead of demand. 3-5y return driven by EBITDA + dividend.",
+        "11. Risk Radar": "Top risks: fleet capex/asset utilization, charter-rate cycle, fuel/maintenance, customer concentration, maritime/environment regulation."
+      },
+      "thesis": "Niche fleet scale, high barriers, diversified marine services and dividend support a durable cash-flow profile at a reasonable valuation.",
+      "bear": "Fleet expansion can destroy returns if charter rates/utilization weaken; maintenance, fuel, regulation and customer concentration can pressure margins.",
+      "teamComment": "",
+      "marketBelieves": "PRM is a stable dividend marine-logistics name with limited near-term profit growth.",
+      "marketMissing": "OSV/FSU mix and disciplined fleet investment could improve ROIC if offshore activity and utilization remain firm.",
+      "variables": "Fleet utilization, charter rates, FSU/OSV demand, vessel additions/disposals, EBITDA margin, net debt, capex, dividend.",
+      "fit": "Income/industrial-infrastructure investor comfortable with shipping cycles and fleet capex.",
+      "moatStatus": "มี",
+      "moatReason": "Specialized fleet, operating permits, customer relationships, safety track record and scale in Thai petroleum marine logistics create meaningful entry barriers.",
+      "industryComparison": "Compare marine-logistics/shipping peers on fleet size/age, utilization, charter rates, EBITDA margin, contracted revenue, net debt/EBITDA, ROIC and EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/PRM-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PRM/factsheet"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/PRM/historical-trading"
+        }
+      ],
+      "price": 8.6,
+      "marketCap": 19092.0,
+      "pe": 9.0,
+      "pbv": 1.55,
+      "evEbitda": 5.9
     }
   ]
 }
