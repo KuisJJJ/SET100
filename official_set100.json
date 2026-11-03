@@ -1,0 +1,11 @@
+{
+  "universe": "SET100",
+  "period": "Q4/2026",
+  "effectiveNote": "Validated from SET Eligible Underlying / current SET100 cross-check on 2026-11-03",
+  "validatedAt": "2026-11-03",
+  "source": "https://www.set.or.th/en/listing/other-instruments/dw/eligible-underlying",
+  "tickers": [
+    "ADVANC","AOT","AWC","BANPU","BBL","BCP","BDMS","BEM","BH","BJC","CCET","COM7","CPALL","CPF","CPN","CRC","DELTA","EGCO","GPSC","GULF","HMPRO","IVL","KBANK","KKP","KTB","KTC","LH","MINT","MRDIYT","MTC","OR","OSP","PTT","PTTEP","PTTGC","RATCH","SCB","SCC","SCGP","TCAP","TFG","THAI","TIDLOR","TISCO","TLI","TOP","TRUE","TTB","TU","WHA",
+    "AAV","AEONTS","AMATA","AP","AURA","BA","BAM","BCH","BCPG","BGRIM","BLA","BTG","BTS","CBG","CENTEL","CHG","CK","DOHOME","EA","ERW","GFPT","GLOBAL","GST","GUNKUL","HANA","ICHI","IRPC","JMART","JMT","KCE","M","MEGA","MOSHI","PLANB","PR9","PRM","PTG","QH","RCL","SAWAD","SIRI","SPALI","SPRC","STA","STECON","STGT","TASCO","TOA","VGI","WHAUP"
+  ]
+}
