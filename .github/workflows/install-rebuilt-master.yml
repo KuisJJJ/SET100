@@ -1,0 +1,54 @@
+name: Install Rebuilt SET100 Master
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'master_payload/chunk08.txt'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: set100-master-install
+  cancel-in-progress: false
+
+jobs:
+  install-master:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify payload
+        run: |
+          for n in 01 02 03 04 05 06 07 08; do
+            test -s "master_payload/chunk${n}.txt" || { echo "Missing chunk ${n}"; exit 1; }
+          done
+
+      - name: Rebuild Master Excel
+        run: |
+          cat master_payload/chunk01.txt master_payload/chunk02.txt master_payload/chunk03.txt master_payload/chunk04.txt master_payload/chunk05.txt master_payload/chunk06.txt master_payload/chunk07.txt master_payload/chunk08.txt | base64 --decode > SET100_Investment_Research_Master.xlsx
+          python - <<'PY'
+          import zipfile
+          p='SET100_Investment_Research_Master.xlsx'
+          with zipfile.ZipFile(p) as z:
+              bad=z.testzip()
+              if bad:
+                  raise SystemExit(f'Corrupt xlsx member: {bad}')
+              names=set(z.namelist())
+              required={'xl/workbook.xml','xl/worksheets/sheet2.xml','xl/worksheets/sheet7.xml'}
+              missing=required-names
+              if missing:
+                  raise SystemExit(f'Missing required xlsx parts: {sorted(missing)}')
+          print('Master XLSX integrity OK')
+          PY
+
+      - name: Commit rebuilt master and remove temporary payload
+        run: |
+          git config user.name "set100-rebuild-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add SET100_Investment_Research_Master.xlsx
+          git rm -r master_payload
+          git commit -m "restore: rebuild SET100 master with 80 researched companies"
+          git push
