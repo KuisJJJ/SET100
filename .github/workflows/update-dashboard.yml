@@ -6,10 +6,15 @@ on:
     paths:
       - 'SET100_Investment_Research_Master.xlsx'
       - 'scripts/**'
+      - '.github/workflows/update-dashboard.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: set100-dashboard-build
+  cancel-in-progress: true
 
 jobs:
   build-data:
@@ -29,20 +34,25 @@ jobs:
       - name: Generate data.json from Excel
         run: python scripts/excel_to_json.py
 
+      - name: Refresh all stock market data and validate SET100
+        env:
+          SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
+        run: python scripts/update_data.py
+
       - name: Refresh SET Index
         run: python scripts/update_set_index.py
 
-      - name: Apply dashboard UI patch
+      - name: Apply Thai UI and dashboard theme
         run: python scripts/patch_dashboard_ui.py
 
       - name: Commit synchronized files
         run: |
-          if git diff --quiet -- data.json team_comments.json SET100_Investment_Research_Master.xlsx index.html; then
+          if git diff --quiet -- data.json update_status.json team_comments.json SET100_Investment_Research_Master.xlsx index.html; then
             echo "No synchronized changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json team_comments.json SET100_Investment_Research_Master.xlsx index.html
-          git commit -m "Sync dashboard data, refresh SET Index and apply UI layout"
+          git add data.json update_status.json team_comments.json SET100_Investment_Research_Master.xlsx index.html
+          git commit -m "Sync dashboard data, stock market data, SET Index and Thai UI"
           git push
