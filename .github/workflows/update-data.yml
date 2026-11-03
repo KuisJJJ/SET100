@@ -24,10 +24,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Update market data and validate universe
+      - name: Update stock market data and validate universe
         env:
           SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
         run: python scripts/update_data.py --ticker "${{ github.event.inputs.ticker || '' }}"
+      - name: Update SET Index
+        run: python scripts/update_set_index.py
       - name: Commit generated data
         run: |
           git config user.name "set100-update-bot"
