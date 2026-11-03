@@ -11,9 +11,6 @@ on:
     - cron: "15 5 * * 1-5"
     - cron: "45 9 * * 1-5"
     - cron: "15 11 * * 1-5"
-  push:
-    paths:
-      - "SET100_Investment_Research_Master.xlsx"
 permissions:
   contents: write
 concurrency:
