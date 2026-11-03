@@ -86,18 +86,42 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 
 @media(max-width:900px){.metrics{grid-template-columns:repeat(2,1fr)}.update-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:820px){.set-stats{grid-template-columns:repeat(2,1fr)}.kpis{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}
+
+/* v10 playful-professional theme */
+:root{--bg:#f8f7ff;--card:#ffffff;--ink:#18233b;--muted:#68738a;--line:#e4e2f1;--navy:#32245f;--blue:#5a54e8;--green:#178f66;--red:#d6455d;--amber:#d9822b;--pink:#f05ea8;--cyan:#29a9c7;--violet:#7c5ce7;--yellow:#ffd76a}
+body{background:radial-gradient(circle at 8% 4%,#fff1f7 0,transparent 23%),radial-gradient(circle at 94% 10%,#eefcff 0,transparent 26%),linear-gradient(180deg,#f8f7ff 0%,#f5f9ff 100%)}
+header{background:linear-gradient(120deg,#30205f 0%,#5547c8 47%,#218fac 100%);position:relative;overflow:hidden}
+header:after{content:"";position:absolute;width:260px;height:260px;border-radius:50%;background:rgba(255,215,106,.16);right:-70px;top:-100px}
+.kpi{background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.18);backdrop-filter:blur(5px)}
+.card{border-color:#e7e2f4;box-shadow:0 10px 30px rgba(65,54,125,.08)}
+.update-card{background:linear-gradient(135deg,#ffffff 0%,#fbf7ff 55%,#f0fbff 100%);border-top:4px solid var(--violet)}
+.set-card{background:linear-gradient(180deg,#fff 0%,#fbfcff 100%);border-top:4px solid var(--cyan)}
+.btn-primary{background:linear-gradient(135deg,var(--violet),#4e74e8)}
+button{background:linear-gradient(135deg,#33245f,#4d3f91);transition:transform .15s ease,box-shadow .15s ease}
+button:hover{transform:translateY(-1px);box-shadow:0 6px 14px rgba(50,36,95,.18)}
+.btn-soft{background:#f1efff;color:#5745c6;border:1px solid #dcd5ff}
+.score{color:#654ee8}.tag{background:linear-gradient(135deg,#f1efff,#ecfbff);color:#463989}
+.metric:nth-child(1){background:#fff4f9}.metric:nth-child(2){background:#f3f1ff}.metric:nth-child(3){background:#effaff}.metric:nth-child(4){background:#f0fbf6}.metric:nth-child(5){background:#fff8e8}
+.cheap{background:#e7f8ef;color:#147b56}.fair{background:#eeeaff;color:#5947c8}.exp{background:#fff2df;color:#a65b00}.vexp{background:#ffe7ec;color:#bd2f4b}
+#setFilterRow{background:#fff;padding:12px;border:1px solid #e7e2f4;border-radius:14px;box-shadow:0 7px 20px rgba(65,54,125,.06)}
+input,select{border-color:#ddd8ee;box-shadow:inset 0 1px 0 rgba(255,255,255,.7)}
+input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92,231,.14);border-color:#8b74e8}
+.team-comment-input{width:100%;resize:vertical;font-family:inherit;background:linear-gradient(180deg,#fffdf2,#fff);border:1px solid #eadf9c}
+.team-comment-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:7px}.team-comment-actions button{padding:7px 10px;font-size:11px}.team-comment-saved{font-size:11px;color:var(--green);font-weight:700}
+.chart-line{stroke:#6654e8}.chart-dot{fill:#f05ea8}.set-stat:nth-child(1){background:#f3f1ff}.set-stat:nth-child(2){background:#f0fbf6}.set-stat:nth-child(3){background:#fff1f5}.set-stat:nth-child(4){background:#effaff}
+
 </style>
 </head>
 <body>
 <header><div class="wrap">
-<div style="font-size:12px;letter-spacing:.12em;opacity:.8">SET100 DEEP RESEARCH</div>
+<div style="font-size:12px;letter-spacing:.12em;opacity:.8">วิจัยหุ้น SET100 เชิงลึก</div>
 <h1>Dashboard วิเคราะห์การลงทุน SET100</h1>
 <p class="sub">ลำดับการวิเคราะห์ = Market Cap 100% • เปรียบเทียบเฉพาะ Industry / Peer Group ที่เกี่ยวข้อง • แหล่งข้อมูลหลัก = SET / SETTRADE / Company IR</p>
 <div class="kpis">
 <div class="kpi"><span>ความคืบหน้า</span><b id="progress">–</b><small>บริษัทที่วิเคราะห์แล้ว</small></div>
-<div class="kpi"><span>Market Data</span><b id="marketDate">–</b><small>วันที่ข้อมูลตลาดล่าสุด</small></div>
-<div class="kpi"><span>Financial Data</span><b id="financialDate">–</b><small>งบที่ใช้วิเคราะห์</small></div>
-<div class="kpi"><span>Research Review</span><b id="researchDate">–</b><small>วันที่ทบทวนบทวิเคราะห์</small></div>
+<div class="kpi"><span>ราคาหุ้นล่าสุด</span><b id="marketDate">–</b><small>วันที่ข้อมูลตลาดล่าสุด</small></div>
+<div class="kpi"><span>งบการเงิน</span><b id="financialDate">–</b><small>งบที่ใช้วิเคราะห์</small></div>
+<div class="kpi"><span>ทบทวนบทวิเคราะห์</span><b id="researchDate">–</b><small>วันที่ทบทวนบทวิเคราะห์</small></div>
 </div>
 <div class="refreshline">Dashboard อ่านข้อมูลจาก <b>data.json</b> • Team Comment มาจาก Master Excel ผ่าน GitHub Actions อัตโนมัติ</div>
 </div></header>
@@ -107,42 +131,42 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 <section class="card update-card">
 <div class="update-head">
   <div>
-    <div class="update-title">Update Center</div>
-    <div class="update-sub">ตรวจข้อมูลล่าสุดจาก data.json, สถานะ Universe, Financials และ Research โดยไม่เขียนทับ Investment Thesis / Score / Team Comment อัตโนมัติ</div>
+    <div class="update-title">ศูนย์อัปเดตข้อมูล</div>
+    <div class="update-sub">ตรวจราคาหุ้น ดัชนี SET รายชื่อ SET100 งบการเงิน และสถานะบทวิเคราะห์ โดยไม่เขียนทับมุมมองการลงทุนอัตโนมัติ</div>
   </div>
   <div class="update-actions">
-    <button id="updateAllBtn" class="btn-primary">🔄 Update Data</button>
-    <button id="openWorkflowBtn" class="btn-soft">เปิด GitHub Actions</button>
+    <button id="updateAllBtn" class="btn-primary">🔄 อัปเดตข้อมูล</button>
+    <button id="openWorkflowBtn" class="btn-soft">เปิดระบบอัปเดต GitHub</button>
   </div>
 </div>
 <div class="update-grid">
-  <div class="update-stat"><small>Market Data</small><b id="uMarket">–</b></div>
-  <div class="update-stat"><small>SET100 Universe</small><b id="uUniverse">–</b></div>
-  <div class="update-stat"><small>Financials</small><b id="uFinancial">–</b></div>
-  <div class="update-stat"><small>Research</small><b id="uResearch">–</b></div>
+  <div class="update-stat"><small>ราคาหุ้น</small><b id="uMarket">–</b></div>
+  <div class="update-stat"><small>รายชื่อ SET100</small><b id="uUniverse">–</b></div>
+  <div class="update-stat"><small>งบการเงิน</small><b id="uFinancial">–</b></div>
+  <div class="update-stat"><small>บทวิเคราะห์</small><b id="uResearch">–</b></div>
 </div>
 <div class="update-progress" id="updateProgress"><div></div></div>
 <div id="universeAlert" class="universe-alert"></div>
 <div id="updateLog" class="update-log"></div>
-<div class="update-note">หมายเหตุ: ปุ่ม Update Data รีโหลดข้อมูลล่าสุดแบบ no-cache; หากต้องการบังคับให้ GitHub ดึงข้อมูลตลาดใหม่ทันที ให้กด “เปิด GitHub Actions” แล้ว Run workflow ก่อน</div>
+<div class="update-note">หมายเหตุ: ปุ่ม Update Data รีโหลดข้อมูลล่าสุดแบบ no-cache; หากต้องการบังคับให้ GitHub ดึงข้อมูลตลาดใหม่ทันที ให้กด “เปิดระบบอัปเดต GitHub” แล้ว Run workflow ก่อน</div>
 </section>
 
 <div class="toolbar">
-<button id="refreshBtn">↻ Reload Dashboard</button>
+<button id="refreshBtn">↻ โหลด Dashboard ใหม่</button>
 </div>
 <div id="error" class="error"></div>
 
 <section class="set-card card">
 <div class="set-head">
   <div>
-    <div class="set-title">SET Index</div>
+    <div class="set-title">ดัชนี SET</div>
     <div id="setLast" class="set-last">–</div>
     <div id="setChange" class="set-change">–</div>
   </div>
   <div class="set-stats">
-    <div class="set-stat"><small>Open</small><b id="setOpen">–</b></div>
-    <div class="set-stat"><small>High</small><b id="setHigh">–</b></div>
-    <div class="set-stat"><small>Low</small><b id="setLow">–</b></div>
+    <div class="set-stat"><small>เปิด</small><b id="setOpen">–</b></div>
+    <div class="set-stat"><small>สูงสุด</small><b id="setHigh">–</b></div>
+    <div class="set-stat"><small>ต่ำสุด</small><b id="setLow">–</b></div>
     <div class="set-stat"><small>มูลค่าซื้อขาย</small><b id="setValue">–</b></div>
   </div>
 </div>
@@ -171,17 +195,17 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 </section>
 
 <details class="info-details">
-<summary>ⓘ หลักการอ่าน Dashboard</summary>
+<summary>ⓘ วิธีอ่าน Dashboard</summary>
 <div class="info-box">
-<p><b>ไม่จัดอันดับหรือเปรียบเทียบหุ้นระหว่างกัน</b> หากมี Peer Comparison จะใช้เฉพาะ Industry / Business Model ที่เกี่ยวข้อง</p>
-<p>Summary แสดง ราคา, Market Cap, P/E, กำไรสุทธิ, Debt / EBITDA และระบุ Moat: มี / ไม่มี พร้อมเหตุผล</p>
+<p><b>อันดับในระบบเป็นอันดับตามมูลค่าตลาด ไม่ใช่อันดับความน่าลงทุน</b> การเปรียบเทียบจะใช้เฉพาะบริษัทที่มีอุตสาหกรรมหรือโมเดลธุรกิจใกล้เคียงกัน</p>
+<p>การ์ดหุ้นแสดงราคา มูลค่าตลาด P/E การเติบโตของกำไร หนี้/EBITDA ความได้เปรียบในการแข่งขัน ประเด็นลงทุน ความเสี่ยง และความเห็นของทีม</p>
 </div>
 </details>
 
 <div class="toolbar" id="setFilterRow">
-<input id="q" placeholder="ค้นหา Ticker / Sector / Flag">
-<select id="valuation"><option value="">Valuation ทั้งหมด</option><option>Cheap</option><option>Fair Value</option><option>Expensive</option><option>Very Expensive</option></select>
-<select id="status"><option value="">Update Status ทั้งหมด</option><option>Current</option><option>New Results Available</option><option>Research Needs Update</option></select>
+<input id="q" placeholder="ค้นหา Ticker / อุตสาหกรรม / ธีม">
+<select id="valuation"><option value="">มูลค่าหุ้นทั้งหมด</option><option value="Cheap">ถูก</option><option value="Fair Value">เหมาะสม</option><option value="Expensive">แพง</option><option value="Very Expensive">แพงมาก</option></select>
+<select id="status"><option value="">สถานะข้อมูลทั้งหมด</option><option value="Current">ข้อมูลปัจจุบัน</option><option value="New Results Available">มีงบใหม่</option><option value="Research Needs Update">ต้องทบทวนบทวิเคราะห์</option></select>
 <select id="industryFilter" aria-label="กรองตามอุตสาหกรรม"><option value="">ทุกอุตสาหกรรม</option></select>
 </div>
 <div id="cards" class="grid"></div>
@@ -198,8 +222,8 @@ let DATA=[],META={};
 
 function valClass(v){if(v==="Cheap"||v==="Very Cheap")return"cheap";if(v==="Fair Value")return"fair";if(v==="Very Expensive")return"vexp";return"exp"}
 function statusClass(v){if(v==="Current")return"current";if(v==="New Results Available")return"newresults";if(v==="Research Needs Update")return"needsupdate";return"pending"}
-function statusLabel(v){if(v==="Current")return"🟢 Current";if(v==="New Results Available")return"🟡 New Results Available";if(v==="Research Needs Update")return"🔴 Research Needs Update";return"⚪ Pending"}
-function fmt(x,d=1){const n=Number(x);return Number.isFinite(n)?n.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d}):"N/A"}
+function statusLabel(v){if(v==="Current")return"🟢 ข้อมูลปัจจุบัน";if(v==="New Results Available")return"🟡 มีงบใหม่";if(v==="Research Needs Update")return"🔴 ต้องทบทวนบทวิเคราะห์";return"⚪ รอดำเนินการ"}
+function fmt(x,d=1){const n=Number(x);return Number.isFinite(n)?n.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d}):"ไม่มีข้อมูล"}
 function updateMeta(){document.getElementById("progress").textContent=`${META.companiesResearched||DATA.length} / ${META.totalUniverse||100}`;document.getElementById("marketDate").textContent=META.marketDataUpdated||"–";document.getElementById("financialDate").textContent=META.financialDataUpdated||"–";document.getElementById("researchDate").textContent=META.researchReviewed||"–"}
 
 function setUpdateProgress(p){
@@ -216,16 +240,16 @@ function addUpdateLog(t){
 function renderUpdateCenter(){
   const uv=META.universeValidation||{};
   document.getElementById("uMarket").textContent=META.marketDataUpdated?`🟢 ${META.marketDataUpdated}`:"⚪ Unknown";
-  document.getElementById("uUniverse").textContent=uv.ok===true?`🟢 Validated (${uv.officialCount||100})`:(uv.checkedAt?`🔴 Review required`:"⚪ Not checked");
+  document.getElementById("uUniverse").textContent=uv.ok===true?`🟢 ตรวจแล้ว (${uv.officialCount||100})`:(uv.checkedAt?`🔴 ต้องตรวจสอบ`:"⚪ ยังไม่ได้ตรวจ");
   const nr=DATA.filter(x=>x.updateStatus==="New Results Available").length;
   const ru=DATA.filter(x=>x.updateStatus==="Research Needs Update").length;
-  document.getElementById("uFinancial").textContent=nr?`🟡 ${nr} บริษัทมีข้อมูลใหม่`:"🟢 No new flag";
-  document.getElementById("uResearch").textContent=ru?`🔴 ${ru} บริษัทต้อง Review`:"🟢 Current";
+  document.getElementById("uFinancial").textContent=nr?`🟡 ${nr} บริษัทมีข้อมูลใหม่`:"🟢 ยังไม่มีงบใหม่";
+  document.getElementById("uResearch").textContent=ru?`🔴 ${ru} บริษัทต้องทบทวน`:"🟢 ปัจจุบัน";
   const alert=document.getElementById("universeAlert");
   const miss=uv.missingInMaster||[],extra=uv.extraInMaster||[],dup=uv.duplicates||[];
   if(uv.ok===false||miss.length||extra.length||dup.length){
     alert.style.display="block";
-    alert.innerHTML=`<b>⚠️ Universe Alert</b><br>Official SET100: ${uv.officialCount??"?"} • Master: ${uv.masterCount??DATA.length}<br>Missing: ${miss.length?miss.join(", "):"None"}<br>Extra: ${extra.length?extra.join(", "):"None"}<br>Duplicate: ${dup.length?dup.join(", "):"None"}${uv.error?`<br>${uv.error}`:""}`;
+    alert.innerHTML=`<b>⚠️ แจ้งเตือนรายชื่อ SET100</b><br>SET100 ทางการ: ${uv.officialCount??"?"} • ในฐานข้อมูล: ${uv.masterCount??DATA.length}<br>ขาด: ${miss.length?miss.join(", "):"ไม่มี"}<br>เกิน: ${extra.length?extra.join(", "):"ไม่มี"}<br>ซ้ำ: ${dup.length?dup.join(", "):"ไม่มี"}${uv.error?`<br>${uv.error}`:""}`;
   }else alert.style.display="none";
 }
 
@@ -336,6 +360,35 @@ function industryMatch(x){
  const sel=document.getElementById("industryFilter");
  return !sel || !sel.value || x.sector===sel.value;
 }
+function frameworkTitle(k){
+ const m={
+  "1. Management":"1. ผู้ถือหุ้นและผู้บริหาร",
+  "2. Product / Moat":"2. ธุรกิจและความได้เปรียบการแข่งขัน",
+  "3. TAM / Growth Runway":"3. ขนาดตลาดและพื้นที่การเติบโต",
+  "4. Positive Catalysts":"4. ปัจจัยบวกต่อราคาหุ้น",
+  "5. Competitors":"5. คู่แข่ง",
+  "6. Revenue Growth & Margin":"6. การเติบโตของรายได้และอัตรากำไร",
+  "7. Regulation":"7. กฎระเบียบที่เกี่ยวข้อง",
+  "8. Narrative & Sentiment":"8. เรื่องเล่าตลาดและความเชื่อมั่น",
+  "9. Valuation Effect":"9. ผลของมูลค่าหุ้น",
+  "10. Earnings & Macro":"10. ผลประกอบการและเศรษฐกิจมหภาค",
+  "11. Risk Radar":"11. เรดาร์ความเสี่ยง"
+ };
+ return m[k]||k;
+}
+function escText(s){return String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+function commentKey(t){return `set100-team-comment-${t}`;}
+function getTeamComment(t,master){const v=localStorage.getItem(commentKey(t));return v===null?(master||""):v;}
+function saveTeamComment(t){
+ const el=document.getElementById(`team-comment-${t}`); if(!el)return;
+ localStorage.setItem(commentKey(t),el.value);
+ const m=document.getElementById(`team-comment-msg-${t}`);if(m){m.textContent="บันทึกในอุปกรณ์นี้แล้ว";setTimeout(()=>m.textContent="",1800)}
+}
+function resetTeamComment(t,master){
+ localStorage.removeItem(commentKey(t));
+ const el=document.getElementById(`team-comment-${t}`);if(el)el.value=master||"";
+ const m=document.getElementById(`team-comment-msg-${t}`);if(m){m.textContent="คืนค่าจาก Master แล้ว";setTimeout(()=>m.textContent="",1800)}
+}
 
 function render(){
  const q=document.getElementById("q").value.toLowerCase(),val=document.getElementById("valuation").value,stat=document.getElementById("status").value;
@@ -346,35 +399,36 @@ function render(){
  });
  document.getElementById("cards").innerHTML=list.map(x=>`
  <article class="card" id="stock-${x.ticker}">
- <div class="top"><div><div class="ticker">${x.ticker}</div><div class="meta">MCap Rank #${x.rank} • ${x.sector}</div></div><div style="text-align:right"><div class="meta">Overall Score</div><div class="score">${fmt(x.score,1)}</div><span class="badge ${valClass(x.valuation)}">${x.valuation}</span></div></div>
+ <div class="top"><div><div class="ticker">${x.ticker}</div><div class="meta">อันดับมูลค่าตลาด #${x.rank} • ${x.sector}</div></div><div style="text-align:right"><div class="meta">คะแนนรวม</div><div class="score">${fmt(x.score,1)}</div><span class="badge ${valClass(x.valuation)}">${x.valuation}</span></div></div>
  <div style="margin-top:10px"><span class="status ${statusClass(x.updateStatus)}">${statusLabel(x.updateStatus)}</span></div>
  <div class="tags">${(x.flags||[]).map(f=>`<span class="tag">${f}</span>`).join("")}</div>
  <div class="metrics">
  <div class="metric"><small>ราคา</small><b>฿${fmt(x.price,2)}</b></div>
- <div class="metric"><small>Market Cap</small><b>${fmt(x.marketCap/1000,0)} bn</b></div>
+ <div class="metric"><small>มูลค่าตลาด</small><b>${fmt(x.marketCap/1000,0)} bn</b></div>
  <div class="metric"><small>P/E</small><b>${fmt(x.pe,1)}x</b></div>
  <div class="metric"><small>กำไรสุทธิ YoY</small><b>${fmt(x.npatGrowth,1)}%</b></div>
- <div class="metric"><small>Debt / EBITDA</small><b>${fmt(x.debtEbitda,2)}x</b></div>
+ <div class="metric"><small>หนี้ / EBITDA</small><b>${fmt(x.debtEbitda,2)}x</b></div>
  </div>
  <p>${x.summary||""}</p>
- <div class="stock-update"><button type="button" onclick="updateThisStock('${x.ticker}')">↻ Update ${x.ticker}</button></div>
- <div class="section"><h3>Moat</h3><div><b>${x.moatStatus||"N/A"}</b> — ${x.moatReason||""}</div></div>
- <div class="section"><h3>Debt / EBITDA</h3><div><b>${fmt(x.debtEbitda,2)}x</b> <span class="meta">(${x.debtEbitdaBasis||""})</span><br><span class="meta">${x.debtEbitdaNote||""}</span></div></div>
- <div class="section"><h3>Industry Comparison</h3><div>${x.industryComparison||""}</div></div>
- <div class="section"><h3>Investment Thesis</h3><div>${x.thesis||""}</div></div>
- <div class="section"><h3>Bear Thesis</h3><div>${x.bear||""}</div></div>
+ <div class="stock-update"><button type="button" onclick="updateThisStock('${x.ticker}')">↻ อัปเดต ${x.ticker}</button></div>
+ <div class="section"><h3>ความได้เปรียบในการแข่งขัน (Moat)</h3><div><b>${x.moatStatus||"N/A"}</b> — ${x.moatReason||""}</div></div>
+ <div class="section"><h3>หนี้ / EBITDA</h3><div><b>${fmt(x.debtEbitda,2)}x</b> <span class="meta">(${x.debtEbitdaBasis||""})</span><br><span class="meta">${x.debtEbitdaNote||""}</span></div></div>
+ <div class="section"><h3>เปรียบเทียบกับบริษัทในอุตสาหกรรม</h3><div>${x.industryComparison||""}</div></div>
+ <div class="section"><h3>ประเด็นลงทุน</h3><div>${x.thesis||""}</div></div>
+ <div class="section"><h3>ประเด็นลบ / กรณีลงทุนผิด</h3><div>${x.bear||""}</div></div>
  <div class="team-comment-wrap">
  <h3>ความเห็นของทีม</h3>
- <div class="team-comment-box">${x.teamComment ? x.teamComment : '<span class="team-comment-empty">ยังไม่มีความเห็นของทีม</span>'}</div>
- <div class="team-comment-meta">แก้ไขจาก Master Excel → 06_Deep_Research → Team Comment</div>
+ <textarea class="team-comment-box team-comment-input" id="team-comment-${x.ticker}" placeholder="พิมพ์ความเห็นของทีมที่นี่...">${escText(getTeamComment(x.ticker,x.teamComment))}</textarea>
+ <div class="team-comment-actions"><button type="button" onclick="saveTeamComment('${x.ticker}')">💾 บันทึกความเห็น</button><button type="button" class="btn-soft" onclick="resetTeamComment('${x.ticker}',${JSON.stringify(x.teamComment||'')})">คืนค่าจาก Master</button><span id="team-comment-msg-${x.ticker}" class="team-comment-saved"></span></div>
+ <div class="team-comment-meta">บันทึกจากหน้าเว็บไว้ในอุปกรณ์/เบราว์เซอร์นี้ • ค่าเริ่มต้นอ่านจาก Master Excel • ยังไม่ sync กลับ GitHub อัตโนมัติ</div>
  </div>
- <details><summary>เปิด Stock Deep Research Framework 11 หัวข้อ</summary>
- ${(Object.entries(x.framework||{})).map(([k,v])=>`<div class="section"><h3>${k}</h3><div>${v}</div></div>`).join("")}
- <div class="section"><h3>ตลาดกำลังเชื่ออะไร (What Market Believes)</h3><div>${x.marketBelieves||""}</div></div>
- <div class="section"><h3>ตลาดอาจมองข้ามอะไร (What Market Might Be Missing)</h3><div>${x.marketMissing||""}</div></div>
+ <details><summary>เปิดบทวิเคราะห์เชิงลึก 11 หัวข้อ</summary>
+ ${(Object.entries(x.framework||{})).map(([k,v])=>`<div class="section"><h3>${frameworkTitle(k)}</h3><div>${v}</div></div>`).join("")}
+ <div class="section"><h3>สิ่งที่ตลาดกำลังเชื่อ</h3><div>${x.marketBelieves||""}</div></div>
+ <div class="section"><h3>สิ่งที่ตลาดอาจมองข้าม</h3><div>${x.marketMissing||""}</div></div>
  <div class="section"><h3>ตัวแปรสำคัญที่ต้องติดตาม</h3><div>${x.variables||""}</div></div>
  <div class="section"><h3>เหมาะกับนักลงทุนแบบไหน</h3><div>${x.fit||""}</div></div>
- <div class="section"><h3>Data Freshness</h3><div>Market Data: ${x.marketDataUpdated||"–"}</div><div>Financial Data: ${x.financialDataUpdated||"–"}</div><div>Research Reviewed: ${x.researchReviewed||"–"}</div></div>
+ <div class="section"><h3>ความสดของข้อมูล</h3><div>ราคาหุ้น: ${x.marketDataUpdated||"–"}</div><div>งบการเงิน: ${x.financialDataUpdated||"–"}</div><div>ทบทวนบทวิเคราะห์: ${x.researchReviewed||"–"}</div></div>
  <div class="section sources"><h3>แหล่งข้อมูลหลัก</h3>${(x.sources||[]).map(s=>`<div><a target="_blank" rel="noopener" href="${s.url}">${s.label}</a></div>`).join("")}</div>
  </details></article>`).join("")
 }
@@ -399,14 +453,14 @@ async function updateAll(){
  const btn=document.getElementById("updateAllBtn");
  btn.disabled=true;document.getElementById("updateLog").textContent="";
  try{
-   setUpdateProgress(15);addUpdateLog("1/4 กำลังตรวจ data.json เวอร์ชันล่าสุด...");
+   setUpdateProgress(15);addUpdateLog("1/4 กำลังตรวจข้อมูลเวอร์ชันล่าสุด...");
    await loadData(true);
-   setUpdateProgress(50);addUpdateLog("2/4 โหลด Market Data / Rank ล่าสุดแล้ว");
-   setUpdateProgress(75);addUpdateLog("3/4 ตรวจ Universe / Financial / Research Status...");
+   setUpdateProgress(50);addUpdateLog("2/4 โหลดราคาหุ้นและอันดับล่าสุดแล้ว");
+   setUpdateProgress(75);addUpdateLog("3/4 ตรวจรายชื่อ SET100 / งบการเงิน / สถานะบทวิเคราะห์...");
    renderUpdateCenter();
    setUpdateProgress(100);addUpdateLog(`4/4 เสร็จสิ้น • ${META.generatedAt||META.marketDataUpdated||"N/A"}`);
  }catch(e){
-   addUpdateLog("Error: "+e.message);
+   addUpdateLog("ข้อผิดพลาด: "+e.message);
  }finally{btn.disabled=false}
 }
 async function updateThisStock(ticker){
