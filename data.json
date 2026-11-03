@@ -8,23 +8,24 @@
     "marketDataUpdated": "2026-10-09",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T08:25:52.886683+00:00",
-    "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
+    "generatedAt": "2026-11-03T08:38:41.473060+00:00",
+    "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
+    "setIndexUpdated": "2026-11-03T15:23:36+07:00"
   },
   "marketIndex": {
     "symbol": "SET",
     "name": "SET Index",
-    "last": 1583.85,
-    "change": -0.78,
-    "changePct": -0.05,
-    "open": 1580.16,
-    "high": 1584.45,
-    "low": 1579.79,
-    "volumeThousandShares": 894721,
-    "valueMillionBaht": 5174.19,
-    "status": "Open",
-    "updatedAt": "2026-10-08 10:02:09",
-    "source": "https://www.set.or.th/th/market/index/set/overview",
+    "last": 1499.36,
+    "change": -7.84,
+    "changePct": -0.52,
+    "open": 1504.27,
+    "high": 1507.4,
+    "low": 1493.41,
+    "volumeThousandShares": 0.0,
+    "valueMillionBaht": null,
+    "status": "Secondary delayed feed",
+    "updatedAt": "2026-11-03T15:23:36+07:00",
+    "source": "https://www.set.or.th/en/market/index/set/overview",
     "history": [
       {
         "date": "2021-10-29",
@@ -330,14 +331,19 @@
         "date": "2026-10-08",
         "value": 1583.85,
         "type": "intraday"
+      },
+      {
+        "date": "2026-11-03",
+        "value": 1499.36,
+        "type": "current"
       }
     ],
     "historyNote": "ข้อมูลย้อนหลังเก็บแบบสิ้นเดือนประมาณ 5 ปี และเพิ่มจุดล่าสุดระหว่างวัน แหล่งหลักคือ SET market statistics / monthly reports; Sep-2026 cross-check จาก StockQ.",
     "historyWindow": {
       "start": "2021-10-29",
-      "end": "2026-10-08",
-      "frequency": "monthly",
-      "points": 61,
+      "end": "2026-11-03",
+      "frequency": "monthly + current",
+      "points": 62,
       "defaultRange": "3M"
     },
     "historySources": [
@@ -411,7 +417,9 @@
         "url": "https://es.stockq.org/index/SET.php",
         "role": "Secondary cross-check"
       }
-    ]
+    ],
+    "provider": "Yahoo Finance ^SET.BK secondary fallback",
+    "dataQualityNote": "SET official page is the reference. Secondary feed supplies live/delayed quote; fields not supplied are explicitly null rather than carried forward from an old date."
   },
   "stocks": [
     {
