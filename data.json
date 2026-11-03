@@ -5,15 +5,15 @@
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 100,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-11-03 16:12",
+    "marketDataUpdated": "2026-11-03 16:33",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T16:12:08+07:00",
+    "generatedAt": "2026-11-03T16:33:03+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
-    "setIndexUpdated": "2026-11-03T15:57:29+07:00",
+    "setIndexUpdated": "2026-11-03T16:18:21+07:00",
     "universeValidation": {
       "ok": true,
-      "checkedAt": "2026-11-03T16:12:08+07:00",
+      "checkedAt": "2026-11-03T16:33:03+07:00",
       "validationMode": "locked_official_snapshot",
       "officialCount": 100,
       "researchedCount": 100,
@@ -27,7 +27,7 @@
       "note": "Locked snapshot is a transparent fallback when SET dynamic HTML cannot be parsed; refresh it when SET announces a new constituent period."
     },
     "rankPolicy": "Rank recalculated from market cap only after a successful Update All of all 100 constituents.",
-    "rankUpdatedAt": "2026-11-03T16:12:08+07:00",
+    "rankUpdatedAt": "2026-11-03T16:33:03+07:00",
     "automaticUpdatePolicy": {
       "autoFields": [
         "price",
@@ -59,16 +59,16 @@
   "marketIndex": {
     "symbol": "SET",
     "name": "SET Index",
-    "last": 1492.17,
-    "change": -15.03,
+    "last": 1492.07,
+    "change": -15.13,
     "changePct": -1.0,
     "open": 1504.27,
     "high": 1507.4,
-    "low": 1491.67,
+    "low": 1491.2,
     "volumeThousandShares": 0.0,
     "valueMillionBaht": null,
     "status": "Secondary delayed feed",
-    "updatedAt": "2026-11-03T15:57:29+07:00",
+    "updatedAt": "2026-11-03T16:18:21+07:00",
     "source": "https://www.set.or.th/en/market/index/set/overview",
     "history": [
       {
@@ -378,7 +378,7 @@
       },
       {
         "date": "2026-11-03",
-        "value": 1492.17,
+        "value": 1492.07,
         "type": "current"
       }
     ],
@@ -675,8 +675,8 @@
           "url": "https://investor.ais.co.th/en/document/quarterly-results"
         }
       ],
-      "price": 342.0,
-      "marketCap": 1017179.82,
+      "price": 341.0,
+      "marketCap": 1014205.61,
       "pe": 18.95,
       "pbv": 19.4,
       "evEbitda": 9.69,
@@ -951,8 +951,8 @@
           "url": "https://krungthai.com/en/investor-relations"
         }
       ],
-      "price": 43.0,
-      "marketCap": 600970.63,
+      "price": 43.25,
+      "marketCap": 604464.65,
       "pe": 11.76,
       "pbv": 1.3,
       "evEbitda": null,
@@ -1020,8 +1020,8 @@
           "url": "https://www.kasikornbank.com/en/IR/Pages/home.aspx"
         }
       ],
-      "price": 243.0,
-      "marketCap": 575746.6,
+      "price": 244.0,
+      "marketCap": 578115.93,
       "pe": 10.79,
       "pbv": 0.96,
       "evEbitda": null,
@@ -1089,8 +1089,8 @@
           "url": "https://investor.scbx.com/en/resource-center"
         }
       ],
-      "price": 151.0,
-      "marketCap": 508433.2,
+      "price": 150.5,
+      "marketCap": 506749.65,
       "pe": 11.3,
       "pbv": 1.02,
       "evEbitda": null,
@@ -1297,8 +1297,8 @@
           "url": "https://www.bangkokbank.com/en/Investor-Relations"
         }
       ],
-      "price": 182.0,
-      "marketCap": 347409.41,
+      "price": 181.5,
+      "marketCap": 346454.99,
       "pe": 8.31,
       "pbv": 0.6,
       "evEbitda": null,
@@ -1366,8 +1366,8 @@
           "url": "https://investor.bdms.co.th/en/financial-info/financial-highlights"
         }
       ],
-      "price": 19.7,
-      "marketCap": 313072.44,
+      "price": 19.6,
+      "marketCap": 311483.24,
       "pe": 19.71,
       "pbv": 2.93,
       "evEbitda": 12.19,
@@ -1435,8 +1435,8 @@
           "url": "https://www.scg.com/investor-relations"
         }
       ],
-      "price": 246.0,
-      "marketCap": 295200.0,
+      "price": 244.0,
+      "marketCap": 292800.0,
       "pe": 23.74,
       "pbv": 0.88,
       "evEbitda": 10.69,
@@ -1504,8 +1504,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/CPN-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 65.0,
-      "marketCap": 291720.0,
+      "price": 64.75,
+      "marketCap": 290598.0,
       "pe": 14.06,
       "pbv": 2.59,
       "evEbitda": 10.7,
@@ -1638,8 +1638,8 @@
           "url": "https://www.pttgcgroup.com/en/investor-relations/home"
         }
       ],
-      "price": 45.75,
-      "marketCap": 206279.84,
+      "price": 45.25,
+      "marketCap": 204025.42,
       "pe": 34.03,
       "pbv": 0.77,
       "evEbitda": 8.92,
@@ -1703,8 +1703,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/CRC-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 32.5,
-      "marketCap": 196007.5,
+      "price": 32.25,
+      "marketCap": 194499.75,
       "pe": 21.68,
       "pbv": 2.86,
       "evEbitda": 9.03,
@@ -1829,8 +1829,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/BH-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 197.0,
-      "marketCap": 156608.42,
+      "price": 196.0,
+      "marketCap": 155813.45,
       "pe": 19.74,
       "pbv": 5.48,
       "evEbitda": 13.88,
@@ -1959,8 +1959,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/THAI-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 5.15,
-      "marketCap": 145761.95,
+      "price": 5.1,
+      "marketCap": 144346.79,
       "pe": 7.63,
       "pbv": 1.92,
       "evEbitda": 4.49,
@@ -2024,8 +2024,8 @@
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105846501&symbol=IVL"
         }
       ],
-      "price": 25.0,
-      "marketCap": 140363.8,
+      "price": 24.8,
+      "marketCap": 139240.89,
       "pe": null,
       "pbv": 1.2,
       "evEbitda": 9.96,
@@ -2154,8 +2154,8 @@
           "url": "https://www.gpscgroup.com/en/investor-relations/home"
         }
       ],
-      "price": 48.5,
-      "marketCap": 136756.88,
+      "price": 48.25,
+      "marketCap": 136051.95,
       "pe": 21.11,
       "pbv": 1.36,
       "evEbitda": 11.03,
@@ -2292,8 +2292,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/MINT/financial-statement/company-highlights"
         }
       ],
-      "price": 20.7,
-      "marketCap": 117368.52,
+      "price": 20.6,
+      "marketCap": 116801.52,
       "pe": 12.12,
       "pbv": 1.39,
       "evEbitda": 6.99,
@@ -2361,8 +2361,8 @@
           "url": "https://newsroom.scgpackaging.com/en/news/scgp-announces-q2-profit/"
         }
       ],
-      "price": 26.75,
-      "marketCap": 114835.62,
+      "price": 27.0,
+      "marketCap": 115908.85,
       "pe": 21.54,
       "pbv": 1.67,
       "evEbitda": 10.46,
@@ -2633,8 +2633,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BEM/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 6.25,
-      "marketCap": 95531.25,
+      "price": 6.2,
+      "marketCap": 94767.0,
       "pe": 25.2,
       "pbv": 2.58,
       "evEbitda": 24.2,
@@ -2910,75 +2910,6 @@
     },
     {
       "rank": 37,
-      "ticker": "KCE",
-      "company": "KCE Electronics PCL.",
-      "sector": "Electronic Components",
-      "valuation": "Very Expensive",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 275.917,
-      "periodNpat": 510.189,
-      "npatGrowth": 23.8,
-      "debtEbitda": 0.0,
-      "debtEbitdaBasis": "Net Cash / Calculation",
-      "debtEbitdaNote": "EV below market cap; Debt/EBITDA is not a binding risk metric.",
-      "score": 6.875,
-      "flags": [
-        "Auto Electronics",
-        "Export",
-        "Recovery",
-        "Extreme Valuation"
-      ],
-      "summary": "KCE Business Quality ดีและมี Automotive PCB Moat แต่ราคาหุ้นสะท้อนอนาคตไปมาก ต้องแยก 'บริษัทดี' ออกจาก 'หุ้นราคาดี'.",
-      "framework": {
-        "1. Management": "Founder/family-influenced electronics manufacturer with long export track record. Management has strong PCB manufacturing experience, but recent stock rerating raises the burden of execution. Capital allocation is conservative with net cash.",
-        "2. Product / Moat": "High-end printed circuit boards for automotive, industrial and electronics customers. Moat: มี — customer qualification, process know-how, quality/reliability standards, long product cycles and export relationships. Durability medium-high, especially in automotive-grade PCB.",
-        "3. TAM / Growth Runway": "Runway comes from EV/ADAS, automotive electronics, data connectivity and higher electronic content per vehicle. TAM is structurally attractive, but customer cycles and FX create volatility.",
-        "4. Positive Catalysts": "Automotive electronics demand; utilization recovery; product mix; baht weakness; new capacity productivity; margin normalization. Probability medium-high / impact high over 6-24 months.",
-        "5. Competitors": "Compare with PCB/electronic component peers on revenue growth, gross margin, utilization, ROIC, net cash and EV/EBITDA. KCE's automotive qualification is an advantage; scale is smaller than global leaders.",
-        "6. Revenue Growth & Margin": "Q2 NPAT THB276m +51.5% YoY; 1H26 THB510m +23.8%. Earnings are recovering, but current TTM EBITDA remains low relative to market value, implying expectations well ahead of present fundamentals.",
-        "7. Regulation": "Trade policy, export controls, automotive standards, environmental/chemical rules and FX are key. Qualification standards create barriers, while tariffs/geopolitics can disrupt sourcing and customer demand.",
-        "8. Narrative & Sentiment": "Narrative is 'automotive electronics recovery / EV optionality'. Sentiment is very positive after a sharp share-price rerating; story is late-middle rather than early.",
-        "9. Valuation Effect": "100x P/E / 42.5x EV/EBITDA = Very Expensive. Even strong earnings growth may not offset multiple compression if expectations normalize.",
-        "10. Earnings & Macro": "Base: earnings recover with auto cycle. Bull: EV/ADAS mix + utilization lift. Bear: auto slowdown/baht appreciation + multiple de-rating. 3-5y returns depend on real earnings catching up to valuation.",
-        "11. Risk Radar": "Risks: valuation (high/high), auto cycle (medium-high/high), FX (high/medium), customer concentration (medium/high), technology/capacity execution (medium/medium)."
-      },
-      "thesis": "Automotive-grade qualification and engineering know-how provide a real moat and structural electronics growth exposure.",
-      "bear": "Valuation is extremely demanding versus current earnings/EBITDA; the company can execute well while the stock still delivers poor returns.",
-      "teamComment": "",
-      "marketBelieves": "Market believes KCE is entering a strong automotive-electronics recovery with EV/ADAS growth.",
-      "marketMissing": "Market may be pricing the recovery too far forward and underestimating valuation compression risk.",
-      "variables": "Orders, utilization, gross margin, automotive share, EUR/USD/THB, capex, customer concentration, P/E/EV-EBITDA.",
-      "fit": "High-growth investor with very high tolerance for valuation risk.",
-      "moatStatus": "มี",
-      "moatReason": "Automotive qualification, engineering/process know-how, quality standards and long customer relationships create meaningful switching barriers.",
-      "industryComparison": "เทียบกับ PCB/Electronic Components peers ด้วย Revenue Growth, Gross Margin, Utilization, ROIC, Net Cash และ EV/EBITDA.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-12",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/KCE/factsheet"
-        },
-        {
-          "label": "Q2/1H26 F45",
-          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105907100&symbol=KCE"
-        },
-        {
-          "label": "Company Website",
-          "url": "http://www.kcethai.in.th"
-        }
-      ],
-      "price": 67.5,
-      "marketCap": 79790.98,
-      "pe": 100.0,
-      "pbv": 7.18,
-      "evEbitda": 42.48,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 38,
       "ticker": "RATCH",
       "company": "Ratch Group PCL.",
       "sector": "Energy & Utilities",
@@ -3047,7 +2978,7 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "ticker": "BJC",
       "company": "Berli Jucker PCL.",
       "sector": "Commerce",
@@ -3110,6 +3041,75 @@
       "pe": 12.77,
       "pbv": 0.64,
       "evEbitda": 10.8,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 39,
+      "ticker": "KCE",
+      "company": "KCE Electronics PCL.",
+      "sector": "Electronic Components",
+      "valuation": "Very Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 275.917,
+      "periodNpat": 510.189,
+      "npatGrowth": 23.8,
+      "debtEbitda": 0.0,
+      "debtEbitdaBasis": "Net Cash / Calculation",
+      "debtEbitdaNote": "EV below market cap; Debt/EBITDA is not a binding risk metric.",
+      "score": 6.875,
+      "flags": [
+        "Auto Electronics",
+        "Export",
+        "Recovery",
+        "Extreme Valuation"
+      ],
+      "summary": "KCE Business Quality ดีและมี Automotive PCB Moat แต่ราคาหุ้นสะท้อนอนาคตไปมาก ต้องแยก 'บริษัทดี' ออกจาก 'หุ้นราคาดี'.",
+      "framework": {
+        "1. Management": "Founder/family-influenced electronics manufacturer with long export track record. Management has strong PCB manufacturing experience, but recent stock rerating raises the burden of execution. Capital allocation is conservative with net cash.",
+        "2. Product / Moat": "High-end printed circuit boards for automotive, industrial and electronics customers. Moat: มี — customer qualification, process know-how, quality/reliability standards, long product cycles and export relationships. Durability medium-high, especially in automotive-grade PCB.",
+        "3. TAM / Growth Runway": "Runway comes from EV/ADAS, automotive electronics, data connectivity and higher electronic content per vehicle. TAM is structurally attractive, but customer cycles and FX create volatility.",
+        "4. Positive Catalysts": "Automotive electronics demand; utilization recovery; product mix; baht weakness; new capacity productivity; margin normalization. Probability medium-high / impact high over 6-24 months.",
+        "5. Competitors": "Compare with PCB/electronic component peers on revenue growth, gross margin, utilization, ROIC, net cash and EV/EBITDA. KCE's automotive qualification is an advantage; scale is smaller than global leaders.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB276m +51.5% YoY; 1H26 THB510m +23.8%. Earnings are recovering, but current TTM EBITDA remains low relative to market value, implying expectations well ahead of present fundamentals.",
+        "7. Regulation": "Trade policy, export controls, automotive standards, environmental/chemical rules and FX are key. Qualification standards create barriers, while tariffs/geopolitics can disrupt sourcing and customer demand.",
+        "8. Narrative & Sentiment": "Narrative is 'automotive electronics recovery / EV optionality'. Sentiment is very positive after a sharp share-price rerating; story is late-middle rather than early.",
+        "9. Valuation Effect": "100x P/E / 42.5x EV/EBITDA = Very Expensive. Even strong earnings growth may not offset multiple compression if expectations normalize.",
+        "10. Earnings & Macro": "Base: earnings recover with auto cycle. Bull: EV/ADAS mix + utilization lift. Bear: auto slowdown/baht appreciation + multiple de-rating. 3-5y returns depend on real earnings catching up to valuation.",
+        "11. Risk Radar": "Risks: valuation (high/high), auto cycle (medium-high/high), FX (high/medium), customer concentration (medium/high), technology/capacity execution (medium/medium)."
+      },
+      "thesis": "Automotive-grade qualification and engineering know-how provide a real moat and structural electronics growth exposure.",
+      "bear": "Valuation is extremely demanding versus current earnings/EBITDA; the company can execute well while the stock still delivers poor returns.",
+      "teamComment": "",
+      "marketBelieves": "Market believes KCE is entering a strong automotive-electronics recovery with EV/ADAS growth.",
+      "marketMissing": "Market may be pricing the recovery too far forward and underestimating valuation compression risk.",
+      "variables": "Orders, utilization, gross margin, automotive share, EUR/USD/THB, capex, customer concentration, P/E/EV-EBITDA.",
+      "fit": "High-growth investor with very high tolerance for valuation risk.",
+      "moatStatus": "มี",
+      "moatReason": "Automotive qualification, engineering/process know-how, quality standards and long customer relationships create meaningful switching barriers.",
+      "industryComparison": "เทียบกับ PCB/Electronic Components peers ด้วย Revenue Growth, Gross Margin, Utilization, ROIC, Net Cash และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/KCE/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105907100&symbol=KCE"
+        },
+        {
+          "label": "Company Website",
+          "url": "http://www.kcethai.in.th"
+        }
+      ],
+      "price": 67.0,
+      "marketCap": 79199.94,
+      "pe": 100.0,
+      "pbv": 7.18,
+      "evEbitda": 42.48,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
@@ -3240,8 +3240,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/WHA/financial-statement/company-highlights"
         }
       ],
-      "price": 4.78,
-      "marketCap": 71445.86,
+      "price": 4.76,
+      "marketCap": 71146.92,
       "pe": 17.6,
       "pbv": 2.0,
       "evEbitda": 16.86,
@@ -3249,6 +3249,72 @@
     },
     {
       "rank": 42,
+      "ticker": "BCP",
+      "company": "Bangchak Corporation PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 12239.355,
+      "periodNpat": 18383.117,
+      "npatGrowth": -4232.9,
+      "debtEbitda": 3.24,
+      "debtEbitdaBasis": "Calculation / Screening",
+      "debtEbitdaNote": "Approx. net debt/EBITDA from recent SET EV less market cap divided by TTM EBITDA; use company net-debt and project/lease detail for covenant analysis.",
+      "score": 7.4375,
+      "flags": [
+        "Integrated Energy",
+        "Refining",
+        "Marketing",
+        "Upstream",
+        "Synergy"
+      ],
+      "summary": "BCP ถูกมากบน Trailing Multiple แต่ต้อง Normalize กำไรอย่างเข้มงวด เพราะ 1H26 ฟื้นแรงมาก Thesis ที่สำคัญกว่าคือ Synergy + FCF + Deleveraging.",
+      "framework": {
+        "1. Management": "Integrated Thai energy company with refinery, marketing, clean power, bio-based and upstream/natural-resource exposure. Management has executed large-scale integration and portfolio expansion; the key capital-allocation test is synergy realization and deleveraging after expansion.",
+        "2. Product / Moat": "Refining and oil trading, Bangchak retail/marketing, clean power, bio products and upstream resources. Moat: มี — refinery/retail network, brand, logistics, integration and scale. Durability moderate-high operationally, but commodity spreads dominate returns.",
+        "3. TAM / Growth Runway": "Energy demand is mature, but runway comes from refinery/marketing integration, upstream cash flow, SAF/clean fuels, bio/green businesses and portfolio optimization.",
+        "4. Positive Catalysts": "Integration synergies; refinery utilization/GRM; marketing margin; upstream commodity strength; SAF/clean fuel ramp; debt reduction. Probability medium-high / impact high over 6-36 months.",
+        "5. Competitors": "Compare with integrated refiners/energy peers on GRM, utilization, marketing margin, upstream cash cost, FCF, leverage and EV/EBITDA. BCP's integration improves resilience but increases complexity.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB12.24bn and 1H26 THB18.38bn versus prior-year losses. The rebound is very strong, but headline earnings must be normalized for refining/inventory/upstream/integration effects before extrapolation.",
+        "7. Regulation": "Fuel-price policy, refining/environment permits, carbon rules, excise, SAF mandates and upstream regulation matter. Regulation can create clean-fuel opportunity while increasing capex.",
+        "8. Narrative & Sentiment": "Narrative is 'integration success + energy-cycle cash flow'. Sentiment positive after earnings surge, but current profits are clearly cyclical.",
+        "9. Valuation Effect": "~3.5x P/E, ~0.9x P/BV and ~3.8x EV/EBITDA = Cheap on trailing numbers, but headline P/E overstates cheapness if current spreads/profits normalize.",
+        "10. Earnings & Macro": "Base: normalized refining/marketing + integration synergies. Bull: strong GRM/upstream + faster deleveraging. Bear: oil/spread reversal + high debt. 3-5y depends on FCF after capex and integration ROIC.",
+        "11. Risk Radar": "Top risks: refining/oil cycle (high/high), leverage/refinancing (medium-high/high), integration complexity (medium/high), upstream commodity (high/medium), transition capex/regulation (medium/medium)."
+      },
+      "thesis": "Integrated assets, distribution and diversified energy cash flows can generate strong FCF when synergies and commodity conditions align.",
+      "bear": "Low trailing multiples may be a cyclical illusion; leverage and multi-business complexity can destroy value if normalized returns are weak.",
+      "teamComment": "",
+      "marketBelieves": "Market believes BCP has become a larger integrated energy platform and is monetizing integration synergies.",
+      "marketMissing": "Market may over-extrapolate 1H26 profits, while underpricing longer-run synergy/deleveraging if management executes.",
+      "variables": "GRM, utilization, marketing margin, inventory gain/loss, upstream EBITDA, FCF, net debt, synergy targets, capex.",
+      "fit": "Cyclical/value energy investor comfortable with commodity and leverage risk.",
+      "moatStatus": "มี",
+      "moatReason": "Refinery/retail integration, nationwide brand/network, logistics and multi-energy platform create scale advantages, though commodity pricing limits moat strength.",
+      "industryComparison": "เทียบกับ Integrated Refining/Energy peers ด้วย GRM, Utilization, Marketing Margin, Upstream Cost, FCF, Net Debt/EBITDA และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/BCP/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105694700&symbol=BCP"
+        }
+      ],
+      "price": 46.5,
+      "marketCap": 68477.79,
+      "pe": 3.5,
+      "pbv": 0.91,
+      "evEbitda": 3.85,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 43,
       "ticker": "EGCO",
       "company": "Electricity Generating PCL.",
       "sector": "Energy & Utilities",
@@ -3310,72 +3376,6 @@
       "pe": 127.41,
       "pbv": 0.67,
       "evEbitda": 14.21,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 43,
-      "ticker": "BCP",
-      "company": "Bangchak Corporation PCL.",
-      "sector": "Energy & Utilities",
-      "valuation": "Cheap",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 12239.355,
-      "periodNpat": 18383.117,
-      "npatGrowth": -4232.9,
-      "debtEbitda": 3.24,
-      "debtEbitdaBasis": "Calculation / Screening",
-      "debtEbitdaNote": "Approx. net debt/EBITDA from recent SET EV less market cap divided by TTM EBITDA; use company net-debt and project/lease detail for covenant analysis.",
-      "score": 7.4375,
-      "flags": [
-        "Integrated Energy",
-        "Refining",
-        "Marketing",
-        "Upstream",
-        "Synergy"
-      ],
-      "summary": "BCP ถูกมากบน Trailing Multiple แต่ต้อง Normalize กำไรอย่างเข้มงวด เพราะ 1H26 ฟื้นแรงมาก Thesis ที่สำคัญกว่าคือ Synergy + FCF + Deleveraging.",
-      "framework": {
-        "1. Management": "Integrated Thai energy company with refinery, marketing, clean power, bio-based and upstream/natural-resource exposure. Management has executed large-scale integration and portfolio expansion; the key capital-allocation test is synergy realization and deleveraging after expansion.",
-        "2. Product / Moat": "Refining and oil trading, Bangchak retail/marketing, clean power, bio products and upstream resources. Moat: มี — refinery/retail network, brand, logistics, integration and scale. Durability moderate-high operationally, but commodity spreads dominate returns.",
-        "3. TAM / Growth Runway": "Energy demand is mature, but runway comes from refinery/marketing integration, upstream cash flow, SAF/clean fuels, bio/green businesses and portfolio optimization.",
-        "4. Positive Catalysts": "Integration synergies; refinery utilization/GRM; marketing margin; upstream commodity strength; SAF/clean fuel ramp; debt reduction. Probability medium-high / impact high over 6-36 months.",
-        "5. Competitors": "Compare with integrated refiners/energy peers on GRM, utilization, marketing margin, upstream cash cost, FCF, leverage and EV/EBITDA. BCP's integration improves resilience but increases complexity.",
-        "6. Revenue Growth & Margin": "Q2 NPAT THB12.24bn and 1H26 THB18.38bn versus prior-year losses. The rebound is very strong, but headline earnings must be normalized for refining/inventory/upstream/integration effects before extrapolation.",
-        "7. Regulation": "Fuel-price policy, refining/environment permits, carbon rules, excise, SAF mandates and upstream regulation matter. Regulation can create clean-fuel opportunity while increasing capex.",
-        "8. Narrative & Sentiment": "Narrative is 'integration success + energy-cycle cash flow'. Sentiment positive after earnings surge, but current profits are clearly cyclical.",
-        "9. Valuation Effect": "~3.5x P/E, ~0.9x P/BV and ~3.8x EV/EBITDA = Cheap on trailing numbers, but headline P/E overstates cheapness if current spreads/profits normalize.",
-        "10. Earnings & Macro": "Base: normalized refining/marketing + integration synergies. Bull: strong GRM/upstream + faster deleveraging. Bear: oil/spread reversal + high debt. 3-5y depends on FCF after capex and integration ROIC.",
-        "11. Risk Radar": "Top risks: refining/oil cycle (high/high), leverage/refinancing (medium-high/high), integration complexity (medium/high), upstream commodity (high/medium), transition capex/regulation (medium/medium)."
-      },
-      "thesis": "Integrated assets, distribution and diversified energy cash flows can generate strong FCF when synergies and commodity conditions align.",
-      "bear": "Low trailing multiples may be a cyclical illusion; leverage and multi-business complexity can destroy value if normalized returns are weak.",
-      "teamComment": "",
-      "marketBelieves": "Market believes BCP has become a larger integrated energy platform and is monetizing integration synergies.",
-      "marketMissing": "Market may over-extrapolate 1H26 profits, while underpricing longer-run synergy/deleveraging if management executes.",
-      "variables": "GRM, utilization, marketing margin, inventory gain/loss, upstream EBITDA, FCF, net debt, synergy targets, capex.",
-      "fit": "Cyclical/value energy investor comfortable with commodity and leverage risk.",
-      "moatStatus": "มี",
-      "moatReason": "Refinery/retail integration, nationwide brand/network, logistics and multi-energy platform create scale advantages, though commodity pricing limits moat strength.",
-      "industryComparison": "เทียบกับ Integrated Refining/Energy peers ด้วย GRM, Utilization, Marketing Margin, Upstream Cost, FCF, Net Debt/EBITDA และ EV/EBITDA.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-14",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/BCP/factsheet"
-        },
-        {
-          "label": "Q2/1H26 F45",
-          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105694700&symbol=BCP"
-        }
-      ],
-      "price": 46.25,
-      "marketCap": 68109.63,
-      "pe": 3.5,
-      "pbv": 0.91,
-      "evEbitda": 3.85,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
@@ -3575,8 +3575,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105806400&symbol=CENTEL"
         }
       ],
-      "price": 44.0,
-      "marketCap": 59400.0,
+      "price": 44.25,
+      "marketCap": 59737.5,
       "pe": 17.05,
       "pbv": 2.42,
       "evEbitda": 9.91,
@@ -4111,8 +4111,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BGRIM/financial-statement/company-highlights"
         }
       ],
-      "price": 19.6,
-      "marketCap": 51095.24,
+      "price": 19.4,
+      "marketCap": 50573.86,
       "pe": 20.86,
       "pbv": 1.45,
       "evEbitda": 11.27,
@@ -4177,8 +4177,8 @@
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=106004201&symbol=TIDLOR"
         }
       ],
-      "price": 16.1,
-      "marketCap": 46624.47,
+      "price": 16.2,
+      "marketCap": 46914.06,
       "pe": 8.49,
       "pbv": 1.35,
       "evEbitda": null,
@@ -4242,8 +4242,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/lh/price"
         }
       ],
-      "price": 3.52,
-      "marketCap": 42062.99,
+      "price": 3.5,
+      "marketCap": 41824.0,
       "pe": 15.79,
       "pbv": 0.84,
       "evEbitda": 17.35,
@@ -4377,8 +4377,8 @@
           "url": "https://www.settrade.com/th/equities/quote/global/historical-trading"
         }
       ],
-      "price": 7.25,
-      "marketCap": 40614.43,
+      "price": 7.2,
+      "marketCap": 40334.33,
       "pe": 14.23,
       "pbv": 1.41,
       "evEbitda": null,
@@ -4443,8 +4443,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/GUNKUL/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 4.56,
-      "marketCap": 40504.34,
+      "price": 4.54,
+      "marketCap": 40326.69,
       "pe": 22.8,
       "pbv": 2.89,
       "evEbitda": 14.44,
@@ -4509,8 +4509,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/PLANB/financial-statement/company-highlights"
         }
       ],
-      "price": 8.8,
-      "marketCap": 40482.63,
+      "price": 8.65,
+      "marketCap": 39792.59,
       "pe": 32.69,
       "pbv": 3.08,
       "evEbitda": null,
@@ -4712,8 +4712,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BLA/factsheet"
         }
       ],
-      "price": 22.2,
-      "marketCap": 37908.05,
+      "price": 22.0,
+      "marketCap": 37566.54,
       "pe": 5.23,
       "pbv": 0.68,
       "evEbitda": null,
@@ -4778,8 +4778,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/HANA/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 42.25,
-      "marketCap": 37406.89,
+      "price": 42.0,
+      "marketCap": 37185.55,
       "pe": 77.64,
       "pbv": 1.72,
       "evEbitda": 20.2,
@@ -4843,8 +4843,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/SAWAD/historical-trading"
         }
       ],
-      "price": 21.9,
-      "marketCap": 36387.0,
+      "price": 21.8,
+      "marketCap": 36220.85,
       "pe": 6.62,
       "pbv": 0.9,
       "evEbitda": null,
@@ -4912,8 +4912,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/STA/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 21.9,
-      "marketCap": 33638.4,
+      "price": 21.7,
+      "marketCap": 33331.2,
       "pe": null,
       "pbv": 0.73,
       "evEbitda": null,
@@ -5110,8 +5110,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/TOA/factsheet"
         }
       ],
-      "price": 15.0,
-      "marketCap": 30435.0,
+      "price": 14.9,
+      "marketCap": 30232.1,
       "pe": 9.08,
       "pbv": 1.87,
       "evEbitda": 5.6,
@@ -5310,8 +5310,8 @@
           "url": "https://www.settrade.com/th/equities/quote/CK/historical-trading"
         }
       ],
-      "price": 16.9,
-      "marketCap": 28626.86,
+      "price": 16.8,
+      "marketCap": 28457.47,
       "pe": 8.98,
       "pbv": 1.0,
       "evEbitda": 9.95,
@@ -5376,8 +5376,8 @@
           "url": "https://www.sritranggloves.com/en/investor-relations/home"
         }
       ],
-      "price": 9.35,
-      "marketCap": 26789.43,
+      "price": 9.3,
+      "marketCap": 26646.17,
       "pe": 87.2,
       "pbv": 0.77,
       "evEbitda": 11.4,
@@ -5445,8 +5445,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/BCH-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 10.7,
-      "marketCap": 26683.12,
+      "price": 10.6,
+      "marketCap": 26433.75,
       "pe": 23.55,
       "pbv": 2.2,
       "evEbitda": 10.56,
@@ -5577,8 +5577,8 @@
           "url": "https://www.stecongroup.co.th/en/investor-relations/financial-info/financial-highlights"
         }
       ],
-      "price": 16.9,
-      "marketCap": 25672.46,
+      "price": 16.7,
+      "marketCap": 25368.64,
       "pe": 13.74,
       "pbv": 1.34,
       "evEbitda": null,
@@ -5639,8 +5639,8 @@
           "url": "https://www.set.or.th/th/market/product/stock/quote/WHAUP/price"
         }
       ],
-      "price": 6.55,
-      "marketCap": 25053.75,
+      "price": 6.5,
+      "marketCap": 24862.5,
       "pe": 17.8,
       "pbv": null,
       "evEbitda": null,
@@ -5701,8 +5701,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/SIRI/price"
         }
       ],
-      "price": 1.41,
-      "marketCap": 24785.94,
+      "price": 1.4,
+      "marketCap": 24610.15,
       "pe": 5.81,
       "pbv": 0.5,
       "evEbitda": 15.55,
@@ -5767,8 +5767,8 @@
           "url": "https://ap.listedcompany.com/misc/MDNA/20260813-ap-mdna-2q2026-en.pdf"
         }
       ],
-      "price": 7.7,
-      "marketCap": 24223.43,
+      "price": 7.75,
+      "marketCap": 24380.73,
       "pe": 5.7,
       "pbv": 0.54,
       "evEbitda": null,
@@ -5899,8 +5899,8 @@
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105652801&symbol=BCPG"
         }
       ],
-      "price": 6.75,
-      "marketCap": 20221.38,
+      "price": 6.7,
+      "marketCap": 20071.59,
       "pe": 8.66,
       "pbv": 0.67,
       "evEbitda": 7.54,
@@ -6170,8 +6170,8 @@
           "url": "https://investor.mkrestaurant.com/"
         }
       ],
-      "price": 20.0,
-      "marketCap": 18417.6,
+      "price": 20.1,
+      "marketCap": 18509.69,
       "pe": 25.0,
       "pbv": 1.4,
       "evEbitda": null,
@@ -6310,8 +6310,8 @@
           "url": "https://investor.aurora.co.th/"
         }
       ],
-      "price": 13.4,
-      "marketCap": 17925.14,
+      "price": 13.3,
+      "marketCap": 17791.37,
       "pe": 11.01,
       "pbv": 2.09,
       "evEbitda": null,
@@ -6380,8 +6380,8 @@
           "url": "https://www.theerawan.com/en/investor-relations"
         }
       ],
-      "price": 3.56,
-      "marketCap": 17397.46,
+      "price": 3.54,
+      "marketCap": 17299.72,
       "pe": 20.0,
       "pbv": 1.9,
       "evEbitda": null,
@@ -6389,76 +6389,6 @@
     },
     {
       "rank": 89,
-      "ticker": "EA",
-      "company": "Energy Absolute PCL.",
-      "sector": "Energy & Utilities",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": 105.81,
-      "npatGrowth": -122.6,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Energy / project finance: use D/E, Net Debt/EBITDA and liquidity",
-      "debtEbitdaNote": "6M26 D/E about 1.61x. Refinancing, covenant headroom, asset sales and operating cash flow are more decision-useful than headline Debt/EBITDA alone.",
-      "score": 6.0,
-      "flags": [
-        "Renewables",
-        "EV",
-        "Battery",
-        "Turnaround",
-        "Refinancing Risk"
-      ],
-      "summary": "EA returned to positive attributable profit in 1H26 after a prior-year loss, but the investment case remains dominated by balance-sheet repair, refinancing and governance. Operating assets have value; equity rerating requires credible deleveraging and cash conversion.",
-      "framework": {
-        "1. Management": "Management quality is currently the central risk variable. The group retains renewable-development expertise, but investor confidence depends on governance remediation, transparent capital allocation and successful debt restructuring.",
-        "2. Product / Moat": "Businesses span renewable electricity, biodiesel/energy, battery/energy storage, commercial EVs and charging. Contracted power assets are the strongest economic moat; newer EV/battery businesses have weaker demonstrated economics.",
-        "3. TAM / Growth Runway": "Thailand's decarbonization, grid investment and EV transition create long-run TAM, but EA's near-term SOM is constrained by funding capacity. Growth should be judged after balance-sheet stabilization.",
-        "4. Positive Catalysts": "Catalysts: refinancing, asset monetization, debt reduction, positive OCF, renewable earnings stability and EV/battery restructuring. Probability medium / impact very high over 6-24 months.",
-        "5. Competitors": "Peers include BCPG, GUNKUL, GPSC, BGRIM and EV/battery operators. EA has a broader integrated platform but materially higher governance/refinancing risk.",
-        "6. Revenue Growth & Margin": "1H26 attributable profit recovered to about THB106m from a prior-year loss. Revenue and margins remain volatile; cash generation and debt reduction matter more than accounting profit at this stage.",
-        "7. Regulation": "Power licenses/PPAs, EV standards, environmental approvals, battery safety rules and securities/governance requirements matter. Regulation creates barriers but governance breaches can sharply raise funding cost.",
-        "8. Narrative & Sentiment": "Narrative is 'survival/turnaround and balance-sheet repair'. Sentiment is fragile but can improve rapidly on credible refinancing and asset-sale execution.",
-        "9. Valuation Effect": "At 2.70 baht the equity embeds severe distress expectations. Fair Value only on a risk-adjusted basis: conventional multiples are less useful until sustainable earnings and leverage normalize.",
-        "10. Earnings & Macro": "Base: refinance and gradual operating stabilization. Bull: meaningful asset monetization/deleveraging and renewable cash-flow resilience. Bear: refinancing stress, dilution or governance setbacks.",
-        "11. Risk Radar": "Top risks: refinancing/liquidity (high/very high), governance/legal (high/very high), leverage (high/high), EV/battery execution (high/high), project/asset-sale execution (medium-high/high)."
-      },
-      "thesis": "Operating renewable assets and potential asset monetization create recovery optionality; successful refinancing and normalized EV/battery operations could produce substantial equity upside from a depressed base.",
-      "bear": "Leverage, refinancing and governance can overwhelm operating recovery; asset sales or capital raising may dilute equity and the EV/battery strategy still needs to prove sustainable returns.",
-      "teamComment": "",
-      "marketBelieves": "The market treats EA primarily as a balance-sheet/governance turnaround rather than a clean-energy growth compounder.",
-      "marketMissing": "The market may underprice the value of operating contracted renewable assets if refinancing succeeds, but may still overestimate recovery speed in EV/battery businesses.",
-      "variables": "Refinancing maturity, debt reduction, OCF, asset sales, renewable EBITDA, EV deliveries, battery utilization, governance/legal developments.",
-      "fit": "High-risk turnaround/special-situations investor able to tolerate governance, refinancing and execution risk.",
-      "moatStatus": "มีบางส่วน",
-      "moatReason": "PPAs, renewable operating assets, project-development capability and an integrated EV/battery ecosystem create barriers, but durability is impaired by capital intensity, refinancing pressure and governance concerns.",
-      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-11-03",
-      "sources": [
-        {
-          "label": "6M26 Listed Company Snapshot",
-          "url": "https://lssmedia.setlink.set.or.th/2026/6M/EA-6M69-ListedCompanySnapshot-EN.html"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/EA/historical-trading"
-        },
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/EA/factsheet"
-        }
-      ],
-      "price": 2.28,
-      "marketCap": 16933.1,
-      "pe": null,
-      "pbv": null,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 90,
       "ticker": "CHG",
       "company": "Chularat Hospital PCL.",
       "sector": "Health Care Services",
@@ -6527,6 +6457,76 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
+      "rank": 90,
+      "ticker": "EA",
+      "company": "Energy Absolute PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 105.81,
+      "npatGrowth": -122.6,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Energy / project finance: use D/E, Net Debt/EBITDA and liquidity",
+      "debtEbitdaNote": "6M26 D/E about 1.61x. Refinancing, covenant headroom, asset sales and operating cash flow are more decision-useful than headline Debt/EBITDA alone.",
+      "score": 6.0,
+      "flags": [
+        "Renewables",
+        "EV",
+        "Battery",
+        "Turnaround",
+        "Refinancing Risk"
+      ],
+      "summary": "EA returned to positive attributable profit in 1H26 after a prior-year loss, but the investment case remains dominated by balance-sheet repair, refinancing and governance. Operating assets have value; equity rerating requires credible deleveraging and cash conversion.",
+      "framework": {
+        "1. Management": "Management quality is currently the central risk variable. The group retains renewable-development expertise, but investor confidence depends on governance remediation, transparent capital allocation and successful debt restructuring.",
+        "2. Product / Moat": "Businesses span renewable electricity, biodiesel/energy, battery/energy storage, commercial EVs and charging. Contracted power assets are the strongest economic moat; newer EV/battery businesses have weaker demonstrated economics.",
+        "3. TAM / Growth Runway": "Thailand's decarbonization, grid investment and EV transition create long-run TAM, but EA's near-term SOM is constrained by funding capacity. Growth should be judged after balance-sheet stabilization.",
+        "4. Positive Catalysts": "Catalysts: refinancing, asset monetization, debt reduction, positive OCF, renewable earnings stability and EV/battery restructuring. Probability medium / impact very high over 6-24 months.",
+        "5. Competitors": "Peers include BCPG, GUNKUL, GPSC, BGRIM and EV/battery operators. EA has a broader integrated platform but materially higher governance/refinancing risk.",
+        "6. Revenue Growth & Margin": "1H26 attributable profit recovered to about THB106m from a prior-year loss. Revenue and margins remain volatile; cash generation and debt reduction matter more than accounting profit at this stage.",
+        "7. Regulation": "Power licenses/PPAs, EV standards, environmental approvals, battery safety rules and securities/governance requirements matter. Regulation creates barriers but governance breaches can sharply raise funding cost.",
+        "8. Narrative & Sentiment": "Narrative is 'survival/turnaround and balance-sheet repair'. Sentiment is fragile but can improve rapidly on credible refinancing and asset-sale execution.",
+        "9. Valuation Effect": "At 2.70 baht the equity embeds severe distress expectations. Fair Value only on a risk-adjusted basis: conventional multiples are less useful until sustainable earnings and leverage normalize.",
+        "10. Earnings & Macro": "Base: refinance and gradual operating stabilization. Bull: meaningful asset monetization/deleveraging and renewable cash-flow resilience. Bear: refinancing stress, dilution or governance setbacks.",
+        "11. Risk Radar": "Top risks: refinancing/liquidity (high/very high), governance/legal (high/very high), leverage (high/high), EV/battery execution (high/high), project/asset-sale execution (medium-high/high)."
+      },
+      "thesis": "Operating renewable assets and potential asset monetization create recovery optionality; successful refinancing and normalized EV/battery operations could produce substantial equity upside from a depressed base.",
+      "bear": "Leverage, refinancing and governance can overwhelm operating recovery; asset sales or capital raising may dilute equity and the EV/battery strategy still needs to prove sustainable returns.",
+      "teamComment": "",
+      "marketBelieves": "The market treats EA primarily as a balance-sheet/governance turnaround rather than a clean-energy growth compounder.",
+      "marketMissing": "The market may underprice the value of operating contracted renewable assets if refinancing succeeds, but may still overestimate recovery speed in EV/battery businesses.",
+      "variables": "Refinancing maturity, debt reduction, OCF, asset sales, renewable EBITDA, EV deliveries, battery utilization, governance/legal developments.",
+      "fit": "High-risk turnaround/special-situations investor able to tolerate governance, refinancing and execution risk.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "PPAs, renewable operating assets, project-development capability and an integrated EV/battery ecosystem create barriers, but durability is impaired by capital intensity, refinancing pressure and governance concerns.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/EA-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/EA/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/EA/factsheet"
+        }
+      ],
+      "price": 2.26,
+      "marketCap": 16784.56,
+      "pe": null,
+      "pbv": null,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
       "rank": 91,
       "ticker": "JMT",
       "company": "JMT Network Services PCL.",
@@ -6589,8 +6589,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/JMT/factsheet"
         }
       ],
-      "price": 10.2,
-      "marketCap": 14889.35,
+      "price": 10.1,
+      "marketCap": 14743.38,
       "pe": 15.7,
       "pbv": 0.55,
       "evEbitda": null,
@@ -6598,75 +6598,6 @@
     },
     {
       "rank": 92,
-      "ticker": "JMART",
-      "company": "Jaymart Group Holdings PCL.",
-      "sector": "Commerce",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 212.961,
-      "periodNpat": 375.676,
-      "npatGrowth": 49.5,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Holding company: use look-through NAV, subsidiary leverage, parent liquidity and recurring cash upstream",
-      "debtEbitdaNote": "Consolidated debt and subsidiary funding can obscure parent economics. Evaluate NAV, upstream dividends, debt maturity and earnings quality across JMT/J-Mobile/Singer/ecosystem holdings.",
-      "score": 6.8125,
-      "flags": [
-        "Holding Company",
-        "JMT Ecosystem",
-        "Turnaround",
-        "High Complexity"
-      ],
-      "summary": "JMART's 1H26 attributable NPAT rose ~49.5% to THB376m, indicating recovery, but the stock remains a complex holding-company thesis. Low P/BV is attractive only if subsidiary earnings, NAV and parent cash upstream normalize.",
-      "framework": {
-        "1. Management": "Founder-led Jaymart ecosystem with long telecom-retail roots and multiple listed affiliates. Management's key challenge is capital allocation and simplification after a period of aggressive ecosystem expansion.",
-        "2. Product / Moat": "JMART is a holding company spanning mobile retail, debt management/insurance, finance and commerce. Moat is portfolio/ecosystem access rather than a single operating franchise; complexity reduces transparency.",
-        "3. TAM / Growth Runway": "TAM spans consumer technology, finance and distressed debt. Growth runway exists through subsidiaries, but parent-level value depends on NAV compounding and cash upstream.",
-        "4. Positive Catalysts": "Catalysts: JMT recovery, stronger subsidiary profits, asset sales/restructuring, lower leverage and narrowing NAV discount. Probability medium / impact high.",
-        "5. Competitors": "Direct peers are diversified holding companies; underlying competitors vary by subsidiary. Relative analysis should be look-through rather than consolidated P/E alone.",
-        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB375.7m vs THB251.3m (+49.5%); Q2 THB213.0m vs THB111.0m. Earnings improved, but recurring quality and cash upstream remain essential.",
-        "7. Regulation": "Consumer finance, debt collection, telecom retail, insurance and securities rules affect subsidiaries. Group complexity increases governance and regulatory-monitoring burden.",
-        "8. Narrative & Sentiment": "Narrative is 'ecosystem turnaround + NAV recovery'. Sentiment is improving with earnings, but still fragile due to historical leverage and complexity.",
-        "9. Valuation Effect": "At THB9.70, P/BV is below 1x and trailing P/E is not meaningful/reliable given earnings volatility. Fair Value until NAV and parent cash generation are clearer.",
-        "10. Earnings & Macro": "Base: subsidiaries recover gradually. Bull: JMT + commerce/finance improve together and NAV discount narrows. Bear: subsidiary weakness/leverage returns. 3-5y return depends on look-through ROE and capital allocation.",
-        "11. Risk Radar": "Top risks: holding-company discount, subsidiary earnings volatility, leverage/liquidity, governance/capital allocation, correlated ecosystem stress."
-      },
-      "thesis": "JMT recovery, ecosystem restructuring and low holding-company valuation create meaningful rerating optionality.",
-      "bear": "Conglomerate complexity, subsidiary leverage, weak cash upstream or renewed losses can keep the holding-company discount wide despite headline profit growth.",
-      "teamComment": "",
-      "marketBelieves": "The market sees JMART as a leveraged ecosystem turnaround whose value is dominated by listed/unlisted subsidiary performance.",
-      "marketMissing": "The market may underprice NAV recovery if JMT and other subsidiaries improve simultaneously, but may overstate synergies that do not translate into parent cash flow.",
-      "variables": "JMT earnings/collections, Singer/mobile retail results, parent net debt, dividends upstream, NAV discount, equity-method income, liquidity.",
-      "fit": "Special-situations/holding-company investor comfortable with conglomerate discount, subsidiary volatility and leverage.",
-      "moatStatus": "มีบางส่วน",
-      "moatReason": "Ecosystem ownership across mobile retail, debt management, finance and commerce creates cross-holding/network optionality, but complexity and leverage reduce durability.",
-      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-11-03",
-      "sources": [
-        {
-          "label": "Q2/2026 F45",
-          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
-        },
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
-        }
-      ],
-      "price": 10.0,
-      "marketCap": 14639.7,
-      "pe": null,
-      "pbv": 0.78,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 93,
       "ticker": "QH",
       "company": "Quality Houses PCL.",
       "sector": "Property Development",
@@ -6735,6 +6666,75 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
+      "rank": 93,
+      "ticker": "JMART",
+      "company": "Jaymart Group Holdings PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 212.961,
+      "periodNpat": 375.676,
+      "npatGrowth": 49.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Holding company: use look-through NAV, subsidiary leverage, parent liquidity and recurring cash upstream",
+      "debtEbitdaNote": "Consolidated debt and subsidiary funding can obscure parent economics. Evaluate NAV, upstream dividends, debt maturity and earnings quality across JMT/J-Mobile/Singer/ecosystem holdings.",
+      "score": 6.8125,
+      "flags": [
+        "Holding Company",
+        "JMT Ecosystem",
+        "Turnaround",
+        "High Complexity"
+      ],
+      "summary": "JMART's 1H26 attributable NPAT rose ~49.5% to THB376m, indicating recovery, but the stock remains a complex holding-company thesis. Low P/BV is attractive only if subsidiary earnings, NAV and parent cash upstream normalize.",
+      "framework": {
+        "1. Management": "Founder-led Jaymart ecosystem with long telecom-retail roots and multiple listed affiliates. Management's key challenge is capital allocation and simplification after a period of aggressive ecosystem expansion.",
+        "2. Product / Moat": "JMART is a holding company spanning mobile retail, debt management/insurance, finance and commerce. Moat is portfolio/ecosystem access rather than a single operating franchise; complexity reduces transparency.",
+        "3. TAM / Growth Runway": "TAM spans consumer technology, finance and distressed debt. Growth runway exists through subsidiaries, but parent-level value depends on NAV compounding and cash upstream.",
+        "4. Positive Catalysts": "Catalysts: JMT recovery, stronger subsidiary profits, asset sales/restructuring, lower leverage and narrowing NAV discount. Probability medium / impact high.",
+        "5. Competitors": "Direct peers are diversified holding companies; underlying competitors vary by subsidiary. Relative analysis should be look-through rather than consolidated P/E alone.",
+        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB375.7m vs THB251.3m (+49.5%); Q2 THB213.0m vs THB111.0m. Earnings improved, but recurring quality and cash upstream remain essential.",
+        "7. Regulation": "Consumer finance, debt collection, telecom retail, insurance and securities rules affect subsidiaries. Group complexity increases governance and regulatory-monitoring burden.",
+        "8. Narrative & Sentiment": "Narrative is 'ecosystem turnaround + NAV recovery'. Sentiment is improving with earnings, but still fragile due to historical leverage and complexity.",
+        "9. Valuation Effect": "At THB9.70, P/BV is below 1x and trailing P/E is not meaningful/reliable given earnings volatility. Fair Value until NAV and parent cash generation are clearer.",
+        "10. Earnings & Macro": "Base: subsidiaries recover gradually. Bull: JMT + commerce/finance improve together and NAV discount narrows. Bear: subsidiary weakness/leverage returns. 3-5y return depends on look-through ROE and capital allocation.",
+        "11. Risk Radar": "Top risks: holding-company discount, subsidiary earnings volatility, leverage/liquidity, governance/capital allocation, correlated ecosystem stress."
+      },
+      "thesis": "JMT recovery, ecosystem restructuring and low holding-company valuation create meaningful rerating optionality.",
+      "bear": "Conglomerate complexity, subsidiary leverage, weak cash upstream or renewed losses can keep the holding-company discount wide despite headline profit growth.",
+      "teamComment": "",
+      "marketBelieves": "The market sees JMART as a leveraged ecosystem turnaround whose value is dominated by listed/unlisted subsidiary performance.",
+      "marketMissing": "The market may underprice NAV recovery if JMT and other subsidiaries improve simultaneously, but may overstate synergies that do not translate into parent cash flow.",
+      "variables": "JMT earnings/collections, Singer/mobile retail results, parent net debt, dividends upstream, NAV discount, equity-method income, liquidity.",
+      "fit": "Special-situations/holding-company investor comfortable with conglomerate discount, subsidiary volatility and leverage.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Ecosystem ownership across mobile retail, debt management, finance and commerce creates cross-holding/network optionality, but complexity and leverage reduce durability.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
+        }
+      ],
+      "price": 9.95,
+      "marketCap": 14566.5,
+      "pe": null,
+      "pbv": 0.78,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
       "rank": 94,
       "ticker": "PR9",
       "company": "Praram 9 Hospital PCL.",
@@ -6796,8 +6796,8 @@
           "url": "https://investor.praram9.com/"
         }
       ],
-      "price": 18.4,
-      "marketCap": 14467.92,
+      "price": 18.3,
+      "marketCap": 14389.29,
       "pe": 18.4,
       "pbv": 2.47,
       "evEbitda": null,
@@ -7005,8 +7005,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/GFPT/factsheet"
         }
       ],
-      "price": 9.65,
-      "marketCap": 12099.36,
+      "price": 9.6,
+      "marketCap": 12036.67,
       "pe": 6.2,
       "pbv": 0.62,
       "evEbitda": 3.16,
@@ -7084,76 +7084,6 @@
     },
     {
       "rank": 99,
-      "ticker": "GST",
-      "company": "Gulf Space Technology PCL.",
-      "sector": "Information & Communication Technology",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": 500.25,
-      "npatGrowth": -669.4,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Satellite/telecom: use EBITDA, FCF, D/E, concession/contract cash flows and project capex",
-      "debtEbitdaNote": "6M26 D/E was 0.63x and OCF THB234m. Balance sheet is manageable, but future satellite/space investment can materially change capital intensity.",
-      "score": 7.375,
-      "flags": [
-        "Satellite",
-        "Space Technology",
-        "GULF Ecosystem",
-        "Turnaround",
-        "Regulatory Barrier"
-      ],
-      "summary": "GST—renamed from THCOM—has a real regulated infrastructure moat and returned to strong 1H26 profit of THB500m from a prior-year loss. However, a large part of the improvement came from other income, so core recurring earnings must be separated from headline profit.",
-      "framework": {
-        "1. Management": "Renamed from THCOM after strategic ownership/positioning changes. Management operates a technically complex satellite platform; shareholder alignment now depends on disciplined investment within the broader Gulf ecosystem.",
-        "2. Product / Moat": "Businesses include satellite and related services, internet/media, overseas telecom and joint ventures. Moat is strong from licenses/orbital rights, infrastructure, engineering and customer relationships.",
-        "3. TAM / Growth Runway": "Regional connectivity, satellite broadband, enterprise/government services and space infrastructure offer long-run TAM. Growth requires successful next-generation satellite/capacity investment and commercialization.",
-        "4. Positive Catalysts": "Catalysts: new satellite projects, government/enterprise contracts, Gulf ecosystem synergies, regulatory clarity and recurring EBITDA growth. Probability medium / impact high.",
-        "5. Competitors": "Competitors include regional/global satellite operators and terrestrial broadband alternatives. GST has domestic strategic positioning but faces technology substitution and scale competition.",
-        "6. Revenue Growth & Margin": "6M26 total revenue THB1.54bn +11.6%, but revenue from operations fell to THB950m; NPAT improved to THB500m from -THB88m largely with higher other income. OCF THB234m and D/E 0.63x.",
-        "7. Regulation": "Orbital slots, spectrum, satellite licenses, concession/contract obligations, cybersecurity and telecom regulation are central. Regulation is a major barrier to entry and a key thesis risk.",
-        "8. Narrative & Sentiment": "Narrative is 'THCOM transformed into Gulf Space Technology'. Sentiment is improving on strategic optionality, but core earnings quality remains under scrutiny.",
-        "9. Valuation Effect": "At ~THB9.50, valuation is around mid-teens P/E and ~1x P/BV. Fair Value given regulated-asset moat, but upside requires recurring core growth rather than one-off income.",
-        "10. Earnings & Macro": "Base: stable legacy cash flows + selective new-space investment. Bull: successful new satellite/strategic contracts. Bear: capex-heavy projects, regulatory/legal setbacks or weak core revenue.",
-        "11. Risk Radar": "Top risks: regulatory/concession disputes, capex/project returns, technology substitution, customer concentration, core-vs-one-off earnings quality."
-      },
-      "thesis": "Satellite rights, technical know-how and strategic Gulf ecosystem can support a new growth phase in space/digital infrastructure.",
-      "bear": "Core operating revenue declined in 1H26 and headline profit benefited from other income; satellite replacement capex, regulatory disputes and project returns remain significant risks.",
-      "teamComment": "",
-      "marketBelieves": "The market sees GST as a strategic Gulf-linked space/satellite platform rather than the old mature THCOM story.",
-      "marketMissing": "The market may underprice strategic optionality in new satellite/space infrastructure, while overpricing one-off profit if recurring core economics remain weak.",
-      "variables": "Satellite utilization, service revenue, EBITDA excluding one-offs, orbital/spectrum rights, capex, contract wins, D/E, OCF, regulatory/legal developments.",
-      "fit": "Strategic-infrastructure/technology investor comfortable with regulatory, concession and project-capex risk.",
-      "moatStatus": "มี",
-      "moatReason": "Orbital/satellite operating rights, spectrum/telecom licenses, long customer relationships, technical infrastructure and strategic Gulf backing create high regulatory and capital barriers.",
-      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-11-03",
-      "sources": [
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/GST/factsheet"
-        },
-        {
-          "label": "Price / 6M26 Highlights",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/GST/price"
-        },
-        {
-          "label": "Name Change / Company Information",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/GST/factsheet"
-        }
-      ],
-      "price": 8.6,
-      "marketCap": 9426.46,
-      "pe": 16.6,
-      "pbv": 0.99,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 100,
       "ticker": "AAV",
       "company": "Asia Aviation PCL.",
       "sector": "Transportation & Logistics",
@@ -7219,6 +7149,76 @@
       "marketCap": 9380.5,
       "pe": null,
       "pbv": 0.75,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 100,
+      "ticker": "GST",
+      "company": "Gulf Space Technology PCL.",
+      "sector": "Information & Communication Technology",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 500.25,
+      "npatGrowth": -669.4,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Satellite/telecom: use EBITDA, FCF, D/E, concession/contract cash flows and project capex",
+      "debtEbitdaNote": "6M26 D/E was 0.63x and OCF THB234m. Balance sheet is manageable, but future satellite/space investment can materially change capital intensity.",
+      "score": 7.375,
+      "flags": [
+        "Satellite",
+        "Space Technology",
+        "GULF Ecosystem",
+        "Turnaround",
+        "Regulatory Barrier"
+      ],
+      "summary": "GST—renamed from THCOM—has a real regulated infrastructure moat and returned to strong 1H26 profit of THB500m from a prior-year loss. However, a large part of the improvement came from other income, so core recurring earnings must be separated from headline profit.",
+      "framework": {
+        "1. Management": "Renamed from THCOM after strategic ownership/positioning changes. Management operates a technically complex satellite platform; shareholder alignment now depends on disciplined investment within the broader Gulf ecosystem.",
+        "2. Product / Moat": "Businesses include satellite and related services, internet/media, overseas telecom and joint ventures. Moat is strong from licenses/orbital rights, infrastructure, engineering and customer relationships.",
+        "3. TAM / Growth Runway": "Regional connectivity, satellite broadband, enterprise/government services and space infrastructure offer long-run TAM. Growth requires successful next-generation satellite/capacity investment and commercialization.",
+        "4. Positive Catalysts": "Catalysts: new satellite projects, government/enterprise contracts, Gulf ecosystem synergies, regulatory clarity and recurring EBITDA growth. Probability medium / impact high.",
+        "5. Competitors": "Competitors include regional/global satellite operators and terrestrial broadband alternatives. GST has domestic strategic positioning but faces technology substitution and scale competition.",
+        "6. Revenue Growth & Margin": "6M26 total revenue THB1.54bn +11.6%, but revenue from operations fell to THB950m; NPAT improved to THB500m from -THB88m largely with higher other income. OCF THB234m and D/E 0.63x.",
+        "7. Regulation": "Orbital slots, spectrum, satellite licenses, concession/contract obligations, cybersecurity and telecom regulation are central. Regulation is a major barrier to entry and a key thesis risk.",
+        "8. Narrative & Sentiment": "Narrative is 'THCOM transformed into Gulf Space Technology'. Sentiment is improving on strategic optionality, but core earnings quality remains under scrutiny.",
+        "9. Valuation Effect": "At ~THB9.50, valuation is around mid-teens P/E and ~1x P/BV. Fair Value given regulated-asset moat, but upside requires recurring core growth rather than one-off income.",
+        "10. Earnings & Macro": "Base: stable legacy cash flows + selective new-space investment. Bull: successful new satellite/strategic contracts. Bear: capex-heavy projects, regulatory/legal setbacks or weak core revenue.",
+        "11. Risk Radar": "Top risks: regulatory/concession disputes, capex/project returns, technology substitution, customer concentration, core-vs-one-off earnings quality."
+      },
+      "thesis": "Satellite rights, technical know-how and strategic Gulf ecosystem can support a new growth phase in space/digital infrastructure.",
+      "bear": "Core operating revenue declined in 1H26 and headline profit benefited from other income; satellite replacement capex, regulatory disputes and project returns remain significant risks.",
+      "teamComment": "",
+      "marketBelieves": "The market sees GST as a strategic Gulf-linked space/satellite platform rather than the old mature THCOM story.",
+      "marketMissing": "The market may underprice strategic optionality in new satellite/space infrastructure, while overpricing one-off profit if recurring core economics remain weak.",
+      "variables": "Satellite utilization, service revenue, EBITDA excluding one-offs, orbital/spectrum rights, capex, contract wins, D/E, OCF, regulatory/legal developments.",
+      "fit": "Strategic-infrastructure/technology investor comfortable with regulatory, concession and project-capex risk.",
+      "moatStatus": "มี",
+      "moatReason": "Orbital/satellite operating rights, spectrum/telecom licenses, long customer relationships, technical infrastructure and strategic Gulf backing create high regulatory and capital barriers.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GST/factsheet"
+        },
+        {
+          "label": "Price / 6M26 Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GST/price"
+        },
+        {
+          "label": "Name Change / Company Information",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/GST/factsheet"
+        }
+      ],
+      "price": 8.55,
+      "marketCap": 9371.66,
+      "pe": 16.6,
+      "pbv": 0.99,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     }
