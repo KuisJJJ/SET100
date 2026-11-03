@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: set100-dashboard-build-v3
+  group: set100-dashboard-build-v4
   cancel-in-progress: true
 
 jobs:
@@ -37,8 +37,11 @@ jobs:
       - name: Normalize all displayed research text to Thai
         run: python scripts/translate_research_th.py
 
-      - name: Final Thai-language cleanup and QA
+      - name: Thai terminology cleanup
         run: python scripts/thai_research_cleanup.py
+
+      - name: Finalize Thai explanatory prose and QA
+        run: python scripts/thai_language_finalizer.py
 
       - name: Refresh all stock market data and validate SET100
         env:
