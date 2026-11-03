@@ -3,12 +3,12 @@
     "version": "v7",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
-    "companiesResearched": 85,
+    "companiesResearched": 90,
     "totalUniverse": 100,
     "marketDataUpdated": "2026-10-09",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T07:42:46.997922+00:00",
+    "generatedAt": "2026-11-03T07:59:45.786852+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -1954,75 +1954,6 @@
     },
     {
       "rank": 24,
-      "ticker": "CPAXT",
-      "company": "CP Axtra PCL.",
-      "sector": "Commerce",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 1874.37,
-      "periodNpat": 4668.02,
-      "npatGrowth": -5.3,
-      "debtEbitda": 5.26,
-      "debtEbitdaBasis": "SET",
-      "debtEbitdaNote": "Total Interest Bearing Debt / EBITDA, 6M/2026 (TTM-adjusted by SET).",
-      "score": 7.5625,
-      "flags": [
-        "Wholesale",
-        "Retail",
-        "Scale",
-        "Synergy",
-        "Deleveraging"
-      ],
-      "summary": "CPAXT มี Scale Moat ชัด แต่ Thesis ต้องเห็น Margin + FCF + ROIC ดีขึ้นพร้อมลดหนี้ ไม่ใช่แค่ยอดขายใหญ่.",
-      "framework": {
-        "1. Management": "CP Group-controlled modern-trade platform; management priority is merger synergy, ROIC and deleveraging.",
-        "2. Product / Moat": "Makro wholesale + Lotus's retail/malls. Moat: มี — procurement scale, stores, supplier economics, logistics, membership/data and CP ecosystem.",
-        "3. TAM / Growth Runway": "Runway from B2B foodservice, omnichannel, fresh/private label, tenant income and productivity; Thai modern trade itself is mature.",
-        "4. Positive Catalysts": "Synergy, margin recovery, store optimization, B2B/digital, lower interest cost, debt paydown. 6-24m: probability medium-high / impact medium-high.",
-        "5. Competitors": "Compare with wholesale/modern retail peers on SSSG, gross margin, sales/sqm, inventory turns, EBITDA margin, FCF, leverage and EV/EBITDA.",
-        "6. Revenue Growth & Margin": "1H26 revenue THB266.65bn +3.45% YoY but attributable NPAT THB4.67bn -5.3%; profit quality depends on margin and financing cost.",
-        "7. Regulation": "Competition, food safety, labor, zoning, privacy and consumer rules; scale helps absorb compliance cost but competition rules limit consolidation benefits.",
-        "8. Narrative & Sentiment": "Narrative: post-merger synergy + deleveraging. Sentiment neutral; market wants proof that scale converts to FCF/ROIC.",
-        "9. Valuation Effect": "16.2x P/E and 9.3x EV/EBITDA = Fair Value if synergy and cash conversion improve. P/BV is less informative due merger accounting.",
-        "10. Earnings & Macro": "Base: low-single-digit sales + gradual margin repair. Bull: faster synergy/B2B. Bear: weak consumption + leverage. 3-5y hinges on ROIC.",
-        "11. Risk Radar": "Risks: leverage, weak consumption, integration, price competition, working capital. Monitor SSSG, gross margin, FCF, debt/EBITDA, interest expense."
-      },
-      "thesis": "Scale, procurement/logistics and customer ecosystem create a durable platform; synergy and balance-sheet repair can lift returns.",
-      "bear": "Scale alone does not guarantee high ROIC; thin retail margins and leverage can keep returns mediocre.",
-      "teamComment": "",
-      "marketBelieves": "Market believes the platform is strategically strong but still needs to prove superior FCF/ROIC.",
-      "marketMissing": "Market may underprice procurement/B2B synergies but underestimate time needed for deleveraging.",
-      "variables": "SSSG, gross margin, EBITDA margin, inventory turns, FCF, debt/EBITDA, interest cost, B2B/digital mix.",
-      "fit": "Value/quality retail investor comfortable with integration and leverage risk.",
-      "moatStatus": "มี",
-      "moatReason": "Procurement scale, store/logistics network, supplier economics, membership/data and CP ecosystem create durable modern-trade advantages.",
-      "industryComparison": "เทียบกับ Wholesale/Modern Retail peers ด้วย SSSG, Gross Margin, Inventory Turns, EBITDA Margin, FCF, Debt/EBITDA และ EV/EBITDA.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-09",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-12",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/CPAXT/factsheet"
-        },
-        {
-          "label": "Q2/1H26 F45",
-          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105743901&symbol=CPAXT"
-        },
-        {
-          "label": "Financial Statements Analysis",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/CPAXT/financial-statement/financial-statements-analysis"
-        }
-      ],
-      "price": 14.1,
-      "marketCap": 147030.03,
-      "pe": 16.17,
-      "pbv": 0.49,
-      "evEbitda": 9.29
-    },
-    {
-      "rank": 25,
       "ticker": "OR",
       "company": "PTT Oil and Retail Business PCL.",
       "sector": "Energy & Utilities",
@@ -2086,7 +2017,7 @@
       "evEbitda": 10.08
     },
     {
-      "rank": 26,
+      "rank": 25,
       "ticker": "GPSC",
       "company": "Global Power Synergy PCL.",
       "sector": "Energy & Utilities",
@@ -2154,7 +2085,7 @@
       "evEbitda": 11.03
     },
     {
-      "rank": 27,
+      "rank": 26,
       "ticker": "SCGP",
       "company": "SCG Packaging PCL.",
       "sector": "Packaging",
@@ -2222,7 +2153,7 @@
       "evEbitda": 10.46
     },
     {
-      "rank": 28,
+      "rank": 27,
       "ticker": "TLI",
       "company": "Thai Life Insurance PCL.",
       "sector": "Insurance",
@@ -2290,7 +2221,7 @@
       "evEbitda": null
     },
     {
-      "rank": 29,
+      "rank": 28,
       "ticker": "MINT",
       "company": "Minor International PCL.",
       "sector": "Tourism & Leisure",
@@ -2358,7 +2289,7 @@
       "evEbitda": 6.99
     },
     {
-      "rank": 30,
+      "rank": 29,
       "ticker": "CCET",
       "company": "Cal-Comp Electronics (Thailand) PCL.",
       "sector": "Electronic Components",
@@ -2422,7 +2353,7 @@
       "evEbitda": 22.4
     },
     {
-      "rank": 31,
+      "rank": 30,
       "ticker": "KKP",
       "company": "Kiatnakin Phatra Bank PCL.",
       "sector": "Banking",
@@ -2486,7 +2417,7 @@
       "evEbitda": null
     },
     {
-      "rank": 32,
+      "rank": 31,
       "ticker": "TISCO",
       "company": "Tisco Financial Group PCL.",
       "sector": "Banking",
@@ -2554,7 +2485,7 @@
       "evEbitda": null
     },
     {
-      "rank": 33,
+      "rank": 32,
       "ticker": "AWC",
       "company": "Asset World Corp PCL.",
       "sector": "Property Development",
@@ -2622,7 +2553,7 @@
       "evEbitda": 15.5
     },
     {
-      "rank": 34,
+      "rank": 33,
       "ticker": "BEM",
       "company": "Bangkok Expressway and Metro PCL.",
       "sector": "Transportation & Logistics",
@@ -2690,7 +2621,7 @@
       "evEbitda": 24.2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "ticker": "KCE",
       "company": "KCE Electronics PCL.",
       "sector": "Electronic Components",
@@ -2758,7 +2689,7 @@
       "evEbitda": 42.48
     },
     {
-      "rank": 36,
+      "rank": 35,
       "ticker": "KTC",
       "company": "Krungthai Card PCL.",
       "sector": "Finance & Securities",
@@ -2826,7 +2757,7 @@
       "evEbitda": null
     },
     {
-      "rank": 37,
+      "rank": 36,
       "ticker": "HMPRO",
       "company": "Home Product Center PCL.",
       "sector": "Commerce",
@@ -2894,7 +2825,7 @@
       "evEbitda": 9.11
     },
     {
-      "rank": 38,
+      "rank": 37,
       "ticker": "RATCH",
       "company": "Ratch Group PCL.",
       "sector": "Energy & Utilities",
@@ -2962,7 +2893,7 @@
       "evEbitda": 12.9
     },
     {
-      "rank": 39,
+      "rank": 38,
       "ticker": "TCAP",
       "company": "Thanachart Capital PCL.",
       "sector": "Banking",
@@ -3026,7 +2957,7 @@
       "evEbitda": null
     },
     {
-      "rank": 40,
+      "rank": 39,
       "ticker": "COM7",
       "company": "COM7 PCL.",
       "sector": "Commerce",
@@ -3090,7 +3021,7 @@
       "evEbitda": null
     },
     {
-      "rank": 41,
+      "rank": 40,
       "ticker": "BCP",
       "company": "Bangchak Corporation PCL.",
       "sector": "Energy & Utilities",
@@ -3155,7 +3086,7 @@
       "evEbitda": 3.85
     },
     {
-      "rank": 42,
+      "rank": 41,
       "ticker": "BJC",
       "company": "Berli Jucker PCL.",
       "sector": "Commerce",
@@ -3220,7 +3151,7 @@
       "evEbitda": 10.8
     },
     {
-      "rank": 43,
+      "rank": 42,
       "ticker": "WHA",
       "company": "WHA Corporation PCL.",
       "sector": "Property Development",
@@ -3289,7 +3220,7 @@
       "evEbitda": 16.86
     },
     {
-      "rank": 44,
+      "rank": 43,
       "ticker": "SPRC",
       "company": "Star Petroleum Refining PCL.",
       "sector": "Energy & Utilities",
@@ -3353,7 +3284,7 @@
       "evEbitda": null
     },
     {
-      "rank": 45,
+      "rank": 44,
       "ticker": "EGCO",
       "company": "Electricity Generating PCL.",
       "sector": "Energy & Utilities",
@@ -3417,7 +3348,7 @@
       "evEbitda": 14.21
     },
     {
-      "rank": 46,
+      "rank": 45,
       "ticker": "BANPU",
       "company": "Banpu PCL.",
       "sector": "Energy & Utilities",
@@ -3486,7 +3417,7 @@
       "evEbitda": 15.84
     },
     {
-      "rank": 47,
+      "rank": 46,
       "ticker": "IRPC",
       "company": "IRPC PCL.",
       "sector": "Energy & Utilities",
@@ -3554,7 +3485,7 @@
       "evEbitda": null
     },
     {
-      "rank": 48,
+      "rank": 47,
       "ticker": "MTC",
       "company": "Muangthai Capital PCL.",
       "sector": "Finance & Securities",
@@ -3622,7 +3553,7 @@
       "evEbitda": null
     },
     {
-      "rank": 49,
+      "rank": 48,
       "ticker": "CENTEL",
       "company": "Central Plaza Hotel PCL.",
       "sector": "Tourism & Leisure",
@@ -3691,7 +3622,7 @@
       "evEbitda": 9.91
     },
     {
-      "rank": 50,
+      "rank": 49,
       "ticker": "TFG",
       "company": "Thaifoods Group PCL.",
       "sector": "Food & Beverage",
@@ -3759,7 +3690,7 @@
       "evEbitda": 5.72
     },
     {
-      "rank": 51,
+      "rank": 50,
       "ticker": "TU",
       "company": "Thai Union Group PCL.",
       "sector": "Food & Beverage",
@@ -3824,7 +3755,7 @@
       "evEbitda": 15.78
     },
     {
-      "rank": 52,
+      "rank": 51,
       "ticker": "MRDIYT",
       "company": "MR. D.I.Y. Holding (Thailand) PCL.",
       "sector": "Commerce",
@@ -3888,72 +3819,7 @@
       "evEbitda": null
     },
     {
-      "rank": 53,
-      "ticker": "ITC",
-      "company": "i-Tail Corporation PCL.",
-      "sector": "Food & Beverage",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": null,
-      "npatGrowth": null,
-      "debtEbitda": 0.0,
-      "debtEbitdaBasis": "Net Cash / SET",
-      "debtEbitdaNote": "EV below market cap; Debt/EBITDA is not a binding risk metric.",
-      "score": 8.25,
-      "flags": [
-        "Pet Food",
-        "OEM",
-        "Net Cash",
-        "High Margin",
-        "Growth"
-      ],
-      "summary": "ITC จุดเด่นคือ Growth + Net Cash + Margin Quality แต่ต้องจับ Customer Concentration/FX ให้ดี Valuation ปัจจุบันถือว่าสมเหตุผลมากกว่าถูกมาก.",
-      "framework": {
-        "1. Management": "Thai Union-linked pet-food specialist with professional management and a focused capital structure. Management has prioritized premium innovation, customer relationships and capacity efficiency; balance sheet remains very strong.",
-        "2. Product / Moat": "OEM and branded pet food, especially premium wet food/treats. Moat: มี — formulation/R&D, customer qualification, food-safety standards, long customer relationships and manufacturing know-how. Durability high within premium pet food, though customers retain bargaining power.",
-        "3. TAM / Growth Runway": "Global pet-humanization and premiumization support a structurally growing TAM. Runway comes from premium recipes, treats, geographic/customer expansion and higher utilization.",
-        "4. Positive Catalysts": "Pet-food volume growth; premium mix; new customer/product launches; utilization; lower input/freight costs; dividend. Probability medium-high / impact medium-high over 6-24 months.",
-        "5. Competitors": "Compare with pet-food/OEM peers on sales growth, gross margin, utilization, customer concentration, ROIC, FCF and P/E/EV-EBITDA. ITC's net cash and margins are key strengths.",
-        "6. Revenue Growth & Margin": "SET reports 1H26 sales growth +11.25% and net profit growth +24.95% YoY. Strong balance sheet and EV below market cap indicate net cash.",
-        "7. Regulation": "Food safety, export rules, customer audits, traceability, veterinary/feed standards and FX matter. High qualification standards create meaningful barriers.",
-        "8. Narrative & Sentiment": "Narrative is 'premium pet-food structural growth + net cash'. Sentiment is positive but disciplined after the 2025 de-rating; growth has reaccelerated.",
-        "9. Valuation Effect": "15.2x P/E / 13.3x EV/EBITDA = Fair Value for 20%+ earnings growth and net cash. Return should be earnings/dividend-led.",
-        "10. Earnings & Macro": "Base: double-digit sales/profit growth. Bull: premium mix + new customer wins + utilization. Bear: customer destocking/FX/input costs. 3-5y depends on customer diversification and premium innovation.",
-        "11. Risk Radar": "Top risks: customer concentration (medium-high/high), FX (high/medium), raw-material cost (medium/medium), pet-demand normalization (medium/medium), capacity execution (low-medium/medium)."
-      },
-      "thesis": "Premium pet-food know-how, customer qualification and net cash create an attractive quality-growth profile.",
-      "bear": "OEM dependence limits pricing power; customer concentration can make growth lumpy.",
-      "teamComment": "",
-      "marketBelieves": "Market believes ITC is a high-quality pet-food exporter benefiting from structural pet-humanization.",
-      "marketMissing": "Market may underprice margin/ROIC upside from premium mix while underestimating concentration/FX risk.",
-      "variables": "Sales growth, gross margin, premium mix, utilization, top-customer share, FX, FCF, dividend.",
-      "fit": "Quality-growth food investor seeking net cash and structural pet-food exposure.",
-      "moatStatus": "มี",
-      "moatReason": "R&D/formulation, qualification, food-safety standards and long customer relationships create meaningful switching barriers.",
-      "industryComparison": "เทียบกับ Pet Food/OEM peers ด้วย Sales Growth, Gross Margin, Utilization, Customer Concentration, ROIC, Net Cash และ P/E/EV-EBITDA.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-10-09",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-14",
-      "sources": [
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/ITC/factsheet"
-        },
-        {
-          "label": "Company Highlights",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/ITC/financial-statement/company-highlights"
-        }
-      ],
-      "price": 16.8,
-      "marketCap": 50400.0,
-      "pe": 15.18,
-      "pbv": 2.12,
-      "evEbitda": 13.25
-    },
-    {
-      "rank": 54,
+      "rank": 52,
       "ticker": "BGRIM",
       "company": "B.Grimm Power PCL.",
       "sector": "Energy & Utilities",
@@ -4018,7 +3884,7 @@
       "evEbitda": 11.27
     },
     {
-      "rank": 55,
+      "rank": 53,
       "ticker": "CBG",
       "company": "Carabao Group PCL.",
       "sector": "Food & Beverage",
@@ -4082,7 +3948,7 @@
       "evEbitda": 13.4
     },
     {
-      "rank": 56,
+      "rank": 54,
       "ticker": "OSP",
       "company": "Osotspa PCL.",
       "sector": "Food & Beverage",
@@ -4147,7 +4013,7 @@
       "evEbitda": 7.46
     },
     {
-      "rank": 57,
+      "rank": 55,
       "ticker": "TIDLOR",
       "company": "TIDLOR Holdings PCL.",
       "sector": "Finance & Securities",
@@ -4212,7 +4078,7 @@
       "evEbitda": null
     },
     {
-      "rank": 58,
+      "rank": 56,
       "ticker": "HANA",
       "company": "Hana Microelectronics PCL.",
       "sector": "Electronic Components",
@@ -4277,7 +4143,7 @@
       "evEbitda": 20.2
     },
     {
-      "rank": 59,
+      "rank": 57,
       "ticker": "GUNKUL",
       "company": "Gunkul Engineering PCL.",
       "sector": "Energy & Utilities",
@@ -4342,7 +4208,7 @@
       "evEbitda": 14.44
     },
     {
-      "rank": 60,
+      "rank": 58,
       "ticker": "LH",
       "company": "Land and Houses PCL.",
       "sector": "Property Development",
@@ -4406,7 +4272,7 @@
       "evEbitda": 17.35
     },
     {
-      "rank": 61,
+      "rank": 59,
       "ticker": "BA",
       "company": "Bangkok Airways PCL.",
       "sector": "Transportation & Logistics",
@@ -4470,7 +4336,7 @@
       "evEbitda": 6.87
     },
     {
-      "rank": 62,
+      "rank": 60,
       "ticker": "BTG",
       "company": "Betagro PCL.",
       "sector": "Food & Beverage",
@@ -4535,7 +4401,7 @@
       "evEbitda": 5.51
     },
     {
-      "rank": 63,
+      "rank": 61,
       "ticker": "BLA",
       "company": "Bangkok Life Assurance PCL.",
       "sector": "Insurance",
@@ -4603,7 +4469,7 @@
       "evEbitda": null
     },
     {
-      "rank": 64,
+      "rank": 62,
       "ticker": "PLANB",
       "company": "Plan B Media PCL.",
       "sector": "Media & Publishing",
@@ -4668,7 +4534,7 @@
       "evEbitda": null
     },
     {
-      "rank": 65,
+      "rank": 63,
       "ticker": "RCL",
       "company": "Regional Container Lines PCL.",
       "sector": "Transportation & Logistics",
@@ -4736,7 +4602,7 @@
       "evEbitda": 3.43
     },
     {
-      "rank": 66,
+      "rank": 64,
       "ticker": "GLOBAL",
       "company": "Siam Global House PCL.",
       "sector": "Commerce",
@@ -4804,7 +4670,7 @@
       "evEbitda": null
     },
     {
-      "rank": 67,
+      "rank": 65,
       "ticker": "STA",
       "company": "Sri Trang Agro-Industry PCL.",
       "sector": "Agribusiness",
@@ -4872,7 +4738,7 @@
       "evEbitda": null
     },
     {
-      "rank": 68,
+      "rank": 66,
       "ticker": "AMATA",
       "company": "Amata Corporation PCL.",
       "sector": "Property Development",
@@ -4937,7 +4803,7 @@
       "evEbitda": 8.08
     },
     {
-      "rank": 69,
+      "rank": 67,
       "ticker": "SAWAD",
       "company": "Srisawad Corporation PCL.",
       "sector": "Finance & Securities",
@@ -5001,7 +4867,7 @@
       "evEbitda": null
     },
     {
-      "rank": 70,
+      "rank": 68,
       "ticker": "STGT",
       "company": "Sri Trang Gloves (Thailand) PCL.",
       "sector": "Personal Products & Pharmaceuticals",
@@ -5074,7 +4940,7 @@
       "evEbitda": 11.4
     },
     {
-      "rank": 71,
+      "rank": 69,
       "ticker": "SPALI",
       "company": "Supalai PCL.",
       "sector": "Property Development",
@@ -5139,7 +5005,7 @@
       "evEbitda": null
     },
     {
-      "rank": 72,
+      "rank": 70,
       "ticker": "TOA",
       "company": "TOA Paint (Thailand) PCL.",
       "sector": "Construction Materials",
@@ -5204,7 +5070,7 @@
       "evEbitda": 5.6
     },
     {
-      "rank": 73,
+      "rank": 71,
       "ticker": "BTS",
       "company": "BTS Group Holdings PCL.",
       "sector": "Transportation & Logistics",
@@ -5272,7 +5138,7 @@
       "evEbitda": 21.5
     },
     {
-      "rank": 74,
+      "rank": 72,
       "ticker": "CK",
       "company": "CH. Karnchang PCL.",
       "sector": "Construction Services",
@@ -5336,7 +5202,7 @@
       "evEbitda": 9.95
     },
     {
-      "rank": 75,
+      "rank": 73,
       "ticker": "MEGA",
       "company": "Mega Lifesciences PCL.",
       "sector": "Commerce",
@@ -5409,7 +5275,7 @@
       "evEbitda": 8.4
     },
     {
-      "rank": 76,
+      "rank": 74,
       "ticker": "BCH",
       "company": "Bangkok Chain Hospital PCL.",
       "sector": "Health Care Services",
@@ -5477,7 +5343,7 @@
       "evEbitda": 10.56
     },
     {
-      "rank": 77,
+      "rank": 75,
       "ticker": "TASCO",
       "company": "Tipco Asphalt PCL.",
       "sector": "Construction Materials",
@@ -5542,7 +5408,7 @@
       "evEbitda": 10.76
     },
     {
-      "rank": 78,
+      "rank": 76,
       "ticker": "STECON",
       "company": "Stecon Group PCL.",
       "sector": "Construction Services",
@@ -5615,7 +5481,7 @@
       "evEbitda": null
     },
     {
-      "rank": 79,
+      "rank": 77,
       "ticker": "WHAUP",
       "company": "WHA Utilities and Power PCL.",
       "sector": "Energy & Utilities",
@@ -5667,14 +5533,6 @@
         {
           "label": "Price",
           "url": "https://www.set.or.th/th/market/product/stock/quote/WHAUP/price"
-        },
-        {
-          "label": "WHAUP Historical Price",
-          "url": "https://www.wha-up.com/en/investor-relations/stock-information/historical-price"
-        },
-        {
-          "label": "WHAUP CEO appointment",
-          "url": "https://www.wha-up.com/en/updates/company-news/959/whaup-appoints-akarin-prathuangsit-as-new-ceo-accelerating-utilities-and-power-business-in-alignment-with-wha-groups-strategy"
         }
       ],
       "price": 6.9,
@@ -5684,7 +5542,7 @@
       "evEbitda": null
     },
     {
-      "rank": 80,
+      "rank": 78,
       "ticker": "SIRI",
       "company": "Sansiri PCL.",
       "sector": "Property Development",
@@ -5736,22 +5594,6 @@
         {
           "label": "Price / Historical",
           "url": "https://www.set.or.th/en/market/product/stock/quote/SIRI/price"
-        },
-        {
-          "label": "SIRI 6M26 Snapshot",
-          "url": "https://lssmedia.setlink.set.or.th/2026/6M/SIRI-6M69-ListedCompanySnapshot-EN.html"
-        },
-        {
-          "label": "Sansiri Financial Highlights",
-          "url": "https://investor.sansiri.com/en/financial-info/financial-highlights"
-        },
-        {
-          "label": "Sansiri Major Shareholders",
-          "url": "https://investor.sansiri.com/en/shareholder-info/major-shareholders"
-        },
-        {
-          "label": "SETTRADE Historical Trading",
-          "url": "https://www.settrade.com/th/equities/quote/SIRI/historical-trading"
         }
       ],
       "price": 1.44,
@@ -5761,7 +5603,7 @@
       "evEbitda": 15.55
     },
     {
-      "rank": 81,
+      "rank": 79,
       "ticker": "AP",
       "company": "AP (Thailand) PCL.",
       "sector": "Property Development",
@@ -5830,7 +5672,7 @@
       "evEbitda": null
     },
     {
-      "rank": 82,
+      "rank": 80,
       "ticker": "AEONTS",
       "company": "AEON Thana Sinsap (Thailand) PCL.",
       "sector": "Finance & Securities",
@@ -5899,7 +5741,7 @@
       "evEbitda": null
     },
     {
-      "rank": 83,
+      "rank": 81,
       "ticker": "BAM",
       "company": "Bangkok Commercial Asset Management PCL.",
       "sector": "Finance & Securities",
@@ -5965,6 +5807,144 @@
       "marketCap": 20846.67,
       "pe": 28.0,
       "pbv": 0.48,
+      "evEbitda": null
+    },
+    {
+      "rank": 82,
+      "ticker": "EA",
+      "company": "Energy Absolute PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 105.81,
+      "npatGrowth": -122.6,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Energy / project finance: use D/E, Net Debt/EBITDA and liquidity",
+      "debtEbitdaNote": "6M26 D/E about 1.61x. Refinancing, covenant headroom, asset sales and operating cash flow are more decision-useful than headline Debt/EBITDA alone.",
+      "score": 6.0,
+      "flags": [
+        "Renewables",
+        "EV",
+        "Battery",
+        "Turnaround",
+        "Refinancing Risk"
+      ],
+      "summary": "EA returned to positive attributable profit in 1H26 after a prior-year loss, but the investment case remains dominated by balance-sheet repair, refinancing and governance. Operating assets have value; equity rerating requires credible deleveraging and cash conversion.",
+      "framework": {
+        "1. Management": "Management quality is currently the central risk variable. The group retains renewable-development expertise, but investor confidence depends on governance remediation, transparent capital allocation and successful debt restructuring.",
+        "2. Product / Moat": "Businesses span renewable electricity, biodiesel/energy, battery/energy storage, commercial EVs and charging. Contracted power assets are the strongest economic moat; newer EV/battery businesses have weaker demonstrated economics.",
+        "3. TAM / Growth Runway": "Thailand's decarbonization, grid investment and EV transition create long-run TAM, but EA's near-term SOM is constrained by funding capacity. Growth should be judged after balance-sheet stabilization.",
+        "4. Positive Catalysts": "Catalysts: refinancing, asset monetization, debt reduction, positive OCF, renewable earnings stability and EV/battery restructuring. Probability medium / impact very high over 6-24 months.",
+        "5. Competitors": "Peers include BCPG, GUNKUL, GPSC, BGRIM and EV/battery operators. EA has a broader integrated platform but materially higher governance/refinancing risk.",
+        "6. Revenue Growth & Margin": "1H26 attributable profit recovered to about THB106m from a prior-year loss. Revenue and margins remain volatile; cash generation and debt reduction matter more than accounting profit at this stage.",
+        "7. Regulation": "Power licenses/PPAs, EV standards, environmental approvals, battery safety rules and securities/governance requirements matter. Regulation creates barriers but governance breaches can sharply raise funding cost.",
+        "8. Narrative & Sentiment": "Narrative is 'survival/turnaround and balance-sheet repair'. Sentiment is fragile but can improve rapidly on credible refinancing and asset-sale execution.",
+        "9. Valuation Effect": "At 2.70 baht the equity embeds severe distress expectations. Fair Value only on a risk-adjusted basis: conventional multiples are less useful until sustainable earnings and leverage normalize.",
+        "10. Earnings & Macro": "Base: refinance and gradual operating stabilization. Bull: meaningful asset monetization/deleveraging and renewable cash-flow resilience. Bear: refinancing stress, dilution or governance setbacks.",
+        "11. Risk Radar": "Top risks: refinancing/liquidity (high/very high), governance/legal (high/very high), leverage (high/high), EV/battery execution (high/high), project/asset-sale execution (medium-high/high)."
+      },
+      "thesis": "Operating renewable assets and potential asset monetization create recovery optionality; successful refinancing and normalized EV/battery operations could produce substantial equity upside from a depressed base.",
+      "bear": "Leverage, refinancing and governance can overwhelm operating recovery; asset sales or capital raising may dilute equity and the EV/battery strategy still needs to prove sustainable returns.",
+      "teamComment": "",
+      "marketBelieves": "The market treats EA primarily as a balance-sheet/governance turnaround rather than a clean-energy growth compounder.",
+      "marketMissing": "The market may underprice the value of operating contracted renewable assets if refinancing succeeds, but may still overestimate recovery speed in EV/battery businesses.",
+      "variables": "Refinancing maturity, debt reduction, OCF, asset sales, renewable EBITDA, EV deliveries, battery utilization, governance/legal developments.",
+      "fit": "High-risk turnaround/special-situations investor able to tolerate governance, refinancing and execution risk.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "PPAs, renewable operating assets, project-development capability and an integrated EV/battery ecosystem create barriers, but durability is impaired by capital intensity, refinancing pressure and governance concerns.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/EA-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/EA/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/EA/factsheet"
+        }
+      ],
+      "price": 2.7,
+      "marketCap": 20052.36,
+      "pe": null,
+      "pbv": null,
+      "evEbitda": null
+    },
+    {
+      "rank": 83,
+      "ticker": "VGI",
+      "company": "VGI PCL.",
+      "sector": "Media & Publishing",
+      "valuation": "Fair Value",
+      "period": "Q1 FY2027",
+      "qNpat": 261.104,
+      "periodNpat": 261.104,
+      "npatGrowth": 484.0,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Media/platform: use net cash/debt, EBITDA, associate contribution and FCF",
+      "debtEbitdaNote": "Balance sheet leverage is low; earnings quality depends on operating advertising/digital cash flow versus investment/associate gains.",
+      "score": 7.0625,
+      "flags": [
+        "OOH Media",
+        "BTS Ecosystem",
+        "Digital",
+        "Turnaround",
+        "Low Leverage"
+      ],
+      "summary": "VGI is rebuilding earnings after FY2026 losses. Q1 FY2027 attributable profit rose to about THB261m from THB45m, while leverage remains low. The rerating case depends on proving recurring operating profitability rather than one-off portfolio gains.",
+      "framework": {
+        "1. Management": "VGI is linked to the BTS ecosystem and has experience in out-of-home media, digital services and distribution. Management's key task is simplifying the portfolio and rebuilding recurring ROIC.",
+        "2. Product / Moat": "Core assets include transit/out-of-home media, digital/Rabbit-related services and distribution. Moat comes from location rights, network scale, ecosystem access and audience data.",
+        "3. TAM / Growth Runway": "Thai OOH and digital advertising can grow with urban mobility and brand spending. Growth runway also comes from higher utilization and cross-platform monetization rather than only adding physical screens.",
+        "4. Positive Catalysts": "Catalysts: BTS traffic recovery, ad-budget normalization, digital monetization, portfolio simplification and sustained quarterly profitability. Probability medium-high / impact high.",
+        "5. Competitors": "Peers include PLANB and other OOH/digital media operators. PLANB has stronger pure-play media economics; VGI has broader ecosystem optionality but more complexity.",
+        "6. Revenue Growth & Margin": "Q1 FY2027 attributable profit was about THB261m versus THB45m a year earlier. Investors should separate operating EBITDA from gains/losses related to investments and associates.",
+        "7. Regulation": "Advertising concession rights, privacy/data rules, payment regulation and transit contracts matter. Exclusive locations create barriers; concession changes are a strategic risk.",
+        "8. Narrative & Sentiment": "Narrative is 'turnaround + asset monetization within BTS ecosystem'. Sentiment is improving but still needs recurring earnings proof.",
+        "9. Valuation Effect": "At 0.95 baht, valuation is better judged on normalized EBITDA/asset value than trailing P/E because FY2026 was loss-making. Fair Value until sustainable core profit is clearer.",
+        "10. Earnings & Macro": "Base: gradual media/digital recovery. Bull: strong BTS traffic and digital monetization. Bear: weak ad market and continued portfolio losses. 3-5y returns depend on recurring ROIC.",
+        "11. Risk Radar": "Top risks: earnings-quality/one-offs, BTS ecosystem dependence, ad cycle, execution of portfolio restructuring, minority investments/associates."
+      },
+      "thesis": "BTS-linked media inventory, Rabbit ecosystem and digital/distribution assets provide monetization optionality. Low leverage gives time for operating recovery.",
+      "bear": "Advertising demand is cyclical and group complexity can obscure earnings quality; recurring operating profit may lag headline gains.",
+      "teamComment": "",
+      "marketBelieves": "The market sees VGI as a BTS-linked restructuring/turnaround with valuable media and digital assets but uncertain normalized earnings.",
+      "marketMissing": "Improved utilization and digital monetization could lift operating leverage faster than expected if BTS traffic and ad budgets recover.",
+      "variables": "Media utilization, BTS ridership, digital revenue, EBITDA, recurring vs one-off profit, associates, cash balance, capital allocation.",
+      "fit": "Turnaround/growth investor comfortable with advertising cyclicality and portfolio/associate earnings volatility.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Transit-media access, BTS ecosystem, Rabbit data/payment touchpoints and nationwide out-of-home inventory create scale and distribution advantages, though advertising remains cyclical.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "Q1 FY2027",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q1 FY2027 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?symbol=VGI"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/VGI/factsheet"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.vgi.co.th/"
+        }
+      ],
+      "price": 0.95,
+      "marketCap": 20046.22,
+      "pe": null,
+      "pbv": null,
       "evEbitda": null
     },
     {
@@ -6104,6 +6084,349 @@
       "pe": 9.0,
       "pbv": 1.55,
       "evEbitda": 5.9
+    },
+    {
+      "rank": 86,
+      "ticker": "M",
+      "company": "MK Restaurant Group PCL.",
+      "sector": "Food & Beverage",
+      "valuation": "Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 384.68,
+      "npatGrowth": -24.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Consumer/restaurant: use lease-adjusted leverage, EBITDA and cash",
+      "debtEbitdaNote": "Balance sheet remains strong; monitor lease liabilities, store-level cash returns and free cash flow rather than gross debt alone.",
+      "score": 7.125,
+      "flags": [
+        "Restaurant",
+        "Brand",
+        "Strong Balance Sheet",
+        "Margin Pressure"
+      ],
+      "summary": "M retains a strong restaurant franchise and balance sheet, but 1H26 revenue grew ~11.8% while attributable profit fell ~24.5%, showing material margin pressure. At roughly mid-20s P/E on the snapshot, the stock needs a credible earnings recovery.",
+      "framework": {
+        "1. Management": "Founder/family-influenced restaurant group with long operating history and professional management. Capital allocation has historically been conservative with strong liquidity and shareholder returns.",
+        "2. Product / Moat": "Operates MK Suki and other restaurant brands including Yayoi and additional concepts. Moat comes from brand recognition, central kitchen/procurement, store network and standardized service.",
+        "3. TAM / Growth Runway": "Thailand dining TAM grows broadly with nominal consumption and tourism, but mature sukiyaki faces saturation. Runway depends on share gain, menu innovation, new concepts and format productivity.",
+        "4. Positive Catalysts": "Catalysts: SSSG recovery, successful brand refresh, lower food/labor inflation, store optimization, dividends/buybacks. Probability medium / impact medium-high.",
+        "5. Competitors": "Peers include CENTEL's food businesses, AU, ZEN and restaurant chains. M has stronger scale/balance sheet but slower growth and a mature core concept.",
+        "6. Revenue Growth & Margin": "1H26 revenue rose about 11.8% to THB8.39bn, while attributable NPAT fell about 24.5% to THB385m. The central issue is margin, not top-line demand alone.",
+        "7. Regulation": "Food safety, labor law, minimum wage, mall leases and consumer protection affect costs. Regulation is manageable but wage/food-cost inflation directly hits margins.",
+        "8. Narrative & Sentiment": "Narrative is 'quality franchise seeking earnings reset'. Sentiment is neutral-to-negative until traffic and margins improve.",
+        "9. Valuation Effect": "At 20.10 baht, implied P/E around the mid-20s is demanding relative to declining 1H profit. Expensive unless earnings rebound materially.",
+        "10. Earnings & Macro": "Base: revenue stabilizes but margin recovery is gradual. Bull: SSSG and cost control drive strong operating leverage. Bear: traffic weakness and wage/food inflation persist.",
+        "11. Risk Radar": "Top risks: weak SSSG, brand relevance, labor/food inflation, lease/store productivity, competitive discounting."
+      },
+      "thesis": "Strong brands, cash generation and balance sheet provide downside resilience; menu/brand refresh and cost control can restore margins.",
+      "bear": "Structural restaurant competition, weak same-store sales, labor/food inflation and an aging core brand can keep profit below historical levels despite revenue growth.",
+      "teamComment": "",
+      "marketBelieves": "The market believes M is a high-quality but ex-growth restaurant franchise that must prove a successful brand/traffic refresh.",
+      "marketMissing": "The market may underestimate earnings leverage if same-store sales and labor/food cost normalize, but the current multiple already requires improvement.",
+      "variables": "SSSG, traffic, average ticket, gross/EBITDA margin, labor cost, food cost, new concepts, store closures/openings, cash/dividend.",
+      "fit": "Quality/value investor willing to wait for same-store sales and margin normalization; less suitable for high-growth investors at a premium multiple.",
+      "moatStatus": "มี",
+      "moatReason": "MK brand, nationwide restaurant network, procurement/central-kitchen scale, customer familiarity and multi-brand operating know-how create a durable franchise, though tastes and competition can erode traffic.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 Financial Statements",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/M/financial-statement/latest/income"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/M/historical-trading"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.mkrestaurant.com/"
+        }
+      ],
+      "price": 20.1,
+      "marketCap": 18509.69,
+      "pe": 25.0,
+      "pbv": 1.4,
+      "evEbitda": null
+    },
+    {
+      "rank": 87,
+      "ticker": "AURA",
+      "company": "Aurora Design PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 928.51,
+      "npatGrowth": 22.0,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Retail/working-capital intensive: use D/E, inventory funding and OCF",
+      "debtEbitdaNote": "6M26 D/E about 2.36x; rapid gold inventory growth can make operating cash flow deeply negative even when accounting profit is strong.",
+      "score": 7.875,
+      "flags": [
+        "Gold Retail",
+        "High Growth",
+        "Branch Expansion",
+        "Working Capital",
+        "High ROE"
+      ],
+      "summary": "AURA delivered very strong 1H26 growth: revenue ~THB29.7bn and NPAT ~THB929m, up ~22% YoY, but operating cash flow was materially negative as inventory/working capital expanded. Growth quality therefore depends on funding discipline.",
+      "framework": {
+        "1. Management": "Founder-led gold/jewelry retailer with a rapidly scaling branch network. Management has shown strong execution; alignment is high, but capital allocation must control inventory financing.",
+        "2. Product / Moat": "Retail gold jewelry, diamonds/gems and related services. Moat comes from trust, brand, sourcing, branch scale, inventory management and customer ecosystem.",
+        "3. TAM / Growth Runway": "Thailand has a large, culturally entrenched gold retail market. Runway comes from formalization, branch expansion, market-share gains and financial/digital services around gold.",
+        "4. Positive Catalysts": "Catalysts: branch expansion, same-store growth, higher gold trading activity, product/service cross-sell and operating leverage. Probability high / impact high.",
+        "5. Competitors": "Competitors include major gold-shop chains and independent retailers. AURA competes on brand, modern retail experience, scale and geographic reach.",
+        "6. Revenue Growth & Margin": "1H26 revenue was about THB29.74bn with NPAT THB929m, up ~22% YoY. OCF was about -THB2.77bn, highlighting the importance of inventory funding.",
+        "7. Regulation": "Precious-metal trading rules, AML/KYC, consumer protection, tax and financing regulations matter. Compliance and brand trust are barriers to entry.",
+        "8. Narrative & Sentiment": "Narrative is 'high-growth gold retail compounder'. Sentiment is positive, but gold-price-driven working capital is the key debate.",
+        "9. Valuation Effect": "At 13.40 baht, P/E ~11x and P/BV ~2.1x look reasonable for growth/ROE, offset by high working-capital leverage. Fair Value with upside if cash conversion improves.",
+        "10. Earnings & Macro": "Base: continued branch/earnings growth with heavy working capital. Bull: strong SSSG and inventory turns. Bear: gold volatility/funding squeeze. 3-5y returns depend on ROIC after inventory funding.",
+        "11. Risk Radar": "Top risks: gold-price/inventory risk, funding/liquidity, rapid expansion, competition, AML/compliance."
+      },
+      "thesis": "Scale, brand trust, branch expansion and gold ecosystem can compound earnings if inventory turnover and financing remain disciplined.",
+      "bear": "Gold-price volatility, inventory funding and rapid branch expansion can make cash flow much weaker than earnings; leverage can rise quickly.",
+      "teamComment": "",
+      "marketBelieves": "The market sees AURA as a high-growth modern gold retailer with superior ROE but significant working-capital intensity.",
+      "marketMissing": "The market may underappreciate operating leverage from network scale, while underestimating the capital required to fund inventory at higher gold prices.",
+      "variables": "Same-store sales, branch count, gold spread, inventory days, OCF, D/E, funding cost, gold price, ROE.",
+      "fit": "Growth investor comfortable with gold-price, inventory-financing and working-capital volatility.",
+      "moatStatus": "มี",
+      "moatReason": "Brand trust, nationwide branch network, inventory/price-risk management, sourcing scale and customer ecosystem around gold products create meaningful barriers.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/AURA-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AURA/factsheet"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.aurora.co.th/"
+        }
+      ],
+      "price": 13.4,
+      "marketCap": 17925.14,
+      "pe": 11.01,
+      "pbv": 2.09,
+      "evEbitda": null
+    },
+    {
+      "rank": 88,
+      "ticker": "CHG",
+      "company": "Chularat Hospital PCL.",
+      "sector": "Health Care Services",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 476.41,
+      "npatGrowth": 10.0,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Hospital: use D/E, EBITDA, cash flow and capacity utilization",
+      "debtEbitdaNote": "6M26 D/E about 0.24x; balance sheet is strong. Key financial variable is utilization/mix rather than leverage.",
+      "score": 7.625,
+      "flags": [
+        "Hospital Network",
+        "Social Security",
+        "EEC",
+        "Strong Balance Sheet"
+      ],
+      "summary": "CHG produced 1H26 NPAT of ~THB476m, up about 10%, with low leverage and positive OCF. Growth is supported by Social Security and specialized centers, while inpatient softness and reimbursement policy cap upside.",
+      "framework": {
+        "1. Management": "Chularat has a long-established management team and hospital network concentrated in eastern Bangkok/EEC. Capital allocation is relatively conservative given low leverage.",
+        "2. Product / Moat": "Operates hospitals/clinics with general and specialized medical services. Moat comes from local network density, physician relationships, referral flows and Social Security patient base.",
+        "3. TAM / Growth Runway": "Healthcare demand grows with aging, EEC population and insurance penetration. Growth runway comes from capacity utilization and specialized centers rather than nationwide premium expansion.",
+        "4. Positive Catalysts": "Catalysts: Social Security volume, heart/complex-care centers, EEC growth, higher private-patient mix. Probability medium-high / impact medium.",
+        "5. Competitors": "Peers include BCH, BDMS, BH and other regional hospitals. CHG is cheaper/lower-ticket with strong local density, but less premium pricing power.",
+        "6. Revenue Growth & Margin": "1H26 revenue ~THB4.19bn and NPAT ~THB476m, up ~10%. OCF ~THB510m and D/E ~0.24x show good financial resilience.",
+        "7. Regulation": "Hospital licensing, medical-professional rules, Social Security reimbursement and copay policies directly affect revenue/margins. Licensing is a barrier; reimbursement is a pricing constraint.",
+        "8. Narrative & Sentiment": "Narrative is 'defensive EEC/Social Security healthcare growth'. Sentiment is neutral-positive with earnings recovery and low leverage.",
+        "9. Valuation Effect": "At 1.60 baht, valuation around high-teens P/E and ~2x P/BV is broadly Fair Value for mid-single/high-single digit growth.",
+        "10. Earnings & Macro": "Base: steady SSO/private growth. Bull: specialized centers lift mix/margin. Bear: reimbursement cuts or weak IPD volume. 3-5y return driven by earnings + dividend.",
+        "11. Risk Radar": "Top risks: Social Security reimbursement, patient-mix pressure, physician/labor cost, capacity utilization, regulatory changes."
+      },
+      "thesis": "Local network density, insured-lives base and specialized centers support steady growth with limited balance-sheet risk.",
+      "bear": "Social Security reimbursement changes, weaker inpatient volumes and physician/labor costs can compress margins; brand pricing power is moderate.",
+      "teamComment": "",
+      "marketBelieves": "The market views CHG as a defensive mid-tier hospital operator with steady but not premium growth.",
+      "marketMissing": "The market may underprice EEC population/industrial growth and specialized-center utilization, but reimbursement economics remain a structural ceiling.",
+      "variables": "OPD/IPD volume, Social Security revenue/insured lives, reimbursement rates, specialized-center utilization, EBITDA margin, OCF, capex.",
+      "fit": "Defensive healthcare investor seeking mid-tier hospital growth and low leverage.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Geographic hospital network in eastern Bangkok/EEC, Social Security scale, physician network and specialized centers create local density advantages, but premium brand power is below top private hospitals.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/CHG-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/CHG/historical-trading"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.chularat.com/"
+        }
+      ],
+      "price": 1.6,
+      "marketCap": 17600.0,
+      "pe": 18.0,
+      "pbv": 2.2,
+      "evEbitda": null
+    },
+    {
+      "rank": 89,
+      "ticker": "ERW",
+      "company": "The Erawan Group PCL.",
+      "sector": "Tourism & Leisure",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 447.58,
+      "npatGrowth": 9.6,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Hotel: use Net Debt/EBITDA, fixed-charge/interest coverage and RevPAR",
+      "debtEbitdaNote": "6M26 D/E about 1.65x; hotel leverage and capex are material. Evaluate debt against stabilized hotel EBITDA and cash flow.",
+      "score": 7.3125,
+      "flags": [
+        "Hotels",
+        "Tourism",
+        "HOP INN",
+        "Regional Expansion",
+        "Leverage"
+      ],
+      "summary": "ERW's 1H26 revenue rose about 5% and attributable NPAT about 10%, with normalized profit growing faster. HOP INN expansion provides structural growth, but leverage and hotel-cycle sensitivity remain material.",
+      "framework": {
+        "1. Management": "Professional hotel management with long experience across luxury-to-budget segments. Capital allocation focuses on HOP INN expansion and asset upgrades; leverage discipline is essential.",
+        "2. Product / Moat": "Owns/operates hotels in Thailand and selected Asian markets across luxury, midscale and budget. Moat is moderate through locations, brand/operator relationships and HOP INN platform.",
+        "3. TAM / Growth Runway": "Regional tourism and budget-hotel penetration offer multi-year runway. HOP INN has the clearest scalable SOM expansion across Thailand and neighboring markets.",
+        "4. Positive Catalysts": "Catalysts: tourism arrivals, RevPAR, HOP INN expansion, renovation uplift, rate cuts and operating leverage. Probability medium-high / impact high.",
+        "5. Competitors": "Peers include CENTEL, MINT and other hotel owners. ERW is more hotel-pure-play and smaller, with greater leverage to Thai tourism and budget expansion.",
+        "6. Revenue Growth & Margin": "1H26 revenue ~THB4.08bn +5%, attributable NPAT ~THB448m +10%; normalized NPAT reportedly rose faster. OCF ~THB1.12bn supports operations but capex/debt remain relevant.",
+        "7. Regulation": "Hotel licenses, land/building rules, tourism policy, labor rules and foreign operations affect costs. Regulation is manageable; travel policy and macro shocks drive demand more.",
+        "8. Narrative & Sentiment": "Narrative is 'tourism recovery + HOP INN structural expansion'. Sentiment is constructive, tempered by leverage and valuation.",
+        "9. Valuation Effect": "At 3.58 baht, valuation around ~20x P/E and ~1.9x P/BV is Fair Value for a tourism-growth platform if RevPAR/expansion remain healthy.",
+        "10. Earnings & Macro": "Base: steady tourism + HOP INN growth. Bull: stronger arrivals/rates and lower interest cost. Bear: tourism shock or capex/debt pressure.",
+        "11. Risk Radar": "Top risks: tourism demand shock, leverage/refinancing, capex/renovation, FX/overseas operations, labor/utility cost."
+      },
+      "thesis": "Portfolio breadth and HOP INN rollout can compound EBITDA as regional tourism normalizes; operating leverage is attractive in an upcycle.",
+      "bear": "Hotel demand, FX/travel shocks, renovation capex and leverage can reverse operating gains quickly; expansion can dilute returns if new hotels ramp slowly.",
+      "teamComment": "",
+      "marketBelieves": "The market sees ERW as a tourism recovery/growth platform with HOP INN as the structural growth engine.",
+      "marketMissing": "The market may underprice budget-hotel runway in ASEAN/Japan while underestimating balance-sheet/capex intensity.",
+      "variables": "RevPAR, occupancy, ADR, HOP INN openings, Thailand arrivals, EBITDA margin, net debt/EBITDA, renovation capex, interest cost.",
+      "fit": "Tourism/growth investor comfortable with hotel cyclicality, capex and leverage.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Prime hotel locations, operating platform and multi-segment portfolio including HOP INN create advantages, but hotel economics remain capital intensive and cyclical.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/ERW-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/ERW/historical-trading"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://www.theerawan.com/en/investor-relations"
+        }
+      ],
+      "price": 3.58,
+      "marketCap": 17495.2,
+      "pe": 20.0,
+      "pbv": 1.9,
+      "evEbitda": null
+    },
+    {
+      "rank": 90,
+      "ticker": "ICHI",
+      "company": "Ichitan Group PCL.",
+      "sector": "Food & Beverage",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 595.77,
+      "npatGrowth": null,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Consumer beverage: use net cash/debt, EBITDA margin, OCF and ROIC",
+      "debtEbitdaNote": "Balance sheet is strong; monitor cash, dividend payout, utilization and capex. Debt risk is not the main thesis variable.",
+      "score": 7.9375,
+      "flags": [
+        "RTD Tea",
+        "Brand",
+        "Cash Generation",
+        "Dividend",
+        "Indonesia"
+      ],
+      "summary": "ICHI combines a strong RTD tea brand, healthy balance sheet and cash returns. 1H26 revenue was ~THB4.09bn and NPAT ~THB596m. At roughly low/mid-teens P/E on the 9-Oct snapshot, valuation is reasonable if margins and product innovation hold.",
+      "framework": {
+        "1. Management": "Founder-led consumer beverage company with strong marketing orientation and experienced professional team. Capital allocation emphasizes efficient manufacturing and shareholder returns.",
+        "2. Product / Moat": "Produces ready-to-drink green tea, herbal/functional and other beverages, with overseas/JV exposure including Indonesia. Moat comes from brand, distribution and manufacturing scale.",
+        "3. TAM / Growth Runway": "Thai non-alcoholic beverage TAM is mature, but low-sugar/functional categories, product innovation and exports provide growth runway. Indonesia can add optionality.",
+        "4. Positive Catalysts": "Catalysts: hot-weather demand, new SKUs, export/Indonesia growth, utilization and dividend. Probability medium-high / impact medium.",
+        "5. Competitors": "Competitors include OSP, CBG, TCP-related brands and beverage majors. ICHI is strong in RTD tea but more category-concentrated.",
+        "6. Revenue Growth & Margin": "1H26 total revenue was about THB4.09bn and attributable NPAT about THB596m. The key driver is margin/utilization rather than aggressive balance-sheet growth.",
+        "7. Regulation": "Food safety, labeling, sugar/excise policy and consumer-health claims affect product economics. Compliance is manageable but sugar-tax changes can influence formulation/mix.",
+        "8. Narrative & Sentiment": "Narrative is 'cash-generative branded beverage with dividend and selective growth'. Sentiment is broadly positive but tied to margins and product momentum.",
+        "9. Valuation Effect": "At 13.20 baht, implied P/E around 13-14x and P/BV around 3x is Fair Value for high ROE/cash returns, with limited room for margin disappointment.",
+        "10. Earnings & Macro": "Base: stable domestic demand and healthy margins. Bull: new products/exports drive growth. Bear: category competition and input inflation compress margins.",
+        "11. Risk Radar": "Top risks: category concentration, competition, raw-material/packaging cost, weather, product innovation execution."
+      },
+      "thesis": "Brand strength, distribution and manufacturing utilization support cash generation; new products and Indonesia/export growth offer incremental upside.",
+      "bear": "Category concentration, aggressive beverage competition, sugar/raw-material costs and weather-sensitive demand can limit growth; premium P/BV leaves less room for execution misses.",
+      "teamComment": "",
+      "marketBelieves": "The market sees ICHI as a high-cash-return beverage brand with good margins but moderate structural growth.",
+      "marketMissing": "The market may underprice product innovation/export/Indonesia optionality, while potentially overestimating durability of peak margins.",
+      "variables": "Domestic RTD tea share, new-product sales, utilization, gross margin, sugar/packaging cost, export/Indonesia revenue, OCF, dividend.",
+      "fit": "Quality/income investor seeking branded beverage cash flow and moderate growth.",
+      "moatStatus": "มี",
+      "moatReason": "Strong consumer brand, founder-led marketing, nationwide distribution relationships and efficient beverage manufacturing create a meaningful but category-dependent moat.",
+      "industryComparison": "Compare with relevant peer group using growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/ICHI/factsheet"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/ICHI/historical-trading"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.ichitangroup.com/"
+        }
+      ],
+      "price": 13.2,
+      "marketCap": 17160.0,
+      "pe": 13.5,
+      "pbv": 3.1,
+      "evEbitda": null
     }
   ]
 }
