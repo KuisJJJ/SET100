@@ -5,15 +5,15 @@
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 100,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-11-03 16:10",
+    "marketDataUpdated": "2026-11-03 16:12",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T16:10:53+07:00",
+    "generatedAt": "2026-11-03T16:12:08+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
-    "setIndexUpdated": "2026-11-03T15:55:53+07:00",
+    "setIndexUpdated": "2026-11-03T15:57:29+07:00",
     "universeValidation": {
       "ok": true,
-      "checkedAt": "2026-11-03T16:10:53+07:00",
+      "checkedAt": "2026-11-03T16:12:08+07:00",
       "validationMode": "locked_official_snapshot",
       "officialCount": 100,
       "researchedCount": 100,
@@ -27,7 +27,7 @@
       "note": "Locked snapshot is a transparent fallback when SET dynamic HTML cannot be parsed; refresh it when SET announces a new constituent period."
     },
     "rankPolicy": "Rank recalculated from market cap only after a successful Update All of all 100 constituents.",
-    "rankUpdatedAt": "2026-11-03T16:10:53+07:00",
+    "rankUpdatedAt": "2026-11-03T16:12:08+07:00",
     "automaticUpdatePolicy": {
       "autoFields": [
         "price",
@@ -59,16 +59,16 @@
   "marketIndex": {
     "symbol": "SET",
     "name": "SET Index",
-    "last": 1492.51,
-    "change": -14.69,
-    "changePct": -0.97,
+    "last": 1492.17,
+    "change": -15.03,
+    "changePct": -1.0,
     "open": 1504.27,
     "high": 1507.4,
-    "low": 1491.72,
+    "low": 1491.67,
     "volumeThousandShares": 0.0,
     "valueMillionBaht": null,
     "status": "Secondary delayed feed",
-    "updatedAt": "2026-11-03T15:55:53+07:00",
+    "updatedAt": "2026-11-03T15:57:29+07:00",
     "source": "https://www.set.or.th/en/market/index/set/overview",
     "history": [
       {
@@ -378,7 +378,7 @@
       },
       {
         "date": "2026-11-03",
-        "value": 1492.51,
+        "value": 1492.17,
         "type": "current"
       }
     ],
@@ -605,8 +605,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/PTT/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 40.75,
-      "marketCap": 1163942.1,
+      "price": 40.5,
+      "marketCap": 1156801.35,
       "pe": 9.28,
       "pbv": 0.96,
       "evEbitda": 5.08,
@@ -813,8 +813,8 @@
           "url": "https://investor.airportthai.co.th/"
         }
       ],
-      "price": 60.0,
-      "marketCap": 857142.01,
+      "price": 59.75,
+      "marketCap": 853570.58,
       "pe": 45.71,
       "pbv": 6.36,
       "evEbitda": 23.29,
@@ -882,8 +882,8 @@
           "url": "https://www.pttep.com/en/investor-relations"
         }
       ],
-      "price": 153.5,
-      "marketCap": 609392.75,
+      "price": 154.0,
+      "marketCap": 611377.74,
       "pe": 8.43,
       "pbv": 1.03,
       "evEbitda": 2.83,
@@ -1159,8 +1159,8 @@
           "url": "https://investor-th.truecorp.co.th/financials.html"
         }
       ],
-      "price": 12.9,
-      "marketCap": 445722.1,
+      "price": 12.8,
+      "marketCap": 442266.89,
       "pe": 23.44,
       "pbv": 5.53,
       "evEbitda": 7.8,
@@ -1297,8 +1297,8 @@
           "url": "https://www.bangkokbank.com/en/Investor-Relations"
         }
       ],
-      "price": 181.5,
-      "marketCap": 346454.99,
+      "price": 182.0,
+      "marketCap": 347409.41,
       "pe": 8.31,
       "pbv": 0.6,
       "evEbitda": null,
@@ -1366,8 +1366,8 @@
           "url": "https://investor.bdms.co.th/en/financial-info/financial-highlights"
         }
       ],
-      "price": 19.6,
-      "marketCap": 311483.24,
+      "price": 19.7,
+      "marketCap": 313072.44,
       "pe": 19.71,
       "pbv": 2.93,
       "evEbitda": 12.19,
@@ -1435,8 +1435,8 @@
           "url": "https://www.scg.com/investor-relations"
         }
       ],
-      "price": 245.0,
-      "marketCap": 294000.0,
+      "price": 246.0,
+      "marketCap": 295200.0,
       "pe": 23.74,
       "pbv": 0.88,
       "evEbitda": 10.69,
@@ -1959,8 +1959,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/THAI-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 5.1,
-      "marketCap": 144346.79,
+      "price": 5.15,
+      "marketCap": 145761.95,
       "pe": 7.63,
       "pbv": 1.92,
       "evEbitda": 4.49,
@@ -2033,6 +2033,67 @@
     },
     {
       "rank": 24,
+      "ticker": "TOP",
+      "company": "Thai Oil PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": null,
+      "npatGrowth": null,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Pending source",
+      "debtEbitdaNote": "Monitor net debt, project capex and covenant headroom; verified SET EV/EBITDA 5.37x.",
+      "score": 7.0,
+      "flags": [
+        "Refining Moat",
+        "Cyclical",
+        "CFP Optionality",
+        "High Leverage"
+      ],
+      "summary": "TOP ต้องแยกสองเรื่อง: Refinery asset คุณภาพดี แต่ CFP คือ thesis-breaker/creator ตัวจริง ราคาถูกจะมีความหมายก็ต่อเมื่อ Project Economics ดีพอ.",
+      "framework": {
+        "1. Management": "PTT-controlled refinery with experienced operational management. Core refining execution has historically been strong, but Clean Fuel Project (CFP) cost/timeline issues are the central capital-allocation test. Shareholder alignment therefore depends on disciplined project completion and balance-sheet repair.",
+        "2. Product / Moat": "Integrated complex refinery, aromatics and lube base oil. Moat: มี — refinery complexity, scale, location/logistics integration, product optimization and top-quartile operating cost. Durability high operationally, but refining economics remain commodity-cycle driven.",
+        "3. TAM / Growth Runway": "Thailand fuel demand is mature; growth runway is capacity/complexity enhancement through CFP and higher-value products rather than market-volume growth. Earnings are tied to regional refining spreads.",
+        "4. Positive Catalysts": "GRM strength; CFP completion; lower project uncertainty; debt reduction; utilization; middle-distillate tightness; dividend normalization. CFP execution has high impact and medium probability/timing uncertainty.",
+        "5. Competitors": "Compare only with Asian refiners on GRM, utilization, cash cost, complexity, net debt/EBITDA, capex and EV/EBITDA. TOP's operating asset is competitive; current disadvantage is project/leverage risk.",
+        "6. Revenue Growth & Margin": "SET TTM EBITDA ~THB41.4bn at 7 Oct 2026. Profitability benefits strongly from refining spreads, while CFP capex/interest weighs on FCF. Margin expansion is cycle-driven unless CFP raises structural complexity returns.",
+        "7. Regulation": "Fuel-quality standards, environmental permits, carbon rules, refinery safety and energy policy are material. Stricter fuel standards are an entry barrier/opportunity for complex refiners but require major capex.",
+        "8. Narrative & Sentiment": "Narrative is 'strong refining cycle versus CFP risk'. Sentiment positive on spreads but cautious on project execution. Story is late-cycle operationally but still recovery/repair on balance sheet.",
+        "9. Valuation Effect": "~5.4x EV/EBITDA looks inexpensive, but the discount compensates for leverage/CFP uncertainty. Re-rating requires credible completion cost/timeline and FCF recovery.",
+        "10. Earnings & Macro": "Base: GRM normalizes while CFP progresses. Bull: strong middle-distillate spreads + project certainty. Bear: GRM falls while CFP costs rise. 3-5y value depends on incremental ROIC from CFP after full capital cost.",
+        "11. Risk Radar": "Top risks: CFP overrun/delay (high/high), refining spread normalization (high/high), leverage/refinancing (medium-high/high), oil inventory loss (medium/medium), regulation/carbon cost (medium/medium). Monitor CFP capex/progress, GRM, utilization, net debt, interest cost and FCF."
+      },
+      "thesis": "Competitive refinery assets and complexity offer strong cash-generation potential when spreads are healthy; successful CFP completion could materially improve normalized economics.",
+      "bear": "CFP can destroy value if final capital cost exceeds incremental returns; low EV/EBITDA may be misleading near strong refining margins.",
+      "teamComment": "",
+      "marketBelieves": "Market believes TOP is a high-quality refinery discounted for CFP execution and leverage risk.",
+      "marketMissing": "Market may underprice the value of successful CFP completion, or underestimate how much capital overrun can impair future ROIC.",
+      "variables": "Singapore/Asian GRM, diesel/jet cracks, utilization, CFP progress/cost, net debt/EBITDA, interest cost, FCF, dividend.",
+      "fit": "Cyclical/value energy investor comfortable with project and leverage risk.",
+      "moatStatus": "มี",
+      "moatReason": "Complexity, operating cost, integrated logistics and refinery optimization create a durable operational moat, though end-product spreads remain cyclical.",
+      "industryComparison": "เทียบกับ Asian Refiners ด้วย GRM, Utilization, Cash Cost, Complexity, Net Debt/EBITDA, Capex และ EV/EBITDA.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-09",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/TOP/factsheet"
+        }
+      ],
+      "price": 61.25,
+      "marketCap": 136822.43,
+      "pe": 5.69,
+      "pbv": 0.9,
+      "evEbitda": 5.43,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 25,
       "ticker": "GPSC",
       "company": "Global Power Synergy PCL.",
       "sector": "Energy & Utilities",
@@ -2098,67 +2159,6 @@
       "pe": 21.11,
       "pbv": 1.36,
       "evEbitda": 11.03,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 25,
-      "ticker": "TOP",
-      "company": "Thai Oil PCL.",
-      "sector": "Energy & Utilities",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": null,
-      "npatGrowth": null,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Pending source",
-      "debtEbitdaNote": "Monitor net debt, project capex and covenant headroom; verified SET EV/EBITDA 5.37x.",
-      "score": 7.0,
-      "flags": [
-        "Refining Moat",
-        "Cyclical",
-        "CFP Optionality",
-        "High Leverage"
-      ],
-      "summary": "TOP ต้องแยกสองเรื่อง: Refinery asset คุณภาพดี แต่ CFP คือ thesis-breaker/creator ตัวจริง ราคาถูกจะมีความหมายก็ต่อเมื่อ Project Economics ดีพอ.",
-      "framework": {
-        "1. Management": "PTT-controlled refinery with experienced operational management. Core refining execution has historically been strong, but Clean Fuel Project (CFP) cost/timeline issues are the central capital-allocation test. Shareholder alignment therefore depends on disciplined project completion and balance-sheet repair.",
-        "2. Product / Moat": "Integrated complex refinery, aromatics and lube base oil. Moat: มี — refinery complexity, scale, location/logistics integration, product optimization and top-quartile operating cost. Durability high operationally, but refining economics remain commodity-cycle driven.",
-        "3. TAM / Growth Runway": "Thailand fuel demand is mature; growth runway is capacity/complexity enhancement through CFP and higher-value products rather than market-volume growth. Earnings are tied to regional refining spreads.",
-        "4. Positive Catalysts": "GRM strength; CFP completion; lower project uncertainty; debt reduction; utilization; middle-distillate tightness; dividend normalization. CFP execution has high impact and medium probability/timing uncertainty.",
-        "5. Competitors": "Compare only with Asian refiners on GRM, utilization, cash cost, complexity, net debt/EBITDA, capex and EV/EBITDA. TOP's operating asset is competitive; current disadvantage is project/leverage risk.",
-        "6. Revenue Growth & Margin": "SET TTM EBITDA ~THB41.4bn at 7 Oct 2026. Profitability benefits strongly from refining spreads, while CFP capex/interest weighs on FCF. Margin expansion is cycle-driven unless CFP raises structural complexity returns.",
-        "7. Regulation": "Fuel-quality standards, environmental permits, carbon rules, refinery safety and energy policy are material. Stricter fuel standards are an entry barrier/opportunity for complex refiners but require major capex.",
-        "8. Narrative & Sentiment": "Narrative is 'strong refining cycle versus CFP risk'. Sentiment positive on spreads but cautious on project execution. Story is late-cycle operationally but still recovery/repair on balance sheet.",
-        "9. Valuation Effect": "~5.4x EV/EBITDA looks inexpensive, but the discount compensates for leverage/CFP uncertainty. Re-rating requires credible completion cost/timeline and FCF recovery.",
-        "10. Earnings & Macro": "Base: GRM normalizes while CFP progresses. Bull: strong middle-distillate spreads + project certainty. Bear: GRM falls while CFP costs rise. 3-5y value depends on incremental ROIC from CFP after full capital cost.",
-        "11. Risk Radar": "Top risks: CFP overrun/delay (high/high), refining spread normalization (high/high), leverage/refinancing (medium-high/high), oil inventory loss (medium/medium), regulation/carbon cost (medium/medium). Monitor CFP capex/progress, GRM, utilization, net debt, interest cost and FCF."
-      },
-      "thesis": "Competitive refinery assets and complexity offer strong cash-generation potential when spreads are healthy; successful CFP completion could materially improve normalized economics.",
-      "bear": "CFP can destroy value if final capital cost exceeds incremental returns; low EV/EBITDA may be misleading near strong refining margins.",
-      "teamComment": "",
-      "marketBelieves": "Market believes TOP is a high-quality refinery discounted for CFP execution and leverage risk.",
-      "marketMissing": "Market may underprice the value of successful CFP completion, or underestimate how much capital overrun can impair future ROIC.",
-      "variables": "Singapore/Asian GRM, diesel/jet cracks, utilization, CFP progress/cost, net debt/EBITDA, interest cost, FCF, dividend.",
-      "fit": "Cyclical/value energy investor comfortable with project and leverage risk.",
-      "moatStatus": "มี",
-      "moatReason": "Complexity, operating cost, integrated logistics and refinery optimization create a durable operational moat, though end-product spreads remain cyclical.",
-      "industryComparison": "เทียบกับ Asian Refiners ด้วย GRM, Utilization, Cash Cost, Complexity, Net Debt/EBITDA, Capex และ EV/EBITDA.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-09",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/TOP/factsheet"
-        }
-      ],
-      "price": 61.0,
-      "marketCap": 136263.97,
-      "pe": 5.69,
-      "pbv": 0.9,
-      "evEbitda": 5.43,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
@@ -2361,8 +2361,8 @@
           "url": "https://newsroom.scgpackaging.com/en/news/scgp-announces-q2-profit/"
         }
       ],
-      "price": 27.0,
-      "marketCap": 115908.85,
+      "price": 26.75,
+      "marketCap": 114835.62,
       "pe": 21.54,
       "pbv": 1.67,
       "evEbitda": 10.46,
@@ -2771,8 +2771,8 @@
           "url": "https://hmpro.listedcompany.com/"
         }
       ],
-      "price": 6.35,
-      "marketCap": 83510.11,
+      "price": 6.4,
+      "marketCap": 84167.67,
       "pe": 13.97,
       "pbv": 3.19,
       "evEbitda": 9.11,
@@ -2901,8 +2901,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/TCAP/price"
         }
       ],
-      "price": 77.25,
-      "marketCap": 81004.73,
+      "price": 77.0,
+      "marketCap": 80742.58,
       "pe": 9.79,
       "pbv": 0.97,
       "evEbitda": null,
@@ -2979,71 +2979,6 @@
     },
     {
       "rank": 38,
-      "ticker": "COM7",
-      "company": "COM7 PCL.",
-      "sector": "Commerce",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": 2529.25,
-      "npatGrowth": 27.5,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Pending / Retail",
-      "debtEbitdaNote": "Use net debt, lease-adjusted leverage, cash conversion and working capital; simple debt/EBITDA basis can vary with lease treatment.",
-      "score": 7.75,
-      "flags": [
-        "Tech Retail",
-        "Ecosystem",
-        "High ROE",
-        "Growth"
-      ],
-      "summary": "COM7 เด่นที่ ROE สูงและกำไรโตเร็วกว่ายอดขาย แต่ต้องจับตา Cash Conversion เพราะ 1H26 OCF ติดลบจาก Working Capital.",
-      "framework": {
-        "1. Management": "Founder-led Thai technology retail platform. Management has built a high-ROE franchise through disciplined store formats, distribution, repair/service capability and adjacencies such as financing, insurance, EV and solar. Capital allocation is increasingly important as the group broadens beyond core retail.",
-        "2. Product / Moat": "IT/Apple retail, smartphones, accessories, services plus adjacent financing/insurance/EV/solar businesses. Moat: มี — national store footprint, Apple/brand relationships, procurement scale, customer data, after-sales service and execution speed. Durability medium-high; hardware retail margins remain structurally thin.",
-        "3. TAM / Growth Runway": "Thailand device retail is mature, but TAM expands with device refresh, AI-enabled hardware, wearables, financing, insurance, EV and distributed-energy adjacencies. Growth runway is mostly share gain and ecosystem monetization.",
-        "4. Positive Catalysts": "Raised 2026 guidance; device refresh/AI hardware; financing penetration; insurance/EV/solar adjacencies; branch productivity. Probability high / impact medium-high over 6-24 months.",
-        "5. Competitors": "Compare with electronics/IT retail peers on SSSG, inventory turns, gross margin, ROE, cash conversion, financing penetration and P/E. COM7's execution/brand access is stronger than generic retailers.",
-        "6. Revenue Growth & Margin": "1H26 revenue THB47.77bn +14.5% YoY and NPAT THB2.53bn +27.5%; ROE ~47%. Earnings quality is strong, but operating cash flow turned negative from working-capital growth.",
-        "7. Regulation": "Consumer protection, installment/credit rules, data/privacy, e-commerce competition, warranty/service obligations and import/tariff rules matter. Brand authorization and service standards create practical barriers.",
-        "8. Narrative & Sentiment": "Narrative is 'high-ROE tech retailer evolving into a consumer-tech ecosystem'. Sentiment is positive after strong earnings and raised targets; market already expects continued execution.",
-        "9. Valuation Effect": "16.6x P/E is Fair Value for 20%+ earnings growth, but 7x P/BV shows quality is already recognized. Multiple expansion is less likely than earnings-driven return.",
-        "10. Earnings & Macro": "Base: double-digit sales/profit growth. Bull: AI-device cycle + financing/adjacency monetization. Bear: device slowdown/inventory build/credit issues. 3-5y depends on maintaining ROE while scaling adjacencies.",
-        "11. Risk Radar": "Top risks: inventory/working capital (medium/high), device cycle (medium/medium), consumer credit adjacencies (medium/high), vendor concentration (medium/high), valuation after rerating (medium/medium)."
-      },
-      "thesis": "Execution speed, national footprint, brand access and high ROE support durable compounding if cash conversion remains disciplined.",
-      "bear": "Hardware retail is low-margin and vendor-dependent; diversification into finance/EV can add risk and consume capital if not tightly managed.",
-      "teamComment": "",
-      "marketBelieves": "Market believes COM7 can sustain faster earnings growth than traditional retailers through ecosystem expansion.",
-      "marketMissing": "Market may be underpricing long-term monetization of financing/insurance/service data, while underestimating working-capital and credit risk.",
-      "variables": "SSSG, device mix, gross margin, inventory days, operating cash flow, ROE, finance-book quality, branch productivity.",
-      "fit": "Quality-growth consumer/tech investor comfortable with execution and product-cycle risk.",
-      "moatStatus": "มี",
-      "moatReason": "Store/service footprint, brand/vendor relationships, procurement, data and execution create advantages; hardware pricing power itself is limited.",
-      "industryComparison": "เทียบกับ IT/Electronics Retail peers ด้วย SSSG, Inventory Turns, Gross Margin, ROE, Cash Conversion, Financing Penetration และ P/E.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-14",
-      "sources": [
-        {
-          "label": "Company Highlights",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/COM7/financial-statement/company-highlights"
-        },
-        {
-          "label": "6M26 Snapshot",
-          "url": "https://lssmedia.setlink.set.or.th/2026/6M/COM7-6M69-ListedCompanySnapshot-EN.html"
-        }
-      ],
-      "price": 33.25,
-      "marketCap": 79390.98,
-      "pe": 16.63,
-      "pbv": 7.09,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 39,
       "ticker": "RATCH",
       "company": "Ratch Group PCL.",
       "sector": "Energy & Utilities",
@@ -3112,7 +3047,7 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "ticker": "BJC",
       "company": "Berli Jucker PCL.",
       "sector": "Commerce",
@@ -3178,6 +3113,71 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
+      "rank": 40,
+      "ticker": "COM7",
+      "company": "COM7 PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 2529.25,
+      "npatGrowth": 27.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Pending / Retail",
+      "debtEbitdaNote": "Use net debt, lease-adjusted leverage, cash conversion and working capital; simple debt/EBITDA basis can vary with lease treatment.",
+      "score": 7.75,
+      "flags": [
+        "Tech Retail",
+        "Ecosystem",
+        "High ROE",
+        "Growth"
+      ],
+      "summary": "COM7 เด่นที่ ROE สูงและกำไรโตเร็วกว่ายอดขาย แต่ต้องจับตา Cash Conversion เพราะ 1H26 OCF ติดลบจาก Working Capital.",
+      "framework": {
+        "1. Management": "Founder-led Thai technology retail platform. Management has built a high-ROE franchise through disciplined store formats, distribution, repair/service capability and adjacencies such as financing, insurance, EV and solar. Capital allocation is increasingly important as the group broadens beyond core retail.",
+        "2. Product / Moat": "IT/Apple retail, smartphones, accessories, services plus adjacent financing/insurance/EV/solar businesses. Moat: มี — national store footprint, Apple/brand relationships, procurement scale, customer data, after-sales service and execution speed. Durability medium-high; hardware retail margins remain structurally thin.",
+        "3. TAM / Growth Runway": "Thailand device retail is mature, but TAM expands with device refresh, AI-enabled hardware, wearables, financing, insurance, EV and distributed-energy adjacencies. Growth runway is mostly share gain and ecosystem monetization.",
+        "4. Positive Catalysts": "Raised 2026 guidance; device refresh/AI hardware; financing penetration; insurance/EV/solar adjacencies; branch productivity. Probability high / impact medium-high over 6-24 months.",
+        "5. Competitors": "Compare with electronics/IT retail peers on SSSG, inventory turns, gross margin, ROE, cash conversion, financing penetration and P/E. COM7's execution/brand access is stronger than generic retailers.",
+        "6. Revenue Growth & Margin": "1H26 revenue THB47.77bn +14.5% YoY and NPAT THB2.53bn +27.5%; ROE ~47%. Earnings quality is strong, but operating cash flow turned negative from working-capital growth.",
+        "7. Regulation": "Consumer protection, installment/credit rules, data/privacy, e-commerce competition, warranty/service obligations and import/tariff rules matter. Brand authorization and service standards create practical barriers.",
+        "8. Narrative & Sentiment": "Narrative is 'high-ROE tech retailer evolving into a consumer-tech ecosystem'. Sentiment is positive after strong earnings and raised targets; market already expects continued execution.",
+        "9. Valuation Effect": "16.6x P/E is Fair Value for 20%+ earnings growth, but 7x P/BV shows quality is already recognized. Multiple expansion is less likely than earnings-driven return.",
+        "10. Earnings & Macro": "Base: double-digit sales/profit growth. Bull: AI-device cycle + financing/adjacency monetization. Bear: device slowdown/inventory build/credit issues. 3-5y depends on maintaining ROE while scaling adjacencies.",
+        "11. Risk Radar": "Top risks: inventory/working capital (medium/high), device cycle (medium/medium), consumer credit adjacencies (medium/high), vendor concentration (medium/high), valuation after rerating (medium/medium)."
+      },
+      "thesis": "Execution speed, national footprint, brand access and high ROE support durable compounding if cash conversion remains disciplined.",
+      "bear": "Hardware retail is low-margin and vendor-dependent; diversification into finance/EV can add risk and consume capital if not tightly managed.",
+      "teamComment": "",
+      "marketBelieves": "Market believes COM7 can sustain faster earnings growth than traditional retailers through ecosystem expansion.",
+      "marketMissing": "Market may be underpricing long-term monetization of financing/insurance/service data, while underestimating working-capital and credit risk.",
+      "variables": "SSSG, device mix, gross margin, inventory days, operating cash flow, ROE, finance-book quality, branch productivity.",
+      "fit": "Quality-growth consumer/tech investor comfortable with execution and product-cycle risk.",
+      "moatStatus": "มี",
+      "moatReason": "Store/service footprint, brand/vendor relationships, procurement, data and execution create advantages; hardware pricing power itself is limited.",
+      "industryComparison": "เทียบกับ IT/Electronics Retail peers ด้วย SSSG, Inventory Turns, Gross Margin, ROE, Cash Conversion, Financing Penetration และ P/E.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/COM7/financial-statement/company-highlights"
+        },
+        {
+          "label": "6M26 Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/COM7-6M69-ListedCompanySnapshot-EN.html"
+        }
+      ],
+      "price": 33.0,
+      "marketCap": 78794.06,
+      "pe": 16.63,
+      "pbv": 7.09,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
       "rank": 41,
       "ticker": "WHA",
       "company": "WHA Corporation PCL.",
@@ -3240,8 +3240,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/WHA/financial-statement/company-highlights"
         }
       ],
-      "price": 4.8,
-      "marketCap": 71744.8,
+      "price": 4.78,
+      "marketCap": 71445.86,
       "pe": 17.6,
       "pbv": 2.0,
       "evEbitda": 16.86,
@@ -3380,75 +3380,6 @@
     },
     {
       "rank": 44,
-      "ticker": "MTC",
-      "company": "Muangthai Capital PCL.",
-      "sector": "Finance & Securities",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 1904.95,
-      "periodNpat": 3727.98,
-      "npatGrowth": 15.8,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "N/A - Finance",
-      "debtEbitdaNote": "Use NPL, credit cost, coverage, ROE, funding cost and capital adequacy rather than Debt/EBITDA.",
-      "score": 7.75,
-      "flags": [
-        "Title Loan",
-        "Branch Scale",
-        "High ROE",
-        "Credit Discipline"
-      ],
-      "summary": "MTC Valuation ไม่แพงและกำไรฟื้น แต่ Thesis ต้องยืนยันด้วย NPL/Credit Cost ไม่ใช่เร่ง Loan Growth อย่างเดียว.",
-      "framework": {
-        "1. Management": "Founder/family-led title-loan and consumer-finance company with a nationwide branch network and long underwriting/collections track record. Management has emphasized disciplined branch expansion and asset-quality repair after the sector credit cycle.",
-        "2. Product / Moat": "Vehicle/land title loans, personal/nano finance, motorcycle HP and insurance brokerage. Moat: มี — dense branch network, local customer relationships, underwriting/collection data and operational scale. Durability medium-high in underserved borrower segments.",
-        "3. TAM / Growth Runway": "Thai underbanked/secured-consumer credit remains large. Growth runway comes from branch productivity, cross-sell, digital collection and share gains, but household debt and regulation cap sustainable growth.",
-        "4. Positive Catalysts": "Loan growth; credit-cost normalization; better NPL; lower funding rates; branch productivity; insurance cross-sell. Probability medium-high / impact high over 6-24 months.",
-        "5. Competitors": "Compare with title-loan peers on loan growth, yield, NIM/spread, NPL, credit cost, ROE, funding cost and P/BV. MTC's network/collection scale is a key advantage.",
-        "6. Revenue Growth & Margin": "Q2 NPAT THB1.90bn +15.7% YoY; 1H26 THB3.73bn +15.8%. ROE ~16.9%; credit losses remain material but earnings trend is improving.",
-        "7. Regulation": "BOT/consumer-finance rate caps, responsible lending, collection practices, data/privacy and funding regulations are critical. Regulation limits pricing but favors scaled compliant operators.",
-        "8. Narrative & Sentiment": "Narrative is 'credit-cycle recovery + low valuation'. Sentiment has improved but remains cautious due household leverage and past NPL volatility.",
-        "9. Valuation Effect": "~8.1x P/E and ~1.3x P/BV = Fair Value to slightly cheap for ~17% ROE. Re-rating requires cleaner asset quality, not just loan growth.",
-        "10. Earnings & Macro": "Base: mid-teens earnings growth + stable credit cost. Bull: faster NPL normalization and lower funding cost. Bear: household stress raises credit losses. 3-5y depends on ROE discipline.",
-        "11. Risk Radar": "Top risks: household debt/credit cost (high/high), regulatory caps (medium-high/high), funding cost/refinancing (medium/high), aggressive competition (medium/medium), collateral values (medium/medium)."
-      },
-      "thesis": "Nationwide branch/collection scale and improving credit cycle can support durable earnings growth at a reasonable valuation.",
-      "bear": "Consumer-finance economics can deteriorate quickly if underwriting loosens; low P/E is not protective when credit losses spike.",
-      "teamComment": "",
-      "marketBelieves": "Market believes MTC is past the worst of the credit cycle but deserves a discount for household-debt risk.",
-      "marketMissing": "Market may underprice earnings torque from lower funding cost and normalized credit cost.",
-      "variables": "NPL, credit cost, loan growth, yield/spread, funding cost, ROE, branch productivity, collection efficiency.",
-      "fit": "Value/growth financial investor comfortable with consumer-credit volatility.",
-      "moatStatus": "มี",
-      "moatReason": "Dense branch network, local relationships, underwriting data and collections capability create meaningful scale/switching advantages.",
-      "industryComparison": "เทียบกับ Title Loan/Consumer Finance peers ด้วย Loan Growth, Yield, NPL, Credit Cost, ROE, Funding Cost และ P/BV; Debt/EBITDA = N/A.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-14",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/factsheet"
-        },
-        {
-          "label": "Q2/1H26 F45",
-          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105933500&symbol=MTC"
-        },
-        {
-          "label": "Company Highlights",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/financial-statement/company-highlights"
-        }
-      ],
-      "price": 28.75,
-      "marketCap": 60950.0,
-      "pe": 8.13,
-      "pbv": 1.28,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 45,
       "ticker": "SPRC",
       "company": "Star Petroleum Refining PCL.",
       "sector": "Energy & Utilities",
@@ -3509,6 +3440,75 @@
       "marketCap": 60702.63,
       "pe": 4.12,
       "pbv": 1.31,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 45,
+      "ticker": "MTC",
+      "company": "Muangthai Capital PCL.",
+      "sector": "Finance & Securities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1904.95,
+      "periodNpat": 3727.98,
+      "npatGrowth": 15.8,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "N/A - Finance",
+      "debtEbitdaNote": "Use NPL, credit cost, coverage, ROE, funding cost and capital adequacy rather than Debt/EBITDA.",
+      "score": 7.75,
+      "flags": [
+        "Title Loan",
+        "Branch Scale",
+        "High ROE",
+        "Credit Discipline"
+      ],
+      "summary": "MTC Valuation ไม่แพงและกำไรฟื้น แต่ Thesis ต้องยืนยันด้วย NPL/Credit Cost ไม่ใช่เร่ง Loan Growth อย่างเดียว.",
+      "framework": {
+        "1. Management": "Founder/family-led title-loan and consumer-finance company with a nationwide branch network and long underwriting/collections track record. Management has emphasized disciplined branch expansion and asset-quality repair after the sector credit cycle.",
+        "2. Product / Moat": "Vehicle/land title loans, personal/nano finance, motorcycle HP and insurance brokerage. Moat: มี — dense branch network, local customer relationships, underwriting/collection data and operational scale. Durability medium-high in underserved borrower segments.",
+        "3. TAM / Growth Runway": "Thai underbanked/secured-consumer credit remains large. Growth runway comes from branch productivity, cross-sell, digital collection and share gains, but household debt and regulation cap sustainable growth.",
+        "4. Positive Catalysts": "Loan growth; credit-cost normalization; better NPL; lower funding rates; branch productivity; insurance cross-sell. Probability medium-high / impact high over 6-24 months.",
+        "5. Competitors": "Compare with title-loan peers on loan growth, yield, NIM/spread, NPL, credit cost, ROE, funding cost and P/BV. MTC's network/collection scale is a key advantage.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB1.90bn +15.7% YoY; 1H26 THB3.73bn +15.8%. ROE ~16.9%; credit losses remain material but earnings trend is improving.",
+        "7. Regulation": "BOT/consumer-finance rate caps, responsible lending, collection practices, data/privacy and funding regulations are critical. Regulation limits pricing but favors scaled compliant operators.",
+        "8. Narrative & Sentiment": "Narrative is 'credit-cycle recovery + low valuation'. Sentiment has improved but remains cautious due household leverage and past NPL volatility.",
+        "9. Valuation Effect": "~8.1x P/E and ~1.3x P/BV = Fair Value to slightly cheap for ~17% ROE. Re-rating requires cleaner asset quality, not just loan growth.",
+        "10. Earnings & Macro": "Base: mid-teens earnings growth + stable credit cost. Bull: faster NPL normalization and lower funding cost. Bear: household stress raises credit losses. 3-5y depends on ROE discipline.",
+        "11. Risk Radar": "Top risks: household debt/credit cost (high/high), regulatory caps (medium-high/high), funding cost/refinancing (medium/high), aggressive competition (medium/medium), collateral values (medium/medium)."
+      },
+      "thesis": "Nationwide branch/collection scale and improving credit cycle can support durable earnings growth at a reasonable valuation.",
+      "bear": "Consumer-finance economics can deteriorate quickly if underwriting loosens; low P/E is not protective when credit losses spike.",
+      "teamComment": "",
+      "marketBelieves": "Market believes MTC is past the worst of the credit cycle but deserves a discount for household-debt risk.",
+      "marketMissing": "Market may underprice earnings torque from lower funding cost and normalized credit cost.",
+      "variables": "NPL, credit cost, loan growth, yield/spread, funding cost, ROE, branch productivity, collection efficiency.",
+      "fit": "Value/growth financial investor comfortable with consumer-credit volatility.",
+      "moatStatus": "มี",
+      "moatReason": "Dense branch network, local relationships, underwriting data and collections capability create meaningful scale/switching advantages.",
+      "industryComparison": "เทียบกับ Title Loan/Consumer Finance peers ด้วย Loan Growth, Yield, NPL, Credit Cost, ROE, Funding Cost และ P/BV; Debt/EBITDA = N/A.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105933500&symbol=MTC"
+        },
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/financial-statement/company-highlights"
+        }
+      ],
+      "price": 28.5,
+      "marketCap": 60420.0,
+      "pe": 8.13,
+      "pbv": 1.28,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
@@ -3575,8 +3575,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105806400&symbol=CENTEL"
         }
       ],
-      "price": 44.25,
-      "marketCap": 59737.5,
+      "price": 44.0,
+      "marketCap": 59400.0,
       "pe": 17.05,
       "pbv": 2.42,
       "evEbitda": 9.91,
@@ -3645,8 +3645,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105437300&symbol=SET"
         }
       ],
-      "price": 14.3,
-      "marketCap": 57909.59,
+      "price": 14.2,
+      "marketCap": 57504.63,
       "pe": 25.12,
       "pbv": 0.49,
       "evEbitda": 15.84,
@@ -3911,8 +3911,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106326600&symbol=CBG"
         }
       ],
-      "price": 53.75,
-      "marketCap": 53750.0,
+      "price": 53.5,
+      "marketCap": 53500.0,
       "pe": 23.5,
       "pbv": 3.33,
       "evEbitda": 13.4,
@@ -3980,8 +3980,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/irpc/historical-trading"
         }
       ],
-      "price": 2.58,
-      "marketCap": 52720.8,
+      "price": 2.56,
+      "marketCap": 52312.11,
       "pe": 5.68,
       "pbv": 0.78,
       "evEbitda": null,
@@ -4111,8 +4111,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BGRIM/financial-statement/company-highlights"
         }
       ],
-      "price": 19.5,
-      "marketCap": 50834.55,
+      "price": 19.6,
+      "marketCap": 51095.24,
       "pe": 20.86,
       "pbv": 1.45,
       "evEbitda": 11.27,
@@ -4177,8 +4177,8 @@
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=106004201&symbol=TIDLOR"
         }
       ],
-      "price": 16.2,
-      "marketCap": 46914.06,
+      "price": 16.1,
+      "marketCap": 46624.47,
       "pe": 8.49,
       "pbv": 1.35,
       "evEbitda": null,
@@ -4308,8 +4308,8 @@
           "url": "https://www.set.or.th/th/market/product/stock/quote/BTG/financial-statement/company-highlights"
         }
       ],
-      "price": 21.7,
-      "marketCap": 41985.16,
+      "price": 21.6,
+      "marketCap": 41791.68,
       "pe": 9.95,
       "pbv": 1.23,
       "evEbitda": 5.51,
@@ -4509,8 +4509,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/PLANB/financial-statement/company-highlights"
         }
       ],
-      "price": 8.75,
-      "marketCap": 40252.62,
+      "price": 8.8,
+      "marketCap": 40482.63,
       "pe": 32.69,
       "pbv": 3.08,
       "evEbitda": null,
@@ -4778,8 +4778,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/HANA/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 42.5,
-      "marketCap": 37628.23,
+      "price": 42.25,
+      "marketCap": 37406.89,
       "pe": 77.64,
       "pbv": 1.72,
       "evEbitda": 20.2,
@@ -4912,8 +4912,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/STA/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 21.8,
-      "marketCap": 33484.8,
+      "price": 21.9,
+      "marketCap": 33638.4,
       "pe": null,
       "pbv": 0.73,
       "evEbitda": null,
@@ -5767,8 +5767,8 @@
           "url": "https://ap.listedcompany.com/misc/MDNA/20260813-ap-mdna-2q2026-en.pdf"
         }
       ],
-      "price": 7.75,
-      "marketCap": 24380.73,
+      "price": 7.7,
+      "marketCap": 24223.43,
       "pe": 5.7,
       "pbv": 0.54,
       "evEbitda": null,
@@ -5833,8 +5833,8 @@
           "url": "https://investor.aeon.co.th/en/stock-information/historical-price"
         }
       ],
-      "price": 88.0,
-      "marketCap": 22000.0,
+      "price": 87.75,
+      "marketCap": 21937.5,
       "pe": 7.0,
       "pbv": 0.8,
       "evEbitda": null,
@@ -5965,8 +5965,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105916200&symbol=BAM"
         }
       ],
-      "price": 6.25,
-      "marketCap": 20200.26,
+      "price": 6.2,
+      "marketCap": 20038.66,
       "pe": 28.0,
       "pbv": 0.48,
       "evEbitda": null,
@@ -6380,8 +6380,8 @@
           "url": "https://www.theerawan.com/en/investor-relations"
         }
       ],
-      "price": 3.54,
-      "marketCap": 17299.72,
+      "price": 3.56,
+      "marketCap": 17397.46,
       "pe": 20.0,
       "pbv": 1.9,
       "evEbitda": null,
@@ -6589,8 +6589,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/JMT/factsheet"
         }
       ],
-      "price": 10.3,
-      "marketCap": 15035.32,
+      "price": 10.2,
+      "marketCap": 14889.35,
       "pe": 15.7,
       "pbv": 0.55,
       "evEbitda": null,
@@ -6598,6 +6598,75 @@
     },
     {
       "rank": 92,
+      "ticker": "JMART",
+      "company": "Jaymart Group Holdings PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 212.961,
+      "periodNpat": 375.676,
+      "npatGrowth": 49.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Holding company: use look-through NAV, subsidiary leverage, parent liquidity and recurring cash upstream",
+      "debtEbitdaNote": "Consolidated debt and subsidiary funding can obscure parent economics. Evaluate NAV, upstream dividends, debt maturity and earnings quality across JMT/J-Mobile/Singer/ecosystem holdings.",
+      "score": 6.8125,
+      "flags": [
+        "Holding Company",
+        "JMT Ecosystem",
+        "Turnaround",
+        "High Complexity"
+      ],
+      "summary": "JMART's 1H26 attributable NPAT rose ~49.5% to THB376m, indicating recovery, but the stock remains a complex holding-company thesis. Low P/BV is attractive only if subsidiary earnings, NAV and parent cash upstream normalize.",
+      "framework": {
+        "1. Management": "Founder-led Jaymart ecosystem with long telecom-retail roots and multiple listed affiliates. Management's key challenge is capital allocation and simplification after a period of aggressive ecosystem expansion.",
+        "2. Product / Moat": "JMART is a holding company spanning mobile retail, debt management/insurance, finance and commerce. Moat is portfolio/ecosystem access rather than a single operating franchise; complexity reduces transparency.",
+        "3. TAM / Growth Runway": "TAM spans consumer technology, finance and distressed debt. Growth runway exists through subsidiaries, but parent-level value depends on NAV compounding and cash upstream.",
+        "4. Positive Catalysts": "Catalysts: JMT recovery, stronger subsidiary profits, asset sales/restructuring, lower leverage and narrowing NAV discount. Probability medium / impact high.",
+        "5. Competitors": "Direct peers are diversified holding companies; underlying competitors vary by subsidiary. Relative analysis should be look-through rather than consolidated P/E alone.",
+        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB375.7m vs THB251.3m (+49.5%); Q2 THB213.0m vs THB111.0m. Earnings improved, but recurring quality and cash upstream remain essential.",
+        "7. Regulation": "Consumer finance, debt collection, telecom retail, insurance and securities rules affect subsidiaries. Group complexity increases governance and regulatory-monitoring burden.",
+        "8. Narrative & Sentiment": "Narrative is 'ecosystem turnaround + NAV recovery'. Sentiment is improving with earnings, but still fragile due to historical leverage and complexity.",
+        "9. Valuation Effect": "At THB9.70, P/BV is below 1x and trailing P/E is not meaningful/reliable given earnings volatility. Fair Value until NAV and parent cash generation are clearer.",
+        "10. Earnings & Macro": "Base: subsidiaries recover gradually. Bull: JMT + commerce/finance improve together and NAV discount narrows. Bear: subsidiary weakness/leverage returns. 3-5y return depends on look-through ROE and capital allocation.",
+        "11. Risk Radar": "Top risks: holding-company discount, subsidiary earnings volatility, leverage/liquidity, governance/capital allocation, correlated ecosystem stress."
+      },
+      "thesis": "JMT recovery, ecosystem restructuring and low holding-company valuation create meaningful rerating optionality.",
+      "bear": "Conglomerate complexity, subsidiary leverage, weak cash upstream or renewed losses can keep the holding-company discount wide despite headline profit growth.",
+      "teamComment": "",
+      "marketBelieves": "The market sees JMART as a leveraged ecosystem turnaround whose value is dominated by listed/unlisted subsidiary performance.",
+      "marketMissing": "The market may underprice NAV recovery if JMT and other subsidiaries improve simultaneously, but may overstate synergies that do not translate into parent cash flow.",
+      "variables": "JMT earnings/collections, Singer/mobile retail results, parent net debt, dividends upstream, NAV discount, equity-method income, liquidity.",
+      "fit": "Special-situations/holding-company investor comfortable with conglomerate discount, subsidiary volatility and leverage.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Ecosystem ownership across mobile retail, debt management, finance and commerce creates cross-holding/network optionality, but complexity and leverage reduce durability.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-03",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
+        }
+      ],
+      "price": 10.0,
+      "marketCap": 14639.7,
+      "pe": null,
+      "pbv": 0.78,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 93,
       "ticker": "QH",
       "company": "Quality Houses PCL.",
       "sector": "Property Development",
@@ -6662,75 +6731,6 @@
       "marketCap": 14571.56,
       "pe": 7.4,
       "pbv": 0.47,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 93,
-      "ticker": "JMART",
-      "company": "Jaymart Group Holdings PCL.",
-      "sector": "Commerce",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 212.961,
-      "periodNpat": 375.676,
-      "npatGrowth": 49.5,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Holding company: use look-through NAV, subsidiary leverage, parent liquidity and recurring cash upstream",
-      "debtEbitdaNote": "Consolidated debt and subsidiary funding can obscure parent economics. Evaluate NAV, upstream dividends, debt maturity and earnings quality across JMT/J-Mobile/Singer/ecosystem holdings.",
-      "score": 6.8125,
-      "flags": [
-        "Holding Company",
-        "JMT Ecosystem",
-        "Turnaround",
-        "High Complexity"
-      ],
-      "summary": "JMART's 1H26 attributable NPAT rose ~49.5% to THB376m, indicating recovery, but the stock remains a complex holding-company thesis. Low P/BV is attractive only if subsidiary earnings, NAV and parent cash upstream normalize.",
-      "framework": {
-        "1. Management": "Founder-led Jaymart ecosystem with long telecom-retail roots and multiple listed affiliates. Management's key challenge is capital allocation and simplification after a period of aggressive ecosystem expansion.",
-        "2. Product / Moat": "JMART is a holding company spanning mobile retail, debt management/insurance, finance and commerce. Moat is portfolio/ecosystem access rather than a single operating franchise; complexity reduces transparency.",
-        "3. TAM / Growth Runway": "TAM spans consumer technology, finance and distressed debt. Growth runway exists through subsidiaries, but parent-level value depends on NAV compounding and cash upstream.",
-        "4. Positive Catalysts": "Catalysts: JMT recovery, stronger subsidiary profits, asset sales/restructuring, lower leverage and narrowing NAV discount. Probability medium / impact high.",
-        "5. Competitors": "Direct peers are diversified holding companies; underlying competitors vary by subsidiary. Relative analysis should be look-through rather than consolidated P/E alone.",
-        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB375.7m vs THB251.3m (+49.5%); Q2 THB213.0m vs THB111.0m. Earnings improved, but recurring quality and cash upstream remain essential.",
-        "7. Regulation": "Consumer finance, debt collection, telecom retail, insurance and securities rules affect subsidiaries. Group complexity increases governance and regulatory-monitoring burden.",
-        "8. Narrative & Sentiment": "Narrative is 'ecosystem turnaround + NAV recovery'. Sentiment is improving with earnings, but still fragile due to historical leverage and complexity.",
-        "9. Valuation Effect": "At THB9.70, P/BV is below 1x and trailing P/E is not meaningful/reliable given earnings volatility. Fair Value until NAV and parent cash generation are clearer.",
-        "10. Earnings & Macro": "Base: subsidiaries recover gradually. Bull: JMT + commerce/finance improve together and NAV discount narrows. Bear: subsidiary weakness/leverage returns. 3-5y return depends on look-through ROE and capital allocation.",
-        "11. Risk Radar": "Top risks: holding-company discount, subsidiary earnings volatility, leverage/liquidity, governance/capital allocation, correlated ecosystem stress."
-      },
-      "thesis": "JMT recovery, ecosystem restructuring and low holding-company valuation create meaningful rerating optionality.",
-      "bear": "Conglomerate complexity, subsidiary leverage, weak cash upstream or renewed losses can keep the holding-company discount wide despite headline profit growth.",
-      "teamComment": "",
-      "marketBelieves": "The market sees JMART as a leveraged ecosystem turnaround whose value is dominated by listed/unlisted subsidiary performance.",
-      "marketMissing": "The market may underprice NAV recovery if JMT and other subsidiaries improve simultaneously, but may overstate synergies that do not translate into parent cash flow.",
-      "variables": "JMT earnings/collections, Singer/mobile retail results, parent net debt, dividends upstream, NAV discount, equity-method income, liquidity.",
-      "fit": "Special-situations/holding-company investor comfortable with conglomerate discount, subsidiary volatility and leverage.",
-      "moatStatus": "มีบางส่วน",
-      "moatReason": "Ecosystem ownership across mobile retail, debt management, finance and commerce creates cross-holding/network optionality, but complexity and leverage reduce durability.",
-      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-03",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-11-03",
-      "sources": [
-        {
-          "label": "Q2/2026 F45",
-          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
-        },
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
-        }
-      ],
-      "price": 9.95,
-      "marketCap": 14566.5,
-      "pe": null,
-      "pbv": 0.78,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
@@ -6866,8 +6866,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/PTG/factsheet"
         }
       ],
-      "price": 7.65,
-      "marketCap": 12775.5,
+      "price": 7.6,
+      "marketCap": 12692.0,
       "pe": null,
       "pbv": 1.49,
       "evEbitda": null,
@@ -7215,8 +7215,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/AAV/factsheet"
         }
       ],
-      "price": 0.72,
-      "marketCap": 9252.0,
+      "price": 0.73,
+      "marketCap": 9380.5,
       "pe": null,
       "pbv": 0.75,
       "evEbitda": null,

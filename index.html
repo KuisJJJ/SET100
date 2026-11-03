@@ -110,20 +110,23 @@ input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92
 .team-comment-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:7px}.team-comment-actions button{padding:7px 10px;font-size:11px}.team-comment-saved{font-size:11px;color:var(--green);font-weight:700}
 .chart-line{stroke:#6654e8}.chart-dot{fill:#f05ea8}.set-stat:nth-child(1){background:#f3f1ff}.set-stat:nth-child(2){background:#f0fbf6}.set-stat:nth-child(3){background:#fff1f5}.set-stat:nth-child(4){background:#effaff}
 
+
+@media(max-width:650px){#setFilterRow>*{flex:1 1 100%;min-width:0}.team-comment-actions button{flex:1 1 auto}.set-last{font-size:30px}.kpis{gap:8px}.kpi{padding:11px}.card{border-radius:14px}}
+
 </style>
 </head>
 <body>
 <header><div class="wrap">
 <div style="font-size:12px;letter-spacing:.12em;opacity:.8">วิจัยหุ้น SET100 เชิงลึก</div>
 <h1>Dashboard วิเคราะห์การลงทุน SET100</h1>
-<p class="sub">ลำดับการวิเคราะห์ = Market Cap 100% • เปรียบเทียบเฉพาะ Industry / Peer Group ที่เกี่ยวข้อง • แหล่งข้อมูลหลัก = SET / SETTRADE / Company IR</p>
+<p class="sub">ลำดับตามมูลค่าตลาด 100% • เปรียบเทียบเฉพาะบริษัทในอุตสาหกรรมหรือโมเดลธุรกิจที่เกี่ยวข้อง • แหล่งข้อมูลหลัก = SET / SETTRADE / Investor Relations</p>
 <div class="kpis">
 <div class="kpi"><span>ความคืบหน้า</span><b id="progress">–</b><small>บริษัทที่วิเคราะห์แล้ว</small></div>
-<div class="kpi"><span>ราคาหุ้นล่าสุด</span><b id="marketDate">–</b><small>วันที่ข้อมูลตลาดล่าสุด</small></div>
-<div class="kpi"><span>งบการเงิน</span><b id="financialDate">–</b><small>งบที่ใช้วิเคราะห์</small></div>
+<div class="kpi"><span>ราคาหุ้นล่าสุด</span><b id="marketDate">–</b><small>วันที่ราคาหุ้นอัปเดตล่าสุด</small></div>
+<div class="kpi"><span>งบการเงิน</span><b id="financialDate">–</b><small>งบการเงินที่ใช้วิเคราะห์</small></div>
 <div class="kpi"><span>ทบทวนบทวิเคราะห์</span><b id="researchDate">–</b><small>วันที่ทบทวนบทวิเคราะห์</small></div>
 </div>
-<div class="refreshline">Dashboard อ่านข้อมูลจาก <b>data.json</b> • Team Comment มาจาก Master Excel ผ่าน GitHub Actions อัตโนมัติ</div>
+<div class="refreshline">Dashboard อ่านข้อมูลจาก <b>data.json</b> • ความเห็นใน Master Excel จะถูกใช้เป็นค่าเริ่มต้น</div>
 </div></header>
 
 <main><div class="wrap">
@@ -189,7 +192,7 @@ input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92
 </div>
 <div class="set-foot">
   <span id="setUpdated">ข้อมูลล่าสุด: –</span>
-  <a id="setSource" href="https://www.set.or.th/th/market/index/set/overview" target="_blank" rel="noopener">ที่มา: SET</a>
+  <a id="setSource" href="https://www.set.or.th/th/market/index/set/overview" target="_blank" rel="noopener">แหล่งอ้างอิง: SET</a>
 </div>
 
 </section>
@@ -305,7 +308,7 @@ function renderSetIndex(){
  document.getElementById("setHigh").textContent=fmt(m.high,2);
  document.getElementById("setLow").textContent=fmt(m.low,2);
  document.getElementById("setValue").textContent=fmt(m.valueMillionBaht,2)+" ลบ.";
- document.getElementById("setUpdated").textContent=`ข้อมูลล่าสุด: ${m.updatedAt||"–"} • ${m.status||""}`;
+ document.getElementById("setUpdated").textContent=`ข้อมูลล่าสุด: ${m.updatedAt||"–"} • ${sourceStatusLabel(m.status)}`;
  if(m.source) document.getElementById("setSource").href=m.source;
 
  const s=document.getElementById("setStart").value;
@@ -353,13 +356,16 @@ function initIndustryFilter(){
  const sel=document.getElementById("industryFilter"); if(!sel) return;
  const current=sel.value;
  const sectors=[...new Set(DATA.map(x=>x.sector).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
- sel.innerHTML='<option value="">ทุกอุตสาหกรรม</option>'+sectors.map(s=>`<option value="${s}">${s}</option>`).join("");
+ sel.innerHTML='<option value="">ทุกอุตสาหกรรม</option>'+sectors.map(s=>`<option value="${s}">${sectorLabel(s)}</option>`).join("");
  sel.value=current;
 }
 function industryMatch(x){
  const sel=document.getElementById("industryFilter");
  return !sel || !sel.value || x.sector===sel.value;
 }
+function valuationLabel(v){const m={"Very Cheap":"ถูกมาก","Cheap":"ถูก","Fair Value":"เหมาะสม","Expensive":"แพง","Very Expensive":"แพงมาก"};return m[v]||v||"ไม่มีข้อมูล";}
+function sourceStatusLabel(v){const m={"Secondary delayed feed":"ข้อมูลรองแบบหน่วงเวลา","Primary official feed":"ข้อมูลทางการ"};return m[v]||v||"";}
+function sectorLabel(v){const m={"Banking":"ธนาคาร","Energy & Utilities":"พลังงานและสาธารณูปโภค","Commerce":"พาณิชย์","Property Development":"พัฒนาอสังหาริมทรัพย์","Finance & Securities":"การเงินและหลักทรัพย์","Health Care Services":"บริการทางการแพทย์","Transportation & Logistics":"ขนส่งและโลจิสติกส์","Food & Beverage":"อาหารและเครื่องดื่ม","Electronic Components":"ชิ้นส่วนอิเล็กทรอนิกส์","Media & Publishing":"สื่อและสิ่งพิมพ์","Tourism & Leisure":"ท่องเที่ยวและสันทนาการ","Agribusiness":"ธุรกิจการเกษตร","Information & Communication Technology":"เทคโนโลยีสารสนเทศและการสื่อสาร"};return m[v]||v||"";}
 function frameworkTitle(k){
  const m={
   "1. Management":"1. ผู้ถือหุ้นและผู้บริหาร",
@@ -384,9 +390,10 @@ function saveTeamComment(t){
  localStorage.setItem(commentKey(t),el.value);
  const m=document.getElementById(`team-comment-msg-${t}`);if(m){m.textContent="บันทึกในอุปกรณ์นี้แล้ว";setTimeout(()=>m.textContent="",1800)}
 }
-function resetTeamComment(t,master){
+function resetTeamComment(t){
  localStorage.removeItem(commentKey(t));
- const el=document.getElementById(`team-comment-${t}`);if(el)el.value=master||"";
+ const item=DATA.find(x=>x.ticker===t);const master=(item&&item.teamComment)||"";
+ const el=document.getElementById(`team-comment-${t}`);if(el)el.value=master;
  const m=document.getElementById(`team-comment-msg-${t}`);if(m){m.textContent="คืนค่าจาก Master แล้ว";setTimeout(()=>m.textContent="",1800)}
 }
 
@@ -399,7 +406,7 @@ function render(){
  });
  document.getElementById("cards").innerHTML=list.map(x=>`
  <article class="card" id="stock-${x.ticker}">
- <div class="top"><div><div class="ticker">${x.ticker}</div><div class="meta">อันดับมูลค่าตลาด #${x.rank} • ${x.sector}</div></div><div style="text-align:right"><div class="meta">คะแนนรวม</div><div class="score">${fmt(x.score,1)}</div><span class="badge ${valClass(x.valuation)}">${x.valuation}</span></div></div>
+ <div class="top"><div><div class="ticker">${x.ticker}</div><div class="meta">อันดับมูลค่าตลาด #${x.rank} • ${sectorLabel(x.sector)}</div></div><div style="text-align:right"><div class="meta">คะแนนรวม</div><div class="score">${fmt(x.score,1)}</div><span class="badge ${valClass(x.valuation)}">${valuationLabel(x.valuation)}</span></div></div>
  <div style="margin-top:10px"><span class="status ${statusClass(x.updateStatus)}">${statusLabel(x.updateStatus)}</span></div>
  <div class="tags">${(x.flags||[]).map(f=>`<span class="tag">${f}</span>`).join("")}</div>
  <div class="metrics">
@@ -419,8 +426,8 @@ function render(){
  <div class="team-comment-wrap">
  <h3>ความเห็นของทีม</h3>
  <textarea class="team-comment-box team-comment-input" id="team-comment-${x.ticker}" placeholder="พิมพ์ความเห็นของทีมที่นี่...">${escText(getTeamComment(x.ticker,x.teamComment))}</textarea>
- <div class="team-comment-actions"><button type="button" onclick="saveTeamComment('${x.ticker}')">💾 บันทึกความเห็น</button><button type="button" class="btn-soft" onclick="resetTeamComment('${x.ticker}',${JSON.stringify(x.teamComment||'')})">คืนค่าจาก Master</button><span id="team-comment-msg-${x.ticker}" class="team-comment-saved"></span></div>
- <div class="team-comment-meta">บันทึกจากหน้าเว็บไว้ในอุปกรณ์/เบราว์เซอร์นี้ • ค่าเริ่มต้นอ่านจาก Master Excel • ยังไม่ sync กลับ GitHub อัตโนมัติ</div>
+ <div class="team-comment-actions"><button type="button" onclick="saveTeamComment('${x.ticker}')">💾 บันทึกความเห็น</button><button type="button" class="btn-soft" onclick="resetTeamComment('${x.ticker}')">คืนค่าจาก Master</button><span id="team-comment-msg-${x.ticker}" class="team-comment-saved"></span></div>
+ <div class="team-comment-meta">พิมพ์และบันทึกได้ทันทีในเบราว์เซอร์นี้ • ค่าเริ่มต้นอ่านจาก Master Excel • ความเห็นที่พิมพ์บนเว็บยังไม่แชร์ข้ามเครื่องหรือ sync กลับ GitHub</div>
  </div>
  <details><summary>เปิดบทวิเคราะห์เชิงลึก 11 หัวข้อ</summary>
  ${(Object.entries(x.framework||{})).map(([k,v])=>`<div class="section"><h3>${frameworkTitle(k)}</h3><div>${v}</div></div>`).join("")}
