@@ -1,0 +1,8 @@
+{
+  "generatedAt": null,
+  "target": "NOT_RUN",
+  "updatedStocks": 0,
+  "failures": [],
+  "universeValidation": {"ok": false, "checkedAt": null, "error": "Workflow has not run yet."},
+  "logs": []
+}
