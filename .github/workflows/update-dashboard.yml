@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: set100-dashboard-build
+  group: set100-dashboard-build-v2
   cancel-in-progress: true
 
 jobs:
