@@ -8,23 +8,23 @@
     "marketDataUpdated": "2026-10-09",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T08:38:41.473060+00:00",
+    "generatedAt": "2026-11-03T08:57:10.364833+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
-    "setIndexUpdated": "2026-11-03T15:23:36+07:00"
+    "setIndexUpdated": "2026-11-03T15:41:54+07:00"
   },
   "marketIndex": {
     "symbol": "SET",
     "name": "SET Index",
-    "last": 1499.36,
-    "change": -7.84,
-    "changePct": -0.52,
+    "last": 1495.32,
+    "change": -11.88,
+    "changePct": -0.79,
     "open": 1504.27,
     "high": 1507.4,
     "low": 1493.41,
     "volumeThousandShares": 0.0,
     "valueMillionBaht": null,
     "status": "Secondary delayed feed",
-    "updatedAt": "2026-11-03T15:23:36+07:00",
+    "updatedAt": "2026-11-03T15:41:54+07:00",
     "source": "https://www.set.or.th/en/market/index/set/overview",
     "history": [
       {
@@ -334,7 +334,7 @@
       },
       {
         "date": "2026-11-03",
-        "value": 1499.36,
+        "value": 1495.32,
         "type": "current"
       }
     ],
