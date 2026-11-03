@@ -1,17 +1,6 @@
 {
   "checked": true,
-  "remainingEnglishExplanationBlocks": 1,
+  "remainingEnglishExplanationBlocks": 0,
   "policy": "คำอธิบายเป็นภาษาไทย; คงเฉพาะชื่อเฉพาะและตัวย่อทางการเงินมาตรฐาน",
-  "remaining": [
-    {
-      "ticker": "GST",
-      "field": "framework::8. Narrative & Sentiment",
-      "englishWords": [
-        "Gulf",
-        "Space",
-        "Technology"
-      ],
-      "sample": "เรื่องเล่าคือ 'THCOM แปลงร่างเป็น Gulf Space Technology' ความเชื่อมั่นกำลังดีขึ้นจากทางเลือกเชิงกลยุทธ์ แต่คุณภาพรายได้หลักยังคงอยู่ภายใต้การพิจารณาอย่างละเอียด"
-    }
-  ]
+  "remaining": []
 }
