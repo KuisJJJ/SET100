@@ -29,14 +29,20 @@ jobs:
       - name: Generate data.json from Excel
         run: python scripts/excel_to_json.py
 
+      - name: Refresh SET Index
+        run: python scripts/update_set_index.py
+
+      - name: Apply dashboard UI patch
+        run: python scripts/patch_dashboard_ui.py
+
       - name: Commit synchronized files
         run: |
-          if git diff --quiet -- data.json team_comments.json SET100_Investment_Research_Master.xlsx; then
+          if git diff --quiet -- data.json team_comments.json SET100_Investment_Research_Master.xlsx index.html; then
             echo "No synchronized changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json team_comments.json SET100_Investment_Research_Master.xlsx
-          git commit -m "Sync dashboard data and preserve team comments"
+          git add data.json team_comments.json SET100_Investment_Research_Master.xlsx index.html
+          git commit -m "Sync dashboard data, refresh SET Index and apply UI layout"
           git push
