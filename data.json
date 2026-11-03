@@ -3,12 +3,12 @@
     "version": "v7",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
-    "companiesResearched": 95,
+    "companiesResearched": 100,
     "totalUniverse": 100,
     "marketDataUpdated": "2026-10-09",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T08:22:33.356025+00:00",
+    "generatedAt": "2026-11-03T08:25:52.886683+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -4917,20 +4917,12 @@
       "researchReviewed": "2026-11-03",
       "sources": [
         {
-          "label": "Factsheet / 6M26 Financials",
+          "label": "Factsheet / Financial Data",
           "url": "https://www.set.or.th/th/market/product/stock/quote/STGT/factsheet"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/STGT/historical-trading"
         },
         {
           "label": "Investor Relations",
           "url": "https://www.sritranggloves.com/en/investor-relations/home"
-        },
-        {
-          "label": "Dividend Policy & Payment",
-          "url": "https://www.sritranggloves.com/en/investor-relations/shareholder-information/dividend-policy-and-payment"
         }
       ],
       "price": 10.8,
@@ -5252,20 +5244,12 @@
       "researchReviewed": "2026-11-03",
       "sources": [
         {
-          "label": "Factsheet / 6M26 Financials",
+          "label": "Factsheet / Financial Data",
           "url": "https://www.set.or.th/en/market/product/stock/quote/MEGA/factsheet"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.settrade.com/th/equities/quote/mega/historical-trading"
         },
         {
           "label": "Investor Relations",
           "url": "https://investor.megawecare.com/en/home"
-        },
-        {
-          "label": "Investor Calendar",
-          "url": "https://investor.megawecare.com/th/calendar"
         }
       ],
       "price": 33.75,
@@ -5458,20 +5442,12 @@
       "researchReviewed": "2026-11-03",
       "sources": [
         {
-          "label": "STECON 6M26 Snapshot",
+          "label": "6M26 Listed Company Snapshot",
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/STECON-6M69-ListedCompanySnapshot-EN.html"
         },
         {
-          "label": "STECON Financial Highlights",
+          "label": "Financial Highlights",
           "url": "https://www.stecongroup.co.th/en/investor-relations/financial-info/financial-highlights"
-        },
-        {
-          "label": "STECON Major Shareholders",
-          "url": "https://www.stecongroup.co.th/en/investor-relations/shareholder-info/major-shareholders"
-        },
-        {
-          "label": "SET Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/stecon/historical-trading"
         }
       ],
       "price": 17.7,
@@ -5657,10 +5633,6 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/AP-6M69-ListedCompanySnapshot-EN.html"
         },
         {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/AP/factsheet"
-        },
-        {
           "label": "Q2/2026 MD&A",
           "url": "https://ap.listedcompany.com/misc/MDNA/20260813-ap-mdna-2q2026-en.pdf"
         }
@@ -5722,15 +5694,11 @@
       "researchReviewed": "2026-11-03",
       "sources": [
         {
-          "label": "Q2 FY2027 F45",
-          "url": "https://www.tfex.co.th/en/market-data/news-and-notice/trading-notice/newsdetails?id=107043300&symbol=AEONTS"
-        },
-        {
           "label": "Latest Financial Statements",
           "url": "https://www.set.or.th/en/market/product/stock/quote/AEONTS/financial-statement/latest/income"
         },
         {
-          "label": "Historical Price",
+          "label": "Historical Price / IR",
           "url": "https://investor.aeon.co.th/en/stock-information/historical-price"
         }
       ],
@@ -5791,16 +5759,12 @@
       "researchReviewed": "2026-11-03",
       "sources": [
         {
-          "label": "Q2/2026 F45",
-          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105916200&symbol=BAM"
-        },
-        {
           "label": "6M26 Listed Company Snapshot",
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/BAM-6M69-ListedCompanySnapshot-EN.html"
         },
         {
-          "label": "Historical Trading",
-          "url": "https://www.settrade.com/th/equities/quote/bam/historical-trading"
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105916200&symbol=BAM"
         }
       ],
       "price": 6.45,
@@ -5998,16 +5962,12 @@
       "researchReviewed": "2026-11-03",
       "sources": [
         {
-          "label": "Factsheet 09-Oct-2026",
+          "label": "Factsheet",
           "url": "https://www.set.or.th/en/market/product/stock/quote/BCPG/factsheet"
         },
         {
-          "label": "Q2/2026 MD&A",
+          "label": "Q2/2026 MD&A / News",
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105652801&symbol=BCPG"
-        },
-        {
-          "label": "Latest Financial Statements",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/BCPG/financial-statement/latest/income"
         }
       ],
       "price": 6.45,
@@ -6073,10 +6033,6 @@
         {
           "label": "Factsheet",
           "url": "https://www.set.or.th/en/market/product/stock/quote/PRM/factsheet"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/PRM/historical-trading"
         }
       ],
       "price": 8.6,
@@ -6769,6 +6725,350 @@
       "pe": 6.2,
       "pbv": 0.62,
       "evEbitda": 3.16
+    },
+    {
+      "rank": 96,
+      "ticker": "PTG",
+      "company": "PTG Energy PCL.",
+      "sector": "Energy & Utilities",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": -131.47,
+      "npatGrowth": -126.2,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Fuel retail / consumer platform: use EBITDA, OCF, lease-adjusted leverage and interest coverage",
+      "debtEbitdaNote": "6M26 D/E is elevated by capital-intensive stations/leases and ecosystem expansion. Despite 1H loss, OCF remained THB3.70bn; balance-sheet and lease commitments need monitoring.",
+      "score": 6.9375,
+      "flags": [
+        "Fuel Retail",
+        "Non-Oil",
+        "Max Card",
+        "Loss-Making 1H26",
+        "High OCF"
+      ],
+      "summary": "PTG has a valuable nationwide retail network and strong operating cash flow, but 1H26 swung to a THB131m loss from THB502m profit as margins/costs weakened. The thesis depends on non-oil growth and cash-flow discipline more than volume alone.",
+      "framework": {
+        "1. Management": "Founder-led Thai retail-energy group with long execution history in network expansion. Management's next test is capital discipline: converting network scale into higher ROIC and reducing reliance on low-margin fuel.",
+        "2. Product / Moat": "Operates PT fuel stations plus LPG, logistics and non-oil businesses including Punthai Coffee and customer loyalty ecosystem. Moat is moderate via network density, logistics and customer data/traffic.",
+        "3. TAM / Growth Runway": "Thailand fuel retail is mature, but non-oil retail, EV charging, coffee and loyalty monetization expand wallet share. Growth runway is primarily mix shift, not structural fuel-volume growth.",
+        "4. Positive Catalysts": "Catalysts: marketing-margin recovery, Punthai/non-oil growth, lower funding cost, capex discipline and OCF conversion. Probability medium / impact high over 6-24 months.",
+        "5. Competitors": "Peers include OR, BCP and SUSCO. PTG is smaller than OR but has dense provincial exposure and aggressive non-oil expansion; financial flexibility is weaker.",
+        "6. Revenue Growth & Margin": "6M26 revenue THB118.94bn +4.2% YoY, but net loss THB131m versus THB502m profit. OCF remained THB3.70bn, so earnings pressure reflects margin/cost rather than liquidity collapse.",
+        "7. Regulation": "Oil-fund policy, retail price controls, excise/tax, dealer rules, LPG regulation and EV transition affect economics. Regulation constrains pricing power and can move marketing margins quickly.",
+        "8. Narrative & Sentiment": "Narrative is 'network monetization / non-oil turnaround'. Sentiment is cautious after 1H loss, with improvement dependent on margins and non-oil profitability.",
+        "9. Valuation Effect": "At THB8.30, valuation is better assessed on normalized EBITDA/FCF rather than trailing P/E because 1H26 was loss-making. Fair Value on recovery assumptions, not obviously cheap.",
+        "10. Earnings & Macro": "Base: fuel margins normalize and non-oil offsets weakness. Bull: Punthai and customer ecosystem deliver operating leverage. Bear: regulated margins/capex keep ROIC depressed.",
+        "11. Risk Radar": "Top risks: marketing-margin regulation, capex/lease leverage, non-oil execution, EV transition, funding cost and commodity-price volatility."
+      },
+      "thesis": "Station density, Max Card ecosystem and non-oil businesses can raise customer monetization and reduce dependence on thin fuel margins; OCF remains supportive.",
+      "bear": "Fuel-margin regulation, intense price competition, capex/lease burden and weak non-oil returns can keep ROIC low even with high sales volumes.",
+      "teamComment": "",
+      "marketBelieves": "The market sees PTG as a low-margin fuel retailer trying to become a broader consumer platform; confidence is constrained by earnings volatility.",
+      "marketMissing": "The market may underprice the long-term monetization of customer data/non-oil traffic if management can improve return on capital without accelerating leverage.",
+      "variables": "Fuel sales volume, marketing margin/litre, non-oil EBITDA, Max Card active members, OCF, lease liabilities, capex, interest expense, LPG/oil policy.",
+      "fit": "Turnaround/income investor comfortable with thin fuel margins, capex and regulated-energy risk.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Large nationwide station network, Max Card/customer ecosystem, distribution/logistics scale and non-oil cross-selling create density/network advantages, but fuel margins are regulated/competitive and capital intensity is high.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Historical Trading",
+          "url": "https://www.settrade.com/th/equities/quote/ptg/historical-trading"
+        },
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/PTG-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PTG/factsheet"
+        }
+      ],
+      "price": 8.3,
+      "marketCap": 13861.0,
+      "pe": null,
+      "pbv": 1.49,
+      "evEbitda": null
+    },
+    {
+      "rank": 97,
+      "ticker": "DOHOME",
+      "company": "Dohome PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 556.11,
+      "npatGrowth": null,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Retail: use EBITDA, net debt/EBITDA, OCF, inventory days and lease-adjusted leverage",
+      "debtEbitdaNote": "Capital intensity and inventory are key. Current EV/EBITDA around low-teens; balance sheet is more leveraged than asset-light retailers.",
+      "score": 7.0,
+      "flags": [
+        "Home Improvement",
+        "Construction Materials",
+        "Low P/BV",
+        "Housing Cycle"
+      ],
+      "summary": "DOHOME trades below book around the snapshot and delivered 6M26 NPAT of THB556m. The valuation is undemanding, but earnings remain tied to construction demand, steel/material spreads and inventory productivity.",
+      "framework": {
+        "1. Management": "Founder/family-influenced retailer with long experience in building materials and big-box expansion. Management quality is tied to inventory discipline, site selection and leverage control.",
+        "2. Product / Moat": "Large-format wholesale/retail building materials and home-improvement products. Moat is moderate via assortment, procurement scale, contractor relationships and provincial network.",
+        "3. TAM / Growth Runway": "Thailand home-improvement and construction retail remains fragmented. Share-gain runway exists through modern trade penetration, new stores and private-label mix, but macro/housing cycles drive near-term SAM.",
+        "4. Positive Catalysts": "Catalysts: construction recovery, same-store sales improvement, gross-margin recovery, lower rates and store maturity. Probability medium / impact medium-high.",
+        "5. Competitors": "Peers include GLOBAL, HMPRO and other home-improvement retailers. DOHOME is more construction-material/wholesale exposed and more cyclical than HMPRO.",
+        "6. Revenue Growth & Margin": "6M26 total revenue THB16.02bn and NPAT THB556m. Profitability is sensitive to material spreads, mix and store productivity; cash conversion should be tracked with inventory.",
+        "7. Regulation": "Building codes, product standards, competition law, labor rules and macro credit conditions matter. Regulation is manageable; housing/construction financing is the larger economic constraint.",
+        "8. Narrative & Sentiment": "Narrative is 'cheap cyclical recovery retail'. Sentiment is neutral; investors need proof that demand and margin have bottomed.",
+        "9. Valuation Effect": "At THB3.50, P/E ~16.3x and P/BV ~0.88x. Fair Value: P/BV is cheap, but EBITDA multiple and weak cycle limit immediate rerating.",
+        "10. Earnings & Macro": "Base: modest demand recovery with stable margin. Bull: construction upcycle + store maturity. Bear: prolonged weak demand and inventory/price pressure.",
+        "11. Risk Radar": "Top risks: construction/housing downturn, steel/material price swings, inventory, leverage/interest cost and expansion execution."
+      },
+      "thesis": "Scale, low P/BV and a normalized construction cycle can drive recovery, while expansion creates long-term share-gain runway.",
+      "bear": "Weak construction demand, inventory markdowns, steel-price volatility and debt-funded expansion can keep returns below historical levels.",
+      "teamComment": "",
+      "marketBelieves": "The market views DOHOME as a cyclical building-material retailer with cheap asset valuation but muted near-term demand.",
+      "marketMissing": "The market may underprice operating leverage from same-store recovery and procurement/private-label mix once construction demand normalizes.",
+      "variables": "SSSG, contractor demand, steel prices, gross margin, inventory days, store expansion, OCF, net debt/EBITDA, interest cost.",
+      "fit": "Value/cyclical retail investor comfortable with construction and housing-cycle exposure.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Large-format building-material retail network, procurement scale, contractor/customer relationships and private-label/assortment breadth create moderate cost/distribution advantages.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/DOHOME/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/DOHOME/factsheet"
+        },
+        {
+          "label": "Price / 6M26 Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/DOHOME/price"
+        }
+      ],
+      "price": 3.5,
+      "marketCap": 12315.14,
+      "pe": 16.31,
+      "pbv": 0.88,
+      "evEbitda": 12.18
+    },
+    {
+      "rank": 98,
+      "ticker": "MOSHI",
+      "company": "Moshi Moshi Retail Corporation PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 352.84,
+      "npatGrowth": 21.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Retail: use EBITDA, OCF, store economics, inventory turns and lease-adjusted leverage",
+      "debtEbitdaNote": "Balance sheet and cash generation are strong. Key risk is not financial leverage but maintaining store productivity while expanding quickly.",
+      "score": 8.3125,
+      "flags": [
+        "Lifestyle Retail",
+        "High Growth",
+        "SSSG",
+        "Store Expansion",
+        "High Margin"
+      ],
+      "summary": "MOSHI is one of the stronger late-rank SET100 businesses: 1H26 operating income +17.3%, NPAT +21.5%, GPM 56.4%, 212 stores and positive SSSG. At ~15-16x P/E, valuation is reasonable for its growth/quality.",
+      "framework": {
+        "1. Management": "Founder/family-linked specialist retailer with strong execution in merchandising and branch rollout. Management has demonstrated disciplined growth and high margins; alignment is supported by ownership and dividends.",
+        "2. Product / Moat": "Retail lifestyle/value merchandise under Moshi Moshi. Moat comes from brand, sourcing/merchandising, affordable price points, store productivity and network scale.",
+        "3. TAM / Growth Runway": "Thailand lifestyle-value retail is fragmented. MOSHI can gain share through branch expansion, new formats, category extensions and mall/community coverage.",
+        "4. Positive Catalysts": "Catalysts: new stores, positive SSSG, margin expansion, product/category innovation and dividend. Probability high / impact high over 12-36 months.",
+        "5. Competitors": "Competitors include MINISO-like concepts, Daiso/value retailers, department stores and online marketplaces. MOSHI differentiates through local merchandising and strong unit economics.",
+        "6. Revenue Growth & Margin": "1H26 operating income THB1.94bn +17.3% YoY; NPAT THB352.8m +21.5%; GPM rose to 56.4% and SSSG was +3.9%. OCF THB510.5m remained healthy.",
+        "7. Regulation": "Consumer-product standards, imports, IP/trademark, labor rules and mall leases matter. No major regulatory barrier; execution/sourcing is the bigger moat.",
+        "8. Narrative & Sentiment": "Narrative is 'specialty retail compounder'. Sentiment is positive with improving margins and expansion, though investors watch valuation and SSSG sustainability.",
+        "9. Valuation Effect": "At THB34.50, valuation is roughly mid-teens P/E, ~4.3x P/BV and ~9-10x EV/EBITDA. Fair Value to slightly attractive for 20%+ profit growth and strong ROE.",
+        "10. Earnings & Macro": "Base: mid/high-teens earnings growth via stores + SSSG. Bull: sustained margin and new-format success. Bear: saturation/weak SSSG. 3-5y return is mostly earnings compounding + dividend.",
+        "11. Risk Radar": "Top risks: store saturation, merchandising miss, sourcing/FX, mall-rent inflation, e-commerce substitution."
+      },
+      "thesis": "High store economics, branch runway, strong margins and consistent cash flow can compound earnings at attractive rates.",
+      "bear": "Rapid expansion can saturate locations, fashion/lifestyle demand can shift, and high P/BV leaves downside if SSSG or margins disappoint.",
+      "teamComment": "",
+      "marketBelieves": "The market sees MOSHI as a high-quality specialty retailer with visible branch expansion and strong margins.",
+      "marketMissing": "The market may still underprice long runway from new formats/categories and operating leverage if SSSG stays positive, but current quality is no longer hidden.",
+      "variables": "Store count, SSSG, sales/sqm, gross margin, inventory turns, OCF, new-format productivity, dividend payout.",
+      "fit": "Quality-growth investor willing to pay a moderate premium for high ROE, cash flow and store runway.",
+      "moatStatus": "มี",
+      "moatReason": "Distinct lifestyle-value positioning, fast merchandising, sourcing scale, brand recognition and a rapidly expanding store network create a meaningful retail moat in a fragmented niche.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Historical Trading",
+          "url": "https://www.settrade.com/th/equities/quote/moshi/historical-trading"
+        },
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/MOSHI-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/MOSHI/factsheet"
+        }
+      ],
+      "price": 34.5,
+      "marketCap": 11385.0,
+      "pe": 15.5,
+      "pbv": 4.25,
+      "evEbitda": 9.5
+    },
+    {
+      "rank": 99,
+      "ticker": "AAV",
+      "company": "Asia Aviation PCL.",
+      "sector": "Transportation & Logistics",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": -2326.0,
+      "periodNpat": -1485.15,
+      "npatGrowth": -192.7,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Airline: Debt/EBITDA N/A in a stressed period; use net debt/lease liabilities, liquidity, load factor, RASK/CASK and cash burn",
+      "debtEbitdaNote": "6M26 D/E was 5.53x and OCF -THB305m. Liquidity, lease liabilities, fuel hedging and access to financing are the critical financial variables.",
+      "score": 6.875,
+      "flags": [
+        "Airline",
+        "Low-Cost Carrier",
+        "Fuel Risk",
+        "High Leverage",
+        "Tourism"
+      ],
+      "summary": "AAV retains a strong low-cost airline franchise, but 1H26 swung to a THB1.49bn loss from THB1.60bn profit as fuel and FX pressure overwhelmed fare gains. The equity is an operational turnaround with significant leverage risk.",
+      "framework": {
+        "1. Management": "Founder/executive leadership has deep low-cost aviation experience, backed by the wider AirAsia ecosystem. Management quality is proven operationally, but balance-sheet risk management is equally important.",
+        "2. Product / Moat": "AAV is the holding company for Thai AirAsia. Moat comes from AirAsia brand, route density, low-cost culture, digital distribution, regional network and airport slots.",
+        "3. TAM / Growth Runway": "Asian short-haul travel has structural growth from tourism and rising mobility. AAV's growth runway exists across domestic/ASEAN/South Asia, but profitability depends on fuel, FX and capacity discipline.",
+        "4. Positive Catalysts": "Catalysts: lower jet fuel, stronger baht, tourism recovery, higher fares/load factors, fleet utilization and refinancing. Probability medium / impact very high.",
+        "5. Competitors": "Peers include other Thai airlines and regional low-cost carriers. AirAsia has stronger LCC brand/network, but leverage remains a key disadvantage.",
+        "6. Revenue Growth & Margin": "6M26 revenue THB24.55bn vs THB25.03bn and net loss THB1.49bn vs THB1.60bn profit. Q2 core loss was severe as jet fuel surged; OCF turned negative.",
+        "7. Regulation": "Aviation licenses, slot allocation, safety regulation, fuel/airport taxes and bilateral traffic rights matter. Regulation is a barrier but also creates fixed costs.",
+        "8. Narrative & Sentiment": "Narrative is 'high-beta airline recovery'. Sentiment is negative/fragile during fuel shock; it can reverse quickly if fuel and FX normalize.",
+        "9. Valuation Effect": "At THB0.84, P/BV is below 1x but earnings are negative and leverage is high. Fair Value only on recovery assumptions; balance-sheet risk prevents a simple 'cheap' label.",
+        "10. Earnings & Macro": "Base: fares/traffic offset part of fuel pressure. Bull: fuel falls + baht strengthens + tourism remains robust. Bear: prolonged fuel shock and refinancing stress. Equity return is highly convex.",
+        "11. Risk Radar": "Top risks: fuel price, FX, leverage/liquidity, tourism/geopolitical shock, aircraft/lease obligations and capacity execution."
+      },
+      "thesis": "AirAsia network/brand, stronger fares and tourism demand can create high operating leverage when fuel/FX normalize.",
+      "bear": "High D/E, fuel-price shocks, FX losses, lease obligations and weak load factor can rapidly destroy equity value even with strong passenger demand.",
+      "teamComment": "",
+      "marketBelieves": "The market views AAV as a leveraged tourism/fuel beta rather than a stable compounder.",
+      "marketMissing": "The market may underprice recovery leverage if fuel prices and baht normalize, but may also underestimate how quickly liquidity can deteriorate in an adverse shock.",
+      "variables": "Fuel price/hedge, THB/USD, passengers, load factor, fare/RASK, CASK ex-fuel, fleet utilization, OCF, D/E, liquidity and aircraft leases.",
+      "fit": "High-risk cyclical/tourism investor comfortable with fuel, FX, leverage and airline volatility.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "AirAsia brand, regional route network, low-cost operating model, slots/hubs and group ecosystem create meaningful commercial advantages, but airline economics remain structurally cyclical and capital intensive.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Historical Trading",
+          "url": "https://www.settrade.com/th/equities/quote/aav/historical-trading"
+        },
+        {
+          "label": "6M26 Listed Company Snapshot",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/AAV-6M69-ListedCompanySnapshot-TH.html"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AAV/factsheet"
+        }
+      ],
+      "price": 0.84,
+      "marketCap": 10794.0,
+      "pe": null,
+      "pbv": 0.75,
+      "evEbitda": null
+    },
+    {
+      "rank": 100,
+      "ticker": "GST",
+      "company": "Gulf Space Technology PCL.",
+      "sector": "Information & Communication Technology",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 500.25,
+      "npatGrowth": -669.4,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Satellite/telecom: use EBITDA, FCF, D/E, concession/contract cash flows and project capex",
+      "debtEbitdaNote": "6M26 D/E was 0.63x and OCF THB234m. Balance sheet is manageable, but future satellite/space investment can materially change capital intensity.",
+      "score": 7.375,
+      "flags": [
+        "Satellite",
+        "Space Technology",
+        "GULF Ecosystem",
+        "Turnaround",
+        "Regulatory Barrier"
+      ],
+      "summary": "GST—renamed from THCOM—has a real regulated infrastructure moat and returned to strong 1H26 profit of THB500m from a prior-year loss. However, a large part of the improvement came from other income, so core recurring earnings must be separated from headline profit.",
+      "framework": {
+        "1. Management": "Renamed from THCOM after strategic ownership/positioning changes. Management operates a technically complex satellite platform; shareholder alignment now depends on disciplined investment within the broader Gulf ecosystem.",
+        "2. Product / Moat": "Businesses include satellite and related services, internet/media, overseas telecom and joint ventures. Moat is strong from licenses/orbital rights, infrastructure, engineering and customer relationships.",
+        "3. TAM / Growth Runway": "Regional connectivity, satellite broadband, enterprise/government services and space infrastructure offer long-run TAM. Growth requires successful next-generation satellite/capacity investment and commercialization.",
+        "4. Positive Catalysts": "Catalysts: new satellite projects, government/enterprise contracts, Gulf ecosystem synergies, regulatory clarity and recurring EBITDA growth. Probability medium / impact high.",
+        "5. Competitors": "Competitors include regional/global satellite operators and terrestrial broadband alternatives. GST has domestic strategic positioning but faces technology substitution and scale competition.",
+        "6. Revenue Growth & Margin": "6M26 total revenue THB1.54bn +11.6%, but revenue from operations fell to THB950m; NPAT improved to THB500m from -THB88m largely with higher other income. OCF THB234m and D/E 0.63x.",
+        "7. Regulation": "Orbital slots, spectrum, satellite licenses, concession/contract obligations, cybersecurity and telecom regulation are central. Regulation is a major barrier to entry and a key thesis risk.",
+        "8. Narrative & Sentiment": "Narrative is 'THCOM transformed into Gulf Space Technology'. Sentiment is improving on strategic optionality, but core earnings quality remains under scrutiny.",
+        "9. Valuation Effect": "At ~THB9.50, valuation is around mid-teens P/E and ~1x P/BV. Fair Value given regulated-asset moat, but upside requires recurring core growth rather than one-off income.",
+        "10. Earnings & Macro": "Base: stable legacy cash flows + selective new-space investment. Bull: successful new satellite/strategic contracts. Bear: capex-heavy projects, regulatory/legal setbacks or weak core revenue.",
+        "11. Risk Radar": "Top risks: regulatory/concession disputes, capex/project returns, technology substitution, customer concentration, core-vs-one-off earnings quality."
+      },
+      "thesis": "Satellite rights, technical know-how and strategic Gulf ecosystem can support a new growth phase in space/digital infrastructure.",
+      "bear": "Core operating revenue declined in 1H26 and headline profit benefited from other income; satellite replacement capex, regulatory disputes and project returns remain significant risks.",
+      "teamComment": "",
+      "marketBelieves": "The market sees GST as a strategic Gulf-linked space/satellite platform rather than the old mature THCOM story.",
+      "marketMissing": "The market may underprice strategic optionality in new satellite/space infrastructure, while overpricing one-off profit if recurring core economics remain weak.",
+      "variables": "Satellite utilization, service revenue, EBITDA excluding one-offs, orbital/spectrum rights, capex, contract wins, D/E, OCF, regulatory/legal developments.",
+      "fit": "Strategic-infrastructure/technology investor comfortable with regulatory, concession and project-capex risk.",
+      "moatStatus": "มี",
+      "moatReason": "Orbital/satellite operating rights, spectrum/telecom licenses, long customer relationships, technical infrastructure and strategic Gulf backing create high regulatory and capital barriers.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GST/factsheet"
+        },
+        {
+          "label": "Price / 6M26 Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GST/price"
+        },
+        {
+          "label": "Name Change / Company Information",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/GST/factsheet"
+        }
+      ],
+      "price": 9.5,
+      "marketCap": 10412.95,
+      "pe": 16.6,
+      "pbv": 0.99,
+      "evEbitda": null
     }
   ]
 }
