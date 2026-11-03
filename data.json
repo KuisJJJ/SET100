@@ -1,14 +1,14 @@
 {
   "meta": {
-    "version": "v6.1",
+    "version": "v7",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 80,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-10-08 10:02",
-    "financialDataUpdated": "Q2/2026; AOT 9M FY2026",
-    "researchReviewed": "2026-10-08",
-    "generatedAt": "2026-11-03T05:57:33.552859+00:00",
+    "marketDataUpdated": "2026-10-09",
+    "financialDataUpdated": "Latest reviewed period by company",
+    "researchReviewed": "2026-11-03",
+    "generatedAt": "2026-11-03T05:59:28.733038+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
