@@ -1,1083 +1,168 @@
 {
   "checked": true,
-  "remainingEnglishExplanationBlocks": 97,
-  "technicalAbbreviationsPreserved": [
-    "SET100",
-    "SETTRADE",
-    "SET",
-    "P/E",
-    "P/BV",
-    "EV/EBITDA",
-    "EBITDA",
-    "EBITDAR",
-    "EBIT",
-    "NPAT",
-    "EPS",
-    "FCF",
-    "OCF",
-    "ROE",
-    "ROIC",
-    "D/E",
-    "NIM",
-    "NPL",
-    "CAGR",
-    "TAM",
-    "SAM",
-    "SOM",
-    "YoY",
-    "QoQ",
-    "AI",
-    "FX",
-    "CAPEX",
-    "SG&A",
-    "ASP",
-    "SSSG",
-    "RevPAR",
-    "ADR",
-    "RASK",
-    "CASK",
-    "BOED",
-    "PPA",
-    "COD",
-    "FID",
-    "NAV",
-    "IRR",
-    "ECL",
-    "LTV",
-    "GPM",
-    "FFO",
-    "GRM",
-    "ARPU",
-    "CAR",
-    "CET1",
-    "MW",
-    "TEU",
-    "THB",
-    "USD",
-    "IPP",
-    "SPP",
-    "EMS",
-    "PCB",
-    "PET",
-    "E&P",
-    "LPG",
-    "SOTP"
-  ],
+  "remainingEnglishExplanationBlocks": 21,
+  "policy": "Thai explanatory prose; standard finance abbreviations and proper names may remain English.",
   "remaining": [
     {
       "ticker": "DELTA",
-      "field": "summary",
-      "englishWords": [
-        "Structural",
-        "Data",
-        "Center",
-        "Power",
-        "Electronics",
-        "Valuation",
-        "Safety"
-      ],
-      "sample": "Structural การเติบโต สูงจาก AI/Data Center และ Power Electronics แต่ต้องระวัง Valuation ที่สูงมาก ซึ่งทำให้ อัตรากำไร of Safety ต่ำ"
-    },
-    {
-      "ticker": "DELTA",
-      "field": "debtEbitdaNote",
-      "englishWords": [
-        "Market",
-        "Cap",
-        "Cash",
-        "screening",
-        "value",
-        "ratio",
-        "text",
-        "parser"
-      ],
-      "sample": "ประมาณการจาก SET: (EV - Market Cap + Cash) / EBITDA; ใช้เป็น screening value เพราะหน้า SET ratio ไม่แสดงค่าด้วย text parser"
-    },
-    {
-      "ticker": "DELTA",
-      "field": "moatReason",
-      "englishWords": [
-        "Moat",
-        "Engineering",
-        "Know-how",
-        "Customer",
-        "Qualification",
-        "Scale",
-        "Supply",
-        "Delta",
-        "Group",
-        "Supplier"
-      ],
-      "sample": "มี Moat จาก Engineering Know-how, Customer Qualification, Scale, ความสัมพันธ์กับลูกค้าระดับโลก และการอยู่ใน Supply Chain ของ Delta Group ซึ่งทำให้การเปลี่ยน Supplier มีต้นทุนและความเสี่ยงต่อผู้ซื้อ"
-    },
-    {
-      "ticker": "DELTA",
-      "field": "industryComparison",
-      "englishWords": [
-        "Electronic",
-        "Components",
-        "Power",
-        "Electronics",
-        "Valuation",
-        "Global",
-        "Power",
-        "Management"
-      ],
-      "sample": "เปรียบเทียบกับอุตสาหกรรม Electronic Components / Power Electronics โดยเน้น การเติบโต, อัตรากำไร, ROIC, งบดุล และ Valuation เทียบผู้เล่น Global Power Management"
-    },
-    {
-      "ticker": "PTT",
-      "field": "summary",
-      "englishWords": [
-        "Value",
-        "Backing",
-        "Cyclical",
-        "Commodity/"
-      ],
-      "sample": "จุดเด่นคือ Value, เงินปันผล, Asset Backing และคุณภาพเครดิต ขณะที่ การเติบโต มีลักษณะ Cyclical และขึ้นกับ Commodity/บริษัทย่อย"
-    },
-    {
-      "ticker": "PTT",
-      "field": "moatReason",
-      "englishWords": [
-        "Moat",
-        "Scale",
-        "Vertical",
-        "Integration",
-        "Barrier",
-        "Entry"
-      ],
-      "sample": "มี Moat จากโครงสร้างพื้นฐานพลังงานขนาดใหญ่ ระบบท่อและก๊าซ Scale, Vertical Integration และบทบาทเชิงยุทธศาสตร์ของประเทศ ซึ่งสร้าง Barrier to Entry สูง"
-    },
-    {
-      "ticker": "ADVANC",
-      "field": "summary",
-      "englishWords": [
-        "Business",
-        "Moat",
-        "Cash",
-        "Flow",
-        "Earnings",
-        "Visibility",
-        "Valuation",
-        "Telecom"
-      ],
-      "sample": "มี Business คุณภาพ, Moat, Cash Flow และ Earnings Visibility แข็งแรง Valuation อยู่ในระดับที่ต้องติดตามเทียบกับ Telecom กลุ่มบริษัทเทียบเคียง"
-    },
-    {
-      "ticker": "ADVANC",
-      "field": "moatReason",
-      "englishWords": [
-        "Moat",
-        "Spectrum",
-        "Network",
-        "Scale",
-        "Distribution",
-        "Switching",
-        "Friction"
-      ],
-      "sample": "มี Moat จาก Spectrum, Network Scale, ฐานลูกค้าขนาดใหญ่, Distribution, Switching Friction และโครงสร้างตลาดที่ต้องใช้เงินลงทุนสูง ทำให้ผู้เล่นใหม่เข้ามาแข่งขันได้ยาก"
-    },
-    {
-      "ticker": "GULF",
-      "field": "summary",
-      "englishWords": [
-        "Optionality",
-        "Energy",
-        "ADVANC",
-        "Data",
-        "Center",
-        "Cloud"
-      ],
-      "sample": "มี การเติบโต Optionality จาก Energy, ADVANC, Data Center และ Cloud แต่ต้องติดตาม ภาระหนี้, ต้นทุนเงินทุน และ ROIC ของโครงการใหม่"
-    },
-    {
-      "ticker": "GULF",
-      "field": "moatReason",
-      "englishWords": [
-        "Moat",
-        "Scale",
-        "Long-term",
-        "Infrastructure/",
-        "Strategic",
-        "Ecosystem",
-        "Energy",
-        "Telecom",
-        "Data"
-      ],
-      "sample": "มี Moat จาก Scale, Long-term Infrastructure/PPA assets, ความสามารถเข้าถึงเงินทุนและโครงการขนาดใหญ่ รวมถึง Strategic Ecosystem ใน Energy–Telecom–Data แต่ต้องติดตามว่าการขยายธุรกิจใหม่จะสร้าง ROIC ได้ยั่งยืนเพียงใด"
-    },
-    {
-      "ticker": "GULF",
       "field": "framework::5. Competitors",
       "englishWords": [
-        "GPSC",
-        "EGCO",
-        "RATCH",
-        "BGRIM"
+        "Vertiv",
+        "Schneider",
+        "Eaton"
       ],
-      "sample": "บริษัทในกลุ่มพลังงาน ได้แก่ GPSC, EGCO, RATCH และ BGRIM แต่ไม่มีบริษัทใดในไทยที่มีระบบนิเวศด้านพลังงาน โทรคมนาคม และข้อมูลที่เหมือนกันทุกประการ"
+      "sample": "Vertiv, Schneider, Eaton และผู้ผลิตพาวเวอร์ซัพพลายในเอเชีย"
     },
     {
-      "ticker": "AOT",
-      "field": "summary",
-      "englishWords": [
-        "Natural",
-        "Monopoly",
-        "Moat",
-        "Premium",
-        "Valuation",
-        "Passenger/Commercial"
-      ],
-      "sample": "มี Natural Monopoly Moat ชัดเจนจากสนามบินหลักของประเทศ แต่ราคาหุ้นสะท้อน Premium Valuation และต้องอาศัย Passenger/Commercial การเติบโต ต่อเนื่อง"
-    },
-    {
-      "ticker": "AOT",
-      "field": "moatReason",
-      "englishWords": [
-        "Moat",
-        "Location",
-        "Natural",
-        "Monopoly",
-        "Regulation",
-        "Network",
-        "Effect"
-      ],
-      "sample": "มี Moat ชัดเจนจาก Location และสิทธิบริหารสนามบินหลักของประเทศ ลักษณะ Natural Monopoly, Regulation และ Network Effect ของสายการบิน ทำให้การสร้างคู่แข่งทดแทนทำได้ยากมาก"
-    },
-    {
-      "ticker": "AOT",
+      "ticker": "KTB",
       "field": "industryComparison",
       "englishWords": [
-        "Passenger",
-        "Aero/Non-aero",
-        "Revenue",
-        "Valuation"
+        "Large",
+        "Banks",
+        "Coverage"
       ],
-      "sample": "ผู้ประกอบการสนามบิน / เพื่อนร่วมงานโครงสร้างพื้นฐานการขนส่ง โดยเน้น Passenger การเติบโต, Aero/Non-aero Revenue, อัตรากำไร EBITDA, เงินลงทุน และ Valuation"
+      "sample": "เทียบกับ Large Thai Banks ด้วย ROE, NIM, NPL, Coverage, CAR, อัตราต้นทุนต่อรายได้ และ P/BV เท่านั้น."
     },
     {
       "ticker": "KBANK",
-      "field": "framework::2. Product / Moat",
+      "field": "framework::6. Revenue Growth & Margin",
       "englishWords": [
-        "SME/",
-        "PLUS",
-        "PLUS",
-        "SME"
+        "ex-",
+        "opex",
+        "offset"
       ],
-      "sample": "ธนาคารสากลที่มีความแข็งแกร่ง SME/องค์กร/ค้าปลีก, K PLUS, ความมั่งคั่ง, การชำระเงิน และเครือข่ายระดับภูมิภาค คูเมือง: มี — ข้อมูลลูกค้า, ระบบนิเวศ K PLUS, แฟรนไชส์เงินฝาก, ความสัมพันธ์ SME, แบรนด์และอุปสรรคด้านกฎระเบียบ ค"
+      "sample": "1H26 NPAT THB27.9bn +6.2% YoY; การเติบโตแบบ ex-รายการครั้งเดียว พื้นฐานเพียง ~1.3% NIM ลดลงมาอยู่ที่ 2.91% แต่รายได้ที่มิใช่ดอกเบี้ยและแรงกดดันด้าน opex offset ที่ลดลง เรื่องราวของมาร์จิ้นคือผลผลิต + ค่าธรรมเนียม มากกว่าการขยาย NIM"
     },
     {
       "ticker": "SCB",
-      "field": "framework::2. Product / Moat",
+      "field": "summary",
       "englishWords": [
-        "AutoX",
-        "InnovestX",
-        "SCB",
-        "DataX/TechX",
-        "BankX"
-      ],
-      "sample": "ธนาคารหลักบวกกับตัวเลือก CardX, AutoX, InnovestX, SCB 10X, DataX/TechX และ BankX คูเมือง: มี — ฐานลูกค้า/เงินฝากขนาดใหญ่ แฟรนไชส์ความมั่งคั่ง สินทรัพย์ข้อมูล/เทคโนโลยี และอุปสรรคด้านกฎระเบียบ ความทนทานสูงในธนาคารหลัก คูเ"
-    },
-    {
-      "ticker": "SCB",
-      "field": "framework::3. TAM / Growth Runway",
-      "englishWords": [
-        "Core",
-        "Banking",
+        "Wealth/Fees",
         "Gen",
-        "BankX",
-        "BankX"
+        "Gen"
       ],
-      "sample": "Core Banking TAM ครบกำหนดแล้ว เส้นทางการเติบโตมาจากความมั่งคั่ง รายได้ค่าธรรมเนียม การปรับมาตรฐานสินเชื่อผู้บริโภค และธุรกิจเทคโนโลยี Gen3/BankX BankX สามารถขยายตลาดการเงินดิจิทัลที่สามารถระบุได้ แต่ความเสี่ยงในการดำเนิน"
+      "sample": "ฐานธนาคารยังแข็งแรง แต่กำไร 1H26 ลดจากดอกเบี้ยขาลง จุดชี้ขาดคือ Wealth/Fees และ Gen2-Gen3 จะสร้าง ROE เพิ่มได้จริงหรือไม่."
     },
     {
-      "ticker": "CPALL",
-      "field": "summary",
+      "ticker": "SCB",
+      "field": "framework::6. Revenue Growth & Margin",
       "englishWords": [
-        "CPALL",
-        "Moat",
-        "Density",
-        "Logistics",
-        "Habit",
-        "Deleveraging",
-        "valuation"
+        "opex",
+        "Gen",
+        "core"
       ],
-      "sample": "CPALL ยังมี Moat แข็งมากจาก Density + Logistics + Daily Habit. จุดชี้ขาดไม่ใช่จำนวนร้านอย่างเดียว แต่คือ SSSG, อัตรากำไร และ Deleveraging; valuation ปัจจุบันไม่ตึงเท่าอดีต."
-    },
-    {
-      "ticker": "BBL",
-      "field": "summary",
-      "englishWords": [
-        "BBL",
-        "catalyst",
-        "fee/corporate",
-        "loan",
-        "multiple",
-        "re-rate"
-      ],
-      "sample": "BBL คือ 'งบดุล ก่อน การเติบโต' — ถูกบน P/BV แต่ catalyst ต้องมาจาก ROE/fee/corporate loan และ เงินปันผล ไม่ใช่แค่หวัง multiple re-rate."
-    },
-    {
-      "ticker": "SCC",
-      "field": "summary",
-      "englishWords": [
-        "SCC",
-        "Recovery",
-        "Rep",
-        "Compounder",
-        "Chemicals/LSP",
-        "headline",
-        "one-off"
-      ],
-      "sample": "SCC ตอนนี้ต้องอ่านเป็น 'Recovery + งบดุล Repair' มากกว่า คุณภาพ Compounder แบบอดีต จุดชี้ขาดคือ Chemicals/LSP และการลดหนี้ ไม่ใช่กำไร headline ที่มี one-off."
-    },
-    {
-      "ticker": "SCC",
-      "field": "industryComparison",
-      "englishWords": [
-        "Segment",
-        "Cement",
-        "Chemicals",
-        "Packaging"
-      ],
-      "sample": "เทียบเคียง Segment: Cement, Chemicals, Packaging; กลุ่มระดับ ใช้ SOTP, ROIC, หนี้สุทธิต่อ EBITDA และ FCF."
-    },
-    {
-      "ticker": "BDMS",
-      "field": "summary",
-      "englishWords": [
-        "BDMS",
-        "Business",
-        "Moat",
-        "Patient",
-        "Mix/International/"
-      ],
-      "sample": "BDMS Business คุณภาพ ยังสูงมาก แต่ 1H26 แสดงชัดว่า Moat ไม่ได้แปลว่ากำไรต้องโตทุกไตรมาส ตอนนี้ต้องรอ Patient Mix/International/อัตรากำไร กลับมาเร่งอีกครั้ง."
-    },
-    {
-      "ticker": "TTB",
-      "field": "summary",
-      "englishWords": [
-        "TTB",
-        "Turnaround",
-        "Harvest",
-        "Phase"
-      ],
-      "sample": "TTB เปลี่ยนจาก Turnaround เป็น Harvest Phase มากขึ้นแล้ว จุดสำคัญคือ ROE + เงินปันผล/ซื้อหุ้นคืน + Asset คุณภาพ มากกว่า การเติบโตของสินเชื่อ."
-    },
-    {
-      "ticker": "CPN",
-      "field": "summary",
-      "englishWords": [
-        "CPN",
-        "Moat",
-        "Location",
-        "Tenant",
-        "Ecosystem",
-        "Development",
-        "Scale",
-        "record",
-        "rental",
-        "revenue"
-      ],
-      "sample": "CPN มี Moat ชัดจาก Location + Tenant Ecosystem + Development Scale. Q2/26 ยังทำ record rental revenue; สิ่งที่ต้องเฝ้าคือ เงินลงทุน/ROIC ของโครงการใหม่และ หนี้ต่อ EBITDA."
-    },
-    {
-      "ticker": "PTTGC",
-      "field": "summary",
-      "englishWords": [
-        "PTTGC",
-        "Thesis",
-        "Story",
-        "JV/Portfolio",
-        "Optimization",
-        "Capital",
-        "Intensity"
-      ],
-      "sample": "PTTGC ฟื้นกำไรแรงใน Q2/26 แต่ Thesis ยังไม่ใช่ การเติบโต Story — ต้องพิสูจน์ว่า JV/Portfolio Optimization ช่วยยกระดับ ROIC และลด Capital Intensity ได้จริง."
-    },
-    {
-      "ticker": "CPF",
-      "field": "summary",
-      "englishWords": [
-        "CPF",
-        "Cycle",
-        "normalized",
-        "headline",
-        "multiple"
-      ],
-      "sample": "CPF ราคาถูก แต่ต้องอ่านแบบ Cycle ไม่ใช่ดู P/E อย่างเดียว 1H26 กำไรลด 53% แสดงให้เห็นว่า normalized อัตรากำไร สำคัญกว่า headline multiple."
+      "sample": "รายได้ค่าธรรมเนียม 2Q69 +14.8% YoY และ opex -2.2% ช่วยชดเชยแรงกดดันของ NIM การขยายมาร์จิ้นขึ้นอยู่กับการเปลี่ยนแปลงแบบผสมผสานไปสู่ค่าธรรมเนียม/ความมั่งคั่ง และเศรษฐศาสตร์ Gen2 ที่ดีขึ้น core NIM ยังคงถูกกดดันจากอัตราที่ต่ำ"
     },
     {
       "ticker": "TOP",
-      "field": "summary",
+      "field": "industryComparison",
       "englishWords": [
-        "TOP",
-        "Refinery",
-        "CFP",
-        "thesis-breaker/creator",
-        "Project",
-        "Economics"
+        "Asian",
+        "Refiners",
+        "Complexity"
       ],
-      "sample": "TOP ต้องแยกสองเรื่อง: Refinery asset คุณภาพดี แต่ CFP คือ thesis-breaker/creator ตัวจริง ราคาถูกจะมีความหมายก็ต่อเมื่อ Project Economics ดีพอ."
-    },
-    {
-      "ticker": "TOP",
-      "field": "framework::11. Risk Radar",
-      "englishWords": [
-        "CFP",
-        "Spread",
-        "Normalization",
-        "CFP"
-      ],
-      "sample": "ความเสี่ยงหลัก: CFP เกินกำหนด/ล่าช้า (สูง/สูง), การกลั่น Spread Normalization (สูง/สูง), เลเวอเรจ/รีไฟแนนซ์ (ปานกลาง-สูง/สูง), การสูญเสียสินค้าคงคลังน้ำมัน (ปานกลาง/ปานกลาง), กฎระเบียบ/ต้นทุนคาร์บอน (ปานกลาง/ปานกลาง) ติด"
-    },
-    {
-      "ticker": "IVL",
-      "field": "summary",
-      "englishWords": [
-        "IVL",
-        "Thesis",
-        "Scale",
-        "Cost"
-      ],
-      "sample": "IVL ต้องดู FCF + หนี้สุทธิ มากกว่ากำไรบัญชี ตอนนี้ Thesis คือ Scale จะถูกแปลงเป็น ROIC/FCF ได้จริงหลัง Cost Reset หรือไม่."
-    },
-    {
-      "ticker": "BH",
-      "field": "summary",
-      "englishWords": [
-        "Compounder",
-        "upside",
-        "Earnings",
-        "Multiple"
-      ],
-      "sample": "BH เป็น คุณภาพ Compounder ชัดเจน: อัตรากำไร/ROE สูงและ เงินสดสุทธิ แต่ upside ต่อจากนี้ต้องมาจาก Earnings การเติบโต ไม่ใช่หวัง Multiple ขยาย."
+      "sample": "พบกับ Asian Refiners ด้วย GRM, อัตราการใช้กำลังการผลิต, ต้นทุนเงินสด, Complexity, หนี้สุทธิต่อ EBITDA, เงินลงทุน และ EV/EBITDA"
     },
     {
       "ticker": "OR",
-      "field": "summary",
+      "field": "framework::10. Earnings & Macro",
       "englishWords": [
-        "Distribution",
-        "Moat",
-        "Oil",
-        "Inventory",
-        "Thesis",
-        "Non-oil"
+        "Caf",
+        "Amazon/",
+        "Bear"
       ],
-      "sample": "OR มี Distribution Moat ชัด แต่ 1H26 แสดงว่ากำไรยังผันผวนมากจาก Oil อัตรากำไร/Inventory; Thesis จะดีขึ้นเมื่อ Non-oil EBITDA มีสัดส่วนและ ROIC สูงขึ้นจริง."
-    },
-    {
-      "ticker": "OR",
-      "field": "industryComparison",
-      "englishWords": [
-        "Marketing",
-        "Non-oil",
-        "Mix",
-        "Site",
-        "Productivity"
-      ],
-      "sample": "เพื่อขับเคลื่อนการค้าปลีก/ไลฟ์สไตล์ด้วย Marketing อัตรากำไร, ปริมาณ, Non-oil EBITDAZ Mix, Site Productivity, ROIC, FCF และ EV/EBITDA"
-    },
-    {
-      "ticker": "GPSC",
-      "field": "summary",
-      "englishWords": [
-        "GPSC",
-        "Business",
-        "Contracted",
-        "Cash",
-        "Flow",
-        "Investment",
-        "Case"
-      ],
-      "sample": "GPSC Business คุณภาพ ดีจาก Contracted Cash Flow แต่ Investment Case ต้องดู ROIC หลังหัก ต้นทุนเงินทุน เพราะ การเติบโต ในพลังงานสะอาดใช้เงินทุนสูง."
-    },
-    {
-      "ticker": "SCGP",
-      "field": "summary",
-      "englishWords": [
-        "SCGP",
-        "Indonesia",
-        "Turnaround",
-        "one-off",
-        "recovery"
-      ],
-      "sample": "SCGP ฟื้นกำไรชัดมากแม้รายได้ยังลด จุดชี้ขาดคือ อัตรากำไร/FCF ต้องยืนได้หลัง Indonesia Turnaround ไม่ใช่แค่ one-off recovery."
-    },
-    {
-      "ticker": "TLI",
-      "field": "summary",
-      "englishWords": [
-        "TLI",
-        "Capital",
-        "Strength",
-        "Embedded",
-        "Value",
-        "Thesis",
-        "VONB/CSM"
-      ],
-      "sample": "TLI จุดเด่นคือ Capital Strength + Embedded Value: ราคาอยู่ต่ำกว่า EV มาก ขณะที่ CAR สูงมาก Thesis จะดีขึ้นถ้า VONB/CSM โตและจ่ายเงินทุนส่วนเกินกลับผู้ถือหุ้นได้ต่อเนื่อง."
-    },
-    {
-      "ticker": "TLI",
-      "field": "debtEbitdaNote",
-      "englishWords": [
-        "RBC",
-        "Embedded",
-        "Value",
-        "New",
-        "Business",
-        "CSM/VONB"
-      ],
-      "sample": "ใช้ CAR/RBC, Embedded Value, New Business CSM/VONB และคุณภาพการลงทุนแทน หนี้ต่อ EBITDA"
-    },
-    {
-      "ticker": "TLI",
-      "field": "industryComparison",
-      "englishWords": [
-        "APE",
-        "VONB",
-        "VONB",
-        "CSM",
-        "Embedded",
-        "Value",
-        "RBC",
-        "Persistency"
-      ],
-      "sample": "สำหรับคู่ประกันชีวิตด้วย APE, VONB, VONB อัตรากำไร, CSM การเติบโต, Embedded Value, CAR/RBC, Persistency และ P/EV"
-    },
-    {
-      "ticker": "TLI",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "APE",
-        "VONB",
-        "VONB",
-        "Embedded",
-        "Value",
-        "RBC",
-        "CSM",
-        "Peristency"
-      ],
-      "sample": "เปรียบเทียบกับบริษัทประกันชีวิตใน APE, VONB, VONB อัตรากำไร, Embedded Value, CAR/RBC, CSM การเติบโต, Peristency และ P/EV ปริมาณพรีเมี่ยมเพียงอย่างเดียวไม่เพียงพอ"
-    },
-    {
-      "ticker": "TLI",
-      "field": "framework::7. Regulation",
-      "englishWords": [
-        "RBC",
-        "OIC",
-        "IFRS",
-        "TFRS"
-      ],
-      "sample": "ความสามารถในการละลาย/RBC ของ OIC, การอนุมัติผลิตภัณฑ์, IFRS17/TFRS17, ข้อจำกัดด้านการลงทุน, อัตราเงินเฟ้อทางการแพทย์ และกฎการคุ้มครองผู้บริโภค กฎระเบียบเป็นอุปสรรคสำคัญในการเข้าสู่ตลาด แต่จำกัดเงินทุน/การออกแบบผลิตภัณฑ์"
-    },
-    {
-      "ticker": "MINT",
-      "field": "summary",
-      "englishWords": [
-        "MINT",
-        "Earnings",
-        "Valuation",
-        "Upside",
-        "Deleveraging"
-      ],
-      "sample": "MINT Earnings โตเร็วกว่ารายได้และ Valuation ต่ำกว่ากลุ่ม แต่ Upside จะยั่งยืนเมื่อ FCF + Deleveraging เดินหน้าต่อ."
-    },
-    {
-      "ticker": "CCET",
-      "field": "summary",
-      "englishWords": [
-        "CCET",
-        "Optionality",
-        "Valuation",
-        "Server"
-      ],
-      "sample": "CCET มี การเติบโต Optionality จริง แต่ Valuation สูงมากเมื่อเทียบกับ EBITDA ปัจจุบัน ต้องพิสูจน์ว่า AI/Server ทำให้ อัตรากำไร และ ROIC เปลี่ยนระดับได้จริง."
+      "sample": "ฐาน: อัตรากำไรเชื้อเพลิงเป็นปกติและไม่ใช่น้ำมันเพิ่มขึ้น กระทิง: การกู้คืนสินค้าคงคลัง/มาร์จิ้น + ขนาด Café Amazon/EV Bear: อัตรากำไรที่ได้รับการควบคุม + ความต้องการน้ำมันที่อ่อนแอ + การลากรายจ่ายฝ่ายทุน ค่า 3-5y ขึ้นอยู่กับ ROIC ที่ไม่ใช่น"
     },
     {
       "ticker": "KKP",
       "field": "summary",
       "englishWords": [
-        "KKP",
         "Normalization",
-        "Wealth/Capital",
+        "Wealth/",
         "Markets"
       ],
-      "sample": "KKP กำไร 1H26 ฟื้นแรง แต่ต้องแยก 'Normalization' ออกจาก การเติบโต จริง จุดชี้ขาดคือ ต้นทุนเครดิต ลดได้ยั่งยืนพร้อมให้ Wealth/Capital Markets ช่วยพยุง ROE."
-    },
-    {
-      "ticker": "TISCO",
-      "field": "summary",
-      "englishWords": [
-        "TISCO",
-        "Return",
-        "Earnings",
-        "Multiple",
-        "Expansion"
-      ],
-      "sample": "TISCO คุณภาพดีและปันผลเด่น แต่ราคาไม่ถูกแล้ว — Return ควรมาจาก เงินปันผล + Earnings มากกว่า Multiple Expansion."
-    },
-    {
-      "ticker": "AWC",
-      "field": "summary",
-      "englishWords": [
-        "AWC",
-        "Story",
-        "Earnings",
-        "Compounder"
-      ],
-      "sample": "AWC เป็น Asset/NAV Story มากกว่า Earnings Compounder ตอนนี้ จุดชี้ขาดคือทรัพย์สินใหม่ต้องเปลี่ยนเป็น EBITDA/ROIC ที่สูงพอ."
-    },
-    {
-      "ticker": "BEM",
-      "field": "summary",
-      "englishWords": [
-        "BEM",
-        "Moat",
-        "Concession",
-        "Network",
-        "DCF",
-        "Multiple",
-        "Defensive"
-      ],
-      "sample": "BEM Moat แข็งมากจาก Concession + Network แต่หุ้นต้องดูแบบ DCF เพราะ Multiple สูงสะท้อนความ Defensive ไปเยอะแล้ว."
-    },
-    {
-      "ticker": "KCE",
-      "field": "summary",
-      "englishWords": [
-        "KCE",
-        "Business",
-        "Automotive",
-        "Moat"
-      ],
-      "sample": "KCE Business คุณภาพ ดีและมี Automotive PCB Moat แต่ราคาหุ้นสะท้อนอนาคตไปมาก ต้องแยก 'บริษัทดี' ออกจาก 'หุ้นราคาดี'."
+      "sample": "KKP กำไร 1H26 ฟื้นแรง แต่ต้องแยก 'Normalization' ออกจาก การเติบโต จริง จุดชี้ขาดคือ ต้นทุนเครดิต ลดได้ยั่งยืนพร้อมให้ Wealth/เงินทุน Markets ช่วยพยุง ROE."
     },
     {
       "ticker": "KCE",
       "field": "framework::10. Earnings & Macro",
       "englishWords": [
-        "EV/ADAS",
-        "mix",
         "Bear",
         "auto",
         "slowdown/",
-        "Multiple",
         "de-rating"
       ],
-      "sample": "ฐาน: รายได้ฟื้นตัวตามวงจรอัตโนมัติ กระทิง: EV/ADAS mix + การใช้ประโยชน์ที่เพิ่มขึ้น Bear: auto slowdown/บาทแข็ง + Multiple de-rating ผลตอบแทนใน 3-5 ปีขึ้นอยู่กับรายได้จริงตามการประเมินมูลค่า"
+      "sample": "ฐาน: รายได้ฟื้นตัวตามวงจรอัตโนมัติ กระทิง: EV/ADAS สัดส่วน + การใช้ประโยชน์ที่เพิ่มขึ้น Bear: auto slowdown/บาทแข็ง + ตัวคูณมูลค่า de-rating ผลตอบแทนใน 3-5 ปีขึ้นอยู่กับรายได้จริงตามการประเมินมูลค่า"
     },
     {
-      "ticker": "RATCH",
-      "field": "summary",
-      "englishWords": [
-        "RATCH",
-        "Income/As",
-        "Value",
-        "Book"
-      ],
-      "sample": "RATCH เหมาะกับมุม Income/Asset Value มากกว่า การเติบโต ราคาต่ำกว่า Book ช่วยพยุง แต่ต้องติดตาม ROIC ของโครงการใหม่และการแปลงกำไรเป็นเงินปันผล."
-    },
-    {
-      "ticker": "TCAP",
-      "field": "summary",
-      "englishWords": [
-        "TCAP",
-        "Financial",
-        "Holding",
-        "Re-rate",
-        "Upside",
-        "Earnings",
-        "Multiple"
-      ],
-      "sample": "TCAP เป็น Financial Holding ที่คุณภาพดีขึ้นและให้ผลตอบแทนจาก เงินปันผล/ซื้อหุ้นคืน แต่หลัง Re-rate แล้ว Upside ต้องมาจาก Earnings มากกว่า Multiple."
-    },
-    {
-      "ticker": "BCP",
-      "field": "summary",
-      "englishWords": [
-        "BCP",
-        "ling",
-        "Multiple",
-        "Normalize",
-        "Thesis",
-        "Synergy",
-        "Deleveraging"
-      ],
-      "sample": "BCP ถูกมากบน Trailing Multiple แต่ต้อง Normalize กำไรอย่างเข้มงวด เพราะ 1H26 ฟื้นแรงมาก Thesis ที่สำคัญกว่าคือ Synergy + FCF + Deleveraging."
-    },
-    {
-      "ticker": "WHA",
-      "field": "summary",
-      "englishWords": [
-        "WHA",
-        "Moat",
-        "Land",
-        "Infrastructure",
-        "Utilities",
-        "Customer",
-        "Ecosystem",
-        "FDI/Data",
-        "Center",
-        "Cash/"
-      ],
-      "sample": "WHA Moat ชัดจาก Land + Infrastructure + Utilities + Customer Ecosystem แต่ราคาก็สะท้อน FDI/Data Center ไปพอสมควรแล้ว จุดสำคัญคือ งานในมือ ต้องแปลงเป็น Cash/ROIC จริง."
-    },
-    {
-      "ticker": "WHA",
-      "field": "framework::10. Earnings & Macro",
-      "englishWords": [
-        "FDI",
-        "Bull",
-        "EV/",
-        "FDI"
-      ],
-      "sample": "ฐาน: การแปลง FDI + งานในมือ ที่แข็งแกร่ง Bull: การเร่งการย้ายศูนย์ข้อมูล/EV/อิเล็กทรอนิกส์ แบร์: FDI อนุมัติช้าและกำหนดเวลาโอนที่ดิน ค่า 3-5y ขึ้นอยู่กับส่วนประสมรายได้ประจำและ ROIC"
-    },
-    {
-      "ticker": "EGCO",
-      "field": "summary",
-      "englishWords": [
-        "EGCO",
-        "Value",
-        "Turnaround",
-        "Recycling"
-      ],
-      "sample": "EGCO ตอนนี้เป็น Asset Value + Turnaround มากกว่า การเติบโต — P/BV ต่ำมีความหมายก็ต่อเมื่อ ROE ฟื้นและ Asset Recycling สร้างมูลค่า."
-    },
-    {
-      "ticker": "BANPU",
-      "field": "variables",
-      "englishWords": [
-        "Henry",
-        "Hub",
-        "CCUS",
-        "BKV"
-      ],
-      "sample": "Henry Hub, ราคาถ่านหิน, กำลังไฟฟ้า EBITDA, ปริมาณการเพิ่ม CCUS, มูลค่า BKV, FCF, หนี้สุทธิ/EBITDA, ต้นทุนดอกเบี้ย"
-    },
-    {
-      "ticker": "IRPC",
-      "field": "summary",
-      "englishWords": [
-        "IRPC",
-        "Thesis",
-        "Through-cycle",
-        "Spread"
-      ],
-      "sample": "IRPC ฟื้นแรง แต่ Thesis ต้องพิสูจน์ว่า FCF/ROIC ดีขึ้นแบบ Through-cycle ไม่ใช่เพียง Spread ดีชั่วคราว."
-    },
-    {
-      "ticker": "CENTEL",
-      "field": "summary",
-      "englishWords": [
-        "CENTEL",
-        "Other",
-        "Activities",
-        "run-rate",
-        "Food"
-      ],
-      "sample": "CENTEL 1H26 กำไรโตแรงมาก แต่ต้องตัด Other Activities ออกก่อนประเมิน run-rate จริง จุดชี้ขาดคือ RevPAR + Food SSSG + ROIC ของโรงแรมใหม่."
-    },
-    {
-      "ticker": "TFG",
-      "field": "summary",
-      "englishWords": [
-        "TFG",
-        "Normalize",
-        "Cycle",
-        "Ret",
-        "l/Value-added"
-      ],
-      "sample": "TFG ดูถูกจาก P/E แต่ต้อง Normalize Cycle ก่อน จุดน่าสนใจจริงคือ Retail/Value-added จะทำให้กำไรผ่านวัฏจักรเสถียรกว่าเดิมได้หรือไม่."
-    },
-    {
-      "ticker": "MRDIYT",
-      "field": "summary",
-      "englishWords": [
-        "MRDIYT",
-        "Store",
-        "Model",
-        "Thesis",
-        "Cannibalize"
-      ],
-      "sample": "MRDIYT จุดแข็งคือ Store Model ที่ทำซ้ำได้และ ROE สูงมาก — Thesis จะอยู่ได้ถ้าร้านใหม่ยังสร้าง ROIC สูงโดยไม่ Cannibalize ร้านเดิม."
-    },
-    {
-      "ticker": "BGRIM",
-      "field": "summary",
-      "englishWords": [
-        "BGRIM",
-        "Thesis",
-        "Moat",
-        "Industrial",
-        "Customer",
-        "Upside"
-      ],
-      "sample": "BGRIM Thesis ต้องดู ROIC + FCF มากกว่า MW การเติบโต เพราะธุรกิจมี Moat จาก PPA/Industrial Customer แต่ ภาระหนี้ ยังจำกัด Upside."
-    },
-    {
-      "ticker": "CBG",
-      "field": "summary",
-      "englishWords": [
-        "CBG",
-        "Moat",
-        "Multiple",
-        "Premium",
-        "Earnings",
-        "Reacceleration",
-        "Story"
-      ],
-      "sample": "CBG บริษัทมี Moat จริง แต่ 1H26 กำไรลด ขณะที่ Multiple ยัง Premium — ตอนนี้ Earnings Reacceleration สำคัญกว่าการเล่า การเติบโต Story."
-    },
-    {
-      "ticker": "OSP",
-      "field": "summary",
-      "englishWords": [
-        "OSP",
-        "Cash",
-        "Flow",
-        "Thesis",
-        "Defensive",
-        "Revenue"
-      ],
-      "sample": "OSP จุดเด่นคือ Cash Flow คุณภาพ — OCF 1H26 สูงกว่ากำไร แต่ Thesis จะขยับจาก Defensive เป็น การเติบโต ได้เมื่อ Revenue กลับมาโตจริง."
-    },
-    {
-      "ticker": "TIDLOR",
-      "field": "summary",
-      "englishWords": [
-        "TIDLOR",
-        "Valuation",
-        "Thesis",
-        "Credit"
-      ],
-      "sample": "TIDLOR น่าสนใจที่ Valuation ไม่สูงเมื่อเทียบกับ ROE และการโตของกำไร แต่ Thesis ต้องยืนยันด้วย Credit คุณภาพ ไม่ใช่ การเติบโตของสินเชื่อ อย่างเดียว."
-    },
-    {
-      "ticker": "HANA",
-      "field": "summary",
-      "englishWords": [
-        "HANA",
-        "Optionality",
-        "Semiconductor",
-        "Story",
-        "Cash",
-        "Flow"
-      ],
-      "sample": "HANA บริษัทมี Optionality แต่หุ้นแพงมากเมื่อเทียบกับกำไรปัจจุบัน — ต้องแยก Semiconductor Story ออกจาก Cash Flow ที่เกิดจริง."
-    },
-    {
-      "ticker": "HANA",
-      "field": "framework::10. Earnings & Macro",
-      "englishWords": [
-        "SiC",
-        "Bull",
-        "SiC",
-        "Bear"
-      ],
-      "sample": "ฐาน: การกู้คืน EMS อย่างค่อยเป็นค่อยไปโดยมีส่วนสนับสนุน SiC เพียงเล็กน้อย Bull: ความสำเร็จในเชิงพาณิชย์ของ SiC Bear: ปัญหาความล่าช้า/ผลผลิต + การชะลอตัวของอุปกรณ์อิเล็กทรอนิกส์ + การลดอันดับเครดิต บานพับ 3-5 ปีบนเซมิคอนด"
-    },
-    {
-      "ticker": "BTG",
-      "field": "summary",
-      "englishWords": [
-        "BTG",
-        "Valuation",
-        "Normalize",
-        "Cycle",
-        "Thesis",
-        "Branded",
-        "Food",
-        "Efficiency"
-      ],
-      "sample": "BTG Valuation ดูถูก แต่ต้อง Normalize Cycle ก่อน — Thesis ที่ดีคือ Branded Food + Efficiency ทำให้ อัตรากำไร ผ่านวัฏจักรสูงขึ้น ไม่ใช่หวังราคาหมู/ไก่ดีตลอด."
-    },
-    {
-      "ticker": "BLA",
-      "field": "summary",
-      "englishWords": [
-        "BLA",
-        "Valuation",
-        "Catalyst",
-        "New",
-        "Business",
-        "Value",
-        "Capital",
-        "Return"
-      ],
-      "sample": "BLA Valuation ต่ำมากเมื่อเทียบกับ ROE แต่ Catalyst ต้องมาจาก New Business Value และ Capital Return มากขึ้น."
-    },
-    {
-      "ticker": "BLA",
+      "ticker": "LH",
       "field": "industryComparison",
       "englishWords": [
-        "APE",
-        "VONB/CSM",
-        "RBC",
-        "Persistency"
+        "Transfers",
+        "Rental",
+        "Income"
       ],
-      "sample": "เพื่อประกันชีวิตด้วย APE, VONB/CSM, CAR/RBC, Persistency, ROE, P/EV และ P/BV"
+      "sample": "สำหรับนักพัฒนาที่อยู่อาศัยด้วย ยอดขายรอโอน, Transfers, อัตรากำไรขั้นต้น, อัตราหนี้สินสุทธิ, Rental Income, อัตราผลตอบแทนเงินปันผล และ P/BV"
     },
     {
-      "ticker": "BLA",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "APE",
-        "VONB/CSM",
-        "Peristency",
-        "RBC",
-        "V/PBV"
-      ],
-      "sample": "เปรียบเทียบกับบริษัทประกันชีวิตใน APE, VONB/CSM, Peristency, CAR/RBC, ROE, อัตราผลตอบแทนการลงทุน และ P/EV/PBV"
-    },
-    {
-      "ticker": "PLANB",
+      "ticker": "BA",
       "field": "summary",
       "englishWords": [
-        "PLANB",
-        "Moat",
-        "Location/Concession",
-        "Network",
-        "Valuation",
-        "Earnings"
+        "Airline",
+        "Samui",
+        "Airport/Service"
       ],
-      "sample": "PLANB Moat แข็งจาก Location/Concession + Network แต่หลังราคาขึ้นแรง Valuation กลายเป็นความเสี่ยงหลัก ต้องให้ Earnings วิ่งตามราคาให้ทัน."
+      "sample": "BA ต้องแยกมูลค่า Airline ออกจาก Samui Airport/Service — ความได้เปรียบการแข่งขัน ของสนามบินมีคุณภาพสูงกว่าธุรกิจสายการบินอย่างชัดเจน."
     },
     {
-      "ticker": "RCL",
-      "field": "summary",
+      "ticker": "BA",
+      "field": "industryComparison",
       "englishWords": [
-        "RCL",
-        "PBV",
-        "ing",
-        "Cycle",
-        "Capital",
-        "Discipline",
-        "Cycle"
+        "Yield",
+        "Airport",
+        "Traffic"
       ],
-      "sample": "RCL ถูกบน P/E/PBV แต่ต้องคิดแบบ Shipping Cycle + NAV ของกองเรือ ไม่ใช่ถือว่า EPS ปัจจุบันยั่งยืน จุดสำคัญคือ Capital Discipline ตอน Cycle ลง."
-    },
-    {
-      "ticker": "STA",
-      "field": "summary",
-      "englishWords": [
-        "STA",
-        "Rubber",
-        "STGT",
-        "Cycle"
-      ],
-      "sample": "STA ฟื้นจาก อัตรากำไร มากกว่ายอดขาย: 1H26 รายได้ลดแต่ EBITDA/กำไรฟื้นแรง จุดชี้ขาดคือ Rubber อัตรากำไร และ STGT ต้องยืนได้หลัง Cycle กลับปกติ."
-    },
-    {
-      "ticker": "AMATA",
-      "field": "summary",
-      "englishWords": [
-        "AMATA",
-        "Business",
-        "Land",
-        "Infrastructure",
-        "Moat",
-        "Re-rate",
-        "Recurring",
-        "Utilities"
-      ],
-      "sample": "AMATA Business คุณภาพ สูงจาก Land+Infrastructure Moat แต่หลังหุ้น Re-rate แรง ต้องดู งานในมือ/Recurring Utilities มากกว่า P/E ต่ำเพียงตัวเดียว."
-    },
-    {
-      "ticker": "SAWAD",
-      "field": "summary",
-      "englishWords": [
-        "SAWAD",
-        "Multiple",
-        "Thesis",
-        "Discount"
-      ],
-      "sample": "SAWAD ถูกมากเชิง Multiple แต่ Thesis ไม่ใช่แค่ P/E ต่ำ — ต้องเห็น NPL/ต้นทุนเครดิต ดีขึ้นจริงก่อน Discount จะปิด."
+      "sample": "สายการบินภูมิภาค/ผู้ให้บริการสนามบินด้วย Yield, อัตราบรรทุกผู้โดยสาร, RASK/CASK, Airport Traffic, อัตรากำไร EBITDA, FCF และ EV/EBITDA"
     },
     {
       "ticker": "STGT",
       "field": "framework::5. Competitors",
       "englishWords": [
         "Hartalega",
-        "Top",
         "Glove",
         "Kossan"
       ],
       "sample": "Hartalega, Top Glove, Kossan และผู้ผลิตถุงมือรายอื่นๆ ในเอเชีย เปรียบเทียบการใช้งาน, ASP, ไนไตรล์/ยางธรรมชาติผสม, อัตรากำไรขั้นต้น, ต้นทุนเงินสด, เงินสด/หนี้สินสุทธิ และวินัยด้านกำลังการผลิต"
     },
     {
-      "ticker": "SPALI",
-      "field": "summary",
+      "ticker": "MEGA",
+      "field": "framework::1. Management",
       "englishWords": [
-        "SPALI",
-        "Value",
-        "Catalyst",
-        "Multiple"
+        "Unistretch",
+        "Vivek",
+        "Dhawan"
       ],
-      "sample": "SPALI เป็น Value+เงินปันผล ชัดเจน P/BV ต่ำมาก แต่ Catalyst หลักต้องมาจาก ยอดขายรอโอน/โอนฟื้น ไม่ใช่หวัง Multiple ขยายเอง."
-    },
-    {
-      "ticker": "TOA",
-      "field": "summary",
-      "englishWords": [
-        "TOA",
-        "Value",
-        "Brand/Distribution",
-        "ASEAN"
-      ],
-      "sample": "TOA เป็นหนึ่งใน คุณภาพ Value ที่ชัด: Brand/Distribution แข็ง + เงินสดสุทธิ + 1H26 กำไรโต 20% แต่ P/E ราว 9x จุดที่ต้องพิสูจน์คือ ASEAN การเติบโต."
-    },
-    {
-      "ticker": "BTS",
-      "field": "summary",
-      "englishWords": [
-        "BTS",
-        "Network",
-        "Moat",
-        "Balance-sheet/",
-        "Story",
-        "Earnings",
-        "Story",
-        "Deleveraging"
-      ],
-      "sample": "BTS มี Asset/Network Moat จริง แต่หุ้นยังเป็น Balance-sheet/SOTP Story มากกว่า Earnings Story — ต้องเห็นเงินรับจากรัฐและ Deleveraging ชัดเจน."
+      "sample": "แพลตฟอร์มที่เชื่อมโยงกับผู้ก่อตั้งโดยมี Unistretch เป็นผู้ถือหุ้นที่มีอำนาจควบคุม และผู้ก่อตั้ง Vivek Dhawan ก็เป็นผู้ถือหุ้นรายใหญ่เช่นกัน ฝ่ายบริหารได้สร้างแฟรนไชส์ด้านการดูแลสุขภาพและการจัดจำหน่ายที่มีแบรนด์ในตลาดเกิดใหม่ ความเป็นเจ้าของ"
     },
     {
       "ticker": "MEGA",
       "field": "framework::2. Product / Moat",
       "englishWords": [
-        "Mega",
-        "OTC/",
-        "Maxx",
-        "Maxx"
+        "Care",
+        "Maxxcare",
+        "Maxxcare"
       ],
-      "sample": "แบรนด์ของตัวเอง Mega We Care ผลิตภัณฑ์เสริมอาหาร/OTC/ทั่วไป รวมถึงการจัดจำหน่ายผลิตภัณฑ์ดูแลสุขภาพ/สินค้าอุปโภคบริโภค Maxxcare Maxxcare คูเมืองมาจากความไว้วางใจในแบรนด์ การลงทะเบียนตามกฎระเบียบ เส้นทางสู่ตลาด และโครงสร้า"
-    },
-    {
-      "ticker": "BCH",
-      "field": "summary",
-      "englishWords": [
-        "BCH",
-        "Patient",
-        "Mix/",
-        "Valuation"
-      ],
-      "sample": "BCH งบดุล ดี แต่ 1H26 กำไรลด ขณะที่ P/E ราว 23x จึงต้องเห็น Patient Mix/อัตรากำไร กลับมาโตเพื่อให้ Valuation สมเหตุผล."
+      "sample": "แบรนด์ของตัวเอง Mega We Care ผลิตภัณฑ์เสริมอาหาร/OTC/ทั่วไป รวมถึงการจัดจำหน่ายผลิตภัณฑ์ดูแลสุขภาพ/สินค้าอุปโภคบริโภค Maxxcare Maxxcare คูเมืองมาจากความไว้วางใจในแบรนด์ การลงทะเบียนตามกฎระเบียบ เส้นทางสู่ตลาด และโครงสร้างพื้นฐานการจัดจำหน่า"
     },
     {
       "ticker": "BCH",
       "field": "industryComparison",
       "englishWords": [
         "Hospital",
-        "Revenue/Bed",
-        "International/Private",
-        "Mix"
+        "Bed",
+        "International/Private"
       ],
-      "sample": "เพื่อให้ Hospital กลุ่มบริษัทเทียบเคียง ด้วย Revenue/Bed, อัตราการใช้กำลังการผลิต, อัตรากำไร EBITDA, International/Private Mix, ROIC, หนี้สุทธิ และ P/E"
+      "sample": "เพื่อให้ Hospital กลุ่มบริษัทเทียบเคียง ด้วย รายได้/Bed, อัตราการใช้กำลังการผลิต, อัตรากำไร EBITDA, International/Private สัดส่วน, ROIC, หนี้สุทธิ และ P/E"
     },
     {
       "ticker": "BCH",
@@ -1090,189 +175,47 @@
         "Kasemrad",
         "Karunvej"
       ],
-      "sample": "โรงพยาบาล 15 แห่ง โพลีคลินิก 2 แห่ง และบริการด้านเนื้องอกวิทยา ภายใต้สังกัด World Medical, Kasemrad International, Kasemrad และ Karunvej คูเมือง: มีที่ — ใบอนุญาตของโรงพยาบาล เครือข่ายแพทย์ สถานที่ตั้ง ฐานผู้ป่วยประกันสั"
-    },
-    {
-      "ticker": "TASCO",
-      "field": "summary",
-      "englishWords": [
-        "TASCO",
-        "Distribution/Infrastructure",
-        "exposure",
-        "Valuation"
-      ],
-      "sample": "TASCO มี Distribution/Infrastructure exposure ที่ดี แต่ Valuation 23x P/E สูงเมื่อเทียบกับกำไร 1H26 โตเพียง ~4% จึงต้องเห็น อัตรากำไร/ปริมาณ เร่งขึ้น."
+      "sample": "โรงพยาบาล 15 แห่ง โพลีคลินิก 2 แห่ง และบริการด้านเนื้องอกวิทยา ภายใต้สังกัด World Medical, Kasemrad International, Kasemrad และ Karunvej คูเมือง: มีที่ — ใบอนุญาตของโรงพยาบาล เครือข่ายแพทย์ สถานที่ตั้ง ฐานผู้ป่วยประกันสังคม และแบรนด์ ความทน"
     },
     {
       "ticker": "TASCO",
       "field": "industryComparison",
       "englishWords": [
-        "halt/Construction",
+        "Asphalt/Construction",
         "Materials",
-        "halt",
-        "Spread",
-        "Distribution"
+        "Asphalt"
       ],
-      "sample": "เทียบกับ Asphalt/Construction Materials ด้วย ปริมาณ, Asphalt Spread, อัตรากำไร EBITDA, FCF, Distribution Assets, ภาระหนี้ และ EV/EBITDA"
-    },
-    {
-      "ticker": "STECON",
-      "field": "industryComparison",
-      "englishWords": [
-        "CK/ITD/UNIQ",
-        "EPC",
-        "New",
-        "Awards"
-      ],
-      "sample": "พบกับ CK/ITD/UNIQ และ EPC ระดับภูมิภาคด้วย งานในมือ, อัตรากำไรขั้นต้น, New Awards, เงินทุนหมุนเวียน, OCF/FCF, D/E และ P/E"
+      "sample": "เทียบกับ Asphalt/Construction Materials ด้วย ปริมาณ, Asphalt ส่วนต่างราคา, อัตรากำไร EBITDA, FCF, ช่องทางจัดจำหน่าย สินทรัพย์s, ภาระหนี้ และ EV/EBITDA"
     },
     {
       "ticker": "WHAUP",
       "field": "industryComparison",
       "englishWords": [
-        "TTW/EA/GPSC/BGRIM",
+        "TTW/EA/GPSC/",
         "Water",
-        "Power",
-        "Mix",
-        "ICR"
+        "Power"
       ],
-      "sample": "ไปยัง TTW/EA/GPSC/BGRIM และยูทิลิตี้เพียร์ด้วย Water ปริมาณ, Power MW, PPAZ Mix, ROIC, D/E, ICR, EV/EBITDA และ P/E"
+      "sample": "ไปยัง TTW/EA/GPSC/BGRIM และยูทิลิตี้เพียร์ด้วย Water ปริมาณ, Power MW, PPAZ สัดส่วน, ROIC, D/E, ICR, EV/EBITDA และ P/E"
     },
     {
       "ticker": "WHAUP",
       "field": "framework::4. Positive Catalysts",
       "englishWords": [
-        "WHA",
         "Private",
         "Direct",
-        "PDP",
         "Gheco-One"
       ],
       "sample": "ความต้องการน้ำในภาคอุตสาหกรรมที่เพิ่มขึ้น น้ำจากการฟื้นฟู นิคมอุตสาหกรรม WHA แห่งใหม่ ศูนย์ข้อมูล พลังงานแสงอาทิตย์ Private PPA, Direct PPA/PDP 2026, การฟื้นฟู Gheco-One ความน่าจะเป็นสูง / ผลกระทบสูงในช่วง 6-36 เดือน"
     },
     {
       "ticker": "WHAUP",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "TTW",
-        "GPSC/BGRIM/EA",
-        "WHAUP",
-        "Captive/Embeded",
-        "WHA"
-      ],
-      "sample": "สาธารณูปโภคด้านน้ำ: TTW และผู้ประกอบการนิคมอุตสาหกรรม พลังงาน: GPSC/BGRIM/EA และผู้พัฒนาพลังงานหมุนเวียนเอกชน ข้อได้เปรียบที่สำคัญของ WHAUP คืออุปสงค์แบบ Captive/Embeded ภายในนิคมของ WHA"
-    },
-    {
-      "ticker": "WHAUP",
       "field": "framework::7. Regulation",
       "englishWords": [
-        "PDP",
         "Direct",
         "Direct",
         "S-curve"
       ],
       "sample": "สัมปทานน้ำ มาตรฐานสิ่งแวดล้อม/น้ำเสีย ใบอนุญาตไฟฟ้า กฎ PDP และ Direct PPA มีความสำคัญอย่างยิ่ง กฎระเบียบเป็นทั้งอุปสรรคต่อการเข้ามาและตัวเร่งปฏิกิริยา ล่าช้า Direct PPA จะทำให้ S-curve ใหม่ช้าลง"
-    },
-    {
-      "ticker": "SIRI",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "SPALI",
-        "ORI",
-        "SZIRI",
-        "SPALI/AP"
-      ],
-      "sample": "SPALI, AP, QH, ORI, LH และนักพัฒนาอื่น ๆ SZIRI มีความแข็งแกร่งในด้านแบรนด์/การตลาดและโครงการคอนโดระดับพรีเมี่ยม โดยทั่วไปแล้ว SPALI/AP จะมีงบดุลที่ระมัดระวังมากกว่า"
-    },
-    {
-      "ticker": "AEONTS",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "KTC",
-        "TIDLOR",
-        "MTC",
-        "SAWAD"
-      ],
-      "sample": "คู่แข่ง ได้แก่ KTC, TIDLOR, MTC, SAWAD, ธนาคารและผู้ให้กู้ดิจิทัล อิออนส์มีประสบการณ์ด้านบัตรเครดิต/สินเชื่อส่วนบุคคลมายาวนาน แต่ต้องเผชิญกับการแข่งขันด้านราคาและการเลือกความเสี่ยงที่รุนแรง"
-    },
-    {
-      "ticker": "BAM",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "JMT",
-        "AMC",
-        "AMC",
-        "BAM"
-      ],
-      "sample": "เพื่อนร่วมงาน ได้แก่ JMT และ AMC อื่นๆ/AMC ของธนาคาร BAM มีขนาดและความลึกของสินทรัพย์ แต่ ROE ต่ำกว่าในอดีต และสร้างรายได้ช้ากว่าผู้ให้บริการเอกชนชั้นนำ"
-    },
-    {
-      "ticker": "EA",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "BCPG",
-        "GUNKUL",
-        "GPSC",
-        "BGRIM",
-        "EV/"
-      ],
-      "sample": "เพื่อนร่วมงาน ได้แก่ BCPG, GUNKUL, GPSC, BGRIM และ EV/ผู้ให้บริการแบตเตอรี่ EA มีแพลตฟอร์มบูรณาการที่กว้างขึ้น แต่มีความเสี่ยงด้านธรรมาภิบาล/การรีไฟแนนซ์ที่สูงขึ้นอย่างมาก"
-    },
-    {
-      "ticker": "VGI",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "PLANB",
-        "OOH/",
-        "PLANB",
-        "VGI"
-      ],
-      "sample": "เพื่อนร่วมงาน ได้แก่ PLANB และผู้ให้บริการสื่อ OOH/ดิจิทัลอื่นๆ PLANB มีเศรษฐศาสตร์สื่อล้วนๆ ที่แข็งแกร่งยิ่งขึ้น VGI มีตัวเลือกระบบนิเวศที่กว้างขึ้นแต่มีความซับซ้อนมากขึ้น"
-    },
-    {
-      "ticker": "BCPG",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "GPSC",
-        "BGRIM",
-        "GULF",
-        "CKP",
-        "BCPG"
-      ],
-      "sample": "เพื่อนร่วมงาน ได้แก่ GPSC, BGRIM, GULF, CKP และนักพัฒนาที่ใช้พลังงานหมุนเวียน BCPG มีขนาดเล็กกว่าและมีเลเวอเรจมากกว่า แต่ซื้อขายที่ทวีคูณที่ต่ำกว่า"
-    },
-    {
-      "ticker": "ICHI",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "OSP",
-        "CBG",
-        "TCP",
-        "ICHI"
-      ],
-      "sample": "คู่แข่ง ได้แก่ OSP, CBG, แบรนด์ที่เกี่ยวข้องกับ TCP และสาขาเครื่องดื่ม ICHI มีจุดเด่นในด้านชาพร้อมดื่มแต่มีความเข้มข้นมากกว่า"
-    },
-    {
-      "ticker": "DOHOME",
-      "field": "framework::5. Competitors",
-      "englishWords": [
-        "GLOBAL",
-        "HMPRO",
-        "DOHOME",
-        "HMPRO"
-      ],
-      "sample": "เพื่อนร่วมงาน ได้แก่ GLOBAL, HMPRO และผู้ค้าปลีกอุปกรณ์ปรับปรุงบ้านอื่นๆ DOHOME มีการเปิดเผยวัสดุก่อสร้าง/การขายส่งมากกว่าและมีวัฏจักรมากกว่า HMPRO"
-    },
-    {
-      "ticker": "GST",
-      "field": "framework::8. Narrative & Sentiment",
-      "englishWords": [
-        "THCOM",
-        "Gulf",
-        "Space",
-        "Technology"
-      ],
-      "sample": "เรื่องเล่าคือ 'THCOM แปลงร่างเป็น Gulf Space Technology' ความเชื่อมั่นกำลังดีขึ้นจากทางเลือกเชิงกลยุทธ์ แต่คุณภาพรายได้หลักยังคงอยู่ภายใต้การพิจารณาอย่างละเอียด"
     }
   ]
 }
