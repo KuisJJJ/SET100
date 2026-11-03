@@ -1,0 +1,44 @@
+name: Update SET100 Dashboard Data
+on:
+  workflow_dispatch:
+    inputs:
+      ticker:
+        description: "Ticker เดียว (เว้นว่าง = Update All)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "15 2 * * 1-5"
+    - cron: "15 5 * * 1-5"
+    - cron: "45 9 * * 1-5"
+    - cron: "15 11 * * 1-5"
+  push:
+    paths:
+      - "SET100_Investment_Research_Master.xlsx"
+permissions:
+  contents: write
+concurrency:
+  group: set100-dashboard-update
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update market data and validate universe
+        env:
+          SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
+        run: python scripts/update_data.py --ticker "${{ github.event.inputs.ticker || '' }}"
+      - name: Commit generated data
+        run: |
+          git config user.name "set100-update-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json update_status.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh SET100 dashboard data"
+            git push
+          fi
