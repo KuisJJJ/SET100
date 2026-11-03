@@ -1,0 +1,281 @@
+{
+  "targetLanguage": "th",
+  "targetBlocksDetected": 2138,
+  "newTranslationsAttempted": 2053,
+  "cacheSize": 2053,
+  "applied": 2138,
+  "requestFailures": 0,
+  "remainingEnglishHeavyBlocks": 54,
+  "remaining": [
+    {
+      "ticker": "PTT",
+      "field": "industryComparison",
+      "sample": "ผู้ผลิต Integrated Energy / Oil & Gas peers โดยเน้น EV/EBITDA, P/BV, Dividend, Commodity Sensitivity และ Balance Sheet"
+    },
+    {
+      "ticker": "GULF",
+      "field": "industryComparison",
+      "sample": "เบียร์ Energy & Utilities / Infrastructure peers โดยเน้น Core Profit, ROIC, Net Debt, PPA quality, Funding Cost และ SOTP"
+    },
+    {
+      "ticker": "PTTEP",
+      "field": "industryComparison",
+      "sample": "พบกับ E&P ด้วย Production Growth, Reserve Life, Unit Cost, FCF, Net Debt, EV/EBITDA และ Dividend"
+    },
+    {
+      "ticker": "TRUE",
+      "field": "industryComparison",
+      "sample": "เพื่อเชื่อมโยงโทรคมนาคมด้วย ARPU, Churn, Service Revenue Growth, EBITDA Margin, Capex/Sales, FCF, Spectrum Cost และ Leverage"
+    },
+    {
+      "ticker": "CPALL",
+      "field": "industryComparison",
+      "sample": "พบกับ Convenience/Food Retail peers ด้วย SSSG, Sales/Store, Gross Margin, Inventory Turns, FCF, Leverage และ EV/EBITDA"
+    },
+    {
+      "ticker": "BDMS",
+      "field": "industryComparison",
+      "sample": "เทียบกับโรงพยาบาลด้วย Revenue Growth, EBITDA Margin, International Mix, ROIC, Capex, Occupancy/Utilization และ EV/EBITDA"
+    },
+    {
+      "ticker": "CPN",
+      "field": "industryComparison",
+      "sample": "ไปยัง Mall/Property peers ด้วย Occupancy, Rental Growth, Tenant Sales, EBITDA Margin, FFO, Debt/EBITDA, NAV และ ROIC"
+    },
+    {
+      "ticker": "CPF",
+      "field": "industryComparison",
+      "sample": "โปรตีน/อาหารจากทั่วโลกด้วย Gross Margin, Feed Conversion, Livestock Spread, ROIC, Net Debt/EBITDA, FCF และ Value-added Mix"
+    },
+    {
+      "ticker": "TOP",
+      "field": "industryComparison",
+      "sample": "พบกับ Asian Refiners ด้วย GRM, Utilization, Cash Cost, Complexity, Net Debt/EBITDA, Capex และ EV/EBITDA"
+    },
+    {
+      "ticker": "IVL",
+      "field": "industryComparison",
+      "sample": "พบกับ Global Chemicals/PET peers ด้วย Utilization, EBITDA/ton, Specialty Mix, FCF, Net Debt/EBITDA, ROIC และ EV/EBITDA"
+    },
+    {
+      "ticker": "THAI",
+      "field": "industryComparison",
+      "sample": "สายการบิน Asian Full-Service ด้วย Yield, Load Factor, RASK/CASK, EBITDAR Margin, Fleet Age, Net Debt/EBITDA และ ROIC"
+    },
+    {
+      "ticker": "BH",
+      "field": "industryComparison",
+      "sample": "พบกับ Premium Hospital peers ด้วย Revenue/Patient, International Mix, EBITDA/Net Margin, ROE/ROIC, Net Cash และ P/E/EV-EBITDA"
+    },
+    {
+      "ticker": "GPSC",
+      "field": "industryComparison",
+      "sample": "ไปยัง IPP/SPP peers ด้วย Contracted Capacity, Margin/MW, Fuel Pass-through, ROIC, Net Debt/EBITDA, Capex และ EV/EBITDA"
+    },
+    {
+      "ticker": "SCGP",
+      "field": "industryComparison",
+      "sample": "การจับคู่ Regional Packaging ด้วย Volume, EBITDA Margin, ROIC, FCF, Recycling Mix, Net Debt/EBITDA และ EV/EBITDA"
+    },
+    {
+      "ticker": "MINT",
+      "field": "industryComparison",
+      "sample": "พบกับ Global Hotel peers ด้วย RevPAR, ADR, Occupancy, EBITDA Margin, Asset-light Mix, FCF และ Net Debt/EBITDA"
+    },
+    {
+      "ticker": "CCET",
+      "field": "industryComparison",
+      "sample": "พบกับ EMS ด้วย Revenue Growth, EBITDA Margin, ROIC, Customer Concentration, Capex, FCF และ EV/EBITDA"
+    },
+    {
+      "ticker": "KKP",
+      "field": "industryComparison",
+      "sample": "ให้กับ Banking peers ด้วย ROE, NIM, NPL, Coverage, Credit Cost, CET1/CAR, Fee Income, P/BV และ Dividend; หนี้/EBITDA = ไม่มี"
+    },
+    {
+      "ticker": "TISCO",
+      "field": "industryComparison",
+      "sample": "พบกับ Banking/Auto Finance peers ด้วย ROE, NIM, NPL, Coverage, CAR, Fee Mix, P/BV และ Dividend Yield"
+    },
+    {
+      "ticker": "BEM",
+      "field": "industryComparison",
+      "sample": "ไปยัง Toll Road/Rail peers ด้วย Traffic/Ridership, EBITDA Margin, Concession Life, Debt Service, ROIC, Capex และ EV/EBITDA"
+    },
+    {
+      "ticker": "KCE",
+      "field": "industryComparison",
+      "sample": "PCB/Electronic Components เทียบเคียงได้ด้วย Revenue Growth, Gross Margin, Utilization, ROIC, Net Cash และ EV/EBITDA"
+    },
+    {
+      "ticker": "KTC",
+      "field": "industryComparison",
+      "sample": "พบกับ Consumer Finance/Credit Card peers ด้วย ROE, NPL, Coverage, Credit Cost, Cost/Income, Receivable Growth และ P/BV"
+    },
+    {
+      "ticker": "HMPRO",
+      "field": "industryComparison",
+      "sample": "พบกับ Home Improvement Retail peers ด้วย SSSG, Gross Margin, Inventory Turns, Sales/Sqm, ROIC, FCF และ EV/EBITDA"
+    },
+    {
+      "ticker": "RATCH",
+      "field": "industryComparison",
+      "sample": "พบกับ IPP/Utility peers ด้วย Contracted MW, Availability, ROIC, Net Debt/Credit Rating, Dividend Yield และ P/BV"
+    },
+    {
+      "ticker": "TCAP",
+      "field": "industryComparison",
+      "sample": "พบกับ Financial Holding/Bank peers ด้วย ROE, P/BV, Capital Ratio, Dividend Yield, Buyback และ SOTP Discount"
+    },
+    {
+      "ticker": "COM7",
+      "field": "industryComparison",
+      "sample": "พบกับ IT/Electronics Retail peers ด้วย SSSG, Inventory Turns, Gross Margin, ROE, Cash Conversion, Financing Penetration และ P/E"
+    },
+    {
+      "ticker": "BJC",
+      "field": "industryComparison",
+      "sample": "พบกับ Modern Retail/Consumer peers ด้วย SSSG, Gross/EBITDA Margin, Inventory Turns, FCF, Net Debt/EBITDA และ EV/EBITDA"
+    },
+    {
+      "ticker": "WHA",
+      "field": "industryComparison",
+      "sample": "ให้กับนิคมอุตสาหกรรมด้วย Land Sales/Transfers, Backlog, Utility Volume, Recurring EBITDA, ROIC, Net Debt และ NAV/P-E."
+    },
+    {
+      "ticker": "SPRC",
+      "field": "industryComparison",
+      "sample": "การกลั่นเพียร์ด้วย GRM, Utilization, Complexity, Cash Cost, FCF, Net Cash/Debt และ EV/EBITDA"
+    },
+    {
+      "ticker": "EGCO",
+      "field": "industryComparison",
+      "sample": "พบกับ IPP/Power Holding peers ด้วย Operating Profit, Equity MW, ROIC, Net Debt/Credit Rating, Dividend และ P/BV"
+    },
+    {
+      "ticker": "BANPU",
+      "field": "industryComparison",
+      "sample": "พบกับ Diversified Energy ด้วย Realized Coal/Gas Price, Power EBITDA, FCF, Net Debt/EBITDA, Reserve Economics และ EV/EBITDA"
+    },
+    {
+      "ticker": "MTC",
+      "field": "industryComparison",
+      "sample": "พบกับ Title Loan/Consumer Finance peers ด้วย Loan Growth, Yield, NPL, Credit Cost, ROE, Funding Cost และ P/BV; หนี้/EBITDA = ไม่มี"
+    },
+    {
+      "ticker": "CENTEL",
+      "field": "industryComparison",
+      "sample": "ร่วมกับโรงแรม/อาหารด้วย RevPAR, ADR, Occupancy, Restaurant SSSG, EBITDA Margin, ROIC, Debt/EBITDA และ EV/EBITDA"
+    },
+    {
+      "ticker": "TU",
+      "field": "industryComparison",
+      "sample": "พบกับ Global Seafood/Food peers ด้วย Branded/PetCare Mix, Gross/EBITDA Margin, FCF, Net Debt/EBITDA และ P/E"
+    },
+    {
+      "ticker": "BGRIM",
+      "field": "industryComparison",
+      "sample": "SPP/IPP peers ด้วย Contracted MW, SPP Margin, Fuel Pass-through, ROIC, Net Debt/EBITDA, Capex และ EV/EBITDA"
+    },
+    {
+      "ticker": "TIDLOR",
+      "field": "industryComparison",
+      "sample": "พบกับ Title Loan/Consumer Finance peers ด้วย Loan Growth, NPL, Credit Cost, Coverage, ROE, Insurance Mix, Funding Cost และ P/BV"
+    },
+    {
+      "ticker": "HANA",
+      "field": "industryComparison",
+      "sample": "ไปสู่ EMS/Semiconductor Assembly ด้วย Revenue Growth, Gross Margin, Utilization, ROIC, Net Cash และ EV/EBITDA"
+    },
+    {
+      "ticker": "GUNKUL",
+      "field": "industryComparison",
+      "sample": "เพื่อ Renewable Developers ด้วย Operating MW, EBITDA/MW, EPC Backlog, ROIC, Net Debt/EBITDA และ EV/EBITDA"
+    },
+    {
+      "ticker": "BTG",
+      "field": "industryComparison",
+      "sample": "วิธีการบูรณาการ Agrifood peers ด้วย Livestock Spread, Feed Cost, Branded Mix, EBITDA Margin, ROIC, FCF และ EV/EBITDA"
+    },
+    {
+      "ticker": "PLANB",
+      "field": "industryComparison",
+      "sample": "พบกับ OOH/Media peers ด้วย Utilization, Revenue per Site, EBITDA Margin, Concession Life, FCF และ P/E"
+    },
+    {
+      "ticker": "RCL",
+      "field": "industryComparison",
+      "sample": "โดยสามารถเทียบเคียงกับ Container Shipping ด้วย Freight/TEU, Volume, Fleet Utilization, Bunker Cost, EBITDA Margin, Net Cash/Debt, Fleet NAV และ P/BV"
+    },
+    {
+      "ticker": "GLOBAL",
+      "field": "industryComparison",
+      "sample": "พบกับ Home Improvement Retail peers ด้วย SSSG, Gross Margin, Inventory Days, Sales/Sqm, ROIC, FCF และ P/E"
+    },
+    {
+      "ticker": "STA",
+      "field": "industryComparison",
+      "sample": "เทียบกับ Natural Rubber/Glove ด้วย Volume, ASP, Gross/EBITDA Margin, Utilization, Working Capital, ROIC, Net Debt/EBITDA และ P/BV"
+    },
+    {
+      "ticker": "AMATA",
+      "field": "industryComparison",
+      "sample": "ร่วมกับนิคมอุตสาหกรรมด้วย Land Sales/Transfers, Backlog, Utility Volume, Recurring EBITDA, ROIC, NAV และ P/E"
+    },
+    {
+      "ticker": "SAWAD",
+      "field": "industryComparison",
+      "sample": "พบกับ Title Loan/Consumer Finance peers ด้วย Loan Growth, NPL, Credit Cost, Coverage, ROE, Funding Cost และ P/BV"
+    },
+    {
+      "ticker": "STGT",
+      "field": "industryComparison",
+      "sample": "พบกับ Global Glove peers ด้วย ASP, Utilization, Volume, Gross Margin, Cash Cost, Net Debt, Capacity Discipline และ P/BV/EV-EBITDA"
+    },
+    {
+      "ticker": "SPALI",
+      "field": "industryComparison",
+      "sample": "ไปจนถึง Residential Developers ด้วย Presales, Backlog, Gross Margin, Inventory, Net Gearing, ROE, Dividend Yield และ P/BV"
+    },
+    {
+      "ticker": "TOA",
+      "field": "industryComparison",
+      "sample": "ร่วมกับ Paint/Coatings ด้วย Brand Share, Dealer Reach, Gross/EBITDA Margin, ROIC, FCF, Net Cash และ P/E"
+    },
+    {
+      "ticker": "BTS",
+      "field": "industryComparison",
+      "sample": "Transit/Infrastructure Holdings ด้วย Ridership, Recurring EBITDA, Concession Life, Net Debt, Receivables, FCF และ SOTP Discount"
+    },
+    {
+      "ticker": "CK",
+      "field": "industryComparison",
+      "sample": "ให้กับ Construction/Infrastructure peers ด้วย Backlog, Gross Margin, Working Capital, ROIC, Net Debt และ SOTP ของ Infrastructure Stakes"
+    },
+    {
+      "ticker": "MEGA",
+      "field": "industryComparison",
+      "sample": "ไปสู่ Branded Consumer Health / Pharma Distribution peers ด้วย Organic Growth, Gross/EBIT Margin, ROE/ROIC, การแปลงเงินสด, เงินสดสุทธิ และ P/E/EV-EBITDA"
+    },
+    {
+      "ticker": "BCH",
+      "field": "industryComparison",
+      "sample": "เพื่อให้ Hospital peers ด้วย Revenue/Bed, Utilization, EBITDA Margin, International/Private Mix, ROIC, Net Debt และ P/E"
+    },
+    {
+      "ticker": "TASCO",
+      "field": "industryComparison",
+      "sample": "เทียบกับ Asphalt/Construction Materials ด้วย Volume, Asphalt Spread, EBITDA Margin, FCF, Distribution Assets, Leverage และ EV/EBITDA"
+    },
+    {
+      "ticker": "STECON",
+      "field": "industryComparison",
+      "sample": "พบกับ CK/ITD/UNIQ และ EPC ระดับภูมิภาคด้วย Backlog, Gross Margin, New Awards, Working Capital, OCF/FCF, D/E และ P/E"
+    },
+    {
+      "ticker": "SIRI",
+      "field": "industryComparison",
+      "sample": "ไปยัง SPALI/AP/QH/ORI ด้วย Presales, Backlog, Gross Margin, Net Gearing, Inventory Turn, ROE, P/E, P/BV และ Dividend Yield"
+    }
+  ]
+}
