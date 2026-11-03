@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: set100-dashboard-build-v2
+  group: set100-dashboard-build-v3
   cancel-in-progress: true
 
 jobs:
@@ -37,6 +37,9 @@ jobs:
       - name: Normalize all displayed research text to Thai
         run: python scripts/translate_research_th.py
 
+      - name: Final Thai-language cleanup and QA
+        run: python scripts/thai_research_cleanup.py
+
       - name: Refresh all stock market data and validate SET100
         env:
           SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
@@ -50,12 +53,12 @@ jobs:
 
       - name: Commit synchronized files
         run: |
-          if git diff --quiet -- data.json update_status.json team_comments.json research_th_cache.json research_translation_status.json SET100_Investment_Research_Master.xlsx index.html; then
+          if git diff --quiet -- data.json update_status.json team_comments.json research_th_cache.json research_translation_status.json research_thai_qa.json SET100_Investment_Research_Master.xlsx index.html; then
             echo "No synchronized changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json update_status.json team_comments.json research_th_cache.json research_translation_status.json SET100_Investment_Research_Master.xlsx index.html
+          git add data.json update_status.json team_comments.json research_th_cache.json research_translation_status.json research_thai_qa.json SET100_Investment_Research_Master.xlsx index.html
           git commit -m "Sync Thai research, market data, SET Index and dashboard UI"
           git push
