@@ -3,12 +3,12 @@
     "version": "v7",
     "universe": "SET100 H2/2026",
     "researchOrder": "Market Cap 100%",
-    "companiesResearched": 90,
+    "companiesResearched": 95,
     "totalUniverse": 100,
     "marketDataUpdated": "2026-10-09",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-03T07:59:45.786852+00:00",
+    "generatedAt": "2026-11-03T08:14:18.169653+00:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx"
   },
   "marketIndex": {
@@ -6427,6 +6427,348 @@
       "pe": 13.5,
       "pbv": 3.1,
       "evEbitda": null
+    },
+    {
+      "rank": 91,
+      "ticker": "PR9",
+      "company": "Praram 9 Hospital PCL.",
+      "sector": "Health Care Services",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 184.293,
+      "periodNpat": 368.806,
+      "npatGrowth": -3.6,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Hospital: use D/E, cash, EBITDA and capacity utilization",
+      "debtEbitdaNote": "Balance sheet is strong with net-cash characteristics; leverage is not the central risk. Monitor capex and utilization of complex-care capacity.",
+      "score": 7.875,
+      "flags": [
+        "Hospital",
+        "Tertiary Care",
+        "International Patients",
+        "Strong Balance Sheet"
+      ],
+      "summary": "PR9 remains a high-quality specialist hospital with strong balance sheet. 1H26 NPAT was THB368.8m, down 3.6% YoY, so near-term growth paused despite durable structural demand. Valuation near ~18x P/E is broadly fair rather than cheap.",
+      "framework": {
+        "1. Management": "Professional management and a specialist-physician platform support disciplined hospital operations. Capital allocation is conservative; management quality should be judged on specialist recruitment, capacity expansion and return on medical equipment/capex.",
+        "2. Product / Moat": "PR9 operates a general/tertiary private hospital with strengths in complex care such as heart, kidney, neurology and other specialist services. Moat comes from doctor network, clinical reputation, referrals and patient trust.",
+        "3. TAM / Growth Runway": "Thailand private healthcare benefits from aging, chronic disease, insurance and medical tourism. PR9's SAM is narrower than national hospital groups, but specialist intensity and international patients create runway.",
+        "4. Positive Catalysts": "Catalysts: international patient growth, specialist-center utilization, higher-acuity mix, new capacity and medical-tourism recovery. Probability medium-high / impact medium-high over 12-36 months.",
+        "5. Competitors": "Peers include BDMS, BH, BCH and CHG. PR9 has strong quality/financial strength but lower network scale; its edge is focused specialist depth at one flagship hospital.",
+        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB368.8m versus THB382.4m (-3.6% YoY); Q2 NPAT THB184.3m vs THB182.0m. Near-term earnings are stable rather than accelerating.",
+        "7. Regulation": "Hospital licensing, medical-professional regulation, insurance/third-party payer rules and patient-data privacy matter. Licensing/clinical standards are barriers; reimbursement controls can constrain pricing.",
+        "8. Narrative & Sentiment": "Narrative is 'quality specialist hospital at a reasonable premium'. Sentiment is neutral-to-positive; investors want renewed patient-volume and margin growth.",
+        "9. Valuation Effect": "At the 9-Oct snapshot around THB18.90, valuation is roughly high-teens P/E and ~2.5x P/BV. Fair Value: quality is strong, but a meaningful rerating needs faster earnings growth.",
+        "10. Earnings & Macro": "Base: modest patient/mix growth. Bull: international and complex-care ramp drives operating leverage. Bear: flat volumes and rising medical staff costs. 3-5y return comes from earnings growth + modest dividend.",
+        "11. Risk Radar": "Top risks: single-campus concentration, physician retention, international-patient volatility, capex utilization and wage/medical-cost inflation."
+      },
+      "thesis": "Complex-care mix, specialist reputation, international patient growth and capacity utilization can support high-quality earnings without balance-sheet stress.",
+      "bear": "Single-campus concentration, physician dependence, weaker international mix or delayed capacity ramp can leave earnings flat while the stock still trades at a quality multiple.",
+      "teamComment": "",
+      "marketBelieves": "The market sees PR9 as a high-quality mid-sized private hospital with good margins and balance sheet but slower growth than premium hospital leaders.",
+      "marketMissing": "The market may underprice utilization upside from complex-care centers and international patients if capacity ramps, while underestimating single-site concentration.",
+      "variables": "OPD/IPD volumes, international revenue, complex-care mix, revenue per patient, EBITDA margin, doctor recruitment, capex and occupancy.",
+      "fit": "Quality healthcare investor seeking specialist-hospital exposure with modest leverage and medium-term capacity growth.",
+      "moatStatus": "มี",
+      "moatReason": "Single-campus density, strong specialist physician network, tertiary/complex-care reputation and international-patient capabilities create meaningful local brand and referral advantages.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105865100&symbol=PR9"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PR9/factsheet"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.praram9.com/"
+        }
+      ],
+      "price": 18.9,
+      "marketCap": 14861.07,
+      "pe": 18.4,
+      "pbv": 2.47,
+      "evEbitda": null
+    },
+    {
+      "rank": 92,
+      "ticker": "JMT",
+      "company": "JMT Network Services PCL.",
+      "sector": "Finance & Securities",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 233.958,
+      "periodNpat": 486.159,
+      "npatGrowth": -15.7,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "AMC/collection: Debt/EBITDA N/A; use cash collections, IRR, funding cost, D/E and recovery yield",
+      "debtEbitdaNote": "Asset-management economics are driven by cash collection versus portfolio cost and funding cost. Balance-sheet capacity and collection efficiency are more relevant than conventional EBITDA leverage.",
+      "score": 7.3125,
+      "flags": [
+        "AMC",
+        "NPL",
+        "Collections",
+        "Low P/BV",
+        "Credit Cycle"
+      ],
+      "summary": "JMT is a scaled distressed-debt operator trading around ~0.55x P/BV after earnings softened. 1H26 NPAT fell ~15.7% YoY to THB486m. Cheap valuation can rerate if cash collections normalize, but recovery quality matters more than headline NPL supply.",
+      "framework": {
+        "1. Management": "Founder/group-linked management within the Jaymart ecosystem has deep debt-collection experience. Capital allocation quality is critical because value creation depends on buying portfolios at attractive IRRs, not merely growing receivables.",
+        "2. Product / Moat": "Businesses include debt collection, purchased NPL management, legal recovery and insurance-related activities. Moat comes from scale, collection/legal infrastructure, data and long recovery experience.",
+        "3. TAM / Growth Runway": "Thailand's household/SME NPL pool creates counter-cyclical TAM. Growth runway exists when banks sell more distressed assets, but shareholder value depends on purchase price and collection execution.",
+        "4. Positive Catalysts": "Catalysts: stronger cash collections, cheaper portfolio acquisitions, lower funding cost, rising NPL supply and ROE normalization. Probability medium / impact high.",
+        "5. Competitors": "Peers include BAM and other AMCs. JMT historically delivered stronger private-sector collection efficiency, but current earnings softness has narrowed the perceived premium.",
+        "6. Revenue Growth & Margin": "1H26 NPAT THB486.2m versus THB576.5m (-15.7%); Q2 THB234.0m versus THB246.5m. The key question is collection/recovery economics rather than revenue growth.",
+        "7. Regulation": "AMC/collection rules, BOT-related debt treatment, consumer protection, debt collection law and legal enforcement affect recovery timing. Regulation creates barriers but can lengthen cash conversion.",
+        "8. Narrative & Sentiment": "Narrative is 'deep-value AMC awaiting collection recovery'. Sentiment is cautious; improvement requires cash collections and ROE rather than simply more NPL purchases.",
+        "9. Valuation Effect": "At ~THB10.10, valuation is roughly mid-teens P/E and ~0.55x P/BV. Cheap if recovery economics normalize; multiple expansion is possible but must be supported by cash collections.",
+        "10. Earnings & Macro": "Base: gradual collection recovery. Bull: higher NPL supply bought cheaply + lower funding costs. Bear: weak recovery and impairment keep ROE low. 3-5y value is driven by portfolio IRR spread over funding/collection cost.",
+        "11. Risk Radar": "Top risks: collection shortfall, portfolio mispricing, funding cost/refinancing, accounting estimates/impairment, macro/borrower stress."
+      },
+      "thesis": "Structural NPL supply, collection scale and low valuation offer recovery upside if portfolio IRRs and collections improve.",
+      "bear": "Weaker collections, expensive historical portfolio purchases, funding cost and accounting complexity can keep ROE depressed and turn low P/BV into a value trap.",
+      "teamComment": "",
+      "marketBelieves": "The market believes JMT is past its high-growth phase and needs to prove collection efficiency and normalized ROE.",
+      "marketMissing": "The market may underprice upside from larger distressed-debt supply if JMT can buy at attractive IRRs, while underestimating time-to-cash on existing portfolios.",
+      "variables": "Cash collections, debt purchases, recovery yield/IRR, collection cost, funding cost, D/E, ECL/impairment, ROE.",
+      "fit": "Contrarian/value investor comfortable with lumpy collections, purchased-debt accounting and credit-cycle risk.",
+      "moatStatus": "มี",
+      "moatReason": "Large collection platform, legal/recovery infrastructure, data/analytics, purchased-debt experience and access to capital create meaningful scale barriers.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105925601&symbol=JMT"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/JMT/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/JMT/factsheet"
+        }
+      ],
+      "price": 10.1,
+      "marketCap": 14743.37,
+      "pe": 15.7,
+      "pbv": 0.55,
+      "evEbitda": null
+    },
+    {
+      "rank": 93,
+      "ticker": "QH",
+      "company": "Quality Houses PCL.",
+      "sector": "Property Development",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 458.031,
+      "periodNpat": 921.345,
+      "npatGrowth": 25.1,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Property developer: use D/E, IBD/E, cash flow and investment income",
+      "debtEbitdaNote": "QH has relatively conservative balance-sheet characteristics for the sector; earnings also depend materially on associates/investments, not only residential development.",
+      "score": 7.1875,
+      "flags": [
+        "Property",
+        "Deep Value",
+        "Dividend",
+        "Investment Assets"
+      ],
+      "summary": "QH is a mature property/value play: 1H26 NPAT rose ~25% YoY to THB921m, while valuation around 0.47x P/BV and ~7x P/E is very low. The discount reflects weak structural growth and asset-heavy returns.",
+      "framework": {
+        "1. Management": "Long-established property management with experienced developer and investment-asset oversight. Capital allocation is the key debate because the group owns valuable investments while core residential growth is mature.",
+        "2. Product / Moat": "Develops houses/condominiums and owns/participates in rental, hotel and other property-related investments. Moat is moderate through land sourcing, brand and accumulated asset base.",
+        "3. TAM / Growth Runway": "Thai residential TAM is mature and constrained by affordability. QH's growth runway is limited; value creation is more likely from capital efficiency, asset monetization and dividends.",
+        "4. Positive Catalysts": "Catalysts: associate-income improvement, asset monetization, dividend, easing mortgage conditions and inventory reduction. Probability medium / impact medium.",
+        "5. Competitors": "Peers include AP, SIRI, SPALI and LH. QH trades cheaper but generally has weaker core growth/ROE; asset value is a larger part of the thesis.",
+        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB921.3m vs THB736.4m (+25.1%); Q2 THB458.0m vs THB334.3m. Earnings improvement is positive, but investors should separate recurring core development from associate/investment income.",
+        "7. Regulation": "Property permits/EIA, zoning, LTV/mortgage policy and property taxes affect sales and inventory. Credit tightening is the main sector constraint.",
+        "8. Narrative & Sentiment": "Narrative is 'deep value + dividend + asset value'. Sentiment is neutral because low valuation is offset by low growth/ROE.",
+        "9. Valuation Effect": "At THB1.34, valuation is ~7.4x P/E and ~0.47x P/BV, with a high dividend yield. Cheap, but multiple expansion requires better ROE/capital allocation.",
+        "10. Earnings & Macro": "Base: stable earnings/dividend. Bull: asset monetization + housing recovery. Bear: weak residential demand and low ROE persist. 3-5y return is mostly dividend + modest mean reversion.",
+        "11. Risk Radar": "Top risks: property demand/mortgage rejection, low ROE, asset-value discount persistence, inventory, associate-income volatility."
+      },
+      "thesis": "Low valuation, high dividend potential and hidden value in investment/associate assets offer downside support and rerating optionality.",
+      "bear": "Core housing growth is weak; persistent low ROE and asset-heavy capital allocation can justify a permanent discount to book.",
+      "teamComment": "",
+      "marketBelieves": "The market believes QH is cheap for a reason: mature residential operations, low growth and reliance on associate/investment income.",
+      "marketMissing": "The market may underprice sum-of-parts value and dividend support if asset monetization/capital returns improve.",
+      "variables": "Presales, transfers, associate income, rental/hotel income, ROE, land inventory, D/E, dividend payout, asset monetization.",
+      "fit": "Deep-value/dividend investor comfortable with slow growth and property-cycle exposure.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Long operating history, land bank, residential brands and valuable stakes in related property/hospitality assets support asset value, but development moat is moderate and growth is mature.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105815801&symbol=QH"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/QH/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/QH/factsheet"
+        }
+      ],
+      "price": 1.34,
+      "marketCap": 14357.27,
+      "pe": 7.4,
+      "pbv": 0.47,
+      "evEbitda": null
+    },
+    {
+      "rank": 94,
+      "ticker": "JMART",
+      "company": "Jaymart Group Holdings PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 212.961,
+      "periodNpat": 375.676,
+      "npatGrowth": 49.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Holding company: use look-through NAV, subsidiary leverage, parent liquidity and recurring cash upstream",
+      "debtEbitdaNote": "Consolidated debt and subsidiary funding can obscure parent economics. Evaluate NAV, upstream dividends, debt maturity and earnings quality across JMT/J-Mobile/Singer/ecosystem holdings.",
+      "score": 6.8125,
+      "flags": [
+        "Holding Company",
+        "JMT Ecosystem",
+        "Turnaround",
+        "High Complexity"
+      ],
+      "summary": "JMART's 1H26 attributable NPAT rose ~49.5% to THB376m, indicating recovery, but the stock remains a complex holding-company thesis. Low P/BV is attractive only if subsidiary earnings, NAV and parent cash upstream normalize.",
+      "framework": {
+        "1. Management": "Founder-led Jaymart ecosystem with long telecom-retail roots and multiple listed affiliates. Management's key challenge is capital allocation and simplification after a period of aggressive ecosystem expansion.",
+        "2. Product / Moat": "JMART is a holding company spanning mobile retail, debt management/insurance, finance and commerce. Moat is portfolio/ecosystem access rather than a single operating franchise; complexity reduces transparency.",
+        "3. TAM / Growth Runway": "TAM spans consumer technology, finance and distressed debt. Growth runway exists through subsidiaries, but parent-level value depends on NAV compounding and cash upstream.",
+        "4. Positive Catalysts": "Catalysts: JMT recovery, stronger subsidiary profits, asset sales/restructuring, lower leverage and narrowing NAV discount. Probability medium / impact high.",
+        "5. Competitors": "Direct peers are diversified holding companies; underlying competitors vary by subsidiary. Relative analysis should be look-through rather than consolidated P/E alone.",
+        "6. Revenue Growth & Margin": "1H26 attributable NPAT THB375.7m vs THB251.3m (+49.5%); Q2 THB213.0m vs THB111.0m. Earnings improved, but recurring quality and cash upstream remain essential.",
+        "7. Regulation": "Consumer finance, debt collection, telecom retail, insurance and securities rules affect subsidiaries. Group complexity increases governance and regulatory-monitoring burden.",
+        "8. Narrative & Sentiment": "Narrative is 'ecosystem turnaround + NAV recovery'. Sentiment is improving with earnings, but still fragile due to historical leverage and complexity.",
+        "9. Valuation Effect": "At THB9.70, P/BV is below 1x and trailing P/E is not meaningful/reliable given earnings volatility. Fair Value until NAV and parent cash generation are clearer.",
+        "10. Earnings & Macro": "Base: subsidiaries recover gradually. Bull: JMT + commerce/finance improve together and NAV discount narrows. Bear: subsidiary weakness/leverage returns. 3-5y return depends on look-through ROE and capital allocation.",
+        "11. Risk Radar": "Top risks: holding-company discount, subsidiary earnings volatility, leverage/liquidity, governance/capital allocation, correlated ecosystem stress."
+      },
+      "thesis": "JMT recovery, ecosystem restructuring and low holding-company valuation create meaningful rerating optionality.",
+      "bear": "Conglomerate complexity, subsidiary leverage, weak cash upstream or renewed losses can keep the holding-company discount wide despite headline profit growth.",
+      "teamComment": "",
+      "marketBelieves": "The market sees JMART as a leveraged ecosystem turnaround whose value is dominated by listed/unlisted subsidiary performance.",
+      "marketMissing": "The market may underprice NAV recovery if JMT and other subsidiaries improve simultaneously, but may overstate synergies that do not translate into parent cash flow.",
+      "variables": "JMT earnings/collections, Singer/mobile retail results, parent net debt, dividends upstream, NAV discount, equity-method income, liquidity.",
+      "fit": "Special-situations/holding-company investor comfortable with conglomerate discount, subsidiary volatility and leverage.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Ecosystem ownership across mobile retail, debt management, finance and commerce creates cross-holding/network optionality, but complexity and leverage reduce durability.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
+        }
+      ],
+      "price": 9.7,
+      "marketCap": 14200.51,
+      "pe": null,
+      "pbv": 0.78,
+      "evEbitda": null
+    },
+    {
+      "rank": 95,
+      "ticker": "GFPT",
+      "company": "GFPT PCL.",
+      "sector": "Agribusiness",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 600.615,
+      "periodNpat": 1117.724,
+      "npatGrowth": -12.7,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Agribusiness: use net cash/debt, EBITDA, commodity cycle and working capital",
+      "debtEbitdaNote": "Balance sheet is strong and valuation is low. Key variables are chicken spread, feed costs, export demand and associate contributions rather than financial leverage.",
+      "score": 7.875,
+      "flags": [
+        "Poultry",
+        "Export",
+        "Vertical Integration",
+        "Low P/E",
+        "Strong Balance Sheet"
+      ],
+      "summary": "GFPT is a low-multiple integrated poultry producer. 1H26 NPAT fell ~12.7% YoY to THB1.12bn but remained strong; valuation near ~6x P/E and ~0.6x P/BV provides a substantial margin of safety if poultry spreads stay normal.",
+      "framework": {
+        "1. Management": "Family-controlled integrated poultry producer with decades of operating experience. Management's strength is supply-chain integration and export quality; capital allocation is generally conservative.",
+        "2. Product / Moat": "Integrated poultry chain includes feed, breeding/hatchery, broiler farms, slaughter/processing and cooked-food exports. Moat is moderate through integration, food-safety certifications, export customer relationships and scale.",
+        "3. TAM / Growth Runway": "Global poultry demand grows with affordable protein consumption. Thailand's cooked-chicken export niche offers runway; GFPT can gain through capacity/product mix, though commodity cycles remain.",
+        "4. Positive Catalysts": "Catalysts: strong export demand, lower feed costs, chicken-price recovery, capacity utilization and baht competitiveness. Probability medium / impact medium-high.",
+        "5. Competitors": "Peers include CPF, BTG and regional poultry processors. GFPT is smaller but more focused and conservatively financed; peers may have broader protein/geographic diversification.",
+        "6. Revenue Growth & Margin": "Q2 NPAT THB600.6m vs THB642.1m; 1H26 THB1.118bn vs THB1.281bn (-12.7%). Earnings remain healthy despite normalization from a strong base.",
+        "7. Regulation": "Animal-disease controls, export certifications, food safety, environmental rules, labor standards and trade quotas/tariffs matter. Certifications are barriers; outbreaks/trade bans are high-impact risks.",
+        "8. Narrative & Sentiment": "Narrative is 'cheap poultry-cycle value with strong balance sheet'. Sentiment is constructive but investors are wary of peak-cycle earnings.",
+        "9. Valuation Effect": "At THB11.20, P/E ~6.2x and P/BV ~0.62x are cheap. Multiple expansion is possible if earnings prove sustainable rather than cyclical peak.",
+        "10. Earnings & Macro": "Base: poultry spreads normalize but remain profitable. Bull: export demand + lower feed costs. Bear: chicken-price decline/feed inflation/disease shock. 3-5y return = normalized earnings + dividends + modest rerating.",
+        "11. Risk Radar": "Top risks: poultry/commodity cycle, feed cost, animal disease, export/trade restrictions, FX and associate earnings."
+      },
+      "thesis": "Vertical integration, export exposure, strong balance sheet and low valuation offer attractive cycle-adjusted risk/reward.",
+      "bear": "Chicken prices, feed costs, disease/export restrictions and associate volatility can drive earnings sharply lower; low P/E may reflect near-peak cycle earnings.",
+      "teamComment": "",
+      "marketBelieves": "The market believes GFPT earnings are cyclical and current profits may be above normalized levels, justifying a low multiple.",
+      "marketMissing": "The market may underprice the quality of integration/export franchise and balance sheet if poultry spreads normalize above historical trough levels.",
+      "variables": "Chicken price, feed corn/soy costs, export volume/price, capacity utilization, associate income, EBITDA margin, working capital, FX.",
+      "fit": "Value/cyclical investor comfortable with poultry price and feed-cost cycles.",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "Vertically integrated poultry chain from feed/breeding/farms to processing/export creates cost/quality control advantages, but commodity pricing and industry cycles limit pricing power.",
+      "industryComparison": "Compare with relevant peer group on growth, margin, ROE/ROIC, leverage, cash conversion and valuation.",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-10-09",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105963401&symbol=GFPT"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/GFPT/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/GFPT/factsheet"
+        }
+      ],
+      "price": 11.2,
+      "marketCap": 14042.78,
+      "pe": 6.2,
+      "pbv": 0.62,
+      "evEbitda": 3.16
     }
   ]
 }
