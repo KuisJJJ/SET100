@@ -74,7 +74,7 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 .team-comment-empty{color:var(--muted);font-style:italic}
 .team-comment-meta{margin-top:4px;font-size:10px;color:var(--muted)}
 
-.set-daily-widget{height:440px;width:100%;margin:12px 0;display:none;min-width:0}
+.set-daily-widget{height:440px;width:100%;margin:12px 0;display:block;min-width:0}
 .set-daily-widget iframe{width:100%!important}
 @media(max-width:650px){.set-daily-widget{height:370px}}
 .set-mode-picker{display:flex;gap:7px;margin:13px 0 5px}
@@ -568,7 +568,7 @@ async function loadData(force=false){
    if(!res.ok)throw new Error(`โหลด data.json ไม่สำเร็จ (${res.status})`);
    const p=await res.json();
    META=p.meta||{};META.marketIndex=p.marketIndex||null;DATA=p.stocks||[];
-   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE="daily";default3MRange();syncSetChartModeButtons();renderSetIndex();render();
+   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE="daily";default3MRange();renderSetIndex();syncSetChartModeButtons();render();
  }catch(e){
    err.textContent="ไม่สามารถโหลด data.json ได้: "+e.message+" — หากเปิด index.html จากเครื่องโดยตรง ให้เปิดผ่าน GitHub Pages หรือ local web server";
    err.style.display="block";
