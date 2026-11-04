@@ -74,6 +74,9 @@ details{margin-top:12px}summary{cursor:pointer;font-weight:700}.section{border-t
 .team-comment-empty{color:var(--muted);font-style:italic}
 .team-comment-meta{margin-top:4px;font-size:10px;color:var(--muted)}
 
+.set-daily-widget{height:440px;width:100%;margin:12px 0;display:none;min-width:0}
+.set-daily-widget iframe{width:100%!important}
+@media(max-width:650px){.set-daily-widget{height:370px}}
 .set-mode-picker{display:flex;gap:7px;margin:13px 0 5px}
 .set-mode-picker button{min-width:90px;background:#f3f0ff;color:#5d38aa;border:1px solid #d9cbff;padding:8px 12px;border-radius:10px;font-size:12px;font-weight:700}
 .set-mode-picker button.active{background:linear-gradient(125deg,#6741d9,#865bff);border-color:#6741d9;color:white}
@@ -180,7 +183,7 @@ input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92
     <div class="set-stat"><small>มูลค่าซื้อขาย</small><b id="setValue">–</b></div>
   </div>
 </div>
-<div class="range-tools">
+<div class="range-tools" id="setRangeTools">
   <div class="range-field"><label for="setStart">วันเริ่มต้น</label><input id="setStart" type="date"></div>
   <div class="range-field"><label for="setEnd">วันสิ้นสุด</label><input id="setEnd" type="date"></div>
   <button id="applySetRange" type="button">แสดงช่วงที่เลือก</button>
@@ -199,11 +202,39 @@ input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92
 </div>
 <div id="setRangeNote" class="chart-note">ค่าเริ่มต้น: ย้อนหลัง 3 เดือน</div>
 <div id="setRangeError" class="range-error"></div>
-<div class="chart-wrap">
+<div id="setDailyWidget" class="set-daily-widget" aria-label="กราฟ SET Index รายวันจาก TradingView">
+ <div class="tradingview-widget-container" style="height:100%;width:100%">
+  <div class="tradingview-widget-container__widget" style="height:calc(100% - 30px);width:100%"></div>
+  <div class="tradingview-widget-copyright" style="font-size:11px;text-align:right;padding:6px;color:#64748b"><a href="https://th.tradingview.com/symbols/SET-SET/" target="_blank" rel="noopener noreferrer">กราฟดัชนี SET รายวัน โดย TradingView</a> • ข้อมูลอาจมีความหน่วงเวลา</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "autosize": true,
+    "symbol": "SET:SET",
+    "interval": "D",
+    "timezone": "Asia/Bangkok",
+    "theme": "light",
+    "backgroundColor": "#ffffff",
+    "style": "2",
+    "locale": "th",
+    "withdateranges": true,
+    "hide_top_toolbar": false,
+    "hide_side_toolbar": true,
+    "hide_volume": true,
+    "hide_legend": false,
+    "allow_symbol_change": false,
+    "save_image": false,
+    "calendar": false,
+    "support_host": "https://www.tradingview.com"
+  }
+  </script>
+ </div>
+</div>
+<div class="chart-wrap" id="setNativeChartWrap">
   <svg id="setChart" class="chart-svg" viewBox="0 0 1000 230" preserveAspectRatio="none" aria-label="กราฟ SET Index"></svg>
 </div>
-<div class="set-turnover-heading">มูลค่าการซื้อขาย SET (ล้านบาท) <span id="setTurnoverSourceNote">แสดงเมื่อมีข้อมูลจาก SET ที่ตรวจสอบแล้ว</span></div>
+<div id="setTurnoverPanel"><div class="set-turnover-heading">มูลค่าการซื้อขาย SET (ล้านบาท) <span id="setTurnoverSourceNote">แสดงเมื่อมีข้อมูลจาก SET ที่ตรวจสอบแล้ว</span></div>
 <div class="set-turnover-chart"><svg id="setTurnoverChart" viewBox="0 0 1000 115" preserveAspectRatio="none" aria-label="มูลค่าซื้อขาย SET รายวัน"></svg></div>
+</div>
 <div class="set-foot">
   <span id="setUpdated">ข้อมูลล่าสุด: –</span>
   <a id="setSource" href="https://www.set.or.th/th/market/index/set/overview" target="_blank" rel="noopener">แหล่งอ้างอิง: SET</a>
@@ -286,18 +317,20 @@ function syncSetChartModeButtons(){
   const active=b.dataset.mode===SET_CHART_MODE;
   b.classList.toggle("active",active);b.setAttribute("aria-pressed",String(active));
  });
+ const daily=SET_CHART_MODE==="daily";
+ document.getElementById("setDailyWidget").style.display=daily?"block":"none";
+ document.getElementById("setNativeChartWrap").style.display=daily?"none":"block";
+ document.getElementById("setRangeTools").style.display=daily?"none":"flex";
+ document.getElementById("setPresets").style.display=daily?"none":"flex";
+ document.getElementById("setTurnoverPanel").style.display=daily?"none":"block";
+ document.getElementById("setRangeNote").textContent=daily?
+   "กราฟรายวันจาก TradingView • เลือกวันที่และช่วงเวลาภายในกราฟได้ • ไม่ใช่ยอดมูลค่าซื้อขายเป็นเงินบาท":
+   "กราฟรายเดือนจากข้อมูลที่จัดเก็บใน Dashboard";
 }
 function switchSetChartMode(mode){
- if(mode==="daily" && getSetDaily().length<2){
-  SET_CHART_MODE="monthly";
-  syncSetChartModeButtons();
-  applyPreset("3M");
-  document.getElementById("setRangeNote").textContent+=" • ข้อมูลรายวันย้อนหลังจากแหล่งฟรียังไม่ครบ จึงใช้กราฟรายเดือนจริงแทน";
-  return;
- }
- SET_CHART_MODE=(mode==="monthly")?"monthly":"daily";
+ SET_CHART_MODE=mode==="monthly"?"monthly":"daily";
  syncSetChartModeButtons();
- applyPreset(document.querySelector("#setPresets button.active")?.dataset.range||"3M");
+ if(SET_CHART_MODE==="monthly") applyPreset("3M");
 }
 function getSetDaily(){
  const m=META.marketIndex||{};
@@ -535,7 +568,7 @@ async function loadData(force=false){
    if(!res.ok)throw new Error(`โหลด data.json ไม่สำเร็จ (${res.status})`);
    const p=await res.json();
    META=p.meta||{};META.marketIndex=p.marketIndex||null;DATA=p.stocks||[];
-   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE=getSetDaily().length>=2?"daily":"monthly";syncSetChartModeButtons();default3MRange();renderSetIndex();render();
+   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE="daily";default3MRange();syncSetChartModeButtons();renderSetIndex();render();
  }catch(e){
    err.textContent="ไม่สามารถโหลด data.json ได้: "+e.message+" — หากเปิด index.html จากเครื่องโดยตรง ให้เปิดผ่าน GitHub Pages หรือ local web server";
    err.style.display="block";
