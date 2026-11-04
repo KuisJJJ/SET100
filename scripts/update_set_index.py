@@ -134,32 +134,43 @@ def yahoo_set_daily_history():
     is connected.
     """
     symbol = quote('^SET.BK', safe='')
-    url = f'https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5y&interval=1d'
-    j = get_json(url, timeout=30)
-    results = (j.get('chart') or {}).get('result') or []
-    if not results:
-        raise RuntimeError('Daily SET history unavailable')
-    r = results[0]
-    timestamps = r.get('timestamp') or []
-    q = (((r.get('indicators') or {}).get('quote') or [{}])[0])
-    closes = q.get('close') or []
-    by_day = {}
-    for ts, close in zip(timestamps, closes):
-        if close is None:
-            continue
+    best = {}
+    # Some Yahoo hosts return only a single point for long ranges. Try short
+    # ranges and both hosts, retaining the longest verified daily sequence.
+    for host, span in [('query1.finance.yahoo.com', '5y'),
+                       ('query2.finance.yahoo.com', '1y'),
+                       ('query1.finance.yahoo.com', '1mo')]:
         try:
-            value = float(close)
-            if not (value > 0):
+            url = f'https://{host}/v8/finance/chart/{symbol}?range={span}&interval=1d'
+            j = get_json(url, timeout=30)
+            results = (j.get('chart') or {}).get('result') or []
+            if not results:
                 continue
-            date = datetime.fromtimestamp(int(ts), timezone.utc).astimezone(BKK).date().isoformat()
-            by_day[date] = {'date': date, 'value': round(value, 2),
-                            'valueMillionBaht': None, 'type': 'daily',
-                            'priceProvider': 'Yahoo Finance ^SET.BK delayed'}
-        except (ValueError, TypeError, OverflowError):
+            r = results[0]
+            timestamps = r.get('timestamp') or []
+            quotes = (((r.get('indicators') or {}).get('quote') or [{}])[0])
+            closes = quotes.get('close') or []
+            by_day = {}
+            for ts, close in zip(timestamps, closes):
+                if close is None: continue
+                try:
+                    value = float(close)
+                    if not value > 0: continue
+                    date = datetime.fromtimestamp(int(ts), timezone.utc).astimezone(BKK).date().isoformat()
+                    by_day[date] = {'date': date, 'value': round(value, 2),
+                                    'valueMillionBaht': None, 'type': 'daily',
+                                    'priceProvider': 'Yahoo Finance ^SET.BK delayed'}
+                except (ValueError, TypeError, OverflowError):
+                    continue
+            if len(by_day) > len(best):
+                best = by_day
+            if len(best) >= 500:
+                break
+        except Exception:
             continue
-    if not by_day:
-        raise RuntimeError('Daily SET history contained no valid closes')
-    return [by_day[k] for k in sorted(by_day)]
+    if len(best) < 2:
+        raise RuntimeError('Provider returned fewer than two daily observations')
+    return [best[k] for k in sorted(best)]
 
 def upsert_history(index, quote):
     history = index.setdefault('history', [])
