@@ -281,12 +281,22 @@ function isoDateLocal(d){
  return `${y}-${m}-${day}`;
 }
 let SET_CHART_MODE="daily";
-function switchSetChartMode(mode){
- SET_CHART_MODE=(mode==="monthly")?"monthly":"daily";
+function syncSetChartModeButtons(){
  document.querySelectorAll("#setModePicker button").forEach(b=>{
-   const active=b.dataset.mode===SET_CHART_MODE;
-   b.classList.toggle("active",active);b.setAttribute("aria-pressed",String(active));
+  const active=b.dataset.mode===SET_CHART_MODE;
+  b.classList.toggle("active",active);b.setAttribute("aria-pressed",String(active));
  });
+}
+function switchSetChartMode(mode){
+ if(mode==="daily" && getSetDaily().length<2){
+  SET_CHART_MODE="monthly";
+  syncSetChartModeButtons();
+  applyPreset("3M");
+  document.getElementById("setRangeNote").textContent+=" • ข้อมูลรายวันย้อนหลังจากแหล่งฟรียังไม่ครบ จึงใช้กราฟรายเดือนจริงแทน";
+  return;
+ }
+ SET_CHART_MODE=(mode==="monthly")?"monthly":"daily";
+ syncSetChartModeButtons();
  applyPreset(document.querySelector("#setPresets button.active")?.dataset.range||"3M");
 }
 function getSetDaily(){
@@ -310,7 +320,7 @@ function setPresetActive(code){
 }
 function applyPreset(code){
  const m=META.marketIndex||null;if(!m)return;
- const hist=(getSetDaily().length?getSetDaily():m.history||[]).filter(d=>parseISODate(d.date)).sort((a,b)=>a.date.localeCompare(b.date));
+ const hist=(getSetDaily().length>=2?getSetDaily():getSetMonthly()).filter(d=>parseISODate(d.date)).sort((a,b)=>a.date.localeCompare(b.date));
  if(!hist.length)return;
  const last=parseISODate(hist[hist.length-1].date);if(!last)return;
  const start=new Date(last);
@@ -366,9 +376,15 @@ function renderSetIndex(){
  const svg=document.getElementById("setChart");
  const note=document.getElementById("setRangeNote");
  if(hist.length<2){
-   svg.innerHTML=`<text x="500" y="115" text-anchor="middle" class="chart-label">ไม่มีข้อมูลเพียงพอในช่วงวันที่เลือก</text>`;
-   note.textContent=SET_CHART_MODE==="daily"?"ยังไม่มีข้อมูลราคาดัชนีรายวันเพียงพอ":"ช่วงที่เลือกมีข้อมูลน้อยกว่า 2 จุด";
    renderSetTurnover(hist);
+   if(hist.length===1){
+     const point=Number(hist[0].value);
+     svg.innerHTML='<line class="chart-axis" x1="58" x2="976" y1="115" y2="115"/><circle class="chart-dot" cx="500" cy="115" r="5"/><text class="chart-value" x="500" y="98" text-anchor="middle">'+fmt(point,2)+'</text><text class="chart-label" x="500" y="138" text-anchor="middle">'+hist[0].date+'</text>';
+     note.textContent="มีข้อมูลเพียง 1 วันในช่วงที่เลือก — แสดง 1 จุด (ไม่ลากเส้นสมมติ)";
+   }else{
+     svg.innerHTML='<text x="500" y="115" text-anchor="middle" class="chart-label">ไม่มีข้อมูลในวันที่เลือก กรุณาเลือกช่วงเวลาที่กว้างขึ้น</text>';
+     note.textContent="ไม่มีข้อมูลในช่วงวันที่เลือก";
+   }
    return;
  }
 
@@ -519,7 +535,7 @@ async function loadData(force=false){
    if(!res.ok)throw new Error(`โหลด data.json ไม่สำเร็จ (${res.status})`);
    const p=await res.json();
    META=p.meta||{};META.marketIndex=p.marketIndex||null;DATA=p.stocks||[];
-   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE=getSetDaily().length>=2?"daily":"monthly";document.querySelectorAll("#setModePicker button").forEach(b=>{const active=b.dataset.mode===SET_CHART_MODE;b.classList.toggle("active",active);b.setAttribute("aria-pressed",String(active));});default3MRange();renderSetIndex();render();
+   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE=getSetDaily().length>=2?"daily":"monthly";syncSetChartModeButtons();default3MRange();renderSetIndex();render();
  }catch(e){
    err.textContent="ไม่สามารถโหลด data.json ได้: "+e.message+" — หากเปิด index.html จากเครื่องโดยตรง ให้เปิดผ่าน GitHub Pages หรือ local web server";
    err.style.display="block";
