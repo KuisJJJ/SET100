@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 import json
+import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import quote
@@ -82,6 +83,47 @@ def yahoo_set_latest():
     }
 
 
+def official_set_turnover():
+    """Official SET Marketplace delayed quotation. Requires subscribed API key.
+
+    The documented Index Quotation API exposes cumulative totalValue.
+    The API's numeric scale is not assumed: caller must explicitly configure
+    SET_INDEX_VALUE_UNIT as 'baht', 'thousand_baht', or 'million_baht'.
+    """
+    key = os.environ.get('SET_MARKETPLACE_API_KEY', '').strip()
+    if not key:
+        return None, 'SET Marketplace API key ยังไม่ได้ตั้งค่า'
+    unit = os.environ.get('SET_INDEX_VALUE_UNIT', '').strip().lower()
+    multipliers = {'baht': 1/1_000_000, 'thousand_baht': 1/1000, 'million_baht': 1}
+    if unit not in multipliers:
+        return None, 'ยังไม่ได้ยืนยันหน่วยของ SET Marketplace (SET_INDEX_VALUE_UNIT)'
+    url = 'https://marketplace.set.or.th/api/public/delay-data/index?indexSector=SET'
+    req = Request(url, headers={'User-Agent': UA, 'Accept': 'application/json', 'api-key': key})
+    try:
+        with urlopen(req, timeout=20) as response:
+            raw = json.loads(response.read().decode('utf-8'))
+        items = raw if isinstance(raw, list) else raw.get('data', raw.get('indices', raw.get('result', [])))
+        if isinstance(items, dict):
+            items = items.get('items', items.get('indices', [items]))
+        if not isinstance(items, list):
+            raise ValueError('Unsupported SET Marketplace response structure')
+        match = next((x for x in items if isinstance(x, dict) and str(x.get('symbol', '')).upper() == 'SET'), None)
+        if not match:
+            raise ValueError('SET index record missing from official response')
+        value = match.get('totalValue')
+        if value is None:
+            raise ValueError('totalValue is missing')
+        raw_date = match.get('time')
+        if not raw_date:
+            raise ValueError('Trading timestamp is missing')
+        timestamp = datetime.fromisoformat(str(raw_date).replace('Z', '+00:00')).astimezone(BKK)
+        return {'valueMillionBaht': round(float(value) * multipliers[unit], 2),
+                'valueUpdatedAt': timestamp.isoformat(timespec='seconds'),
+                'valueProvider': 'SET Marketplace delayed index quotation'}, None
+    except Exception as exc:
+        return None, f'ไม่สามารถดึงมูลค่าซื้อขายจาก SET: {type(exc).__name__}'
+
+
 def upsert_history(index, quote):
     history = index.setdefault('history', [])
     date = quote['updatedAt'][:10]
@@ -100,6 +142,18 @@ def upsert_history(index, quote):
 def main():
     payload = json.loads(DATA_FILE.read_text(encoding='utf-8'))
     q = yahoo_set_latest()
+    official, official_error = official_set_turnover()
+    if official:
+        # Only show turnover when the official quote refers to the same trading date.
+        if official['valueUpdatedAt'][:10] == q['updatedAt'][:10]:
+            q.update(official)
+        else:
+            official_error = 'วันที่มูลค่าซื้อขาย SET ไม่ตรงกับวันที่ดัชนีจากแหล่งรอง'
+    if not official or official_error:
+        q['valueMillionBaht'] = None
+        q['valueUpdatedAt'] = None
+        q['valueProvider'] = None
+    q['valueDataStatus'] = 'พร้อมแสดง' if q['valueMillionBaht'] is not None else (official_error or 'ไม่มีข้อมูล')
     idx = payload.setdefault('marketIndex', {})
     idx.update({
         'symbol': 'SET','name': 'SET Index','last': q['last'],
@@ -107,6 +161,9 @@ def main():
         'open': q['open'],'high': q['high'],'low': q['low'],
         'volumeThousandShares': q['volumeThousandShares'],
         'valueMillionBaht': q['valueMillionBaht'],
+        'valueUpdatedAt': q.get('valueUpdatedAt'),
+        'valueProvider': q.get('valueProvider'),
+        'valueDataStatus': q['valueDataStatus'],
         'status': q['status'],'updatedAt': q['updatedAt'],
         'source': q['source'],'provider': q['provider'],
         'dataQualityNote': q['dataQualityNote'],
