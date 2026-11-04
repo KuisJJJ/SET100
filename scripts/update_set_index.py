@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Daily series: close prices from Yahoo; turnover only from licensed SET data.
+# Stable daily-data workflow build: preserve recent good data and honest fallback.
 from __future__ import annotations
 import json
 import os
