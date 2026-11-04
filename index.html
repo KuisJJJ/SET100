@@ -202,31 +202,15 @@ input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92
 </div>
 <div id="setRangeNote" class="chart-note">ค่าเริ่มต้น: ย้อนหลัง 3 เดือน</div>
 <div id="setRangeError" class="range-error"></div>
-<div id="setDailyWidget" class="set-daily-widget" aria-label="กราฟ SET Index รายวันจาก TradingView">
- <div class="tradingview-widget-container" style="height:100%;width:100%">
-  <div class="tradingview-widget-container__widget" style="height:calc(100% - 30px);width:100%"></div>
-  <div class="tradingview-widget-copyright" style="font-size:11px;text-align:right;padding:6px;color:#64748b"><a href="https://th.tradingview.com/symbols/SET-SET/" target="_blank" rel="noopener noreferrer">กราฟดัชนี SET รายวัน โดย TradingView</a> • ข้อมูลอาจมีความหน่วงเวลา</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "autosize": true,
-    "symbol": "SET:SET",
-    "interval": "D",
-    "timezone": "Asia/Bangkok",
-    "theme": "light",
-    "backgroundColor": "#ffffff",
-    "style": "2",
-    "locale": "th",
-    "withdateranges": true,
-    "hide_top_toolbar": false,
-    "hide_side_toolbar": true,
-    "hide_volume": true,
-    "hide_legend": false,
-    "allow_symbol_change": false,
-    "save_image": false,
-    "calendar": false,
-    "support_host": "https://www.tradingview.com"
-  }
-  </script>
+<div id="setDailyWidget" class="set-daily-widget" aria-label="แหล่งกราฟรายวัน SET Index ที่ตรวจสอบแล้ว">
+ <div class="set-verified-source" style="padding:22px;border:1px solid #ddd6fe;border-radius:16px;background:linear-gradient(135deg,#faf5ff,#f0f9ff);color:#24304b">
+  <div style="font-size:16px;font-weight:800;margin-bottom:8px">SET Index — กราฟรายวันจากแหล่งที่ตรวจสอบแล้ว</div>
+  <p style="font-size:13px;line-height:1.7">ปิดกราฟฝังเดิมเนื่องจากแสดงข้อมูลไม่ตรงกับดัชนี SET ที่ต้องการ ขณะนี้ Dashboard ยังไม่มีข้อมูลราคาปิดรายวันย้อนหลังที่ครบถ้วน จึงไม่ใช้กราฟอื่นมาแสดงแทน</p>
+  <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:16px">
+   <a href="https://th.tradingview.com/symbols/SET-SET/" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 15px;background:#6242d7;color:#fff;border-radius:10px;text-decoration:none;font-weight:700;font-size:13px">เปิดกราฟ SET Index รายวัน (TradingView)</a>
+   <a href="https://www.set.or.th/th/market/index/set/overview" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 15px;background:#fff;color:#4432a6;border:1px solid #c4b5fd;border-radius:10px;text-decoration:none;font-size:13px">ตรวจข้อมูลจากตลาดหลักทรัพย์ฯ</a>
+  </div>
+  <p style="font-size:11px;color:#64748b;margin:12px 0 0">การกดเปิดลิงก์จะไปยัง SET Index จริง ไม่ใช่หุ้นชื่อ SET, SET50 หรือดัชนีอื่น</p>
  </div>
 </div>
 <div class="chart-wrap" id="setNativeChartWrap">
@@ -324,7 +308,7 @@ function syncSetChartModeButtons(){
  document.getElementById("setPresets").style.display=daily?"none":"flex";
  document.getElementById("setTurnoverPanel").style.display=daily?"none":"block";
  document.getElementById("setRangeNote").textContent=daily?
-   "กราฟรายวันจาก TradingView • เลือกวันที่และช่วงเวลาภายในกราฟได้ • ไม่ใช่ยอดมูลค่าซื้อขายเป็นเงินบาท":
+   "ข้อมูลรายวันย้อนหลังใน Dashboard ยังไม่ครบ • เปิดกราฟ SET Index ที่ตรวจสอบแล้วจากลิงก์ด้านบน":
    "กราฟรายเดือนจากข้อมูลที่จัดเก็บใน Dashboard";
 }
 function switchSetChartMode(mode){
