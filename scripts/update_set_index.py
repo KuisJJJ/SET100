@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Daily series: close prices from Yahoo; turnover only from licensed SET data.
 from __future__ import annotations
 import json
 import os
