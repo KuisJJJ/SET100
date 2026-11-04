@@ -205,36 +205,16 @@ input:focus,select:focus,.team-comment-input:focus{outline:3px solid rgba(124,92
 </div>
 <div id="setRangeNote" class="chart-note">ค่าเริ่มต้น: ย้อนหลัง 3 เดือน</div>
 <div id="setRangeError" class="range-error"></div>
-<div id="setDailyWidget" class="set-daily-widget" aria-label="กราฟดัชนี SET ระหว่างวัน จาก TradingView">
- <div class="set-intraday-label"><strong>SET Index — กราฟระหว่างวัน</strong><span>ดัชนี SET (SET:SET) • ความละเอียดเริ่มต้น 1 นาที • เวลาไทย • ข้อมูลจาก TradingView อาจล่าช้า</span></div>
- <div class="tradingview-widget-container" style="height:calc(100% - 72px);width:100%">
-  <div class="tradingview-widget-container__widget" style="height:calc(100% - 30px);width:100%"></div>
-  <div class="tradingview-widget-copyright" style="text-align:right;font-size:11px;padding:7px 4px"><a href="https://th.tradingview.com/symbols/SET-SET/" target="_blank" rel="noopener noreferrer">SET Index โดย TradingView</a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-   "autosize": true,
-   "symbol": "SET:SET",
-   "interval": "1",
-   "range": "1D",
-   "timezone": "Asia/Bangkok",
-   "theme": "light",
-   "backgroundColor": "#ffffff",
-   "gridColor": "rgba(99,102,241,0.07)",
-   "style": "3",
-   "locale": "th",
-   "withdateranges": true,
-   "hide_top_toolbar": false,
-   "hide_side_toolbar": true,
-   "hide_volume": true,
-   "hide_legend": false,
-   "allow_symbol_change": false,
-   "save_image": false,
-   "calendar": false,
-   "support_host": "https://www.tradingview.com"
-  }
-  </script>
+<div id="setDailyWidget" class="set-daily-widget" aria-label="สถานะกราฟ SET Index รายวัน">
+ <div class="set-verified-source" style="padding:22px;border:1px solid #ddd6fe;border-radius:16px;background:linear-gradient(135deg,#faf5ff,#f0f9ff);color:#24304b">
+  <div style="font-size:16px;font-weight:800;margin-bottom:8px">กราฟ SET Index รายวัน — ยังไม่พร้อมแสดงภายในเว็บไซต์</div>
+  <p style="font-size:13px;line-height:1.7">TradingView แสดง SET Index บนเว็บไซต์หลักได้ แต่ Widget ฝังเว็บของเรากลับแสดงหุ้น Apple จึงถอด Widget ออกเพื่อป้องกันการนำข้อมูลผิดดัชนีไปใช้วิเคราะห์ ขณะนี้ยังไม่มีชุดข้อมูล SET Index รายวันย้อนหลังจากแหล่งฟรีที่ผ่านการตรวจสอบและรองรับการแสดงบน Dashboard โดยตรง</p>
+  <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:16px">
+   <a href="https://th.tradingview.com/symbols/SET-SET/" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 15px;background:#6242d7;color:#fff;border-radius:10px;text-decoration:none;font-weight:700;font-size:13px">เปิดกราฟ SET Index ที่ TradingView</a>
+   <a href="https://www.set.or.th/th/market/index/set/overview" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 15px;background:#fff;color:#4432a6;border:1px solid #c4b5fd;border-radius:10px;text-decoration:none;font-size:13px">ตรวจสอบดัชนีที่ SET</a>
+  </div>
+  <p style="font-size:11px;color:#64748b;margin:12px 0 0">ไม่มีการแสดงหุ้น Apple หรือกราฟดัชนีอื่นแทน SET Index • โหมดรายเดือนยังใช้ข้อมูลที่ระบบจัดเก็บอยู่</p>
  </div>
- <div class="set-daily-note">กราฟนี้เป็นการเคลื่อนไหวภายในวัน (Intraday) ไม่ใช่ราคาปิดรายวัน • สามารถเปลี่ยนช่วงเวลาที่แถบเครื่องมือในกราฟได้ • กราฟฝังอาจมีหน้าตาต่างจากหน้า TradingView เต็มรูปแบบ</div>
 </div>
 <div class="chart-wrap" id="setNativeChartWrap">
   <svg id="setChart" class="chart-svg" viewBox="0 0 1000 230" preserveAspectRatio="none" aria-label="กราฟ SET Index"></svg>
@@ -331,7 +311,7 @@ function syncSetChartModeButtons(){
  document.getElementById("setPresets").style.display=daily?"none":"flex";
  document.getElementById("setTurnoverPanel").style.display=daily?"none":"block";
  document.getElementById("setRangeNote").textContent=daily?
-   "กราฟระหว่างวันของ SET Index จาก TradingView (หน่วงเวลาตามผู้ให้บริการ) • เลือกช่วงเวลาภายในกราฟได้":
+   "กราฟรายวันจาก Widget ถูกปิดเพื่อป้องกันข้อมูลผิดดัชนี • เปิด TradingView หรือ SET ผ่านลิงก์ด้านล่าง":
    "กราฟรายเดือนจากข้อมูลที่จัดเก็บใน Dashboard";
 }
 function switchSetChartMode(mode){
