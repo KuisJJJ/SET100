@@ -226,7 +226,7 @@ def main():
         idx['dailyHistoryStatus'] = f'unavailable: {type(exc).__name__}'
     payload.setdefault('meta', {})['setIndexUpdated'] = q['updatedAt']
     DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(json.dumps({'SET': q}, ensure_ascii=False, indent=2))
+    print(json.dumps({'SET': q, 'dailyHistoryStatus': idx.get('dailyHistoryStatus'), 'dailyHistoryPoints': len(idx.get('dailyHistory', [])), 'dailyHistoryLast': (idx.get('dailyHistory') or [{}])[-1].get('date')}, ensure_ascii=False, indent=2))
 
 
 if __name__ == '__main__':
