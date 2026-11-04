@@ -124,6 +124,42 @@ def official_set_turnover():
         return None, f'ไม่สามารถดึงมูลค่าซื้อขายจาก SET: {type(exc).__name__}'
 
 
+
+def yahoo_set_daily_history():
+    """Fetch up to five years of genuine SET daily close prices, not sparse monthly samples.
+
+    Yahoo's index daily *volume* is not SET's traded-value-in-THB field.
+    Historical traded value is deliberately null until licensed SET EOD data
+    is connected.
+    """
+    symbol = quote('^SET.BK', safe='')
+    url = f'https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5y&interval=1d'
+    j = get_json(url, timeout=30)
+    results = (j.get('chart') or {}).get('result') or []
+    if not results:
+        raise RuntimeError('Daily SET history unavailable')
+    r = results[0]
+    timestamps = r.get('timestamp') or []
+    q = (((r.get('indicators') or {}).get('quote') or [{}])[0])
+    closes = q.get('close') or []
+    by_day = {}
+    for ts, close in zip(timestamps, closes):
+        if close is None:
+            continue
+        try:
+            value = float(close)
+            if not (value > 0):
+                continue
+            date = datetime.fromtimestamp(int(ts), timezone.utc).astimezone(BKK).date().isoformat()
+            by_day[date] = {'date': date, 'value': round(value, 2),
+                            'valueMillionBaht': None, 'type': 'daily',
+                            'priceProvider': 'Yahoo Finance ^SET.BK delayed'}
+        except (ValueError, TypeError, OverflowError):
+            continue
+    if not by_day:
+        raise RuntimeError('Daily SET history contained no valid closes')
+    return [by_day[k] for k in sorted(by_day)]
+
 def upsert_history(index, quote):
     history = index.setdefault('history', [])
     date = quote['updatedAt'][:10]
@@ -169,6 +205,24 @@ def main():
         'dataQualityNote': q['dataQualityNote'],
     })
     upsert_history(idx, q)
+    try:
+        daily = yahoo_set_daily_history()
+        day = q['updatedAt'][:10]
+        # Keep intraday quote separate from the EOD closing-price series.
+        # Any official trading value must match its quote date exactly.
+        if q.get('valueMillionBaht') is not None:
+            for row in daily:
+                if row['date'] == day:
+                    row['valueMillionBaht'] = q['valueMillionBaht']
+                    row['valueProvider'] = q.get('valueProvider')
+                    row['turnoverIsIntraday'] = True
+        idx['dailyHistory'] = daily
+        idx['dailyHistoryProvider'] = 'Yahoo Finance ^SET.BK (ราคาดัชนีรายวัน); SET Marketplace (มูลค่าซื้อขายเฉพาะวันที่มีข้อมูลที่ตรวจสอบแล้ว)'
+        idx['dailyHistoryUpdatedAt'] = datetime.now(BKK).isoformat(timespec='seconds')
+        idx['dailyHistoryStatus'] = 'ok'
+    except Exception as exc:
+        # Do not remove previously verified history during temporary outage.
+        idx['dailyHistoryStatus'] = f'unavailable: {type(exc).__name__}'
     payload.setdefault('meta', {})['setIndexUpdated'] = q['updatedAt']
     DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
     print(json.dumps({'SET': q}, ensure_ascii=False, indent=2))
