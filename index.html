@@ -307,7 +307,7 @@ function renderSetIndex(){
  document.getElementById("setOpen").textContent=fmt(m.open,2);
  document.getElementById("setHigh").textContent=fmt(m.high,2);
  document.getElementById("setLow").textContent=fmt(m.low,2);
- document.getElementById("setValue").textContent=fmt(m.valueMillionBaht,2)+" ลบ.";
+ document.getElementById("setValue").textContent=(m.valueMillionBaht===null||m.valueMillionBaht===undefined)?"ไม่มีข้อมูลจากแหล่งทางการ":fmt(m.valueMillionBaht,2)+" ลบ.";
  document.getElementById("setUpdated").textContent=`ข้อมูลล่าสุด: ${m.updatedAt||"–"} • ${sourceStatusLabel(m.status)}`;
  if(m.source) document.getElementById("setSource").href=m.source;
 
