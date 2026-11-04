@@ -29,6 +29,9 @@ jobs:
           SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
         run: python scripts/update_data.py --ticker "${{ github.event.inputs.ticker || '' }}"
       - name: Update SET Index
+        env:
+          SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
+          SET_INDEX_VALUE_UNIT: ${{ vars.SET_INDEX_VALUE_UNIT }}
         run: python scripts/update_set_index.py
       - name: Commit generated data
         run: |
