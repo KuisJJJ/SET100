@@ -296,7 +296,7 @@ function getSetDaily(){
 }
 function getSetMonthly(){
  const daily=getSetDaily();
- if(!daily.length)return ((META.marketIndex||{}).history||[]).filter(x=>x?.date&&x.value!==null&&Number.isFinite(Number(x.value)));
+ if(daily.length<2)return ((META.marketIndex||{}).history||[]).filter(x=>x?.date&&x.value!==null&&Number.isFinite(Number(x.value)));
  const months=new Map();
  for(const d of daily){const k=d.date.slice(0,7);const r=months.get(k)||{date:d.date,value:Number(d.value),valueMillionBaht:null,_days:0,_withValue:0,_sum:0,type:"month"};
    r.date=d.date;r.value=Number(d.value);r._days++;
@@ -519,7 +519,7 @@ async function loadData(force=false){
    if(!res.ok)throw new Error(`โหลด data.json ไม่สำเร็จ (${res.status})`);
    const p=await res.json();
    META=p.meta||{};META.marketIndex=p.marketIndex||null;DATA=p.stocks||[];
-   updateMeta();renderUpdateCenter();initIndustryFilter();default3MRange();renderSetIndex();render();
+   updateMeta();renderUpdateCenter();initIndustryFilter();SET_CHART_MODE=getSetDaily().length>=2?"daily":"monthly";document.querySelectorAll("#setModePicker button").forEach(b=>{const active=b.dataset.mode===SET_CHART_MODE;b.classList.toggle("active",active);b.setAttribute("aria-pressed",String(active));});default3MRange();renderSetIndex();render();
  }catch(e){
    err.textContent="ไม่สามารถโหลด data.json ได้: "+e.message+" — หากเปิด index.html จากเครื่องโดยตรง ให้เปิดผ่าน GitHub Pages หรือ local web server";
    err.style.display="block";
