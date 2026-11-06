@@ -5,15 +5,15 @@
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 100,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-11-06 16:19",
+    "marketDataUpdated": "2026-11-06 19:56",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-06T16:19:51+07:00",
+    "generatedAt": "2026-11-06T19:56:44+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
-    "setIndexUpdated": "2026-11-06T16:05:10+07:00",
+    "setIndexUpdated": "2026-11-06T16:44:39+07:00",
     "universeValidation": {
       "ok": true,
-      "checkedAt": "2026-11-06T16:19:51+07:00",
+      "checkedAt": "2026-11-06T19:56:44+07:00",
       "validationMode": "locked_official_snapshot",
       "officialCount": 100,
       "researchedCount": 100,
@@ -27,7 +27,7 @@
       "note": "Locked snapshot is a transparent fallback when SET dynamic HTML cannot be parsed; refresh it when SET announces a new constituent period."
     },
     "rankPolicy": "Rank recalculated from market cap only after a successful Update All of all 100 constituents.",
-    "rankUpdatedAt": "2026-11-06T16:19:51+07:00",
+    "rankUpdatedAt": "2026-11-06T19:56:44+07:00",
     "automaticUpdatePolicy": {
       "autoFields": [
         "price",
@@ -71,16 +71,16 @@
   "marketIndex": {
     "symbol": "SET",
     "name": "SET Index",
-    "last": 1465.04,
-    "change": -32.95,
-    "changePct": -2.2,
+    "last": 1465.7,
+    "change": -32.29,
+    "changePct": -2.16,
     "open": 1476.21,
     "high": 1483.2,
     "low": 1461.08,
     "volumeThousandShares": 0.0,
     "valueMillionBaht": null,
     "status": "Secondary delayed feed",
-    "updatedAt": "2026-11-06T16:05:10+07:00",
+    "updatedAt": "2026-11-06T16:44:39+07:00",
     "source": "https://www.set.or.th/en/market/index/set/overview",
     "history": [
       {
@@ -405,7 +405,7 @@
       },
       {
         "date": "2026-11-06",
-        "value": 1465.04,
+        "value": 1465.7,
         "type": "current"
       }
     ],
@@ -574,8 +574,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/DELTA/factsheet"
         }
       ],
-      "price": 176.5,
-      "marketCap": 2201628.55,
+      "price": 177.0,
+      "marketCap": 2207865.46,
       "pe": 111.98,
       "pbv": 31.71,
       "evEbitda": 75.35,
@@ -647,8 +647,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/PTT/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 38.5,
-      "marketCap": 1099675.36,
+      "price": 38.25,
+      "marketCap": 1092534.61,
       "pe": 9.28,
       "pbv": 0.96,
       "evEbitda": 5.08,
@@ -717,8 +717,8 @@
           "url": "https://investor.ais.co.th/en/document/quarterly-results"
         }
       ],
-      "price": 337.0,
-      "marketCap": 1002308.77,
+      "price": 338.0,
+      "marketCap": 1005282.98,
       "pe": 18.95,
       "pbv": 19.4,
       "evEbitda": 9.69,
@@ -786,8 +786,8 @@
           "url": "https://www.gulf.co.th/en/investor-relations"
         }
       ],
-      "price": 61.0,
-      "marketCap": 911330.1,
+      "price": 61.25,
+      "marketCap": 915065.06,
       "pe": 11.92,
       "pbv": 2.83,
       "evEbitda": 12.78,
@@ -855,8 +855,8 @@
           "url": "https://investor.airportthai.co.th/"
         }
       ],
-      "price": 60.0,
-      "marketCap": 857142.01,
+      "price": 59.75,
+      "marketCap": 853570.58,
       "pe": 45.71,
       "pbv": 6.36,
       "evEbitda": 23.29,
@@ -1062,8 +1062,8 @@
           "url": "https://www.pttep.com/en/investor-relations"
         }
       ],
-      "price": 143.0,
-      "marketCap": 567707.9,
+      "price": 142.5,
+      "marketCap": 565722.91,
       "pe": 8.43,
       "pbv": 1.03,
       "evEbitda": 2.83,
@@ -1131,8 +1131,8 @@
           "url": "https://investor.scbx.com/en/resource-center"
         }
       ],
-      "price": 149.5,
-      "marketCap": 503382.53,
+      "price": 149.0,
+      "marketCap": 501698.98,
       "pe": 11.3,
       "pbv": 1.02,
       "evEbitda": null,
@@ -1339,8 +1339,8 @@
           "url": "https://www.bangkokbank.com/en/Investor-Relations"
         }
       ],
-      "price": 181.0,
-      "marketCap": 345500.56,
+      "price": 180.5,
+      "marketCap": 344546.14,
       "pe": 8.31,
       "pbv": 0.6,
       "evEbitda": null,
@@ -1408,8 +1408,8 @@
           "url": "https://investor.bdms.co.th/en/financial-info/financial-highlights"
         }
       ],
-      "price": 19.8,
-      "marketCap": 314661.64,
+      "price": 19.9,
+      "marketCap": 316250.84,
       "pe": 19.71,
       "pbv": 2.93,
       "evEbitda": 12.19,
@@ -1546,8 +1546,8 @@
           "url": "https://www.scg.com/investor-relations"
         }
       ],
-      "price": 236.0,
-      "marketCap": 283200.0,
+      "price": 235.0,
+      "marketCap": 282000.0,
       "pe": 23.74,
       "pbv": 0.88,
       "evEbitda": 10.69,
@@ -1745,8 +1745,8 @@
           "url": "https://www.pttgcgroup.com/en/investor-relations/home"
         }
       ],
-      "price": 40.5,
-      "marketCap": 182608.4,
+      "price": 40.0,
+      "marketCap": 180353.98,
       "pe": 34.03,
       "pbv": 0.77,
       "evEbitda": 8.92,
@@ -1806,8 +1806,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/CPF-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 20.2,
-      "marketCap": 166509.83,
+      "price": 20.1,
+      "marketCap": 165685.52,
       "pe": 8.04,
       "pbv": 0.7,
       "evEbitda": 8.07,
@@ -1871,8 +1871,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/BH-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 195.0,
-      "marketCap": 155018.49,
+      "price": 194.5,
+      "marketCap": 154621.01,
       "pe": 19.74,
       "pbv": 5.48,
       "evEbitda": 13.88,
@@ -1936,8 +1936,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105675100&symbol=OR"
         }
       ],
-      "price": 12.6,
-      "marketCap": 151200.0,
+      "price": 12.7,
+      "marketCap": 152400.0,
       "pe": 27.01,
       "pbv": 1.31,
       "evEbitda": 10.08,
@@ -2005,8 +2005,8 @@
           "url": "https://www.gpscgroup.com/en/investor-relations/home"
         }
       ],
-      "price": 52.5,
-      "marketCap": 148035.81,
+      "price": 52.75,
+      "marketCap": 148740.74,
       "pe": 21.11,
       "pbv": 1.36,
       "evEbitda": 11.03,
@@ -2070,8 +2070,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/THAI-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 5.1,
-      "marketCap": 144346.79,
+      "price": 5.15,
+      "marketCap": 145761.95,
       "pe": 7.63,
       "pbv": 1.92,
       "evEbitda": 4.49,
@@ -2139,8 +2139,8 @@
           "url": "https://investor.thailife.com/en/newsroom/press-releases"
         }
       ],
-      "price": 11.3,
-      "marketCap": 129385.0,
+      "price": 11.4,
+      "marketCap": 130530.0,
       "pe": 10.57,
       "pbv": 0.93,
       "evEbitda": null,
@@ -2265,8 +2265,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/TOP/factsheet"
         }
       ],
-      "price": 56.0,
-      "marketCap": 125094.79,
+      "price": 55.75,
+      "marketCap": 124536.33,
       "pe": 5.69,
       "pbv": 0.9,
       "evEbitda": 5.43,
@@ -2403,8 +2403,8 @@
           "url": "https://newsroom.scgpackaging.com/en/news/scgp-announces-q2-profit/"
         }
       ],
-      "price": 26.75,
-      "marketCap": 114835.62,
+      "price": 26.5,
+      "marketCap": 113762.39,
       "pe": 21.54,
       "pbv": 1.67,
       "evEbitda": 10.46,
@@ -2472,8 +2472,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106187000&symbol=AWC"
         }
       ],
-      "price": 3.22,
-      "marketCap": 103125.45,
+      "price": 3.2,
+      "marketCap": 102484.92,
       "pe": 15.25,
       "pbv": 1.02,
       "evEbitda": 15.5,
@@ -2606,8 +2606,8 @@
           "url": "https://www.tisco.co.th/th/news/20260714-20260416-tisco-announces-q2-2026"
         }
       ],
-      "price": 124.0,
-      "marketCap": 99280.05,
+      "price": 123.5,
+      "marketCap": 98879.73,
       "pe": 14.39,
       "pbv": 2.33,
       "evEbitda": null,
@@ -2879,8 +2879,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106105100&symbol=BJC"
         }
       ],
-      "price": 19.9,
-      "marketCap": 79755.16,
+      "price": 20.0,
+      "marketCap": 80155.94,
       "pe": 12.77,
       "pbv": 0.64,
       "evEbitda": 10.8,
@@ -3078,8 +3078,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106211400&symbol=CCET"
         }
       ],
-      "price": 7.5,
-      "marketCap": 78375.02,
+      "price": 7.45,
+      "marketCap": 77852.52,
       "pe": 48.13,
       "pbv": 3.91,
       "evEbitda": 22.4,
@@ -3143,8 +3143,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/COM7-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 32.25,
-      "marketCap": 77003.28,
+      "price": 32.0,
+      "marketCap": 76406.36,
       "pe": 16.63,
       "pbv": 7.09,
       "evEbitda": null,
@@ -3213,8 +3213,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/WHA/financial-statement/company-highlights"
         }
       ],
-      "price": 4.86,
-      "marketCap": 72641.61,
+      "price": 4.88,
+      "marketCap": 72940.55,
       "pe": 17.6,
       "pbv": 2.0,
       "evEbitda": 16.86,
@@ -3222,75 +3222,6 @@
     },
     {
       "rank": 41,
-      "ticker": "KCE",
-      "company": "KCE Electronics PCL.",
-      "sector": "Electronic Components",
-      "valuation": "Very Expensive",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 275.917,
-      "periodNpat": 510.189,
-      "npatGrowth": 23.8,
-      "debtEbitda": 0.0,
-      "debtEbitdaBasis": "เงินสดสุทธิ / การคำนวณ",
-      "debtEbitdaNote": "EV ต่ำกว่ามูลค่าตลาด หนี้ต่อ EBITDA ไม่ใช่ตัวชี้วัดความเสี่ยงที่มีผลผูกพัน",
-      "score": 6.875,
-      "flags": [
-        "Auto Electronics",
-        "Export",
-        "การฟื้นตัว",
-        "Extreme มูลค่าหุ้น"
-      ],
-      "summary": "KCE ธุรกิจ คุณภาพ ดีและมี Automotive PCB ความได้เปรียบการแข่งขัน แต่ราคาหุ้นสะท้อนอนาคตไปมาก ต้องแยก 'บริษัทดี' ออกจาก 'หุ้นราคาดี'.",
-      "framework": {
-        "1. Management": "ผู้ก่อตั้ง/ผู้ผลิตอุปกรณ์อิเล็กทรอนิกส์ที่ได้รับอิทธิพลจากครอบครัวซึ่งมีประวัติการส่งออกมาอย่างยาวนาน ฝ่ายบริหารมีประสบการณ์ในการผลิต PCB ที่แข็งแกร่ง แต่การปรับอันดับสต็อกสินค้าเมื่อเร็วๆ นี้กลับเพิ่มภาระในการดำเนินการ การจัดสรรเงินทุนเป็นแบบอนุรักษ์นิยมด้วยเงินสดสุทธิ",
-        "2. Product / Moat": "แผงวงจรพิมพ์คุณภาพสูงสำหรับลูกค้ายานยนต์ อุตสาหกรรม และอิเล็กทรอนิกส์ คูเมือง: มี — คุณสมบัติของลูกค้า ความรู้ด้านกระบวนการ มาตรฐานคุณภาพ/ความน่าเชื่อถือ วงจรผลิตภัณฑ์ที่ยาวนาน และความสัมพันธ์ในการส่งออก ความทนทานปานกลาง-สูง โดยเฉพาะใน PCB เกรดยานยนต์",
-        "3. TAM / Growth Runway": "รันเวย์มาจาก EV/ADAS อุปกรณ์อิเล็กทรอนิกส์ในยานยนต์ การเชื่อมต่อข้อมูล และเนื้อหาอิเล็กทรอนิกส์ที่สูงขึ้นต่อยานพาหนะ TAM มีโครงสร้างที่น่าสนใจ แต่วงจรของลูกค้าและ FX ทำให้เกิดความผันผวน",
-        "4. Positive Catalysts": "ความต้องการอุปกรณ์อิเล็กทรอนิกส์สำหรับยานยนต์ การกู้คืนการใช้งาน ส่วนผสมผลิตภัณฑ์ บาทอ่อนค่า; กำลังการผลิตใหม่ การทำให้มาร์จิ้นเป็นมาตรฐาน ความน่าจะเป็นปานกลาง-สูง / ผลกระทบสูงในช่วง 6-24 เดือน",
-        "5. Competitors": "เปรียบเทียบกับคู่แข่ง PCB/ส่วนประกอบอิเล็กทรอนิกส์เกี่ยวกับการเติบโตของรายได้ อัตรากำไรขั้นต้น การใช้งาน ROIC เงินสดสุทธิ และ EV/EBITDA วุฒิการศึกษาด้านยานยนต์ของ KCE ถือเป็นข้อได้เปรียบ มีขนาดเล็กกว่าผู้นำระดับโลก",
-        "6. Revenue Growth & Margin": "ไตรมาส 2 NPAT THB276m +51.5% YoY; 1H26 ZZTERM41ZZZ510m +23.8%. ผลประกอบการกำลังฟื้นตัว แต่ปัจจุบัน TTM EBITDA ยังคงต่ำเมื่อเทียบกับมูลค่าตลาด ซึ่งบ่งบอกถึงความคาดหวังที่ดีกว่าปัจจัยพื้นฐานในปัจจุบัน",
-        "7. Regulation": "นโยบายการค้า การควบคุมการส่งออก มาตรฐานยานยนต์ กฎเกณฑ์ด้านสิ่งแวดล้อม/เคมี และ FX ถือเป็นกุญแจสำคัญ มาตรฐานคุณสมบัติจะสร้างอุปสรรค ในขณะที่ภาษี/ภูมิศาสตร์การเมืองสามารถขัดขวางการจัดหาและความต้องการของลูกค้าได้",
-        "8. Narrative & Sentiment": "คำบรรยายคือ 'การกู้คืนอุปกรณ์อิเล็กทรอนิกส์ในยานยนต์ / ตัวเลือก EV' ความเชื่อมั่นเป็นบวกอย่างมากหลังจากการปรับอันดับราคาหุ้นอย่างรวดเร็ว เรื่องราวเป็นช่วงปลายถึงกลางมากกว่าช่วงต้น",
-        "9. Valuation Effect": "100x P/E / 42.5x EV/EBITDA = แพงมาก แม้แต่การเติบโตของกำไรที่แข็งแกร่งก็อาจไม่สามารถชดเชยการบีบอัดหลายครั้งได้ หากความคาดหวังกลับเป็นปกติ",
-        "10. Earnings & Macro": "ฐาน: รายได้ฟื้นตัวตามวงจรอัตโนมัติ กระทิง: EV/ADAS สัดส่วน + การใช้ประโยชน์ที่เพิ่มขึ้น กรณีลบ: การชะลอตัวของอุตสาหกรรมรถยนต์/บาทแข็ง + ตัวคูณมูลค่า การปรับตัวคูณมูลค่าลง ผลตอบแทนใน 3-5 ปีขึ้นอยู่กับรายได้จริงตามการประเมินมูลค่า",
-        "11. Risk Radar": "ความเสี่ยง: การประเมินมูลค่า (สูง/สูง) วงจรอัตโนมัติ (ปานกลาง-สูง/สูง) FX (สูง/ปานกลาง) การกระจุกตัวของลูกค้า (ปานกลาง/สูง) การดำเนินการด้านเทคโนโลยี/ความจุ (กลาง/กลาง)"
-      },
-      "thesis": "คุณสมบัติระดับยานยนต์และความรู้ด้านวิศวกรรมช่วยให้คูเมืองและการเติบโตของอุปกรณ์อิเล็กทรอนิกส์ที่มีโครงสร้างเป็นจริง",
-      "bear": "การประเมินมูลค่ามีความต้องการอย่างมากเมื่อเทียบกับรายได้ปัจจุบัน/EBITDA; บริษัทสามารถดำเนินการได้ดีในขณะที่หุ้นยังมีผลตอบแทนที่ไม่ดี",
-      "teamComment": "",
-      "marketBelieves": "ตลาดเชื่อว่า KCE กำลังเข้าสู่การฟื้นตัวอย่างแข็งแกร่งของยานยนต์-อิเล็กทรอนิกส์ด้วยการเติบโตของ EV/ADAS",
-      "marketMissing": "ตลาดอาจกำหนดราคาการฟื้นตัวไปข้างหน้ามากเกินไปและประเมินความเสี่ยงในการบีบอัดการประเมินต่ำไป",
-      "variables": "คำสั่งซื้อ การใช้งาน อัตรากำไรขั้นต้น ส่วนแบ่งยานยนต์ EUR/USD/THB เงินลงทุน การกระจุกตัวของลูกค้า P/E/EV-EBITDA",
-      "fit": "นักลงทุนที่มีการเติบโตสูงและมีความทนทานต่อความเสี่ยงในการประเมินมูลค่าได้สูงมาก",
-      "moatStatus": "มี",
-      "moatReason": "คุณสมบัติด้านยานยนต์ ความรู้ด้านวิศวกรรม/กระบวนการ มาตรฐานคุณภาพ และความสัมพันธ์อันยาวนานกับลูกค้า ก่อให้เกิดอุปสรรคในการเปลี่ยนทดแทนที่มีความหมาย",
-      "industryComparison": "แผงวงจรพิมพ์และชิ้นส่วนอิเล็กทรอนิกส์ เทียบเคียงได้ด้วย การเติบโตของรายได้, อัตรากำไรขั้นต้น, อัตราการใช้กำลังการผลิต, ROIC, เงินสดสุทธิ และ EV/EBITDA",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-06",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-12",
-      "sources": [
-        {
-          "label": "SET Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/KCE/factsheet"
-        },
-        {
-          "label": "Q2/1H26 F45",
-          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105907100&symbol=KCE"
-        },
-        {
-          "label": "Company Website",
-          "url": "http://www.kcethai.in.th"
-        }
-      ],
-      "price": 61.0,
-      "marketCap": 72107.4,
-      "pe": 100.0,
-      "pbv": 7.18,
-      "evEbitda": 42.48,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 42,
       "ticker": "EGCO",
       "company": "Electricity Generating PCL.",
       "sector": "Energy & Utilities",
@@ -3355,6 +3286,75 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
+      "rank": 42,
+      "ticker": "KCE",
+      "company": "KCE Electronics PCL.",
+      "sector": "Electronic Components",
+      "valuation": "Very Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 275.917,
+      "periodNpat": 510.189,
+      "npatGrowth": 23.8,
+      "debtEbitda": 0.0,
+      "debtEbitdaBasis": "เงินสดสุทธิ / การคำนวณ",
+      "debtEbitdaNote": "EV ต่ำกว่ามูลค่าตลาด หนี้ต่อ EBITDA ไม่ใช่ตัวชี้วัดความเสี่ยงที่มีผลผูกพัน",
+      "score": 6.875,
+      "flags": [
+        "Auto Electronics",
+        "Export",
+        "การฟื้นตัว",
+        "Extreme มูลค่าหุ้น"
+      ],
+      "summary": "KCE ธุรกิจ คุณภาพ ดีและมี Automotive PCB ความได้เปรียบการแข่งขัน แต่ราคาหุ้นสะท้อนอนาคตไปมาก ต้องแยก 'บริษัทดี' ออกจาก 'หุ้นราคาดี'.",
+      "framework": {
+        "1. Management": "ผู้ก่อตั้ง/ผู้ผลิตอุปกรณ์อิเล็กทรอนิกส์ที่ได้รับอิทธิพลจากครอบครัวซึ่งมีประวัติการส่งออกมาอย่างยาวนาน ฝ่ายบริหารมีประสบการณ์ในการผลิต PCB ที่แข็งแกร่ง แต่การปรับอันดับสต็อกสินค้าเมื่อเร็วๆ นี้กลับเพิ่มภาระในการดำเนินการ การจัดสรรเงินทุนเป็นแบบอนุรักษ์นิยมด้วยเงินสดสุทธิ",
+        "2. Product / Moat": "แผงวงจรพิมพ์คุณภาพสูงสำหรับลูกค้ายานยนต์ อุตสาหกรรม และอิเล็กทรอนิกส์ คูเมือง: มี — คุณสมบัติของลูกค้า ความรู้ด้านกระบวนการ มาตรฐานคุณภาพ/ความน่าเชื่อถือ วงจรผลิตภัณฑ์ที่ยาวนาน และความสัมพันธ์ในการส่งออก ความทนทานปานกลาง-สูง โดยเฉพาะใน PCB เกรดยานยนต์",
+        "3. TAM / Growth Runway": "รันเวย์มาจาก EV/ADAS อุปกรณ์อิเล็กทรอนิกส์ในยานยนต์ การเชื่อมต่อข้อมูล และเนื้อหาอิเล็กทรอนิกส์ที่สูงขึ้นต่อยานพาหนะ TAM มีโครงสร้างที่น่าสนใจ แต่วงจรของลูกค้าและ FX ทำให้เกิดความผันผวน",
+        "4. Positive Catalysts": "ความต้องการอุปกรณ์อิเล็กทรอนิกส์สำหรับยานยนต์ การกู้คืนการใช้งาน ส่วนผสมผลิตภัณฑ์ บาทอ่อนค่า; กำลังการผลิตใหม่ การทำให้มาร์จิ้นเป็นมาตรฐาน ความน่าจะเป็นปานกลาง-สูง / ผลกระทบสูงในช่วง 6-24 เดือน",
+        "5. Competitors": "เปรียบเทียบกับคู่แข่ง PCB/ส่วนประกอบอิเล็กทรอนิกส์เกี่ยวกับการเติบโตของรายได้ อัตรากำไรขั้นต้น การใช้งาน ROIC เงินสดสุทธิ และ EV/EBITDA วุฒิการศึกษาด้านยานยนต์ของ KCE ถือเป็นข้อได้เปรียบ มีขนาดเล็กกว่าผู้นำระดับโลก",
+        "6. Revenue Growth & Margin": "ไตรมาส 2 NPAT THB276m +51.5% YoY; 1H26 ZZTERM41ZZZ510m +23.8%. ผลประกอบการกำลังฟื้นตัว แต่ปัจจุบัน TTM EBITDA ยังคงต่ำเมื่อเทียบกับมูลค่าตลาด ซึ่งบ่งบอกถึงความคาดหวังที่ดีกว่าปัจจัยพื้นฐานในปัจจุบัน",
+        "7. Regulation": "นโยบายการค้า การควบคุมการส่งออก มาตรฐานยานยนต์ กฎเกณฑ์ด้านสิ่งแวดล้อม/เคมี และ FX ถือเป็นกุญแจสำคัญ มาตรฐานคุณสมบัติจะสร้างอุปสรรค ในขณะที่ภาษี/ภูมิศาสตร์การเมืองสามารถขัดขวางการจัดหาและความต้องการของลูกค้าได้",
+        "8. Narrative & Sentiment": "คำบรรยายคือ 'การกู้คืนอุปกรณ์อิเล็กทรอนิกส์ในยานยนต์ / ตัวเลือก EV' ความเชื่อมั่นเป็นบวกอย่างมากหลังจากการปรับอันดับราคาหุ้นอย่างรวดเร็ว เรื่องราวเป็นช่วงปลายถึงกลางมากกว่าช่วงต้น",
+        "9. Valuation Effect": "100x P/E / 42.5x EV/EBITDA = แพงมาก แม้แต่การเติบโตของกำไรที่แข็งแกร่งก็อาจไม่สามารถชดเชยการบีบอัดหลายครั้งได้ หากความคาดหวังกลับเป็นปกติ",
+        "10. Earnings & Macro": "ฐาน: รายได้ฟื้นตัวตามวงจรอัตโนมัติ กระทิง: EV/ADAS สัดส่วน + การใช้ประโยชน์ที่เพิ่มขึ้น กรณีลบ: การชะลอตัวของอุตสาหกรรมรถยนต์/บาทแข็ง + ตัวคูณมูลค่า การปรับตัวคูณมูลค่าลง ผลตอบแทนใน 3-5 ปีขึ้นอยู่กับรายได้จริงตามการประเมินมูลค่า",
+        "11. Risk Radar": "ความเสี่ยง: การประเมินมูลค่า (สูง/สูง) วงจรอัตโนมัติ (ปานกลาง-สูง/สูง) FX (สูง/ปานกลาง) การกระจุกตัวของลูกค้า (ปานกลาง/สูง) การดำเนินการด้านเทคโนโลยี/ความจุ (กลาง/กลาง)"
+      },
+      "thesis": "คุณสมบัติระดับยานยนต์และความรู้ด้านวิศวกรรมช่วยให้คูเมืองและการเติบโตของอุปกรณ์อิเล็กทรอนิกส์ที่มีโครงสร้างเป็นจริง",
+      "bear": "การประเมินมูลค่ามีความต้องการอย่างมากเมื่อเทียบกับรายได้ปัจจุบัน/EBITDA; บริษัทสามารถดำเนินการได้ดีในขณะที่หุ้นยังมีผลตอบแทนที่ไม่ดี",
+      "teamComment": "",
+      "marketBelieves": "ตลาดเชื่อว่า KCE กำลังเข้าสู่การฟื้นตัวอย่างแข็งแกร่งของยานยนต์-อิเล็กทรอนิกส์ด้วยการเติบโตของ EV/ADAS",
+      "marketMissing": "ตลาดอาจกำหนดราคาการฟื้นตัวไปข้างหน้ามากเกินไปและประเมินความเสี่ยงในการบีบอัดการประเมินต่ำไป",
+      "variables": "คำสั่งซื้อ การใช้งาน อัตรากำไรขั้นต้น ส่วนแบ่งยานยนต์ EUR/USD/THB เงินลงทุน การกระจุกตัวของลูกค้า P/E/EV-EBITDA",
+      "fit": "นักลงทุนที่มีการเติบโตสูงและมีความทนทานต่อความเสี่ยงในการประเมินมูลค่าได้สูงมาก",
+      "moatStatus": "มี",
+      "moatReason": "คุณสมบัติด้านยานยนต์ ความรู้ด้านวิศวกรรม/กระบวนการ มาตรฐานคุณภาพ และความสัมพันธ์อันยาวนานกับลูกค้า ก่อให้เกิดอุปสรรคในการเปลี่ยนทดแทนที่มีความหมาย",
+      "industryComparison": "แผงวงจรพิมพ์และชิ้นส่วนอิเล็กทรอนิกส์ เทียบเคียงได้ด้วย การเติบโตของรายได้, อัตรากำไรขั้นต้น, อัตราการใช้กำลังการผลิต, ROIC, เงินสดสุทธิ และ EV/EBITDA",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-06",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-12",
+      "sources": [
+        {
+          "label": "SET Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/KCE/factsheet"
+        },
+        {
+          "label": "Q2/1H26 F45",
+          "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105907100&symbol=KCE"
+        },
+        {
+          "label": "Company Website",
+          "url": "http://www.kcethai.in.th"
+        }
+      ],
+      "price": 58.25,
+      "marketCap": 68856.66,
+      "pe": 100.0,
+      "pbv": 7.18,
+      "evEbitda": 42.48,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
       "rank": 43,
       "ticker": "MTC",
       "company": "Muangthai Capital PCL.",
@@ -3416,8 +3416,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/MTC/financial-statement/company-highlights"
         }
       ],
-      "price": 30.75,
-      "marketCap": 65190.0,
+      "price": 31.25,
+      "marketCap": 66250.0,
       "pe": 8.13,
       "pbv": 1.28,
       "evEbitda": null,
@@ -3482,8 +3482,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105694700&symbol=BCP"
         }
       ],
-      "price": 43.75,
-      "marketCap": 64428.03,
+      "price": 43.25,
+      "marketCap": 63691.71,
       "pe": 3.5,
       "pbv": 0.91,
       "evEbitda": 3.85,
@@ -3552,8 +3552,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105806400&symbol=CENTEL"
         }
       ],
-      "price": 43.75,
-      "marketCap": 59062.5,
+      "price": 43.5,
+      "marketCap": 58725.0,
       "pe": 17.05,
       "pbv": 2.42,
       "evEbitda": 9.91,
@@ -3618,8 +3618,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BGRIM/financial-statement/company-highlights"
         }
       ],
-      "price": 22.3,
-      "marketCap": 58133.87,
+      "price": 22.4,
+      "marketCap": 58394.56,
       "pe": 20.86,
       "pbv": 1.45,
       "evEbitda": 11.27,
@@ -3752,8 +3752,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/TFG/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 9.6,
-      "marketCap": 56993.19,
+      "price": 9.55,
+      "marketCap": 56696.35,
       "pe": 8.85,
       "pbv": 2.54,
       "evEbitda": 5.72,
@@ -3818,8 +3818,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/OSP/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 18.7,
-      "marketCap": 56170.13,
+      "price": 18.8,
+      "marketCap": 56470.51,
       "pe": 13.34,
       "pbv": 2.94,
       "evEbitda": 7.46,
@@ -4019,8 +4019,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=106326600&symbol=CBG"
         }
       ],
-      "price": 54.5,
-      "marketCap": 54500.0,
+      "price": 54.75,
+      "marketCap": 54750.0,
       "pe": 23.5,
       "pbv": 3.33,
       "evEbitda": 13.4,
@@ -4084,8 +4084,8 @@
           "url": "https://investor.mrdiy.co.th/en/updates/ir-press-release/179/mr-diy-delivers-178-revenue-growth-and-194-net-profit-growth-in-2q2026-set50-setwb-and-msci-global-small-cap-index-inclusions"
         }
       ],
-      "price": 8.45,
-      "marketCap": 50844.49,
+      "price": 8.4,
+      "marketCap": 50543.64,
       "pe": 17.49,
       "pbv": 4.84,
       "evEbitda": null,
@@ -4153,8 +4153,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/irpc/historical-trading"
         }
       ],
-      "price": 2.44,
-      "marketCap": 49859.99,
+      "price": 2.42,
+      "marketCap": 49451.3,
       "pe": 5.68,
       "pbv": 0.78,
       "evEbitda": null,
@@ -4219,8 +4219,8 @@
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=106004201&symbol=TIDLOR"
         }
       ],
-      "price": 16.8,
-      "marketCap": 48651.61,
+      "price": 16.9,
+      "marketCap": 48941.2,
       "pe": 8.49,
       "pbv": 1.35,
       "evEbitda": null,
@@ -4285,8 +4285,8 @@
           "url": "https://www.set.or.th/th/market/product/stock/quote/BTG/financial-statement/company-highlights"
         }
       ],
-      "price": 22.4,
-      "marketCap": 43339.52,
+      "price": 22.5,
+      "marketCap": 43533.0,
       "pe": 9.95,
       "pbv": 1.23,
       "evEbitda": 5.51,
@@ -4351,8 +4351,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/GUNKUL/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 4.84,
-      "marketCap": 42991.45,
+      "price": 4.78,
+      "marketCap": 42458.5,
       "pe": 22.8,
       "pbv": 2.89,
       "evEbitda": 14.44,
@@ -4416,8 +4416,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/lh/price"
         }
       ],
-      "price": 3.52,
-      "marketCap": 42063.0,
+      "price": 3.5,
+      "marketCap": 41824.01,
       "pe": 15.79,
       "pbv": 0.84,
       "evEbitda": 17.35,
@@ -4550,8 +4550,8 @@
           "url": "https://www.set.or.th/th/market/product/stock/quote/BA/financial-statement/company-highlights"
         }
       ],
-      "price": 18.8,
-      "marketCap": 39480.0,
+      "price": 18.7,
+      "marketCap": 39270.0,
       "pe": 10.07,
       "pbv": 2.75,
       "evEbitda": 6.87,
@@ -4559,72 +4559,6 @@
     },
     {
       "rank": 61,
-      "ticker": "PLANB",
-      "company": "Plan B Media PCL.",
-      "sector": "Media & Publishing",
-      "valuation": "Expensive",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": 504.15,
-      "npatGrowth": null,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Media สินทรัพย์ รูปแบบ",
-      "debtEbitdaNote": "มุ่งเน้นไปที่การใช้ความจุสื่อ ส่วนต่างของ EBITDA FCF และเงินทุนหมุนเวียนในการเข้าซื้อกิจการ/กิจกรรม",
-      "score": 7.5625,
-      "flags": [
-        "OOH เครือข่าย",
-        "Digital Screens",
-        "ขนาดธุรกิจ",
-        "อัตราการใช้กำลังการผลิต",
-        "Event/Engagement"
-      ],
-      "summary": "PLANB ความได้เปรียบการแข่งขัน แข็งจาก ทำเลและสิทธิสัมปทาน + เครือข่าย แต่หลังราคาขึ้นแรง มูลค่าหุ้น กลายเป็นความเสี่ยงหลัก ต้องให้ กำไร วิ่งตามราคาให้ทัน.",
-      "framework": {
-        "1. Management": "แพลตฟอร์มสื่อนอกบ้านที่นำโดยผู้ก่อตั้ง พร้อมด้วยการดำเนินการที่แข็งแกร่งในด้านการเข้าซื้อกิจการ การแปลงทางดิจิทัล และการใช้สินทรัพย์ ฝ่ายบริหารได้สร้างสินค้าคงคลังขนาดใหญ่ แต่วินัยในการจัดสรรเงินทุนมีความสำคัญเมื่อสินทรัพย์สื่อ/งานกิจกรรมขยายตัว",
-        "2. Product / Moat": "การโฆษณานอกบ้านผ่านระบบขนส่งมวลชน ดิจิทัล สนามบิน สื่อค้าปลีกและสื่อคลาสสิก รวมถึงเนื้อหาการมีส่วนร่วม/กิจกรรม คูเมือง: มี — สถานที่/สัมปทานที่หายาก ความสัมพันธ์กับผู้ลงโฆษณา ขนาดสินค้าคงคลังระดับชาติ ข้อมูลผู้ชม และเครือข่ายหน้าจอดิจิทัล มีความทนทานสูงในขณะที่สัมปทาน/สถานที่ยังคงปลอดภัย",
-        "3. TAM / Growth Runway": "การโฆษณา OOH สามารถรับส่วนแบ่งจากสื่อที่กระจัดกระจาย เนื่องจากความคล่องตัวในเมืองและหน้าจอดิจิทัลช่วยปรับปรุงการกำหนดเป้าหมาย เส้นทางการเติบโตมาจากการใช้งาน ราคา สัมปทานใหม่ และการขายต่อระหว่างการมีส่วนร่วม/กิจกรรม",
-        "4. Positive Catalysts": "การใช้สื่อ ราคาจอดิจิทัล การจราจรระหว่างทาง/สนามบิน การสร้างรายได้จากกิจกรรม/การมีส่วนร่วม สัมปทานใหม่ ความน่าจะเป็นปานกลาง-สูง / ผลกระทบสูงในช่วง 6-24 เดือน",
-        "5. Competitors": "เปรียบเทียบกับ OOH/สื่ออื่นๆ เกี่ยวกับความจุสื่อ การใช้งาน รายได้ต่อหน้าจอ/ไซต์ ส่วนต่างของ EBITDA อายุการใช้งานสัมปทาน FCF และ P/E",
-        "6. Revenue Growth & Margin": "รายได้ครึ่งปีแรกของปี 2569 THB5.08 พันล้าน และ NPAT THB504m; อัตรากำไรสุทธิ ~13.3% และ ROE ~10.4% ธุรกิจมีผลกำไร แต่การปรับอันดับราคาหุ้นเดือนตุลาคมดำเนินไปเร็วกว่ากำไรปัจจุบัน",
-        "7. Regulation": "กฎการโฆษณา สัญญาสัมปทาน ใบอนุญาตจากหน่วยงานท้องถิ่น ข้อมูล/ความเป็นส่วนตัว และกฎการแข่งขัน สิทธิ์ด้านสื่อและสถานที่ขนส่งที่ขาดแคลนถือเป็นอุปสรรคสำคัญ",
-        "8. Narrative & Sentiment": "เรื่องราวคือ 'การรวม OOH ที่โดดเด่น + การใช้งานดิจิทัล' ความเชื่อมั่นเป็นบวกอย่างมากหลังจากการปรับอันดับอย่างรวดเร็วในเดือนตุลาคม เรื่องราวมีราคาเพิ่มมากขึ้น",
-        "9. Valuation Effect": "~32.7x P/E / ~3.1x P/BV = แพงเมื่อเทียบกับ ROE ในปัจจุบัน ปัจจัยบวกเพิ่มเติมจำเป็นต้องเร่งรายรับจากการใช้และราคา",
-        "10. Earnings & Macro": "ฐาน: การใช้ OOH ที่มั่นคงและการเติบโตของรายได้ กรณีบวก: การกำหนดราคา/กิจกรรมดิจิทัลช่วยเพิ่มอัตรากำไร ประเด็นสำคัญ: ปัญหาการชะลอตัวของวงจรโฆษณาหรือสัมปทาน + การบีบอัดหลายครั้ง 3-5ปี ขึ้นอยู่กับ FCF จากเนื้อหาสื่อ",
-        "11. Risk Radar": "ความเสี่ยงสูงสุด: การประเมินมูลค่า (สูง/สูง) วงจรการโฆษณา (ปานกลาง/สูง) การต่ออายุสัมปทาน (ปานกลาง/สูง) การได้มา/การจัดสรรเงินทุน (ปานกลาง/สูง) ความผันผวนของเหตุการณ์ (ปานกลาง/ปานกลาง)"
-      },
-      "thesis": "สถานที่ตั้งของสื่อที่ขาดแคลน เครือข่ายดิจิทัล และระดับประเทศ ทำให้เกิดคูเมือง OOH ของแท้พร้อมความสามารถในการดำเนินงาน",
-      "bear": "การประเมินมูลค่าปัจจุบันทำให้มีขอบเขตความปลอดภัยที่จำกัด แม้แต่การเติบโตของรายได้ที่ดีก็สามารถชดเชยได้ด้วยการบีบอัดหลายครั้ง",
-      "teamComment": "",
-      "marketBelieves": "ตลาดเชื่อว่า PLANB เป็นผู้รวบรวมสื่อ OOH ของประเทศไทยที่มีข้อได้เปรียบเชิงโครงสร้างของ",
-      "marketMissing": "ตลาดอาจตั้งราคาสูงเกินไปในการเร่งกำไรในระยะสั้นหลังจากการปรับอันดับเครดิตในเดือนตุลาคม",
-      "variables": "การใช้งาน, รายได้/ไซต์ดิจิทัล, ส่วนต่างของ EBITDA, อายุสัมปทาน, FCF, รอบการใช้จ่ายโฆษณา, P/E",
-      "fit": "การเติบโต/นักลงทุนด้านสื่อสบายใจกับการประเมินมูลค่าและความเสี่ยงด้านสัมปทานสูง",
-      "moatStatus": "มี",
-      "moatReason": "สถานที่โฆษณา/สัมปทานที่ขาดแคลน สินค้าคงคลังดิจิทัลระดับประเทศ ความสัมพันธ์และขนาดกับผู้ลงโฆษณา ก่อให้เกิดอุปสรรคที่แข็งแกร่งและเศรษฐศาสตร์เครือข่าย",
-      "industryComparison": "พบกับ สื่อนอกบ้านและสื่อโฆษณา กลุ่มบริษัทเทียบเคียง ด้วย อัตราการใช้กำลังการผลิต, รายได้ต่อจุดโฆษณา, อัตรากำไร EBITDA, อายุสัมปทาน, FCF และ P/E",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-06",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-14",
-      "sources": [
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/PLANB/historical-trading"
-        },
-        {
-          "label": "Company Highlights",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/PLANB/financial-statement/company-highlights"
-        }
-      ],
-      "price": 8.45,
-      "marketCap": 38872.53,
-      "pe": 32.69,
-      "pbv": 3.08,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 62,
       "ticker": "BLA",
       "company": "Bangkok Life Assurance PCL.",
       "sector": "Insurance",
@@ -4685,15 +4619,15 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/BLA/factsheet"
         }
       ],
-      "price": 22.7,
-      "marketCap": 38761.83,
+      "price": 22.8,
+      "marketCap": 38932.59,
       "pe": 5.23,
       "pbv": 0.68,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "ticker": "SAWAD",
       "company": "Srisawad Corporation PCL.",
       "sector": "Finance & Securities",
@@ -4750,10 +4684,76 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/SAWAD/historical-trading"
         }
       ],
-      "price": 22.9,
-      "marketCap": 38048.51,
+      "price": 23.0,
+      "marketCap": 38214.66,
       "pe": 6.62,
       "pbv": 0.9,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 63,
+      "ticker": "PLANB",
+      "company": "Plan B Media PCL.",
+      "sector": "Media & Publishing",
+      "valuation": "Expensive",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 504.15,
+      "npatGrowth": null,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Media สินทรัพย์ รูปแบบ",
+      "debtEbitdaNote": "มุ่งเน้นไปที่การใช้ความจุสื่อ ส่วนต่างของ EBITDA FCF และเงินทุนหมุนเวียนในการเข้าซื้อกิจการ/กิจกรรม",
+      "score": 7.5625,
+      "flags": [
+        "OOH เครือข่าย",
+        "Digital Screens",
+        "ขนาดธุรกิจ",
+        "อัตราการใช้กำลังการผลิต",
+        "Event/Engagement"
+      ],
+      "summary": "PLANB ความได้เปรียบการแข่งขัน แข็งจาก ทำเลและสิทธิสัมปทาน + เครือข่าย แต่หลังราคาขึ้นแรง มูลค่าหุ้น กลายเป็นความเสี่ยงหลัก ต้องให้ กำไร วิ่งตามราคาให้ทัน.",
+      "framework": {
+        "1. Management": "แพลตฟอร์มสื่อนอกบ้านที่นำโดยผู้ก่อตั้ง พร้อมด้วยการดำเนินการที่แข็งแกร่งในด้านการเข้าซื้อกิจการ การแปลงทางดิจิทัล และการใช้สินทรัพย์ ฝ่ายบริหารได้สร้างสินค้าคงคลังขนาดใหญ่ แต่วินัยในการจัดสรรเงินทุนมีความสำคัญเมื่อสินทรัพย์สื่อ/งานกิจกรรมขยายตัว",
+        "2. Product / Moat": "การโฆษณานอกบ้านผ่านระบบขนส่งมวลชน ดิจิทัล สนามบิน สื่อค้าปลีกและสื่อคลาสสิก รวมถึงเนื้อหาการมีส่วนร่วม/กิจกรรม คูเมือง: มี — สถานที่/สัมปทานที่หายาก ความสัมพันธ์กับผู้ลงโฆษณา ขนาดสินค้าคงคลังระดับชาติ ข้อมูลผู้ชม และเครือข่ายหน้าจอดิจิทัล มีความทนทานสูงในขณะที่สัมปทาน/สถานที่ยังคงปลอดภัย",
+        "3. TAM / Growth Runway": "การโฆษณา OOH สามารถรับส่วนแบ่งจากสื่อที่กระจัดกระจาย เนื่องจากความคล่องตัวในเมืองและหน้าจอดิจิทัลช่วยปรับปรุงการกำหนดเป้าหมาย เส้นทางการเติบโตมาจากการใช้งาน ราคา สัมปทานใหม่ และการขายต่อระหว่างการมีส่วนร่วม/กิจกรรม",
+        "4. Positive Catalysts": "การใช้สื่อ ราคาจอดิจิทัล การจราจรระหว่างทาง/สนามบิน การสร้างรายได้จากกิจกรรม/การมีส่วนร่วม สัมปทานใหม่ ความน่าจะเป็นปานกลาง-สูง / ผลกระทบสูงในช่วง 6-24 เดือน",
+        "5. Competitors": "เปรียบเทียบกับ OOH/สื่ออื่นๆ เกี่ยวกับความจุสื่อ การใช้งาน รายได้ต่อหน้าจอ/ไซต์ ส่วนต่างของ EBITDA อายุการใช้งานสัมปทาน FCF และ P/E",
+        "6. Revenue Growth & Margin": "รายได้ครึ่งปีแรกของปี 2569 THB5.08 พันล้าน และ NPAT THB504m; อัตรากำไรสุทธิ ~13.3% และ ROE ~10.4% ธุรกิจมีผลกำไร แต่การปรับอันดับราคาหุ้นเดือนตุลาคมดำเนินไปเร็วกว่ากำไรปัจจุบัน",
+        "7. Regulation": "กฎการโฆษณา สัญญาสัมปทาน ใบอนุญาตจากหน่วยงานท้องถิ่น ข้อมูล/ความเป็นส่วนตัว และกฎการแข่งขัน สิทธิ์ด้านสื่อและสถานที่ขนส่งที่ขาดแคลนถือเป็นอุปสรรคสำคัญ",
+        "8. Narrative & Sentiment": "เรื่องราวคือ 'การรวม OOH ที่โดดเด่น + การใช้งานดิจิทัล' ความเชื่อมั่นเป็นบวกอย่างมากหลังจากการปรับอันดับอย่างรวดเร็วในเดือนตุลาคม เรื่องราวมีราคาเพิ่มมากขึ้น",
+        "9. Valuation Effect": "~32.7x P/E / ~3.1x P/BV = แพงเมื่อเทียบกับ ROE ในปัจจุบัน ปัจจัยบวกเพิ่มเติมจำเป็นต้องเร่งรายรับจากการใช้และราคา",
+        "10. Earnings & Macro": "ฐาน: การใช้ OOH ที่มั่นคงและการเติบโตของรายได้ กรณีบวก: การกำหนดราคา/กิจกรรมดิจิทัลช่วยเพิ่มอัตรากำไร ประเด็นสำคัญ: ปัญหาการชะลอตัวของวงจรโฆษณาหรือสัมปทาน + การบีบอัดหลายครั้ง 3-5ปี ขึ้นอยู่กับ FCF จากเนื้อหาสื่อ",
+        "11. Risk Radar": "ความเสี่ยงสูงสุด: การประเมินมูลค่า (สูง/สูง) วงจรการโฆษณา (ปานกลาง/สูง) การต่ออายุสัมปทาน (ปานกลาง/สูง) การได้มา/การจัดสรรเงินทุน (ปานกลาง/สูง) ความผันผวนของเหตุการณ์ (ปานกลาง/ปานกลาง)"
+      },
+      "thesis": "สถานที่ตั้งของสื่อที่ขาดแคลน เครือข่ายดิจิทัล และระดับประเทศ ทำให้เกิดคูเมือง OOH ของแท้พร้อมความสามารถในการดำเนินงาน",
+      "bear": "การประเมินมูลค่าปัจจุบันทำให้มีขอบเขตความปลอดภัยที่จำกัด แม้แต่การเติบโตของรายได้ที่ดีก็สามารถชดเชยได้ด้วยการบีบอัดหลายครั้ง",
+      "teamComment": "",
+      "marketBelieves": "ตลาดเชื่อว่า PLANB เป็นผู้รวบรวมสื่อ OOH ของประเทศไทยที่มีข้อได้เปรียบเชิงโครงสร้างของ",
+      "marketMissing": "ตลาดอาจตั้งราคาสูงเกินไปในการเร่งกำไรในระยะสั้นหลังจากการปรับอันดับเครดิตในเดือนตุลาคม",
+      "variables": "การใช้งาน, รายได้/ไซต์ดิจิทัล, ส่วนต่างของ EBITDA, อายุสัมปทาน, FCF, รอบการใช้จ่ายโฆษณา, P/E",
+      "fit": "การเติบโต/นักลงทุนด้านสื่อสบายใจกับการประเมินมูลค่าและความเสี่ยงด้านสัมปทานสูง",
+      "moatStatus": "มี",
+      "moatReason": "สถานที่โฆษณา/สัมปทานที่ขาดแคลน สินค้าคงคลังดิจิทัลระดับประเทศ ความสัมพันธ์และขนาดกับผู้ลงโฆษณา ก่อให้เกิดอุปสรรคที่แข็งแกร่งและเศรษฐศาสตร์เครือข่าย",
+      "industryComparison": "พบกับ สื่อนอกบ้านและสื่อโฆษณา กลุ่มบริษัทเทียบเคียง ด้วย อัตราการใช้กำลังการผลิต, รายได้ต่อจุดโฆษณา, อัตรากำไร EBITDA, อายุสัมปทาน, FCF และ P/E",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-06",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-14",
+      "sources": [
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PLANB/historical-trading"
+        },
+        {
+          "label": "Company Highlights",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/PLANB/financial-statement/company-highlights"
+        }
+      ],
+      "price": 8.3,
+      "marketCap": 38182.49,
+      "pe": 32.69,
+      "pbv": 3.08,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
@@ -4819,8 +4819,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/RCL/factsheet"
         }
       ],
-      "price": 44.0,
-      "marketCap": 36465.0,
+      "price": 42.5,
+      "marketCap": 35221.88,
       "pe": 4.81,
       "pbv": 0.64,
       "evEbitda": 3.43,
@@ -4951,8 +4951,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/TOA/factsheet"
         }
       ],
-      "price": 15.2,
-      "marketCap": 30840.8,
+      "price": 15.3,
+      "marketCap": 31043.7,
       "pe": 9.08,
       "pbv": 1.87,
       "evEbitda": 5.6,
@@ -5026,6 +5026,72 @@
     },
     {
       "rank": 68,
+      "ticker": "SPALI",
+      "company": "Supalai PCL.",
+      "sector": "Property Development",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": null,
+      "periodNpat": 2048.84,
+      "npatGrowth": null,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "Property developer",
+      "debtEbitdaNote": "ใช้อัตราส่วนหนี้สินต่อทุนสุทธิ ยอดขายล่วงหน้า/งานในมือ สินค้าคงคลัง และหนี้สินที่มีดอกเบี้ย แทนที่จะใช้หน้าจอเลเวอเรจ EBITDA แบบธรรมดา",
+      "score": 7.9375,
+      "flags": [
+        "Housing",
+        "ที่ดิน Bank",
+        "Low P/BV",
+        "เงินปันผล",
+        "งบดุลแบบอนุรักษ์นิยม"
+      ],
+      "summary": "SPALI เป็น มูลค่า+เงินปันผล ชัดเจน P/BV ต่ำมาก แต่ ปัจจัยกระตุ้น หลักต้องมาจาก ยอดขายรอโอน/โอนฟื้น ไม่ใช่หวัง ตัวคูณมูลค่า ขยายเอง.",
+      "framework": {
+        "1. Management": "ผู้ก่อตั้ง/ผู้พัฒนาที่อยู่อาศัยที่ควบคุมโดยครอบครัวซึ่งมีประวัติการจัดสรรทุนแบบอนุรักษ์นิยมมายาวนาน ในอดีตฝ่ายบริหารได้เน้นย้ำถึงวินัยในที่ดิน ความสามารถในการทำกำไร และเงินปันผลมากกว่าการก่อหนี้เชิงรุก",
+        "2. Product / Moat": "บ้านเดี่ยว ทาวน์โฮม คอนโดมิเนียม สำนักงานให้เช่า และโรงแรมที่คัดสรร คูเมือง: มีร่องรอย — แบรนด์ การจัดหาที่ดิน การออกแบบ/การก่อสร้าง การปรากฏตัวทางภูมิศาสตร์ในวงกว้าง และวินัยในงบดุล ความทนทานปานกลาง-สูง",
+        "3. TAM / Growth Runway": "บ้านไทย TAM เป็นผู้ใหญ่และเป็นวัฏจักร รันเวย์การเติบโตมาจากการเพิ่มส่วนแบ่งการตลาด การกระจายความหลากหลายในระดับจังหวัด การเปิดตัวคอนโด และการคัดเลือกสินทรัพย์ที่เกิดซ้ำมากกว่าการขยายตลาด",
+        "4. Positive Catalysts": "การกู้คืนยอดขายล่วงหน้า/งานที่ค้างอยู่; อัตราการจำนองที่ลดลง การเปิดตัวโครงการ วินัยเรื่องต้นทุนที่ดิน เงินปันผล; การแปลงสินค้าคงคลัง ความน่าจะเป็น ปานกลาง / ผลกระทบ ปานกลาง-สูง ในช่วง 6-24 เดือน",
+        "5. Competitors": "เปรียบเทียบกับผู้พัฒนาที่อยู่อาศัยในด้านยอดขายล่วงหน้า งานในมือ อัตรากำไรขั้นต้น สินค้าคงคลัง อัตราส่วนหนี้สินต่อทุนสุทธิ ROE อัตราเงินปันผลตอบแทน และ P/BV งบดุล/เงินปันผลของ SPALI ถือเป็นจุดแข็งหลัก",
+        "6. Revenue Growth & Margin": "รายได้ครึ่งแรกของปี THB11.08 พันล้าน และ NPAT THB2.05 พันล้าน; อัตรากำไรสุทธิ ~18.8% กำไรยังคงแข็งแกร่งแม้จะมีวงจรที่อยู่อาศัยที่อ่อนแอ ซึ่งสะท้อนถึงต้นทุนและความมีระเบียบวินัยของโครงการ",
+        "7. Regulation": "นโยบายการจำนอง/LTV ภาษีทรัพย์สิน การแบ่งเขต การอนุมัติ EIA และเงื่อนไขสินเชื่อครัวเรือนมีความสำคัญ กฎระเบียบส่วนใหญ่เป็นปัจจัยด้านอุปสงค์/เวลามากกว่าคูเมือง",
+        "8. Narrative & Sentiment": "คำบรรยายคือ 'นักพัฒนาคุณภาพ P/BV ที่ให้เงินปันผลสูง และต่ำในวงจรที่อยู่อาศัยที่อ่อนแอ' ความเชื่อมั่นมีความระมัดระวังเนื่องจากความต้องการของภาคอุตสาหกรรมอ่อนแอ แต่คุณภาพงบดุลสนับสนุนข้อเสีย",
+        "9. Valuation Effect": "~6.6x P/E / ~0.53x P/BV ที่มีอัตราผลตอบแทนจากเงินปันผลสูง = ถูก การรีเรตติ้งต้องอาศัยการรักษาเสถียรภาพของที่อยู่อาศัย/ยอดขายล่วงหน้า มิฉะนั้นการจ่ายเงินปันผลยังสามารถขับเคลื่อนผลตอบแทนที่ยอมรับได้",
+        "10. Earnings & Macro": "ฐาน: อุปสงค์อ่อนตัวแต่อัตรากำไร/เงินปันผลคงที่ กระทิง: อัตราที่ลดลง + การฟื้นตัวของยอดขายล่วงหน้า กรณีลบ: ความอ่อนแอของที่อยู่อาศัยที่ยาวนานและการสร้างสินค้าคงคลัง 3-5y ขึ้นอยู่กับการหมุนเวียนที่ดิน/สินค้าคงคลังที่มีระเบียบวินัย",
+        "11. Risk Radar": "ความเสี่ยงหลัก: ความต้องการที่อยู่อาศัย (สูง/สูง) ความพร้อมในการจำนอง/LTV (สูง/ปานกลาง) การดูดซับสินค้าคงคลัง (ปานกลาง/สูง) ต้นทุนการก่อสร้าง (ปานกลาง/ปานกลาง) ระยะเวลาของโครงการ (ปานกลาง/ปานกลาง)"
+      },
+      "thesis": "งบดุลที่อนุรักษ์นิยม วินัยเรื่องที่ดิน และการจ่ายเงินปันผลที่สูงสนับสนุนผลตอบแทนของผู้ถือหุ้นที่น่าดึงดูดตลอดวงจร",
+      "bear": "การประเมินราคาที่ต่ำสามารถคงอยู่ได้นานหลายปี หากความต้องการที่อยู่อาศัยยังคงมีโครงสร้างที่อ่อนแอและ ROE ลดลง",
+      "teamComment": "",
+      "marketBelieves": "ตลาดเชื่อ SPALI ราคาถูกแต่ติดอยู่ในวัฏจักรที่อยู่อาศัยไทยที่อ่อนแอ",
+      "marketMissing": "ตลาดอาจประเมินราคาความยืดหยุ่นของงบดุลและการจ่ายเงินปันผลต่ำกว่าปกติในช่วงที่เศรษฐกิจตกต่ำ",
+      "variables": "ยอดขายล่วงหน้า งานในมือ การโอน อัตรากำไรขั้นต้น สินค้าคงคลัง อัตราส่วนหนี้สินต่อทุนสุทธิ อัตราการปฏิเสธการจำนอง เงินปันผล",
+      "fit": "นักลงทุนด้านอสังหาริมทรัพย์ที่มีมูลค่า/รายได้สบายใจกับวัฏจักรที่อยู่อาศัย",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "การจัดหาที่ดิน แบรนด์ การดำเนินการก่อสร้าง และงบดุลเชิงอนุรักษ์สร้างข้อได้เปรียบ แม้ว่าอำนาจการกำหนดราคาที่อยู่อาศัยยังคงมีจำกัด",
+      "industryComparison": "ไปจนถึง ผู้พัฒนาอสังหาริมทรัพย์เพื่ออยู่อาศัย ด้วย ยอดขายรอโอน, งานในมือ, อัตรากำไรขั้นต้น, สินค้าคงคลัง, อัตราหนี้สินสุทธิ, ROE, อัตราผลตอบแทนเงินปันผล และ P/BV",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-06",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-10-29",
+      "sources": [
+        {
+          "label": "ราคา / จุดเด่นของบริษัท",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/price"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/historical-trading"
+        }
+      ],
+      "price": 15.6,
+      "marketCap": 30467.65,
+      "pe": 6.55,
+      "pbv": 0.53,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 69,
       "ticker": "STA",
       "company": "Sri Trang Agro-Industry PCL.",
       "sector": "Agribusiness",
@@ -5086,81 +5152,81 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/STA/financial-statement/financial-statements-analysis"
         }
       ],
-      "price": 19.8,
-      "marketCap": 30412.8,
+      "price": 19.7,
+      "marketCap": 30259.2,
       "pe": null,
       "pbv": 0.73,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
-      "rank": 69,
-      "ticker": "SPALI",
-      "company": "Supalai PCL.",
+      "rank": 70,
+      "ticker": "AMATA",
+      "company": "Amata Corporation PCL.",
       "sector": "Property Development",
-      "valuation": "Cheap",
+      "valuation": "Fair Value",
       "period": "1H2026 / Q2 2026",
       "qNpat": null,
-      "periodNpat": 2048.84,
+      "periodNpat": 2962.03,
       "npatGrowth": null,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "Property developer",
-      "debtEbitdaNote": "ใช้อัตราส่วนหนี้สินต่อทุนสุทธิ ยอดขายล่วงหน้า/งานในมือ สินค้าคงคลัง และหนี้สินที่มีดอกเบี้ย แทนที่จะใช้หน้าจอเลเวอเรจ EBITDA แบบธรรมดา",
-      "score": 7.9375,
+      "debtEbitda": 6.955335871300504,
+      "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
+      "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (EV - มูลค่าตลาด)/EBITDA; สินค้าคงคลังของทรัพย์สินและการจัดหาเงินทุนของโครงการลดความสามารถในการเปรียบเทียบ",
+      "score": 8.0625,
       "flags": [
-        "Housing",
+        "นิคมอุตสาหกรรม",
+        "FDI",
+        "สาธารณูปโภค",
         "ที่ดิน Bank",
-        "Low P/BV",
-        "เงินปันผล",
-        "งบดุลแบบอนุรักษ์นิยม"
+        "ศูนย์ข้อมูล"
       ],
-      "summary": "SPALI เป็น มูลค่า+เงินปันผล ชัดเจน P/BV ต่ำมาก แต่ ปัจจัยกระตุ้น หลักต้องมาจาก ยอดขายรอโอน/โอนฟื้น ไม่ใช่หวัง ตัวคูณมูลค่า ขยายเอง.",
+      "summary": "AMATA ธุรกิจ คุณภาพ สูงจาก ที่ดินและโครงสร้างพื้นฐาน ความได้เปรียบการแข่งขัน แต่หลังหุ้น ปรับมูลค่าขึ้น แรง ต้องดู งานในมือ/รายได้สาธารณูปโภคประจำ มากกว่า P/E ต่ำเพียงตัวเดียว.",
       "framework": {
-        "1. Management": "ผู้ก่อตั้ง/ผู้พัฒนาที่อยู่อาศัยที่ควบคุมโดยครอบครัวซึ่งมีประวัติการจัดสรรทุนแบบอนุรักษ์นิยมมายาวนาน ในอดีตฝ่ายบริหารได้เน้นย้ำถึงวินัยในที่ดิน ความสามารถในการทำกำไร และเงินปันผลมากกว่าการก่อหนี้เชิงรุก",
-        "2. Product / Moat": "บ้านเดี่ยว ทาวน์โฮม คอนโดมิเนียม สำนักงานให้เช่า และโรงแรมที่คัดสรร คูเมือง: มีร่องรอย — แบรนด์ การจัดหาที่ดิน การออกแบบ/การก่อสร้าง การปรากฏตัวทางภูมิศาสตร์ในวงกว้าง และวินัยในงบดุล ความทนทานปานกลาง-สูง",
-        "3. TAM / Growth Runway": "บ้านไทย TAM เป็นผู้ใหญ่และเป็นวัฏจักร รันเวย์การเติบโตมาจากการเพิ่มส่วนแบ่งการตลาด การกระจายความหลากหลายในระดับจังหวัด การเปิดตัวคอนโด และการคัดเลือกสินทรัพย์ที่เกิดซ้ำมากกว่าการขยายตลาด",
-        "4. Positive Catalysts": "การกู้คืนยอดขายล่วงหน้า/งานที่ค้างอยู่; อัตราการจำนองที่ลดลง การเปิดตัวโครงการ วินัยเรื่องต้นทุนที่ดิน เงินปันผล; การแปลงสินค้าคงคลัง ความน่าจะเป็น ปานกลาง / ผลกระทบ ปานกลาง-สูง ในช่วง 6-24 เดือน",
-        "5. Competitors": "เปรียบเทียบกับผู้พัฒนาที่อยู่อาศัยในด้านยอดขายล่วงหน้า งานในมือ อัตรากำไรขั้นต้น สินค้าคงคลัง อัตราส่วนหนี้สินต่อทุนสุทธิ ROE อัตราเงินปันผลตอบแทน และ P/BV งบดุล/เงินปันผลของ SPALI ถือเป็นจุดแข็งหลัก",
-        "6. Revenue Growth & Margin": "รายได้ครึ่งแรกของปี THB11.08 พันล้าน และ NPAT THB2.05 พันล้าน; อัตรากำไรสุทธิ ~18.8% กำไรยังคงแข็งแกร่งแม้จะมีวงจรที่อยู่อาศัยที่อ่อนแอ ซึ่งสะท้อนถึงต้นทุนและความมีระเบียบวินัยของโครงการ",
-        "7. Regulation": "นโยบายการจำนอง/LTV ภาษีทรัพย์สิน การแบ่งเขต การอนุมัติ EIA และเงื่อนไขสินเชื่อครัวเรือนมีความสำคัญ กฎระเบียบส่วนใหญ่เป็นปัจจัยด้านอุปสงค์/เวลามากกว่าคูเมือง",
-        "8. Narrative & Sentiment": "คำบรรยายคือ 'นักพัฒนาคุณภาพ P/BV ที่ให้เงินปันผลสูง และต่ำในวงจรที่อยู่อาศัยที่อ่อนแอ' ความเชื่อมั่นมีความระมัดระวังเนื่องจากความต้องการของภาคอุตสาหกรรมอ่อนแอ แต่คุณภาพงบดุลสนับสนุนข้อเสีย",
-        "9. Valuation Effect": "~6.6x P/E / ~0.53x P/BV ที่มีอัตราผลตอบแทนจากเงินปันผลสูง = ถูก การรีเรตติ้งต้องอาศัยการรักษาเสถียรภาพของที่อยู่อาศัย/ยอดขายล่วงหน้า มิฉะนั้นการจ่ายเงินปันผลยังสามารถขับเคลื่อนผลตอบแทนที่ยอมรับได้",
-        "10. Earnings & Macro": "ฐาน: อุปสงค์อ่อนตัวแต่อัตรากำไร/เงินปันผลคงที่ กระทิง: อัตราที่ลดลง + การฟื้นตัวของยอดขายล่วงหน้า กรณีลบ: ความอ่อนแอของที่อยู่อาศัยที่ยาวนานและการสร้างสินค้าคงคลัง 3-5y ขึ้นอยู่กับการหมุนเวียนที่ดิน/สินค้าคงคลังที่มีระเบียบวินัย",
-        "11. Risk Radar": "ความเสี่ยงหลัก: ความต้องการที่อยู่อาศัย (สูง/สูง) ความพร้อมในการจำนอง/LTV (สูง/ปานกลาง) การดูดซับสินค้าคงคลัง (ปานกลาง/สูง) ต้นทุนการก่อสร้าง (ปานกลาง/ปานกลาง) ระยะเวลาของโครงการ (ปานกลาง/ปานกลาง)"
+        "1. Management": "แพลตฟอร์มนิคมอุตสาหกรรมที่นำโดยผู้ก่อตั้งภายใต้วิกรม กรมดิษฐ์ ซึ่งมีประวัติการพัฒนาที่ดินมายาวนานและประวัติการลงทุนโดยตรงจากต่างประเทศ ผู้บริหารมืออาชีพบริหารที่ดินและสาธารณูปโภคในประเทศไทย/เวียดนาม การจัดสรรเงินทุนมีความเชื่อมโยงกับความต้องการของศูนย์ข้อมูล/อุตสาหกรรมขั้นสูงและรายได้โครงสร้างพื้นฐานที่เกิดขึ้นประจำมากขึ้น",
+        "2. Product / Moat": "นิคมอุตสาหกรรมในประเทศไทยและเวียดนาม รวมถึงสาธารณูปโภค พลังงาน ก๊าซ และบริการ คูเมือง: มี — ธนาคารที่ดินเชิงกลยุทธ์ โครงสร้างพื้นฐาน ใบอนุญาต สาธารณูปโภค ระบบนิเวศของลูกค้า และความสัมพันธ์ FDI ที่ยาวนาน ความทนทานสูงมากในตำแหน่งหลัก",
+        "3. TAM / Growth Runway": "China+1, EV, อิเล็กทรอนิกส์, ศูนย์ข้อมูล และการย้ายตำแหน่งห่วงโซ่อุปทานระดับภูมิภาค ช่วยเพิ่มความต้องการที่ดินอุตสาหกรรม รันเวย์มาจากการขาย/โอนที่ดิน สาธารณูปโภค การบริการที่เกิดขึ้นประจำ และการขยายธุรกิจในเวียดนาม",
+        "4. Positive Catalysts": "การเร่งการลงทุนโดยตรงจากต่างประเทศ; การโอนที่ดินที่ค้างอยู่ ลูกค้าศูนย์ข้อมูล/อิเล็กทรอนิกส์ การขายที่ดินในเวียดนาม การเติบโตของสาธารณูปโภค การสร้างรายได้จากสินทรัพย์ ความน่าจะเป็นสูง / ผลกระทบสูงในช่วง 6-36 เดือน",
+        "5. Competitors": "เปรียบเทียบกับบริษัท WHA/นิคมอุตสาหกรรมในด้านการขาย/โอนที่ดิน งานในมือ ปริมาณสาธารณูปโภค EBITDA ที่เกิดขึ้นประจำ ธนาคารที่ดิน ROIC และ NAV/P-E",
+        "6. Revenue Growth & Margin": "รายได้ครึ่งแรกของปี 2569 THB8.06 พันล้าน และ NPAT THB2.96 พันล้าน โดยมีอัตรากำไรสุทธิที่สูงมาก การเติบโตของรายได้ได้รับแรงหนุนจากการโอนที่ดินและการลงทุนโดยตรงจากต่างประเทศ ในขณะที่ระบบสาธารณูปโภคช่วยเพิ่มรายได้ประจำ กำไรจากการทำธุรกรรมอาจทำให้กำไรพาดหัวเป็นก้อน",
+        "7. Regulation": "ใบอนุญาตนิคมอุตสาหกรรม สิ่งจูงใจจาก BOI EIA/สิ่งแวดล้อม กฎระเบียบด้านสาธารณูปโภค และนโยบายการลงทุนจากต่างประเทศ การขาดแคลนที่ดินและโครงสร้างพื้นฐานที่ได้รับอนุมัติถือเป็นอุปสรรคสำคัญ",
+        "8. Narrative & Sentiment": "คำบรรยายคือ 'FDI ของไทย/เวียดนามและผู้รับประโยชน์จากศูนย์ข้อมูล' ความเชื่อมั่นเป็นบวกอย่างมากหลังจากการปรับอันดับเครดิตที่แข็งแกร่งในปี 2569; เรื่องราวไม่ใช่เรื่องเร็วอีกต่อไป",
+        "9. Valuation Effect": "7.05x P/E / 1.40x P/BV / 8.08x EV-EBITDA ดูไม่แพง แต่กำไรยังไม่ค่อยดีนัก และราคาหุ้นมี rerated อย่างรวดเร็ว NAV/งานในมือ และยูทิลิตี้ที่เกิดซ้ำมีความสำคัญมากกว่าพาดหัว P/E",
+        "10. Earnings & Macro": "ฐาน: การแปลง FDI/งานในมือ ที่แข็งแกร่ง กรณีบวก: การเร่งการย้ายศูนย์ข้อมูล/อิเล็กทรอนิกส์ แบร์: ระยะเวลา FDI ช้าและการโอนที่ดินสลิป มูลค่า 3-5 ปี ขึ้นอยู่กับรายได้สาธารณูปโภคที่เกิดขึ้นและการสร้างรายได้จากที่ดินที่มีระเบียบวินัย",
+        "11. Risk Radar": "ความเสี่ยงสูงสุด: วงจรการลงทุนโดยตรงจากต่างประเทศ (ปานกลาง/สูง) ระยะเวลาในการโอนที่ดิน (ปานกลาง/สูง) นโยบายทางการเมือง/สิ่งจูงใจ (ปานกลาง/สูง) การดำเนินการของเวียดนาม (ปานกลาง/ปานกลาง) การประเมินมูลค่าหลังการจัดอันดับใหม่ (ปานกลาง/กลาง)"
       },
-      "thesis": "งบดุลที่อนุรักษ์นิยม วินัยเรื่องที่ดิน และการจ่ายเงินปันผลที่สูงสนับสนุนผลตอบแทนของผู้ถือหุ้นที่น่าดึงดูดตลอดวงจร",
-      "bear": "การประเมินราคาที่ต่ำสามารถคงอยู่ได้นานหลายปี หากความต้องการที่อยู่อาศัยยังคงมีโครงสร้างที่อ่อนแอและ ROE ลดลง",
+      "thesis": "ที่ดินอุตสาหกรรมเชิงกลยุทธ์ โครงสร้างพื้นฐาน และระบบนิเวศของลูกค้า ก่อให้เกิดคูน้ำทรัพย์สิน/โครงสร้างพื้นฐานที่แข็งแกร่งที่สุดแห่งหนึ่งในประเทศไทย",
+      "bear": "รายได้ทั่วไปอาจเป็นธุรกรรมที่หนักหน่วงและเป็นก้อน การปรับอันดับเครดิตที่แข็งแกร่งจะทำให้ขอบเขตความปลอดภัยลดลงหากโมเมนตัม FDI ลดลง",
       "teamComment": "",
-      "marketBelieves": "ตลาดเชื่อ SPALI ราคาถูกแต่ติดอยู่ในวัฏจักรที่อยู่อาศัยไทยที่อ่อนแอ",
-      "marketMissing": "ตลาดอาจประเมินราคาความยืดหยุ่นของงบดุลและการจ่ายเงินปันผลต่ำกว่าปกติในช่วงที่เศรษฐกิจตกต่ำ",
-      "variables": "ยอดขายล่วงหน้า งานในมือ การโอน อัตรากำไรขั้นต้น สินค้าคงคลัง อัตราส่วนหนี้สินต่อทุนสุทธิ อัตราการปฏิเสธการจำนอง เงินปันผล",
-      "fit": "นักลงทุนด้านอสังหาริมทรัพย์ที่มีมูลค่า/รายได้สบายใจกับวัฏจักรที่อยู่อาศัย",
-      "moatStatus": "มีบางส่วน",
-      "moatReason": "การจัดหาที่ดิน แบรนด์ การดำเนินการก่อสร้าง และงบดุลเชิงอนุรักษ์สร้างข้อได้เปรียบ แม้ว่าอำนาจการกำหนดราคาที่อยู่อาศัยยังคงมีจำกัด",
-      "industryComparison": "ไปจนถึง ผู้พัฒนาอสังหาริมทรัพย์เพื่ออยู่อาศัย ด้วย ยอดขายรอโอน, งานในมือ, อัตรากำไรขั้นต้น, สินค้าคงคลัง, อัตราหนี้สินสุทธิ, ROE, อัตราผลตอบแทนเงินปันผล และ P/BV",
+      "marketBelieves": "ตลาดเชื่อว่าอมตะเป็นผู้ชนะโดยตรงจากการย้ายฐานอุตสาหกรรมในประเทศไทย/เวียดนามและการลงทุนโดยตรงจากศูนย์ข้อมูล",
+      "marketMissing": "ตลาดอาจตั้งราคาต่ำกว่าค่าสาธารณูปโภคที่เกิดขึ้นประจำและตัวเลือกของเวียดนาม ขณะเดียวกันก็อาจคาดการณ์กำไรพิเศษในครึ่งแรกของปี 2569 มากเกินไป",
+      "variables": "การขาย/การโอนที่ดิน งานในมือ การอนุมัติ FDI ปริมาณสาธารณูปโภค การสนับสนุนในเวียดนาม ลูกค้าศูนย์ข้อมูล NAV, FCF",
+      "fit": "นักลงทุนที่มีการเติบโตอย่างมีคุณภาพ/นักลงทุนจากต่างประเทศสบายใจกับรายได้จากอสังหาริมทรัพย์ก้อนโต",
+      "moatStatus": "มี",
+      "moatReason": "ที่ดินอุตสาหกรรมที่ขาดแคลน โครงสร้างพื้นฐาน ใบอนุญาต สาธารณูปโภค และความสัมพันธ์จาก FDI ในระยะยาว ก่อให้เกิดอุปสรรคในการเข้ามาสูงและความเหนียวแน่นของลูกค้า",
+      "industryComparison": "ร่วมกับนิคมอุตสาหกรรมด้วย ยอดขายและโอนที่ดิน, งานในมือ, ปริมาณการใช้สาธารณูปโภค, EBITDA ที่เกิดซ้ำ, ROIC, NAV และ P/E",
       "updateStatus": "Current",
       "marketDataUpdated": "2026-11-06",
       "financialDataUpdated": "1H2026 / Q2 2026",
       "researchReviewed": "2026-10-29",
       "sources": [
         {
-          "label": "ราคา / จุดเด่นของบริษัท",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/price"
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AMATA/factsheet"
         },
         {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/historical-trading"
+          "label": "ราคา / จุดเด่นของบริษัท",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/AMATA/price"
         }
       ],
-      "price": 15.5,
-      "marketCap": 30272.34,
-      "pe": 6.55,
-      "pbv": 0.53,
-      "evEbitda": null,
+      "price": 26.25,
+      "marketCap": 30187.5,
+      "pe": 7.05,
+      "pbv": 1.4,
+      "evEbitda": 8.08,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "ticker": "CK",
       "company": "CH. Karnchang PCL.",
       "sector": "Construction Services",
@@ -5222,72 +5288,6 @@
       "pe": 8.98,
       "pbv": 1.0,
       "evEbitda": 9.95,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 71,
-      "ticker": "AMATA",
-      "company": "Amata Corporation PCL.",
-      "sector": "Property Development",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": null,
-      "periodNpat": 2962.03,
-      "npatGrowth": null,
-      "debtEbitda": 6.955335871300504,
-      "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
-      "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (EV - มูลค่าตลาด)/EBITDA; สินค้าคงคลังของทรัพย์สินและการจัดหาเงินทุนของโครงการลดความสามารถในการเปรียบเทียบ",
-      "score": 8.0625,
-      "flags": [
-        "นิคมอุตสาหกรรม",
-        "FDI",
-        "สาธารณูปโภค",
-        "ที่ดิน Bank",
-        "ศูนย์ข้อมูล"
-      ],
-      "summary": "AMATA ธุรกิจ คุณภาพ สูงจาก ที่ดินและโครงสร้างพื้นฐาน ความได้เปรียบการแข่งขัน แต่หลังหุ้น ปรับมูลค่าขึ้น แรง ต้องดู งานในมือ/รายได้สาธารณูปโภคประจำ มากกว่า P/E ต่ำเพียงตัวเดียว.",
-      "framework": {
-        "1. Management": "แพลตฟอร์มนิคมอุตสาหกรรมที่นำโดยผู้ก่อตั้งภายใต้วิกรม กรมดิษฐ์ ซึ่งมีประวัติการพัฒนาที่ดินมายาวนานและประวัติการลงทุนโดยตรงจากต่างประเทศ ผู้บริหารมืออาชีพบริหารที่ดินและสาธารณูปโภคในประเทศไทย/เวียดนาม การจัดสรรเงินทุนมีความเชื่อมโยงกับความต้องการของศูนย์ข้อมูล/อุตสาหกรรมขั้นสูงและรายได้โครงสร้างพื้นฐานที่เกิดขึ้นประจำมากขึ้น",
-        "2. Product / Moat": "นิคมอุตสาหกรรมในประเทศไทยและเวียดนาม รวมถึงสาธารณูปโภค พลังงาน ก๊าซ และบริการ คูเมือง: มี — ธนาคารที่ดินเชิงกลยุทธ์ โครงสร้างพื้นฐาน ใบอนุญาต สาธารณูปโภค ระบบนิเวศของลูกค้า และความสัมพันธ์ FDI ที่ยาวนาน ความทนทานสูงมากในตำแหน่งหลัก",
-        "3. TAM / Growth Runway": "China+1, EV, อิเล็กทรอนิกส์, ศูนย์ข้อมูล และการย้ายตำแหน่งห่วงโซ่อุปทานระดับภูมิภาค ช่วยเพิ่มความต้องการที่ดินอุตสาหกรรม รันเวย์มาจากการขาย/โอนที่ดิน สาธารณูปโภค การบริการที่เกิดขึ้นประจำ และการขยายธุรกิจในเวียดนาม",
-        "4. Positive Catalysts": "การเร่งการลงทุนโดยตรงจากต่างประเทศ; การโอนที่ดินที่ค้างอยู่ ลูกค้าศูนย์ข้อมูล/อิเล็กทรอนิกส์ การขายที่ดินในเวียดนาม การเติบโตของสาธารณูปโภค การสร้างรายได้จากสินทรัพย์ ความน่าจะเป็นสูง / ผลกระทบสูงในช่วง 6-36 เดือน",
-        "5. Competitors": "เปรียบเทียบกับบริษัท WHA/นิคมอุตสาหกรรมในด้านการขาย/โอนที่ดิน งานในมือ ปริมาณสาธารณูปโภค EBITDA ที่เกิดขึ้นประจำ ธนาคารที่ดิน ROIC และ NAV/P-E",
-        "6. Revenue Growth & Margin": "รายได้ครึ่งแรกของปี 2569 THB8.06 พันล้าน และ NPAT THB2.96 พันล้าน โดยมีอัตรากำไรสุทธิที่สูงมาก การเติบโตของรายได้ได้รับแรงหนุนจากการโอนที่ดินและการลงทุนโดยตรงจากต่างประเทศ ในขณะที่ระบบสาธารณูปโภคช่วยเพิ่มรายได้ประจำ กำไรจากการทำธุรกรรมอาจทำให้กำไรพาดหัวเป็นก้อน",
-        "7. Regulation": "ใบอนุญาตนิคมอุตสาหกรรม สิ่งจูงใจจาก BOI EIA/สิ่งแวดล้อม กฎระเบียบด้านสาธารณูปโภค และนโยบายการลงทุนจากต่างประเทศ การขาดแคลนที่ดินและโครงสร้างพื้นฐานที่ได้รับอนุมัติถือเป็นอุปสรรคสำคัญ",
-        "8. Narrative & Sentiment": "คำบรรยายคือ 'FDI ของไทย/เวียดนามและผู้รับประโยชน์จากศูนย์ข้อมูล' ความเชื่อมั่นเป็นบวกอย่างมากหลังจากการปรับอันดับเครดิตที่แข็งแกร่งในปี 2569; เรื่องราวไม่ใช่เรื่องเร็วอีกต่อไป",
-        "9. Valuation Effect": "7.05x P/E / 1.40x P/BV / 8.08x EV-EBITDA ดูไม่แพง แต่กำไรยังไม่ค่อยดีนัก และราคาหุ้นมี rerated อย่างรวดเร็ว NAV/งานในมือ และยูทิลิตี้ที่เกิดซ้ำมีความสำคัญมากกว่าพาดหัว P/E",
-        "10. Earnings & Macro": "ฐาน: การแปลง FDI/งานในมือ ที่แข็งแกร่ง กรณีบวก: การเร่งการย้ายศูนย์ข้อมูล/อิเล็กทรอนิกส์ แบร์: ระยะเวลา FDI ช้าและการโอนที่ดินสลิป มูลค่า 3-5 ปี ขึ้นอยู่กับรายได้สาธารณูปโภคที่เกิดขึ้นและการสร้างรายได้จากที่ดินที่มีระเบียบวินัย",
-        "11. Risk Radar": "ความเสี่ยงสูงสุด: วงจรการลงทุนโดยตรงจากต่างประเทศ (ปานกลาง/สูง) ระยะเวลาในการโอนที่ดิน (ปานกลาง/สูง) นโยบายทางการเมือง/สิ่งจูงใจ (ปานกลาง/สูง) การดำเนินการของเวียดนาม (ปานกลาง/ปานกลาง) การประเมินมูลค่าหลังการจัดอันดับใหม่ (ปานกลาง/กลาง)"
-      },
-      "thesis": "ที่ดินอุตสาหกรรมเชิงกลยุทธ์ โครงสร้างพื้นฐาน และระบบนิเวศของลูกค้า ก่อให้เกิดคูน้ำทรัพย์สิน/โครงสร้างพื้นฐานที่แข็งแกร่งที่สุดแห่งหนึ่งในประเทศไทย",
-      "bear": "รายได้ทั่วไปอาจเป็นธุรกรรมที่หนักหน่วงและเป็นก้อน การปรับอันดับเครดิตที่แข็งแกร่งจะทำให้ขอบเขตความปลอดภัยลดลงหากโมเมนตัม FDI ลดลง",
-      "teamComment": "",
-      "marketBelieves": "ตลาดเชื่อว่าอมตะเป็นผู้ชนะโดยตรงจากการย้ายฐานอุตสาหกรรมในประเทศไทย/เวียดนามและการลงทุนโดยตรงจากศูนย์ข้อมูล",
-      "marketMissing": "ตลาดอาจตั้งราคาต่ำกว่าค่าสาธารณูปโภคที่เกิดขึ้นประจำและตัวเลือกของเวียดนาม ขณะเดียวกันก็อาจคาดการณ์กำไรพิเศษในครึ่งแรกของปี 2569 มากเกินไป",
-      "variables": "การขาย/การโอนที่ดิน งานในมือ การอนุมัติ FDI ปริมาณสาธารณูปโภค การสนับสนุนในเวียดนาม ลูกค้าศูนย์ข้อมูล NAV, FCF",
-      "fit": "นักลงทุนที่มีการเติบโตอย่างมีคุณภาพ/นักลงทุนจากต่างประเทศสบายใจกับรายได้จากอสังหาริมทรัพย์ก้อนโต",
-      "moatStatus": "มี",
-      "moatReason": "ที่ดินอุตสาหกรรมที่ขาดแคลน โครงสร้างพื้นฐาน ใบอนุญาต สาธารณูปโภค และความสัมพันธ์จาก FDI ในระยะยาว ก่อให้เกิดอุปสรรคในการเข้ามาสูงและความเหนียวแน่นของลูกค้า",
-      "industryComparison": "ร่วมกับนิคมอุตสาหกรรมด้วย ยอดขายและโอนที่ดิน, งานในมือ, ปริมาณการใช้สาธารณูปโภค, EBITDA ที่เกิดซ้ำ, ROIC, NAV และ P/E",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-06",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-10-29",
-      "sources": [
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/AMATA/factsheet"
-        },
-        {
-          "label": "ราคา / จุดเด่นของบริษัท",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/AMATA/price"
-        }
-      ],
-      "price": 26.0,
-      "marketCap": 29900.0,
-      "pe": 7.05,
-      "pbv": 1.4,
-      "evEbitda": 8.08,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
@@ -5487,8 +5487,8 @@
           "url": "https://lssmedia.setlink.set.or.th/2026/6M/BCH-6M69-ListedCompanySnapshot-EN.html"
         }
       ],
-      "price": 10.9,
-      "marketCap": 27181.86,
+      "price": 10.8,
+      "marketCap": 26932.49,
       "pe": 23.55,
       "pbv": 2.2,
       "evEbitda": 10.56,
@@ -5681,8 +5681,8 @@
           "url": "https://www.sritranggloves.com/en/investor-relations/home"
         }
       ],
-      "price": 9.1,
-      "marketCap": 26073.13,
+      "price": 9.15,
+      "marketCap": 26216.39,
       "pe": 87.2,
       "pbv": 0.77,
       "evEbitda": 11.4,
@@ -5690,6 +5690,72 @@
     },
     {
       "rank": 78,
+      "ticker": "AP",
+      "company": "AP (Thailand) PCL.",
+      "sector": "Property Development",
+      "valuation": "Cheap",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 1063.0,
+      "periodNpat": 1966.91,
+      "npatGrowth": 5.2,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "",
+      "debtEbitdaNote": "ผู้พัฒนาอสังหาริมทรัพย์ : ใช้ IBZD/E / D/E",
+      "score": 7.9375,
+      "flags": [
+        "Housing",
+        "Condominium",
+        "งานในมือ",
+        "เงินปันผล",
+        "Low P/BV"
+      ],
+      "summary": "AP คือผู้พัฒนาที่อยู่อาศัยคุณภาพสูงของไทยที่ซื้อขายด้วยมูลค่าที่ต่ำ รายได้ครึ่งแรกของปี 2569 เพิ่มขึ้น ~14.8% และ NPAT +5.2%; งานในมือ THB37.4bn รองรับการมองเห็น ในขณะที่ 6M26 D/E ยังคงอยู่ที่ 0.90x ความเสี่ยงหลักคือแรงกดดันด้านมาร์จิ้นและวงจรที่อยู่อาศัย/สินเชื่อที่อ่อนแอ",
+      "framework": {
+        "1. Management": "ผู้ก่อตั้ง/ผู้ถือหุ้นรายใหญ่ อนุพงษ์ อัศวโภคิน ยังคงเป็นเจ้าของกุญแจ ผู้บริหารมืออาชีพมีประสบการณ์ด้านการพัฒนาโครงการแนวราบและคอนโดมิเนียมมายาวนาน ระเบียบวินัยในการจัดสรรเงินทุนสะท้อนให้เห็นจากเลเวอเรจที่สามารถจัดการได้และการจ่ายเงินปันผลที่สม่ำเสมอ",
+        "2. Product / Moat": "พัฒนาบ้านเดี่ยว บ้านแฝด ทาวน์โฮม และคอนโดมิเนียม ข้อได้เปรียบทางการแข่งขัน ได้แก่ แบรนด์ การออกแบบผลิตภัณฑ์ ความรู้ความชำนาญในการได้มาซึ่งที่ดิน/การพัฒนา เครือข่ายการขาย และขนาดในสถานที่ตั้งกว่า 200 แห่ง",
+        "3. TAM / Growth Runway": "ที่อยู่อาศัยของประเทศไทยมีความสมบูรณ์แต่กระจัดกระจาย เอพีสามารถได้รับส่วนแบ่งจากความแข็งแกร่งแนวราบ การขยายสู่ต่างจังหวัด และการเปิดตัวคอนโดมิเนียม ทางวิ่งขึ้นอยู่กับส่วนแบ่งที่เพิ่มขึ้นและส่วนประสมผลิตภัณฑ์มากกว่าการเติบโตของตลาดเชิงโครงสร้าง",
+        "4. Positive Catalysts": "ตัวเร่งปฏิกิริยา: การโอน งานในมือ, การเปิดตัวใหม่, เงื่อนไข/อัตราการจำนองที่ผ่อนคลายลง, อุปสงค์ในแนวราบที่แข็งแกร่งขึ้น, เงินปันผล ความน่าจะเป็นปานกลางถึงสูง ผลกระทบปานกลางถึงสูงในช่วง 6-24 เดือน",
+        "5. Competitors": "เพื่อนร่วมงาน ได้แก่ SZIRI, SPALI, LH, QH และนักพัฒนาชาวไทยอื่นๆ AP โดดเด่นในด้านความกว้างและการดำเนินการ ในขณะที่ความสามารถในการจ่ายและการอนุมัติสินเชื่อทั่วทั้งภาคส่วนยังคงเป็นข้อจำกัด",
+        "6. Revenue Growth & Margin": "รายได้ครึ่งแรกของปี 2569 THB20.41 พันล้าน +14.8% YoY และ NPAT THB1.97 พันล้าน +5.2% การเติบโตนั้นขึ้นอยู่กับปริมาณ/การนำโดยการถ่ายโอน ในขณะที่อัตรากำไรขั้นต้นของ GP ลดลงเหลือ 30.27% จาก 31.93% ซึ่งแสดงถึงความกดดันด้านการผสมผสาน/การแข่งขัน",
+        "7. Regulation": "กฎสำคัญ: EIA/ใบอนุญาตก่อสร้าง การใช้ที่ดิน/การแบ่งเขต LTV/กฎระเบียบการจำนอง ภาษีทรัพย์สิน และการคุ้มครองผู้บริโภค สินเชื่อที่ผ่อนปรนช่วยในการขาย LTV ที่เข้มงวดมากขึ้นและการจัดจำหน่ายหลักทรัพย์ของธนาคารทำให้เกิดการเปลี่ยนแปลง",
+        "8. Narrative & Sentiment": "เรื่องเล่า: มูลค่าทรัพย์สินที่มีคุณภาพ/การเล่นเงินปันผล ความเชื่อมั่นเป็นกลางต่อการปรับปรุงหากอัตราดอกเบี้ยผ่อนคลายลง แต่ทรัพย์สินยังคงมีส่วนลดเนื่องจากหนี้ครัวเรือนและความสามารถในการจ่ายที่อ่อนแอ",
+        "9. Valuation Effect": "ราคาประเมินที่ 8.00 บาท อยู่ที่ประมาณ P/E หลักเดียวกลาง และ ~0.5 เท่า P/BV พร้อมอัตราผลตอบแทนจากเงินปันผล ~6%+ ราคาถูก แต่การจัดอันดับใหม่จำเป็นต้องมีหลักฐานว่าอัตรากำไรและการแปลงเงินสดมีเสถียรภาพ",
+        "10. Earnings & Macro": "ฐาน: การโอนเติบโตเล็กน้อยและมี งานในมือ ที่มั่นคง กระทิง: อัตรา/เครดิตผ่อนคลายการยกขึ้นและหลายรายการ ภาวะเศรษฐกิจตกต่ำ: เศรษฐกิจที่อ่อนแอ การปฏิเสธการจำนอง และการลดสินค้าคงคลัง ผลตอบแทนใน 3-5y ส่วนใหญ่มาจากการปรับกำไรสุทธิ + เงินปันผล",
+        "11. Risk Radar": "ความเสี่ยงหลัก: การชะลอตัวของที่อยู่อาศัย การปฏิเสธการจำนอง สินค้าคงคลัง/เงินทุนหมุนเวียน การแข่งขันด้านกำไร อัตราดอกเบี้ย ตรวจสอบยอดขายล่วงหน้า การยกเลิก งานในมือ อัตรากำไรขั้นต้นของ GP OCF IBD/E และสินค้าคงคลัง"
+      },
+      "thesis": "P/E/PBV ที่ต่ำ, งานในมือ ที่แข็งแกร่ง, แฟรนไชส์แนวราบที่กว้างขวาง และการกู้ยืมที่มีระเบียบวินัย จะสร้างความเสี่ยง/ผลตอบแทนที่น่าดึงดูด หากความต้องการที่อยู่อาศัยมีเสถียรภาพ",
+      "bear": "การปฏิเสธสินเชื่อที่อยู่อาศัย กำลังซื้อที่อ่อนแอ สินค้าคงคลังจำนวนมาก และการแข่งขันด้านราคาสามารถกดดันอัตรากำไรและทำให้การแปลงเงินสดล่าช้า แม้ว่ายอดขายล่วงหน้าจะดูแข็งแกร่งก็ตาม",
+      "teamComment": "",
+      "marketBelieves": "AP คือชื่อทรัพย์สินที่มีมูลค่าครบกำหนด/เงินปันผลซึ่งมีการเติบโตที่จำกัดแต่การดำเนินการที่แข็งแกร่ง",
+      "marketMissing": "ตลาดอาจประเมินราคาคุณภาพงานที่ค้างอยู่ การขยายตัวของจังหวัด และวินัยในการดำเนินงานต่ำกว่าปกติ หากการโอนเป็นไปตามปกติ แต่ยังคงประเมินความหนาแน่นของการจำนองที่ยืดเยื้อต่ำเกินไป",
+      "variables": "ยอดขายล่วงหน้า การโอน การแปลง งานในมือ อัตรากำไรขั้นต้น อัตราการปฏิเสธการจำนอง สินค้าคงคลัง IBZD/E การซื้อที่ดิน เงินปันผล",
+      "fit": "ผู้ลงทุนด้านมูลค่า/เงินปันผลสบายใจกับวงจรที่อยู่อาศัยของไทยและความเสี่ยงด้านสินค้าคงคลัง",
+      "moatStatus": "มี",
+      "moatReason": "แบรนด์ การจัดหาที่ดิน/การดำเนินการพัฒนา แพลตฟอร์มโครงการทั่วประเทศ ความสามารถในการออกแบบผลิตภัณฑ์ และขนาดสร้างข้อได้เปรียบที่คงทนปานกลาง แม้ว่าทรัพย์สินจะยังคงเป็นวัฏจักรก็ตาม",
+      "industryComparison": "เปรียบเทียบผู้พัฒนาที่อยู่อาศัยไทยเกี่ยวกับยอดขายล่วงหน้า, งานในมือ, การโอน, GP อัตรากำไร, IBZD/E, การหมุนเวียนสินค้าคงคลัง, ROE, P/E, P/BV และอัตราผลตอบแทนจากเงินปันผล",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-06",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "ภาพรวมบริษัทจดทะเบียน 6M26",
+          "url": "https://lssmedia.setlink.set.or.th/2026/6M/AP-6M69-ListedCompanySnapshot-EN.html"
+        },
+        {
+          "label": "Q2/2026 MD&A",
+          "url": "https://ap.listedcompany.com/misc/MDNA/20260813-ap-mdna-2q2026-en.pdf"
+        }
+      ],
+      "price": 7.95,
+      "marketCap": 25009.92,
+      "pe": 5.7,
+      "pbv": 0.54,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 79,
       "ticker": "SIRI",
       "company": "Sansiri PCL.",
       "sector": "Property Development",
@@ -5751,72 +5817,6 @@
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
     {
-      "rank": 79,
-      "ticker": "AP",
-      "company": "AP (Thailand) PCL.",
-      "sector": "Property Development",
-      "valuation": "Cheap",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 1063.0,
-      "periodNpat": 1966.91,
-      "npatGrowth": 5.2,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "",
-      "debtEbitdaNote": "ผู้พัฒนาอสังหาริมทรัพย์ : ใช้ IBZD/E / D/E",
-      "score": 7.9375,
-      "flags": [
-        "Housing",
-        "Condominium",
-        "งานในมือ",
-        "เงินปันผล",
-        "Low P/BV"
-      ],
-      "summary": "AP คือผู้พัฒนาที่อยู่อาศัยคุณภาพสูงของไทยที่ซื้อขายด้วยมูลค่าที่ต่ำ รายได้ครึ่งแรกของปี 2569 เพิ่มขึ้น ~14.8% และ NPAT +5.2%; งานในมือ THB37.4bn รองรับการมองเห็น ในขณะที่ 6M26 D/E ยังคงอยู่ที่ 0.90x ความเสี่ยงหลักคือแรงกดดันด้านมาร์จิ้นและวงจรที่อยู่อาศัย/สินเชื่อที่อ่อนแอ",
-      "framework": {
-        "1. Management": "ผู้ก่อตั้ง/ผู้ถือหุ้นรายใหญ่ อนุพงษ์ อัศวโภคิน ยังคงเป็นเจ้าของกุญแจ ผู้บริหารมืออาชีพมีประสบการณ์ด้านการพัฒนาโครงการแนวราบและคอนโดมิเนียมมายาวนาน ระเบียบวินัยในการจัดสรรเงินทุนสะท้อนให้เห็นจากเลเวอเรจที่สามารถจัดการได้และการจ่ายเงินปันผลที่สม่ำเสมอ",
-        "2. Product / Moat": "พัฒนาบ้านเดี่ยว บ้านแฝด ทาวน์โฮม และคอนโดมิเนียม ข้อได้เปรียบทางการแข่งขัน ได้แก่ แบรนด์ การออกแบบผลิตภัณฑ์ ความรู้ความชำนาญในการได้มาซึ่งที่ดิน/การพัฒนา เครือข่ายการขาย และขนาดในสถานที่ตั้งกว่า 200 แห่ง",
-        "3. TAM / Growth Runway": "ที่อยู่อาศัยของประเทศไทยมีความสมบูรณ์แต่กระจัดกระจาย เอพีสามารถได้รับส่วนแบ่งจากความแข็งแกร่งแนวราบ การขยายสู่ต่างจังหวัด และการเปิดตัวคอนโดมิเนียม ทางวิ่งขึ้นอยู่กับส่วนแบ่งที่เพิ่มขึ้นและส่วนประสมผลิตภัณฑ์มากกว่าการเติบโตของตลาดเชิงโครงสร้าง",
-        "4. Positive Catalysts": "ตัวเร่งปฏิกิริยา: การโอน งานในมือ, การเปิดตัวใหม่, เงื่อนไข/อัตราการจำนองที่ผ่อนคลายลง, อุปสงค์ในแนวราบที่แข็งแกร่งขึ้น, เงินปันผล ความน่าจะเป็นปานกลางถึงสูง ผลกระทบปานกลางถึงสูงในช่วง 6-24 เดือน",
-        "5. Competitors": "เพื่อนร่วมงาน ได้แก่ SZIRI, SPALI, LH, QH และนักพัฒนาชาวไทยอื่นๆ AP โดดเด่นในด้านความกว้างและการดำเนินการ ในขณะที่ความสามารถในการจ่ายและการอนุมัติสินเชื่อทั่วทั้งภาคส่วนยังคงเป็นข้อจำกัด",
-        "6. Revenue Growth & Margin": "รายได้ครึ่งแรกของปี 2569 THB20.41 พันล้าน +14.8% YoY และ NPAT THB1.97 พันล้าน +5.2% การเติบโตนั้นขึ้นอยู่กับปริมาณ/การนำโดยการถ่ายโอน ในขณะที่อัตรากำไรขั้นต้นของ GP ลดลงเหลือ 30.27% จาก 31.93% ซึ่งแสดงถึงความกดดันด้านการผสมผสาน/การแข่งขัน",
-        "7. Regulation": "กฎสำคัญ: EIA/ใบอนุญาตก่อสร้าง การใช้ที่ดิน/การแบ่งเขต LTV/กฎระเบียบการจำนอง ภาษีทรัพย์สิน และการคุ้มครองผู้บริโภค สินเชื่อที่ผ่อนปรนช่วยในการขาย LTV ที่เข้มงวดมากขึ้นและการจัดจำหน่ายหลักทรัพย์ของธนาคารทำให้เกิดการเปลี่ยนแปลง",
-        "8. Narrative & Sentiment": "เรื่องเล่า: มูลค่าทรัพย์สินที่มีคุณภาพ/การเล่นเงินปันผล ความเชื่อมั่นเป็นกลางต่อการปรับปรุงหากอัตราดอกเบี้ยผ่อนคลายลง แต่ทรัพย์สินยังคงมีส่วนลดเนื่องจากหนี้ครัวเรือนและความสามารถในการจ่ายที่อ่อนแอ",
-        "9. Valuation Effect": "ราคาประเมินที่ 8.00 บาท อยู่ที่ประมาณ P/E หลักเดียวกลาง และ ~0.5 เท่า P/BV พร้อมอัตราผลตอบแทนจากเงินปันผล ~6%+ ราคาถูก แต่การจัดอันดับใหม่จำเป็นต้องมีหลักฐานว่าอัตรากำไรและการแปลงเงินสดมีเสถียรภาพ",
-        "10. Earnings & Macro": "ฐาน: การโอนเติบโตเล็กน้อยและมี งานในมือ ที่มั่นคง กระทิง: อัตรา/เครดิตผ่อนคลายการยกขึ้นและหลายรายการ ภาวะเศรษฐกิจตกต่ำ: เศรษฐกิจที่อ่อนแอ การปฏิเสธการจำนอง และการลดสินค้าคงคลัง ผลตอบแทนใน 3-5y ส่วนใหญ่มาจากการปรับกำไรสุทธิ + เงินปันผล",
-        "11. Risk Radar": "ความเสี่ยงหลัก: การชะลอตัวของที่อยู่อาศัย การปฏิเสธการจำนอง สินค้าคงคลัง/เงินทุนหมุนเวียน การแข่งขันด้านกำไร อัตราดอกเบี้ย ตรวจสอบยอดขายล่วงหน้า การยกเลิก งานในมือ อัตรากำไรขั้นต้นของ GP OCF IBD/E และสินค้าคงคลัง"
-      },
-      "thesis": "P/E/PBV ที่ต่ำ, งานในมือ ที่แข็งแกร่ง, แฟรนไชส์แนวราบที่กว้างขวาง และการกู้ยืมที่มีระเบียบวินัย จะสร้างความเสี่ยง/ผลตอบแทนที่น่าดึงดูด หากความต้องการที่อยู่อาศัยมีเสถียรภาพ",
-      "bear": "การปฏิเสธสินเชื่อที่อยู่อาศัย กำลังซื้อที่อ่อนแอ สินค้าคงคลังจำนวนมาก และการแข่งขันด้านราคาสามารถกดดันอัตรากำไรและทำให้การแปลงเงินสดล่าช้า แม้ว่ายอดขายล่วงหน้าจะดูแข็งแกร่งก็ตาม",
-      "teamComment": "",
-      "marketBelieves": "AP คือชื่อทรัพย์สินที่มีมูลค่าครบกำหนด/เงินปันผลซึ่งมีการเติบโตที่จำกัดแต่การดำเนินการที่แข็งแกร่ง",
-      "marketMissing": "ตลาดอาจประเมินราคาคุณภาพงานที่ค้างอยู่ การขยายตัวของจังหวัด และวินัยในการดำเนินงานต่ำกว่าปกติ หากการโอนเป็นไปตามปกติ แต่ยังคงประเมินความหนาแน่นของการจำนองที่ยืดเยื้อต่ำเกินไป",
-      "variables": "ยอดขายล่วงหน้า การโอน การแปลง งานในมือ อัตรากำไรขั้นต้น อัตราการปฏิเสธการจำนอง สินค้าคงคลัง IBZD/E การซื้อที่ดิน เงินปันผล",
-      "fit": "ผู้ลงทุนด้านมูลค่า/เงินปันผลสบายใจกับวงจรที่อยู่อาศัยของไทยและความเสี่ยงด้านสินค้าคงคลัง",
-      "moatStatus": "มี",
-      "moatReason": "แบรนด์ การจัดหาที่ดิน/การดำเนินการพัฒนา แพลตฟอร์มโครงการทั่วประเทศ ความสามารถในการออกแบบผลิตภัณฑ์ และขนาดสร้างข้อได้เปรียบที่คงทนปานกลาง แม้ว่าทรัพย์สินจะยังคงเป็นวัฏจักรก็ตาม",
-      "industryComparison": "เปรียบเทียบผู้พัฒนาที่อยู่อาศัยไทยเกี่ยวกับยอดขายล่วงหน้า, งานในมือ, การโอน, GP อัตรากำไร, IBZD/E, การหมุนเวียนสินค้าคงคลัง, ROE, P/E, P/BV และอัตราผลตอบแทนจากเงินปันผล",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-06",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-11-03",
-      "sources": [
-        {
-          "label": "ภาพรวมบริษัทจดทะเบียน 6M26",
-          "url": "https://lssmedia.setlink.set.or.th/2026/6M/AP-6M69-ListedCompanySnapshot-EN.html"
-        },
-        {
-          "label": "Q2/2026 MD&A",
-          "url": "https://ap.listedcompany.com/misc/MDNA/20260813-ap-mdna-2q2026-en.pdf"
-        }
-      ],
-      "price": 7.85,
-      "marketCap": 24695.33,
-      "pe": 5.7,
-      "pbv": 0.54,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
       "rank": 80,
       "ticker": "AEONTS",
       "company": "AEON Thana Sinsap (Thailand) PCL.",
@@ -5875,8 +5875,8 @@
           "url": "https://investor.aeon.co.th/en/stock-information/historical-price"
         }
       ],
-      "price": 89.0,
-      "marketCap": 22250.0,
+      "price": 88.75,
+      "marketCap": 22187.5,
       "pe": 7.0,
       "pbv": 0.8,
       "evEbitda": null,
@@ -5941,8 +5941,8 @@
           "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105652801&symbol=BCPG"
         }
       ],
-      "price": 6.85,
-      "marketCap": 20520.95,
+      "price": 6.9,
+      "marketCap": 20670.74,
       "pe": 8.66,
       "pbv": 0.67,
       "evEbitda": 7.54,
@@ -6007,8 +6007,8 @@
           "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105916200&symbol=BAM"
         }
       ],
-      "price": 6.2,
-      "marketCap": 20038.66,
+      "price": 6.25,
+      "marketCap": 20200.26,
       "pe": 28.0,
       "pbv": 0.48,
       "evEbitda": null,
@@ -6077,8 +6077,8 @@
           "url": "https://investor.vgi.co.th/"
         }
       ],
-      "price": 0.93,
-      "marketCap": 19624.21,
+      "price": 0.91,
+      "marketCap": 19202.18,
       "pe": null,
       "pbv": null,
       "evEbitda": null,
@@ -6143,8 +6143,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/PRM/factsheet"
         }
       ],
-      "price": 8.6,
-      "marketCap": 19092.0,
+      "price": 8.55,
+      "marketCap": 18981.0,
       "pe": 9.0,
       "pbv": 1.55,
       "evEbitda": 5.9,
@@ -6282,8 +6282,8 @@
           "url": "https://investor.mkrestaurant.com/"
         }
       ],
-      "price": 19.9,
-      "marketCap": 18325.51,
+      "price": 20.2,
+      "marketCap": 18601.77,
       "pe": 25.0,
       "pbv": 1.4,
       "evEbitda": null,
@@ -6352,8 +6352,8 @@
           "url": "https://investor.aurora.co.th/"
         }
       ],
-      "price": 13.4,
-      "marketCap": 17925.14,
+      "price": 13.3,
+      "marketCap": 17791.37,
       "pe": 11.01,
       "pbv": 2.09,
       "evEbitda": null,
@@ -6561,8 +6561,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/EA/factsheet"
         }
       ],
-      "price": 2.26,
-      "marketCap": 16784.56,
+      "price": 2.24,
+      "marketCap": 16636.02,
       "pe": null,
       "pbv": null,
       "evEbitda": null,
@@ -6640,75 +6640,6 @@
     },
     {
       "rank": 92,
-      "ticker": "JMART",
-      "company": "Jaymart Group Holdings PCL.",
-      "sector": "Commerce",
-      "valuation": "Fair Value",
-      "period": "1H2026 / Q2 2026",
-      "qNpat": 212.961,
-      "periodNpat": 375.676,
-      "npatGrowth": 49.5,
-      "debtEbitda": null,
-      "debtEbitdaBasis": "บริษัทโฮลดิ้ง: ใช้การมองผ่าน NAV, เลเวอเรจของบริษัทย่อย, สภาพคล่องของบริษัทแม่ และเงินสดต้นทางที่เกิดขึ้นประจำ",
-      "debtEbitdaNote": "หนี้รวมและการระดมทุนของบริษัทในเครืออาจบดบังเศรษฐศาสตร์ของผู้ปกครองได้ ประเมิน NAV เงินปันผลขั้นต้น การครบกำหนดชำระหนี้ และคุณภาพรายได้ทั่วทั้งการถือครอง JMT/J-Mobile/Singer/ระบบนิเวศ",
-      "score": 6.8125,
-      "flags": [
-        "Holding Company",
-        "JMT ระบบนิเวศ",
-        "การฟื้นตัว",
-        "High Complexity"
-      ],
-      "summary": "NPAT ในครึ่งแรกของปี 26 ของ JMART เพิ่มขึ้น ~49.5% เป็น THB376m ซึ่งบ่งชี้ถึงการฟื้นตัว แต่หุ้นยังคงเป็นวิทยานิพนธ์เกี่ยวกับการถือหุ้นที่ซับซ้อน P/BV ที่ต่ำจะน่าสนใจก็ต่อเมื่อผลประกอบการของบริษัทย่อย NAV และเงินสดต้นทางของบริษัทปรับตัวเป็นปกติ",
-      "framework": {
-        "1. Management": "ระบบนิเวศของ Jaymart ที่นำโดยผู้ก่อตั้งซึ่งมีรากฐานการค้าปลีกโทรคมนาคมมายาวนานและบริษัทในเครือที่จดทะเบียนหลายแห่ง ความท้าทายที่สำคัญของฝ่ายบริหารคือการจัดสรรเงินทุนและลดความซับซ้อนหลังจากการขยายระบบนิเวศเชิงรุกมาเป็นระยะเวลาหนึ่ง",
-        "2. Product / Moat": "JMART เป็นบริษัทโฮลดิ้งที่ครอบคลุมการค้าปลีกผ่านมือถือ การจัดการหนี้/ประกันภัย การเงิน และการพาณิชย์ คูเมืองคือการเข้าถึงพอร์ตโฟลิโอ/ระบบนิเวศมากกว่าแฟรนไชส์ที่ดำเนินงานเพียงแห่งเดียว ความซับซ้อนลดความโปร่งใส",
-        "3. TAM / Growth Runway": "TAM ครอบคลุมถึงเทคโนโลยีสำหรับผู้บริโภค การเงิน และหนี้ด้อยคุณภาพ ทางวิ่งการเติบโตมีอยู่ผ่านบริษัทในเครือ แต่มูลค่าระดับบนสุดขึ้นอยู่กับการทบต้นของ NAV และเงินสดต้นทาง",
-        "4. Positive Catalysts": "ตัวเร่งปฏิกิริยา: การฟื้นตัวของ JMT, กำไรของบริษัทในเครือที่แข็งแกร่งขึ้น, การขาย/การปรับโครงสร้างสินทรัพย์, เลเวอเรจที่ลดลง และส่วนลด NAV ที่แคบลง ความน่าจะเป็นปานกลาง / ผลกระทบสูง",
-        "5. Competitors": "เพื่อนร่วมงานโดยตรงคือบริษัทโฮลดิ้งที่หลากหลาย คู่แข่งหลักจะแตกต่างกันไปตามบริษัทในเครือ การวิเคราะห์เชิงสัมพัทธ์ควรพิจารณาผ่านมากกว่าการรวม P/E เพียงอย่างเดียว",
-        "6. Revenue Growth & Margin": "1H26 ส่วนที่เป็นของ NPAT THB375.7m เทียบกับ THB251.3m (+49.5%); Q2 THB213.0m กับ THB111.0m รายได้ดีขึ้น แต่คุณภาพที่เกิดขึ้นประจำและต้นน้ำเงินสดยังคงมีความสำคัญ",
-        "7. Regulation": "กฎเกณฑ์สินเชื่อเพื่อผู้บริโภค การติดตามหนี้ การขายปลีกโทรคมนาคม การประกันภัยและหลักทรัพย์มีผลกระทบต่อบริษัทในเครือ ความซับซ้อนของกลุ่มเพิ่มภาระการกำกับดูแลและการตรวจสอบกฎระเบียบ",
-        "8. Narrative & Sentiment": "คำบรรยายคือ 'การพลิกฟื้นของระบบนิเวศ + การฟื้นตัวของ NAV' ความเชื่อมั่นดีขึ้นตามรายได้ แต่ก็ยังเปราะบางเนื่องจากการใช้ประโยชน์และความซับซ้อนในอดีต",
-        "9. Valuation Effect": "ที่ THB9.70 P/BV ต่ำกว่า 1x และ P/E ต่อท้ายไม่มีความหมาย/เชื่อถือได้ เนื่องจากความผันผวนของรายได้ มูลค่ายุติธรรมจนถึง NAV และการสร้างเงินสดหลักมีความชัดเจนมากขึ้น",
-        "10. Earnings & Macro": "ฐาน: บริษัทลูกค่อยๆ ฟื้นตัว กระทิง: JMT + การค้า/การเงินดีขึ้นไปด้วยกัน และส่วนลด NAV แคบลง กรณีลบ: ความอ่อนแอของบริษัทย่อย/ผลตอบแทนจากเลเวอเรจ ผลตอบแทน 3-5 ปี ขึ้นอยู่กับการมองผ่าน ROE และการจัดสรรเงินทุน",
-        "11. Risk Radar": "ความเสี่ยงอันดับต้นๆ: ส่วนลดของบริษัทโฮลดิ้ง ความผันผวนของรายได้ของบริษัทในเครือ เลเวอเรจ/สภาพคล่อง การกำกับดูแล/การจัดสรรเงินทุน ความเครียดของระบบนิเวศที่สัมพันธ์กัน"
-      },
-      "thesis": "การฟื้นตัวของ JMT การปรับโครงสร้างระบบนิเวศ และการประเมินมูลค่าบริษัทโฮลดิ้งที่ต่ำ ทำให้เกิดทางเลือกในการจัดอันดับใหม่อย่างมีนัยสำคัญ",
-      "bear": "ความซับซ้อนของกลุ่มบริษัท การกู้ยืมของบริษัทในเครือ เงินสดต้นน้ำที่อ่อนแอ หรือการสูญเสียที่เกิดขึ้นใหม่ สามารถทำให้ส่วนลดของบริษัทโฮลดิ้งกว้างขึ้นได้ แม้ว่ากำไรทั่วไปจะเติบโตก็ตาม",
-      "teamComment": "",
-      "marketBelieves": "ตลาดมองว่า JMART เป็นการพลิกฟื้นระบบนิเวศแบบใช้ประโยชน์ ซึ่งมูลค่าถูกครอบงำโดยผลการดำเนินงานของบริษัทในเครือที่จดทะเบียน/ไม่จดทะเบียน",
-      "marketMissing": "ตลาดอาจตีราคาการฟื้นตัวของ NAV หาก JMT และบริษัทในเครืออื่นๆ ปรับปรุงไปพร้อมๆ กัน แต่อาจประเมินการทำงานร่วมกันมากเกินไปซึ่งไม่ได้แปลเป็นกระแสเงินสดของบริษัทหลัก",
-      "variables": "รายได้/คอลเลกชันของ JMT, ผลการค้าปลีกของนักร้อง/มือถือ, หนี้สินสุทธิของบริษัทแม่, เงินปันผลต้นน้ำ, ส่วนลด NAV, รายได้ตามวิธีส่วนทุน, สภาพคล่อง",
-      "fit": "นักลงทุนในสถานการณ์พิเศษ/บริษัทโฮลดิ้งสบายใจกับส่วนลดกลุ่มบริษัท ความผันผวนของบริษัทย่อย และเลเวอเรจ",
-      "moatStatus": "มีบางส่วน",
-      "moatReason": "การเป็นเจ้าของระบบนิเวศในการค้าปลีกบนมือถือ การจัดการหนี้ การเงิน และการพาณิชย์ทำให้เกิดทางเลือกในการถือครองข้ามสาย/เครือข่าย แต่ความซับซ้อนและการใช้ประโยชน์ลดความทนทาน",
-      "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
-      "updateStatus": "Current",
-      "marketDataUpdated": "2026-11-06",
-      "financialDataUpdated": "1H2026 / Q2 2026",
-      "researchReviewed": "2026-11-03",
-      "sources": [
-        {
-          "label": "Q2/2026 F45",
-          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
-        },
-        {
-          "label": "Historical Trading",
-          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
-        },
-        {
-          "label": "Factsheet",
-          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
-        }
-      ],
-      "price": 10.1,
-      "marketCap": 14786.09,
-      "pe": null,
-      "pbv": 0.78,
-      "evEbitda": null,
-      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
-    },
-    {
-      "rank": 93,
       "ticker": "QH",
       "company": "Quality Houses PCL.",
       "sector": "Property Development",
@@ -6769,10 +6700,79 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/QH/factsheet"
         }
       ],
-      "price": 1.37,
-      "marketCap": 14678.7,
+      "price": 1.36,
+      "marketCap": 14571.56,
       "pe": 7.4,
       "pbv": 0.47,
+      "evEbitda": null,
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
+    },
+    {
+      "rank": 93,
+      "ticker": "JMART",
+      "company": "Jaymart Group Holdings PCL.",
+      "sector": "Commerce",
+      "valuation": "Fair Value",
+      "period": "1H2026 / Q2 2026",
+      "qNpat": 212.961,
+      "periodNpat": 375.676,
+      "npatGrowth": 49.5,
+      "debtEbitda": null,
+      "debtEbitdaBasis": "บริษัทโฮลดิ้ง: ใช้การมองผ่าน NAV, เลเวอเรจของบริษัทย่อย, สภาพคล่องของบริษัทแม่ และเงินสดต้นทางที่เกิดขึ้นประจำ",
+      "debtEbitdaNote": "หนี้รวมและการระดมทุนของบริษัทในเครืออาจบดบังเศรษฐศาสตร์ของผู้ปกครองได้ ประเมิน NAV เงินปันผลขั้นต้น การครบกำหนดชำระหนี้ และคุณภาพรายได้ทั่วทั้งการถือครอง JMT/J-Mobile/Singer/ระบบนิเวศ",
+      "score": 6.8125,
+      "flags": [
+        "Holding Company",
+        "JMT ระบบนิเวศ",
+        "การฟื้นตัว",
+        "High Complexity"
+      ],
+      "summary": "NPAT ในครึ่งแรกของปี 26 ของ JMART เพิ่มขึ้น ~49.5% เป็น THB376m ซึ่งบ่งชี้ถึงการฟื้นตัว แต่หุ้นยังคงเป็นวิทยานิพนธ์เกี่ยวกับการถือหุ้นที่ซับซ้อน P/BV ที่ต่ำจะน่าสนใจก็ต่อเมื่อผลประกอบการของบริษัทย่อย NAV และเงินสดต้นทางของบริษัทปรับตัวเป็นปกติ",
+      "framework": {
+        "1. Management": "ระบบนิเวศของ Jaymart ที่นำโดยผู้ก่อตั้งซึ่งมีรากฐานการค้าปลีกโทรคมนาคมมายาวนานและบริษัทในเครือที่จดทะเบียนหลายแห่ง ความท้าทายที่สำคัญของฝ่ายบริหารคือการจัดสรรเงินทุนและลดความซับซ้อนหลังจากการขยายระบบนิเวศเชิงรุกมาเป็นระยะเวลาหนึ่ง",
+        "2. Product / Moat": "JMART เป็นบริษัทโฮลดิ้งที่ครอบคลุมการค้าปลีกผ่านมือถือ การจัดการหนี้/ประกันภัย การเงิน และการพาณิชย์ คูเมืองคือการเข้าถึงพอร์ตโฟลิโอ/ระบบนิเวศมากกว่าแฟรนไชส์ที่ดำเนินงานเพียงแห่งเดียว ความซับซ้อนลดความโปร่งใส",
+        "3. TAM / Growth Runway": "TAM ครอบคลุมถึงเทคโนโลยีสำหรับผู้บริโภค การเงิน และหนี้ด้อยคุณภาพ ทางวิ่งการเติบโตมีอยู่ผ่านบริษัทในเครือ แต่มูลค่าระดับบนสุดขึ้นอยู่กับการทบต้นของ NAV และเงินสดต้นทาง",
+        "4. Positive Catalysts": "ตัวเร่งปฏิกิริยา: การฟื้นตัวของ JMT, กำไรของบริษัทในเครือที่แข็งแกร่งขึ้น, การขาย/การปรับโครงสร้างสินทรัพย์, เลเวอเรจที่ลดลง และส่วนลด NAV ที่แคบลง ความน่าจะเป็นปานกลาง / ผลกระทบสูง",
+        "5. Competitors": "เพื่อนร่วมงานโดยตรงคือบริษัทโฮลดิ้งที่หลากหลาย คู่แข่งหลักจะแตกต่างกันไปตามบริษัทในเครือ การวิเคราะห์เชิงสัมพัทธ์ควรพิจารณาผ่านมากกว่าการรวม P/E เพียงอย่างเดียว",
+        "6. Revenue Growth & Margin": "1H26 ส่วนที่เป็นของ NPAT THB375.7m เทียบกับ THB251.3m (+49.5%); Q2 THB213.0m กับ THB111.0m รายได้ดีขึ้น แต่คุณภาพที่เกิดขึ้นประจำและต้นน้ำเงินสดยังคงมีความสำคัญ",
+        "7. Regulation": "กฎเกณฑ์สินเชื่อเพื่อผู้บริโภค การติดตามหนี้ การขายปลีกโทรคมนาคม การประกันภัยและหลักทรัพย์มีผลกระทบต่อบริษัทในเครือ ความซับซ้อนของกลุ่มเพิ่มภาระการกำกับดูแลและการตรวจสอบกฎระเบียบ",
+        "8. Narrative & Sentiment": "คำบรรยายคือ 'การพลิกฟื้นของระบบนิเวศ + การฟื้นตัวของ NAV' ความเชื่อมั่นดีขึ้นตามรายได้ แต่ก็ยังเปราะบางเนื่องจากการใช้ประโยชน์และความซับซ้อนในอดีต",
+        "9. Valuation Effect": "ที่ THB9.70 P/BV ต่ำกว่า 1x และ P/E ต่อท้ายไม่มีความหมาย/เชื่อถือได้ เนื่องจากความผันผวนของรายได้ มูลค่ายุติธรรมจนถึง NAV และการสร้างเงินสดหลักมีความชัดเจนมากขึ้น",
+        "10. Earnings & Macro": "ฐาน: บริษัทลูกค่อยๆ ฟื้นตัว กระทิง: JMT + การค้า/การเงินดีขึ้นไปด้วยกัน และส่วนลด NAV แคบลง กรณีลบ: ความอ่อนแอของบริษัทย่อย/ผลตอบแทนจากเลเวอเรจ ผลตอบแทน 3-5 ปี ขึ้นอยู่กับการมองผ่าน ROE และการจัดสรรเงินทุน",
+        "11. Risk Radar": "ความเสี่ยงอันดับต้นๆ: ส่วนลดของบริษัทโฮลดิ้ง ความผันผวนของรายได้ของบริษัทในเครือ เลเวอเรจ/สภาพคล่อง การกำกับดูแล/การจัดสรรเงินทุน ความเครียดของระบบนิเวศที่สัมพันธ์กัน"
+      },
+      "thesis": "การฟื้นตัวของ JMT การปรับโครงสร้างระบบนิเวศ และการประเมินมูลค่าบริษัทโฮลดิ้งที่ต่ำ ทำให้เกิดทางเลือกในการจัดอันดับใหม่อย่างมีนัยสำคัญ",
+      "bear": "ความซับซ้อนของกลุ่มบริษัท การกู้ยืมของบริษัทในเครือ เงินสดต้นน้ำที่อ่อนแอ หรือการสูญเสียที่เกิดขึ้นใหม่ สามารถทำให้ส่วนลดของบริษัทโฮลดิ้งกว้างขึ้นได้ แม้ว่ากำไรทั่วไปจะเติบโตก็ตาม",
+      "teamComment": "",
+      "marketBelieves": "ตลาดมองว่า JMART เป็นการพลิกฟื้นระบบนิเวศแบบใช้ประโยชน์ ซึ่งมูลค่าถูกครอบงำโดยผลการดำเนินงานของบริษัทในเครือที่จดทะเบียน/ไม่จดทะเบียน",
+      "marketMissing": "ตลาดอาจตีราคาการฟื้นตัวของ NAV หาก JMT และบริษัทในเครืออื่นๆ ปรับปรุงไปพร้อมๆ กัน แต่อาจประเมินการทำงานร่วมกันมากเกินไปซึ่งไม่ได้แปลเป็นกระแสเงินสดของบริษัทหลัก",
+      "variables": "รายได้/คอลเลกชันของ JMT, ผลการค้าปลีกของนักร้อง/มือถือ, หนี้สินสุทธิของบริษัทแม่, เงินปันผลต้นน้ำ, ส่วนลด NAV, รายได้ตามวิธีส่วนทุน, สภาพคล่อง",
+      "fit": "นักลงทุนในสถานการณ์พิเศษ/บริษัทโฮลดิ้งสบายใจกับส่วนลดกลุ่มบริษัท ความผันผวนของบริษัทย่อย และเลเวอเรจ",
+      "moatStatus": "มีบางส่วน",
+      "moatReason": "การเป็นเจ้าของระบบนิเวศในการค้าปลีกบนมือถือ การจัดการหนี้ การเงิน และการพาณิชย์ทำให้เกิดทางเลือกในการถือครองข้ามสาย/เครือข่าย แต่ความซับซ้อนและการใช้ประโยชน์ลดความทนทาน",
+      "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
+      "updateStatus": "Current",
+      "marketDataUpdated": "2026-11-06",
+      "financialDataUpdated": "1H2026 / Q2 2026",
+      "researchReviewed": "2026-11-03",
+      "sources": [
+        {
+          "label": "Q2/2026 F45",
+          "url": "https://www.set.or.th/th/market/news-and-alert/newsdetails?id=105943201&symbol=JMART"
+        },
+        {
+          "label": "Historical Trading",
+          "url": "https://www.set.or.th/en/market/product/stock/quote/JMART/historical-trading"
+        },
+        {
+          "label": "Factsheet",
+          "url": "https://www.set.or.th/th/market/product/stock/quote/JMART/factsheet"
+        }
+      ],
+      "price": 9.95,
+      "marketCap": 14566.49,
+      "pe": null,
+      "pbv": 0.78,
       "evEbitda": null,
       "marketDataProvider": "Yahoo Finance (.BK) secondary fallback"
     },
@@ -6907,8 +6907,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/DOHOME/price"
         }
       ],
-      "price": 3.48,
-      "marketCap": 12244.76,
+      "price": 3.52,
+      "marketCap": 12385.5,
       "pe": 16.31,
       "pbv": 0.88,
       "evEbitda": 12.18,
@@ -7047,8 +7047,8 @@
           "url": "https://www.set.or.th/en/market/product/stock/quote/GFPT/factsheet"
         }
       ],
-      "price": 9.55,
-      "marketCap": 11973.98,
+      "price": 9.5,
+      "marketCap": 11911.29,
       "pe": 6.2,
       "pbv": 0.62,
       "evEbitda": 3.16,
@@ -7257,8 +7257,8 @@
           "url": "https://www.set.or.th/th/market/product/stock/quote/GST/factsheet"
         }
       ],
-      "price": 8.6,
-      "marketCap": 9426.46,
+      "price": 8.55,
+      "marketCap": 9371.66,
       "pe": 16.6,
       "pbv": 0.99,
       "evEbitda": null,
