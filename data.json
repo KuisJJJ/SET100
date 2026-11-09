@@ -5,15 +5,15 @@
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 100,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-11-10 03:07",
+    "marketDataUpdated": "2026-11-10 04:26",
     "financialDataUpdated": "Latest reviewed period by company",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-10T03:07:17+07:00",
+    "generatedAt": "2026-11-10T04:26:12+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
     "setIndexUpdated": "2026-11-09T16:46:33+07:00",
     "universeValidation": {
       "ok": true,
-      "checkedAt": "2026-11-10T03:07:17+07:00",
+      "checkedAt": "2026-11-10T04:26:12+07:00",
       "validationMode": "locked_official_snapshot",
       "officialCount": 100,
       "researchedCount": 100,
@@ -27,7 +27,7 @@
       "note": "Locked snapshot is a transparent fallback when SET dynamic HTML cannot be parsed; refresh it when SET announces a new constituent period."
     },
     "rankPolicy": "Rank recalculated from market cap only after a successful Update All of all 100 constituents.",
-    "rankUpdatedAt": "2026-11-10T03:07:17+07:00",
+    "rankUpdatedAt": "2026-11-10T04:26:12+07:00",
     "automaticUpdatePolicy": {
       "autoFields": [
         "price",
