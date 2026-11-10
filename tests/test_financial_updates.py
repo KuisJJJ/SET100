@@ -8,7 +8,7 @@ import unittest
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT/'scripts'))
 from settrade_source import decode_snapshot
-from update_financial_data import parse_f45, growth, research_end, target_period_end, structured_facts
+from update_financial_data import parse_f45, growth, research_end, target_period_end, structured_facts, apply_snapshot
 
 
 class FinancialUpdates(unittest.TestCase):
@@ -39,6 +39,23 @@ class FinancialUpdates(unittest.TestCase):
         with self.assertRaises(ValueError):parse_f45(d,date(2026,10,1))
         d['content']=d['content'].replace('พันบาท','USD')
         with self.assertRaises(ValueError):parse_f45(d,date(2026,11,10))
+
+    def test_newest_filing_wins_regardless_of_news_order(self):
+        row={'symbol':'TEST','fsType':'C','quarter':'6M','year':2026,
+             'beginDate':'2026-01-01','endDate':'2026-06-30','netProfit':1000}
+        snapshot={'sourceUrl':'https://www.settrade.com/test','quote':{},'financial':{
+            'financialDataAccumulatedChart':[row], 'financialDataQuarterChart':[dict(row,quarter='Q2')]}}
+        filing={'headline':'ไตรมาสที่ 3 (F45) (สอบทานแล้ว)', 'datetime':'2026-11-01T12:00:00+07:00',
+                'sourceUrl':'https://www.settrade.com/old','content':
+                '(หน่วย : พันบาท)\nสิ้นสุดวันที่ 30 กันยายน\nปี 2569 2568 2569 2568\nกำไร (ขาดทุน) 1,000 500 3,000 2,000\n*สำหรับงบการเงินรวม'}
+        revision=dict(filing,datetime='2026-11-02T12:00:00+07:00',sourceUrl='https://www.settrade.com/revision',
+                      content=filing['content'].replace('3,000','4,000'))
+        for news in ([filing,revision],[revision,filing]):
+            stock={'ticker':'TEST','period':'1H2026 / Q2 2026','researchReviewed':'2026-10-01'}
+            apply_snapshot(stock,snapshot,{'f45':news},'2026-11-10T17:00:00+07:00')
+            self.assertEqual(stock['periodNpat'],4)
+            self.assertEqual(stock['financialSourceUrl'],revision['sourceUrl'])
+            self.assertEqual(stock['financialPeriodEnd'],'2026-09-30')
 
     def test_financial_and_price_provenance_for_all_companies(self):
         data=json.loads((ROOT/'data.json').read_text())

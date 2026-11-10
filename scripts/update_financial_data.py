@@ -144,7 +144,7 @@ def apply_snapshot(stock, snapshot, news, checked):
     for f45 in news.get('f45', []):
         try:
             candidate = parse_f45(f45, today)
-            if candidate['financialPeriodEnd'] >= facts['financialPeriodEnd']:
+            if (candidate['financialPeriodEnd'], candidate.get('financialPublishedAt') or '') > (facts['financialPeriodEnd'], facts.get('financialPublishedAt') or ''):
                 # A newer F45 supplies profits only, never relabel old revenue/EBITDA.
                 if candidate['financialPeriodEnd'] > facts['financialPeriodEnd']:
                     facts['financialPeriodStart'] = None
@@ -155,6 +155,12 @@ def apply_snapshot(stock, snapshot, news, checked):
     # Do not roll back a previously verified later period when source lags.
     if stock.get('financialPeriodEnd', '') > facts['financialPeriodEnd']:
         facts = {k: stock[k] for k in FACT_FIELDS if k in stock}
+    elif (stock.get('financialPeriodEnd') == facts['financialPeriodEnd']
+          and stock.get('financialPublishedAt') and not facts.get('financialPublishedAt')
+          and abs(stock.get('periodNpat', 0)-facts['periodNpat']) < .01):
+        # A known F45 remains a valid publication source when it leaves the news list.
+        for key in ('financialPublishedAt', 'financialAssurance', 'financialSource', 'financialSourceUrl'):
+            facts[key] = stock[key]
     stock.setdefault('researchFinancialPeriod', stock.get('period', 'ไม่ระบุงวด'))
     if not stock.get('researchPeriodEnd'):
         stock['researchPeriodEnd'] = research_end(stock)
@@ -250,10 +256,12 @@ def main():
                 results.append({'ticker': s['ticker'], 'period': s['period'], 'endDate': s['financialPeriodEnd'],
                                 'source': s['financialSourceUrl'], 'assurance': s['financialAssurance'],
                                 'checkStatus': s['financialCheckStatus'], 'warnings': warnings})
+                print(f"{s['ticker']}: {s['period']} ending {s['financialPeriodEnd']} ({s['financialCheckStatus']})", flush=True)
             except Exception as e:
                 s['financialCheckStatus'], s['financialCheckError'] = 'failed', str(e)
                 s['updateStatus'] = 'Verification Pending'
                 failures.append({'ticker':s['ticker'], 'error':str(e)})
+                print(f"{s['ticker']}: source check failed; retaining saved facts", flush=True)
     if not args.ticker and len(stocks) == 100 and not failures:
         data['stocks'].sort(key=lambda s:s.get('marketCap') or 0, reverse=True)
         for i,s in enumerate(data['stocks'],1):s['rank'] = i
@@ -262,7 +270,8 @@ def main():
     meta['financialDataUpdated'] = 'แสดงงวดและวันสิ้นงบแยกรายบริษัท'
     target_end = target_period_end(datetime.fromisoformat(checked).date())
     meta['financialTargetPeriodEnd'] = target_end
-    meta['financialCoverage'] = {'checked':len(results), 'failed':len(failures),
+    meta['financialCoverage'] = {'checked':sum(bool(s.get('financialCheckedAt')) for s in data['stocks']),
+                                 'checkedThisRun':len(results), 'failed':len(failures),
                                  'septemberOrLater':sum(s.get('financialPeriodEnd','') >= target_end for s in data['stocks'])}
     meta['marketDataUpdated'] = max((s.get('marketDataAsOf') or s.get('marketDataUpdated') or '' for s in data['stocks']), default='')
     meta['generatedAt'] = checked
