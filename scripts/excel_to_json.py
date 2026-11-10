@@ -153,6 +153,9 @@ for r in tables["07_Sources"]:
 existing_stocks = {s.get("ticker"): s for s in existing.get("stocks", []) if s.get("ticker")}
 market_fields = ["price","marketCap","pe","pbv","evEbitda"]
 
+snapshot_path = ROOT / "financial_snapshots.json"
+snapshots = json.loads(snapshot_path.read_text(encoding="utf-8")) if snapshot_path.exists() else {}
+
 stocks = []
 for ticker, u in universe.items():
     d = deep.get(ticker)
@@ -234,6 +237,14 @@ for ticker, u in universe.items():
             }
             record[field] = fnum(excel_map[field])
 
+    # Verified financial facts remain authoritative if a Master upload is older.
+    # Market quote timestamps and research-period provenance must survive rebuilds.
+    snapshot = snapshots.get(ticker, {})
+    record.update(snapshot)
+    for key in ("marketDataAsOf", "marketDataProvider", "marketSourceUrl", "marketCapBasis",
+                "valuationRatiosAsOf", "valuationFinancialPeriodEnd"):
+        if key in old:
+            record[key] = old[key]
     stocks.append(record)
 
 stocks.sort(key=lambda x: x.get("rank", 999))

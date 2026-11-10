@@ -95,6 +95,8 @@ def main():
             if shares:
                 s['marketCap']=round(shares*q['price'],2)
             s['marketDataUpdated']=q['asof'][:10]
+            s['marketDataAsOf']=q['asof']
+            s['marketSourceUrl']=f'https://finance.yahoo.com/quote/{t}.BK/'
             s['marketDataProvider']=q['provider']
             updated+=1; logs.append(f"{t}: {old_px} -> {s['price']}")
             time.sleep(0.05)

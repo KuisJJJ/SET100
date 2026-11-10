@@ -15,7 +15,7 @@ permissions:
   contents: write
 concurrency:
   group: set100-dashboard-update
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -28,6 +28,8 @@ jobs:
         env:
           SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
         run: python scripts/update_data.py --ticker "${{ github.event.inputs.ticker || '' }}"
+      - name: Refresh dated financial facts and check new filings
+        run: python scripts/update_financial_data.py --ticker "${{ github.event.inputs.ticker || '' }}"
       - name: Update SET Index
         env:
           SET_MARKETPLACE_API_KEY: ${{ secrets.SET_MARKETPLACE_API_KEY }}
@@ -37,7 +39,7 @@ jobs:
         run: |
           git config user.name "set100-update-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data.json update_status.json
+          git add data.json update_status.json financial_snapshots.json financial_update_status.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
