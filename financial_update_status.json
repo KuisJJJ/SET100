@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T20:28:11+07:00",
+  "checkedAt": "2026-11-11T00:18:33+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -445,10 +445,10 @@
     },
     {
       "ticker": "JMART",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/JMART/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },

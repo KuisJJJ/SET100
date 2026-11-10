@@ -5,15 +5,15 @@
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 100,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-11-10T20:32:45.796224437+07:00",
+    "marketDataUpdated": "2026-11-11T00:22:20.296147125+07:00",
     "financialDataUpdated": "แสดงงวดและวันสิ้นงบแยกรายบริษัท",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-10T20:28:11+07:00",
+    "generatedAt": "2026-11-11T00:18:33+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
     "setIndexUpdated": "2026-11-10T16:46:39+07:00",
     "universeValidation": {
       "ok": true,
-      "checkedAt": "2026-11-10T20:27:55+07:00",
+      "checkedAt": "2026-11-11T00:18:15+07:00",
       "validationMode": "locked_official_snapshot",
       "officialCount": 100,
       "researchedCount": 100,
@@ -27,7 +27,7 @@
       "note": "Locked snapshot is a transparent fallback when SET dynamic HTML cannot be parsed; refresh it when SET announces a new constituent period."
     },
     "rankPolicy": "Rank recalculated from market cap only after a successful Update All of all 100 constituents.",
-    "rankUpdatedAt": "2026-11-10T20:27:55+07:00",
+    "rankUpdatedAt": "2026-11-11T00:18:15+07:00",
     "automaticUpdatePolicy": {
       "autoFields": [
         "price",
@@ -67,13 +67,13 @@
       "technicalAbbreviationsPreserved": true,
       "policy": "คำอธิบายเป็นภาษาไทย; คงเฉพาะชื่อเฉพาะและตัวย่อทางการเงินมาตรฐาน"
     },
-    "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+    "financialCheckedAt": "2026-11-11T00:18:33+07:00",
     "financialTargetPeriodEnd": "2026-09-30",
     "financialCoverage": {
       "checked": 100,
       "checkedThisRun": 100,
       "failed": 0,
-      "septemberOrLater": 43
+      "septemberOrLater": 44
     },
     "financialUpdatePolicy": "อัปเดตข้อเท็จจริงจาก SET/Settrade และ F45; คงวันที่และงวดของบทวิเคราะห์เดิม; ไม่สร้างงบที่ยังไม่มีหลักฐาน"
   },
@@ -572,7 +572,7 @@
       "moatReason": "มี ความได้เปรียบการแข่งขัน จาก ความเชี่ยวชาญด้านวิศวกรรม, กระบวนการรับรองจากลูกค้า, ขนาดธุรกิจ, ความสัมพันธ์กับลูกค้าระดับโลก และการอยู่ใน ห่วงโซ่อุปทาน ของ Delta Group ซึ่งทำให้การเปลี่ยน ผู้จัดหา มีต้นทุนและความเสี่ยงต่อผู้ซื้อ",
       "industryComparison": "เปรียบเทียบกับอุตสาหกรรม ชิ้นส่วนอิเล็กทรอนิกส์ / อิเล็กทรอนิกส์กำลัง โดยเน้น การเติบโต, อัตรากำไร, ROIC, งบดุล และ มูลค่าหุ้น เทียบผู้เล่น ผู้เล่นด้านการจัดการพลังงานระดับโลก",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -607,7 +607,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/DELTA/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/DELTA/financial-statement/five-years",
@@ -631,7 +631,7 @@
         "netProfit": 22913181,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:00.596373021+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:20.296147001+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/DELTA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -683,7 +683,7 @@
       "moatReason": "มี ความได้เปรียบการแข่งขัน จากโครงสร้างพื้นฐานพลังงานขนาดใหญ่ ระบบท่อและก๊าซ ขนาดธุรกิจ, การบูรณาการแนวดิ่ง และบทบาทเชิงยุทธศาสตร์ของประเทศ ซึ่งสร้าง อุปสรรคในการเข้าสู่ตลาด สูง",
       "industryComparison": "ผู้ผลิต ธุรกิจพลังงานครบวงจร / น้ำมันและก๊าซ กลุ่มบริษัทเทียบเคียง โดยเน้น EV/EBITDA, P/BV, เงินปันผล, สินค้าโภคภัณฑ์ Sensitivity และ งบดุล",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -718,7 +718,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/PTT/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/PTT/financial-statement/five-years",
@@ -742,7 +742,7 @@
         "netProfit": 78262890.73,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:00.596373021+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:20.296147001+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -795,7 +795,7 @@
       "moatReason": "มี ความได้เปรียบการแข่งขัน จาก คลื่นความถี่, ขนาดเครือข่าย, ฐานลูกค้าขนาดใหญ่, ช่องทางจัดจำหน่าย, ความยากในการเปลี่ยนผู้ให้บริการ และโครงสร้างตลาดที่ต้องใช้เงินลงทุนสูง ทำให้ผู้เล่นใหม่เข้ามาแข่งขันได้ยาก",
       "industryComparison": "เพื่อนร่วมงานโทรคมนาคม โดยเน้น รายได้เฉลี่ยต่อผู้ใช้ (ARPU), อัตราการยกเลิกบริการ, อัตรากำไร EBITDA, เงินลงทุนต่อยอดขาย, FCF, ต้นทุนคลื่นความถี่ และ ภาระหนี้",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -826,7 +826,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107317601?symbol=ADVANC",
       "financialPublishedAt": "2026-11-03T17:50:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107317601?symbol=ADVANC",
@@ -852,7 +852,7 @@
           "33,604,272"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:00.596373021+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:20.296147001+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/ADVANC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -904,7 +904,7 @@
       "moatReason": "มี ความได้เปรียบการแข่งขัน จาก ขนาดธุรกิจ, โครงสร้างพื้นฐานระยะยาว/PPA สินทรัพย์, ความสามารถเข้าถึงเงินทุนและโครงการขนาดใหญ่ รวมถึง ระบบนิเวศเชิงกลยุทธ์ ใน พลังงาน–โทรคมนาคม–Data แต่ต้องติดตามว่าการขยายธุรกิจใหม่จะสร้าง ROIC ได้ยั่งยืนเพียงใด",
       "industryComparison": "เบียร์ พลังงานและสาธารณูปโภค / โครงสร้างพื้นฐาน กลุ่มบริษัทเทียบเคียง โดยเน้น กำไรจากธุรกิจหลัก, ROIC, หนี้สุทธิ, คุณภาพสัญญา PPA, ต้นทุนเงินทุน และ SOTP",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -935,7 +935,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107361501?symbol=GULF",
       "financialPublishedAt": "2026-11-05T17:18:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107361501?symbol=GULF",
@@ -961,7 +961,7 @@
           "71,145,776"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:00.596373021+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:20.296147001+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GULF/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1013,7 +1013,7 @@
       "moatReason": "มี ความได้เปรียบการแข่งขัน ชัดเจนจาก ทำเล และสิทธิบริหารสนามบินหลักของประเทศ ลักษณะ การผูกขาดโดยธรรมชาติ, กฎระเบียบ และ ผลของเครือข่าย ของสายการบิน ทำให้การสร้างคู่แข่งทดแทนทำได้ยากมาก",
       "industryComparison": "ผู้ประกอบการสนามบิน / เพื่อนร่วมงานโครงสร้างพื้นฐานการขนส่ง โดยเน้น ผู้โดยสาร การเติบโต, รายได้จากการบินและนอกการบิน, อัตรากำไร EBITDA, เงินลงทุน และ มูลค่าหุ้น",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1044,7 +1044,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106027101?symbol=AOT",
       "financialPublishedAt": "2026-08-13T17:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106027101?symbol=AOT",
@@ -1070,7 +1070,7 @@
           "14,262,366"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:15.597039265+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:35.296200159+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AOT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1122,7 +1122,7 @@
       "moatReason": "ระบบนิเวศของรัฐบาล ขนาด Paotang/Krungthai NEXT การจัดจำหน่าย การฝากเงิน และอุปสรรคด้านกฎระเบียบระดับสูง สร้างความได้เปรียบในการเข้าถึงข้อมูลและการเข้าถึงข้อมูลของลูกค้าอย่างยั่งยืน",
       "industryComparison": "เทียบกับ ธนาคารไทยขนาดใหญ่ ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, CAR, อัตราต้นทุนต่อรายได้ และ P/BV เท่านั้น.",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1153,7 +1153,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107173201?symbol=KTB",
       "financialPublishedAt": "2026-10-21T17:04:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107173201?symbol=KTB",
@@ -1179,7 +1179,7 @@
           "37,455,802"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:15.597039265+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:35.296200159+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KTB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1231,7 +1231,7 @@
       "moatReason": "K PLUS/ข้อมูลลูกค้า ความสัมพันธ์ระหว่าง SME แฟรนไชส์เงินฝาก แบรนด์ และกฎระเบียบทำให้เกิดข้อได้เปรียบในการสับเปลี่ยน/ข้อมูล/การกระจายที่คงทน",
       "industryComparison": "ธนาคารไทยขนาดใหญ่ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, CAR, Fee การเติบโต, อัตราต้นทุนต่อรายได้ และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1262,7 +1262,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107164801?symbol=KBANK",
       "financialPublishedAt": "2026-10-21T08:07:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107164801?symbol=KBANK",
@@ -1288,7 +1288,7 @@
           "39,286,834"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:15.597039265+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:35.296200159+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KBANK/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1340,7 +1340,7 @@
       "moatReason": "การเข้าถึงทรัพยากร ใบอนุญาต ความเชี่ยวชาญด้านใต้พื้นผิว/วิศวกรรม ขนาดของโครงการ และตำแหน่งเชิงกลยุทธ์ภายในประเทศ ก่อให้เกิดอุปสรรคในการเข้ามาสูง การเปิดเผยสินค้าโภคภัณฑ์จำกัดอำนาจการกำหนดราคา",
       "industryComparison": "พบกับ E&P ด้วย การเติบโตของปริมาณผลิต, อายุสำรอง, ต้นทุนต่อหน่วย, FCF, หนี้สุทธิ, EV/EBITDA และ เงินปันผล",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1371,7 +1371,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107262101?symbol=PTTEP",
       "financialPublishedAt": "2026-10-30T18:03:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107262101?symbol=PTTEP",
@@ -1397,7 +1397,7 @@
           "42,771,323"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:15.597039265+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:35.296200159+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTTEP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1449,7 +1449,7 @@
       "moatReason": "ฐานลูกค้า/เงินฝากขนาดใหญ่ แฟรนไชส์ความมั่งคั่ง กลุ่มข้อมูล/เทคโนโลยี และกฎระเบียบของธนาคาร ทำให้เกิดคูน้ำหลักของธนาคารที่ทนทาน คูเมืองดิจิทัลยังไม่ได้รับการพิสูจน์อย่างสมบูรณ์",
       "industryComparison": "ธนาคารไทยขนาดใหญ่ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, CAR, อัตราต้นทุนต่อรายได้, P/BV; ธุรกิจดิจิทัลดู หน่วยเศรษฐศาสตร์ แยก.",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1480,7 +1480,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107154101?symbol=SCB",
       "financialPublishedAt": "2026-10-21T12:32:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107154101?symbol=SCB",
@@ -1506,7 +1506,7 @@
           "37,344,410"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:30.696728095+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SCB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1559,7 +1559,7 @@
       "moatReason": "คลื่นความถี่ เครือข่ายทั่วประเทศ ขนาดสมาชิก การบรรจบกัน การกระจายสินค้า และอุปสรรคด้านกฎระเบียบ/เงินทุน ทำให้เกิดคูน้ำโทรคมนาคมที่ทนทาน",
       "industryComparison": "เพื่อเชื่อมโยงโทรคมนาคมด้วย รายได้เฉลี่ยต่อผู้ใช้ (ARPU), อัตราการยกเลิกบริการ, การเติบโตของรายได้บริการ, อัตรากำไร EBITDA, เงินลงทุนต่อยอดขาย, FCF, ต้นทุนคลื่นความถี่ และ ภาระหนี้",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1590,7 +1590,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107282401?symbol=TRUE",
       "financialPublishedAt": "2026-11-02T12:34:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107282401?symbol=TRUE",
@@ -1616,7 +1616,7 @@
           "5,237,926"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:30.696728095+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TRUE/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1668,7 +1668,7 @@
       "moatReason": "ความหนาแน่นของร้านค้า แบรนด์ 7-Eleven กำลังซื้อ การขนส่ง ข้อมูล และพฤติกรรมของลูกค้าก่อให้เกิดเครือข่าย/คูน้ำขนาดใหญ่ที่ยากและมีราคาแพงในการทำซ้ำ",
       "industryComparison": "พบกับ ค้าปลีกสะดวกซื้อและอาหาร กลุ่มบริษัทเทียบเคียง ด้วย SSSG, ยอดขายต่อสาขา, อัตรากำไรขั้นต้น, อัตราหมุนเวียนสินค้าคงคลัง, FCF, ภาระหนี้ และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1699,7 +1699,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/CPALL/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/CPALL/financial-statement/five-years",
@@ -1723,7 +1723,7 @@
         "netProfit": 16629735,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:30.696728095+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CPALL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1775,7 +1775,7 @@
       "moatReason": "ความสัมพันธ์ระหว่างองค์กร ฐานเงินฝาก เครือข่ายอาเซียน ขนาดงบดุล และกฎระเบียบของธนาคาร ทำให้เกิดอุปสรรคด้านเงินทุน/การกระจายตัวที่ยั่งยืน",
       "industryComparison": "ธนาคารไทยขนาดใหญ่ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, CET1/CAR, รายได้ค่าธรรมเนียม และ P/BV; หนี้/EBITDA = ไม่มี",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1806,7 +1806,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107149701?symbol=BBL",
       "financialPublishedAt": "2026-10-20T18:48:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107149701?symbol=BBL",
@@ -1832,7 +1832,7 @@
           "38,247,126"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:30.696728095+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BBL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1884,7 +1884,7 @@
       "moatReason": "ชื่อเสียงทางคลินิก เครือข่ายแพทย์/ผู้ส่งต่อ ความหนาแน่นของโรงพยาบาล แบรนด์ และใบอนุญาตสร้างคูน้ำเครือข่ายการดูแลสุขภาพที่ยั่งยืน",
       "industryComparison": "เทียบกับโรงพยาบาลด้วย การเติบโตของรายได้, อัตรากำไร EBITDA, สัดส่วนลูกค้าต่างประเทศ, ROIC, เงินลงทุน, อัตราการใช้บริการและกำลังการผลิต และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -1915,7 +1915,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/BDMS/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/BDMS/financial-statement/five-years",
@@ -1939,7 +1939,7 @@
         "netProfit": 7306451,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:30.696728095+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BDMS/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1991,7 +1991,7 @@
       "moatReason": "ทำเลที่ตั้งดีเยี่ยม ระบบนิเวศของผู้เช่า แบรนด์ ข้อมูลการจราจร และขนาดการพัฒนา ก่อให้เกิดอุปสรรคด้านเครือข่าย/อสังหาริมทรัพย์ที่แข็งแกร่ง",
       "industryComparison": "ไปยัง Mall/Property กลุ่มบริษัทเทียบเคียง ด้วย อัตราการเข้าพัก, การเติบโตของค่าเช่า, ยอดขายผู้เช่า, อัตรากำไร EBITDA, FFO, หนี้ต่อ EBITDA, NAV และ ROIC",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -2022,7 +2022,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107402901?symbol=CPN",
       "financialPublishedAt": "2026-11-09T08:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107402901?symbol=CPN",
@@ -2048,7 +2048,7 @@
           "13,956,479"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CPN/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2100,7 +2100,7 @@
       "moatReason": "ระดับอุตสาหกรรม ยี่ห้อ การจัดจำหน่าย ไซต์งาน และองค์ความรู้ในการดำเนินงานก่อให้เกิดคูน้ำ แต่ความแข็งแกร่งของคูน้ำจะแตกต่างกันไปตามกลุ่มส่วน และมีความอ่อนแอที่สุดในด้านสารเคมีสำหรับสินค้าโภคภัณฑ์",
       "industryComparison": "เทียบเคียง กลุ่มธุรกิจ: ปูนซีเมนต์, เคมีภัณฑ์, บรรจุภัณฑ์; กลุ่มระดับ ใช้ SOTP, ROIC, หนี้สุทธิต่อ EBITDA และ FCF.",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -2131,7 +2131,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107472701?symbol=SCC",
       "financialPublishedAt": "2026-11-10T12:45:28+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107472701?symbol=SCC",
@@ -2157,7 +2157,7 @@
           "17,766,991"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SCC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2209,7 +2209,7 @@
       "moatReason": "ฐานเงินฝาก/ลูกค้า ระบบนิเวศสินเชื่อรถยนต์ ข้อมูล การกระจายสินค้าทางดิจิทัล และกฎระเบียบของธนาคาร ช่วยสร้างข้อได้เปรียบที่ยั่งยืนแต่ไม่ผูกขาด",
       "industryComparison": "ธนาคารไทยขนาดใหญ่ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, CAR, อัตราต้นทุนต่อรายได้, รายได้ค่าธรรมเนียม และ P/BV; หนี้/EBITDA = ไม่มี",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-08",
       "sources": [
@@ -2236,7 +2236,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107154301?symbol=TTB",
       "financialPublishedAt": "2026-10-20T12:33:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107154301?symbol=TTB",
@@ -2262,7 +2262,7 @@
           "15,399,365"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:18:50.296633908+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TTB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2314,7 +2314,7 @@
       "moatReason": "ระบบนิเวศของแบรนด์/สถานที่ตั้ง ขนาดของซัพพลายเออร์ ข้อมูลความภักดี และโครงสร้างพื้นฐานแบบ Omnichannel สร้างความได้เปรียบด้านการค้าปลีก/การกระจายสินค้าที่ยั่งยืน",
       "industryComparison": "พบกับผู้ค้าปลีกระดับภูมิภาคด้วย SSSG, อัตรากำไรขั้นต้น, อัตรากำไร EBITDA, อัตราหมุนเวียนสินค้าคงคลัง, Digital สัดส่วน, ROIC และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -2341,7 +2341,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106275701?symbol=CRC",
       "financialPublishedAt": "2026-08-14T17:55:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106275701?symbol=CRC",
@@ -2367,7 +2367,7 @@
           "3,480,396"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:05.296931199+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CRC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2419,7 +2419,7 @@
       "moatReason": "วัตถุดิบตั้งต้น ระดับอุตสาหกรรม ไซต์งาน ลอจิสติกส์ และองค์ความรู้ด้านเทคนิคแบบบูรณาการ สร้างความได้เปรียบด้านต้นทุน/การดำเนินงาน แต่การกำหนดราคาสินค้าโภคภัณฑ์ถือเป็นอุปสรรคสำคัญ",
       "industryComparison": "พบกับบริษัทในกลุ่มปิโตรเคมีแห่งเอเชีย/ระดับโลกด้วย ส่วนต่างราคา, อัตราการใช้กำลังการผลิต, ต้นทุนเงินสด, สัดส่วนสินค้าพิเศษ, ROIC, หนี้สุทธิต่อ EBITDA และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -2450,7 +2450,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/PTTGC/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/PTTGC/financial-statement/five-years",
@@ -2474,7 +2474,7 @@
         "netProfit": 15440108.31,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:05.296931199+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTTGC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2526,7 +2526,7 @@
       "moatReason": "การบูรณาการในแนวดิ่ง การจัดซื้อทั่วโลก ความรู้ด้านพันธุศาสตร์/อาหารสัตว์ การจัดจำหน่าย และระบบความปลอดภัยของอาหารสร้างความได้เปรียบด้านต้นทุน/คุณภาพที่คงทน แต่ราคายังคงเป็นวงจร",
       "industryComparison": "โปรตีน/อาหารจากทั่วโลกด้วย อัตรากำไรขั้นต้น, ประสิทธิภาพการเปลี่ยนอาหารเป็นน้ำหนัก, ส่วนต่างราคาปศุสัตว์, ROIC, หนี้สุทธิต่อ EBITDA, FCF และ สัดส่วนสินค้ามูลค่าเพิ่ม",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -2549,7 +2549,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/CPF/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/CPF/financial-statement/five-years",
@@ -2573,7 +2573,7 @@
         "netProfit": 8950762,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:05.296931199+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CPF/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2625,7 +2625,7 @@
       "moatReason": "ชื่อเสียงทางคลินิก การอ้างอิงระหว่างประเทศ ความเชี่ยวชาญเฉพาะด้าน เครือข่ายแพทย์และแบรนด์ ก่อให้เกิดอุปสรรคที่แข็งแกร่งซึ่งจับต้องไม่ได้/มีคุณภาพ",
       "industryComparison": "พบกับ โรงพยาบาลระดับพรีเมียม กลุ่มบริษัทเทียบเคียง ด้วย รายได้ต่อผู้ป่วย, สัดส่วนลูกค้าต่างประเทศ, EBITDA/อัตรากำไรสุทธิ, ROE/ROIC, เงินสดสุทธิ และ P/E/EV-EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -2652,7 +2652,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/BH/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/BH/financial-statement/five-years",
@@ -2676,7 +2676,7 @@
         "netProfit": 3679189,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:28:45.696261485+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:05.296931199+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2728,7 +2728,7 @@
       "moatReason": "สัญญาระยะยาว ลูกค้าอุตสาหกรรม ใบอนุญาต ขนาดสาธารณูปโภค และระบบนิเวศของ ปตท. สร้างโครงสร้างพื้นฐานที่ทนทาน/อุปสรรคด้านกฎระเบียบ",
       "industryComparison": "ไปยัง IPP/SPP กลุ่มบริษัทเทียบเคียง ด้วย กำลังการผลิตตามสัญญา, กำไรต่อ MW, การส่งผ่านต้นทุนเชื้อเพลิง, ROIC, หนี้สุทธิต่อ EBITDA, เงินลงทุน และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -2759,7 +2759,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107348201?symbol=GPSC",
       "financialPublishedAt": "2026-11-05T17:09:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107348201?symbol=GPSC",
@@ -2785,7 +2785,7 @@
           "4,901,164"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:00.69625133+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GPSC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2837,7 +2837,7 @@
       "moatReason": "รอยเท้าของสถานีทั่วประเทศ แบรนด์ ปตท. เครือข่ายตัวแทนจำหน่าย ระบบนิเวศความภักดี และปริมาณการเข้าชมไซต์ สร้างความได้เปรียบในการกระจายสินค้าที่ยั่งยืน",
       "industryComparison": "เพื่อขับเคลื่อนการค้าปลีก/ไลฟ์สไตล์ด้วย การตลาด อัตรากำไร, ปริมาณ, ธุรกิจนอกน้ำมัน EBITDA สัดส่วน, ประสิทธิภาพต่อสาขา, ROIC, FCF และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -2864,7 +2864,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107362001?symbol=OR",
       "financialPublishedAt": "2026-11-05T17:25:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107362001?symbol=OR",
@@ -2890,7 +2890,7 @@
           "9,225,542"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:00.69625133+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/OR/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2942,7 +2942,7 @@
       "moatReason": "ศูนย์กลางกรุงเทพฯ แบรนด์ระดับพรีเมียม สล็อต/สิทธิ์ทวิภาคี และการเชื่อมต่อเครือข่ายเป็นคูน้ำของสายการบินที่สามารถป้องกันได้ แม้ว่าราคาระดับเส้นทางจะยังคงแข่งขันได้",
       "industryComparison": "สายการบิน สายการบินบริการเต็มรูปแบบในเอเชีย ด้วย รายได้เฉลี่ยต่อหน่วย, อัตราบรรทุกผู้โดยสาร, RASK/CASK, อัตรากำไร EBITDAR, อายุเฉลี่ยฝูงบิน, หนี้สุทธิต่อ EBITDA และ ROIC",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -2969,7 +2969,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/THAI/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/THAI/financial-statement/five-years",
@@ -2993,7 +2993,7 @@
         "netProfit": 11620835.5,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:00.69625133+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/THAI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3045,7 +3045,7 @@
       "moatReason": "แบรนด์ การกระจายตัวแทน ความรู้ด้านคณิตศาสตร์ประกันภัย/การรับประกันภัย ขนาดการลงทุน ความไว้วางใจของลูกค้า และข้อกำหนดด้านเงินทุนตามกฎระเบียบ ก่อให้เกิดอุปสรรคที่คงทน",
       "industryComparison": "สำหรับคู่ประกันชีวิตด้วย APE, VONB, VONB อัตรากำไร, CSM การเติบโต, มูลค่าธุรกิจประกันที่ฝังอยู่, CAR/RBC, Persistency และ P/EV",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -3076,7 +3076,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/TLI/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/TLI/financial-statement/five-years",
@@ -3100,7 +3100,7 @@
         "netProfit": 6574573,
         "fsType": "E"
       },
-      "marketDataAsOf": "2026-11-10T20:29:00.69625133+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TLI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3152,7 +3152,7 @@
       "moatReason": "ระดับโลก ห่วงโซ่ PET แบบครบวงจร ความสัมพันธ์กับลูกค้า และแพลตฟอร์มเฉพาะทางสร้างข้อได้เปรียบ แต่การแพร่กระจายของสินค้าโภคภัณฑ์และความสามารถในการกำหนดราคาที่ล้นเกินจำกัด",
       "industryComparison": "พบกับ เคมีภัณฑ์และ PET ระดับโลก กลุ่มบริษัทเทียบเคียง ด้วย อัตราการใช้กำลังการผลิต, EBITDA ต่อตัน, สัดส่วนสินค้าพิเศษ, FCF, หนี้สุทธิต่อ EBITDA, ROIC และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -3179,7 +3179,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "financialPublishedAt": "2026-11-09T08:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
@@ -3205,7 +3205,7 @@
           "(2,651,205)"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:00.69625133+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/IVL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3257,7 +3257,7 @@
       "moatReason": "ความซับซ้อน ต้นทุนการดำเนินงาน ลอจิสติกส์แบบบูรณาการ และการเพิ่มประสิทธิภาพโรงกลั่นทำให้เกิดคูน้ำในการปฏิบัติงานที่คงทน แม้ว่าส่วนต่างของผลิตภัณฑ์ขั้นสุดท้ายจะยังคงเป็นวัฏจักรก็ตาม",
       "industryComparison": "พบกับ โรงกลั่นในเอเชีย ด้วย GRM, อัตราการใช้กำลังการผลิต, ต้นทุนเงินสด, ความซับซ้อนของโรงกลั่น, หนี้สุทธิต่อ EBITDA, เงินลงทุน และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-09",
       "sources": [
@@ -3280,7 +3280,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/TOP/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/TOP/financial-statement/five-years",
@@ -3304,7 +3304,7 @@
         "netProfit": 27765004,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:00.69625133+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TOP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3356,7 +3356,7 @@
       "moatReason": "แบรนด์โรงแรม/อาหารระดับโลก สถานที่ตั้ง การจัดจำหน่าย ความภักดี และความรู้ในการดำเนินงาน ช่วยสร้างข้อได้เปรียบในระดับที่คงทน",
       "industryComparison": "พบกับ โรงแรมระดับโลก กลุ่มบริษัทเทียบเคียง ด้วย RevPAR, ADR, อัตราการเข้าพัก, อัตรากำไร EBITDA, สัดส่วนธุรกิจแบบใช้สินทรัพย์ต่ำ, FCF และ หนี้สุทธิต่อ EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -3387,7 +3387,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/MINT/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/MINT/financial-statement/five-years",
@@ -3411,7 +3411,7 @@
         "netProfit": 3956782,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:15.696874672+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MINT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3463,7 +3463,7 @@
       "moatReason": "ขนาดการผลิตในอาเซียน ความสัมพันธ์กับลูกค้า เครือข่ายการรีไซเคิล และโซลูชั่นบรรจุภัณฑ์แบบครบวงจร สร้างความได้เปรียบที่คงทนแต่ไม่ผูกขาด",
       "industryComparison": "การจับคู่ บรรจุภัณฑ์ในภูมิภาค ด้วย ปริมาณ, อัตรากำไร EBITDA, ROIC, FCF, Recycling สัดส่วน, หนี้สุทธิต่อ EBITDA และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -3494,7 +3494,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107417001?symbol=SCGP",
       "financialPublishedAt": "2026-11-09T12:38:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107417001?symbol=SCGP",
@@ -3520,7 +3520,7 @@
           "2,862,894"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:15.696874672+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:20.296146909+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SCGP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3572,7 +3572,7 @@
       "moatReason": "สินทรัพย์หลัก ธนาคารที่ดิน/ระบบนิเวศของ TCC และความร่วมมือระหว่างแบรนด์โรงแรมระดับโลกสร้างอุปสรรค แต่การสร้างรายได้ขึ้นอยู่กับการดำเนินการ",
       "industryComparison": "ต่อโรงแรม/ทรัพย์สินที่เทียบเท่าด้วย RevPAR, อัตราการเข้าพัก, อัตรากำไร EBITDA, NAV, ROIC, หนี้ต่อ EBITDA, เงินลงทุน และ Ramp-up",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -3603,7 +3603,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/AWC/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/AWC/financial-statement/five-years",
@@ -3627,7 +3627,7 @@
         "netProfit": 3454875,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:15.696874672+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:35.29660662+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AWC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3679,7 +3679,7 @@
       "moatReason": "แฟรนไชส์ด้านความมั่งคั่ง/การลงทุน-การธนาคาร ความสัมพันธ์ที่ร่ำรวย และการจัดจำหน่ายเฉพาะกลุ่มสร้างเศรษฐศาสตร์ที่แตกต่าง แต่การระดมทุน/ขนาดคูน้ำมีขนาดเล็กกว่าธนาคารรายใหญ่",
       "industryComparison": "ให้กับ Banking กลุ่มบริษัทเทียบเคียง ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, ต้นทุนเครดิต, CET1/CAR, รายได้ค่าธรรมเนียม, P/BV และ เงินปันผล; หนี้/EBITDA = ไม่มี",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -3706,7 +3706,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107138401?symbol=KKP",
       "financialPublishedAt": "2026-10-19T19:07:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107138401?symbol=KKP",
@@ -3732,7 +3732,7 @@
           "4,140,903"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:15.696874672+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:35.29660662+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KKP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3784,7 +3784,7 @@
       "moatReason": "แฟรนไชส์สินเชื่อรถยนต์/ความมั่งคั่ง ระเบียบวินัยในการจัดจำหน่าย และแบรนด์เป็นข้อได้เปรียบ แต่ขนาด/คูเมืองการระดมทุนยังต่ำกว่าธนาคารขนาดใหญ่",
       "industryComparison": "พบกับ ธนาคารและสินเชื่อรถยนต์ กลุ่มบริษัทเทียบเคียง ด้วย ROE, NIM, NPL, อัตราสำรองต่อหนี้เสีย, CAR, สัดส่วนรายได้ค่าธรรมเนียม, P/BV และ อัตราผลตอบแทนเงินปันผล",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -3815,7 +3815,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107091001?symbol=TISCO",
       "financialPublishedAt": "2026-10-14T08:35:00+07:00",
       "financialAssurance": "ก่อนสอบทาน",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107091001?symbol=TISCO",
@@ -3841,7 +3841,7 @@
           "5,017,119"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:15.696874672+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:35.29660662+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TISCO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3893,7 +3893,7 @@
       "moatReason": "สัมปทานทางด่วน/MRT ระยะยาว ผลกระทบจากโครงข่าย ใบอนุญาต และค่าทดแทน ก่อให้เกิดอุปสรรคในการเข้าที่สูงมาก",
       "industryComparison": "ไปยัง ทางด่วนและรถไฟ กลุ่มบริษัทเทียบเคียง ด้วย ปริมาณจราจรและจำนวนผู้โดยสาร, อัตรากำไร EBITDA, อายุสัมปทาน, ความสามารถชำระหนี้, ROIC, เงินลงทุน และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -3924,7 +3924,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/BEM/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/BEM/financial-statement/five-years",
@@ -3948,7 +3948,7 @@
         "netProfit": 1886653,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:15.696874672+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:35.29660662+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BEM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4000,7 +4000,7 @@
       "moatReason": "เครือข่ายผู้ค้า ข้อมูลลูกค้า ความสามารถในการรับประกัน/การจัดเก็บภาษี แบรนด์ และระบบนิเวศของเคทีบี สร้างความได้เปรียบด้านความเสี่ยง/การกระจายสินค้าที่ยั่งยืน",
       "industryComparison": "พบกับ สินเชื่อผู้บริโภค/บัตรเครดิต กลุ่มบริษัทเทียบเคียง ด้วย ROE, NPL, อัตราสำรองต่อหนี้เสีย, ต้นทุนเครดิต, อัตราต้นทุนต่อรายได้, Receivable การเติบโต และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -4031,7 +4031,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107397301?symbol=KTC",
       "financialPublishedAt": "2026-11-06T17:42:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107397301?symbol=KTC",
@@ -4057,7 +4057,7 @@
           "5,706,601"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:30.696321075+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:35.29660662+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KTC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4109,7 +4109,7 @@
       "moatReason": "แบรนด์ ร้านค้าทั่วประเทศ การจัดซื้อ ฉลากส่วนตัว การบริการ/โลจิสติกส์ และความไว้วางใจจากลูกค้า สร้างความได้เปรียบด้านการค้าปลีกที่ยั่งยืน",
       "industryComparison": "พบกับ ค้าปลีกสินค้าเกี่ยวกับบ้าน กลุ่มบริษัทเทียบเคียง ด้วย SSSG, อัตรากำไรขั้นต้น, อัตราหมุนเวียนสินค้าคงคลัง, ยอดขายต่อตารางเมตร, ROIC, FCF และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -4140,7 +4140,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107202101?symbol=HMPRO",
       "financialPublishedAt": "2026-10-27T07:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107202101?symbol=HMPRO",
@@ -4166,7 +4166,7 @@
           "4,409,497"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:30.696321075+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:35.29660662+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/HMPRO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4219,7 +4219,7 @@
       "moatReason": "สถานที่ตั้งของบิ๊กซี ขนาดการจัดซื้อ/การกระจายสินค้า บรรจุภัณฑ์ ความสัมพันธ์กับซัพพลายเออร์ และระบบนิเวศของ TCC ก่อให้เกิดอุปสรรคที่มีความหมาย แม้ว่าอำนาจการกำหนดราคาขายปลีกจะมีจำกัด",
       "industryComparison": "พบกับ ค้าปลีกสมัยใหม่/Consumer กลุ่มบริษัทเทียบเคียง ด้วย SSSG, อัตรากำไรขั้นต้น/EBITDA, อัตราหมุนเวียนสินค้าคงคลัง, FCF, หนี้สุทธิต่อ EBITDA และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -4246,7 +4246,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106105101?symbol=BJC",
       "financialPublishedAt": "2026-08-13T19:10:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106105101?symbol=BJC",
@@ -4272,7 +4272,7 @@
           "2,081,087"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:30.696321075+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:50.296140375+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BJC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4324,7 +4324,7 @@
       "moatReason": "PPA ระยะยาว ใบอนุญาต ความเชี่ยวชาญด้านสาธารณูปโภค การเข้าถึงทางการเงิน และความสัมพันธ์เชิงกลยุทธ์ ก่อให้เกิดอุปสรรคด้านโครงสร้างพื้นฐาน/กฎระเบียบในระดับสูง",
       "industryComparison": "พบกับ IPP/Utility กลุ่มบริษัทเทียบเคียง ด้วย กำลังผลิต MW ตามสัญญา, ความพร้อมจ่ายไฟ, ROIC, หนี้สุทธิ/อันดับเครดิต, อัตราผลตอบแทนเงินปันผล และ P/BV",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -4355,7 +4355,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/RATCH/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/RATCH/financial-statement/five-years",
@@ -4379,7 +4379,7 @@
         "netProfit": 2627984,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:30.696321075+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:50.296140375+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/RATCH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4431,7 +4431,7 @@
       "moatReason": "ใบอนุญาต แฟรนไชส์ทางการเงินที่หลากหลาย ความรู้ความชำนาญในการรับประกันภัย และการจัดสรรทุนให้ข้อได้เปรียบ แต่ไม่มีคูเมืองที่โดดเด่นเพียงแห่งเดียว",
       "industryComparison": "พบกับ โฮลดิ้งการเงินและธนาคาร กลุ่มบริษัทเทียบเคียง ด้วย ROE, P/BV, อัตราส่วนเงินกองทุน, อัตราผลตอบแทนเงินปันผล, ซื้อหุ้นคืน และ ส่วนลดจากมูลค่า SOTP",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -4458,7 +4458,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541601?symbol=TCAP",
       "financialPublishedAt": "2026-11-10T20:24:22+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541601?symbol=TCAP",
@@ -4484,7 +4484,7 @@
           "5,855,483"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:30.696321075+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:50.296140375+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TCAP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4536,7 +4536,7 @@
       "moatReason": "รอยเท้าของร้านค้า/บริการ ความสัมพันธ์ระหว่างแบรนด์/ผู้ขาย การจัดซื้อ ข้อมูล และการดำเนินการสร้างข้อได้เปรียบ อำนาจการกำหนดราคาฮาร์ดแวร์นั้นมีจำกัด",
       "industryComparison": "พบกับ ค้าปลีกไอทีและอิเล็กทรอนิกส์ กลุ่มบริษัทเทียบเคียง ด้วย SSSG, อัตราหมุนเวียนสินค้าคงคลัง, อัตรากำไรขั้นต้น, ROE, การเปลี่ยนกำไรเป็นกระแสเงินสด, Financing Penetอัตราส่วนn และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -4563,7 +4563,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/COM7/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/COM7/financial-statement/five-years",
@@ -4587,7 +4587,7 @@
         "netProfit": 2529251,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:50.296140375+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/COM7/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4639,7 +4639,7 @@
       "moatReason": "ขนาดการผลิต คุณสมบัติของลูกค้า วิศวกรรมและห่วงโซ่อุปทาน สร้างความได้เปรียบในการเปลี่ยน/ดำเนินการ แต่อำนาจการกำหนดราคายังคงมีจำกัด",
       "industryComparison": "พบกับ EMS ด้วย การเติบโตของรายได้, อัตรากำไร EBITDA, ROIC, การกระจุกตัวของลูกค้า, เงินลงทุน, FCF และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -4666,7 +4666,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/CCET/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/CCET/financial-statement/five-years",
@@ -4690,7 +4690,7 @@
         "netProfit": 1213532,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:50.296140375+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CCET/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4743,7 +4743,7 @@
       "moatReason": "ที่ดินอุตสาหกรรมที่ขาดแคลน ใบอนุญาต โครงสร้างพื้นฐาน สาธารณูปโภค และระบบนิเวศของลูกค้า ก่อให้เกิดอุปสรรคและค่าใช้จ่ายในการสับเปลี่ยนที่สูง",
       "industryComparison": "ให้กับนิคมอุตสาหกรรมด้วย ยอดขายและโอนที่ดิน, งานในมือ, ปริมาณการใช้สาธารณูปโภค, EBITDA ที่เกิดซ้ำ, ROIC, หนี้สุทธิ และ NAV/P-E.",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -4774,7 +4774,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/WHA/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/WHA/financial-statement/five-years",
@@ -4798,7 +4798,7 @@
         "netProfit": 2167471.92,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:19:50.296140375+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/WHA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4850,7 +4850,7 @@
       "moatReason": "PPA ระยะยาว ใบอนุญาต ความสามารถในการพัฒนาโครงการ และความสัมพันธ์ทางการเงิน ก่อให้เกิดอุปสรรคด้านโครงสร้างพื้นฐาน/กฎระเบียบในระดับสูง",
       "industryComparison": "พบกับ IPP/โฮลดิ้งธุรกิจไฟฟ้า กลุ่มบริษัทเทียบเคียง ด้วย กำไรจากการดำเนินงาน, กำลังผลิต MW ตามสัดส่วนถือหุ้น, ROIC, หนี้สุทธิ/อันดับเครดิต, เงินปันผล และ P/BV",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -4877,7 +4877,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/EGCO/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/EGCO/financial-statement/five-years",
@@ -4901,7 +4901,7 @@
         "netProfit": 1537606,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/EGCO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4953,7 +4953,7 @@
       "moatReason": "คุณสมบัติด้านยานยนต์ ความรู้ด้านวิศวกรรม/กระบวนการ มาตรฐานคุณภาพ และความสัมพันธ์อันยาวนานกับลูกค้า ก่อให้เกิดอุปสรรคในการเปลี่ยนทดแทนที่มีความหมาย",
       "industryComparison": "แผงวงจรพิมพ์และชิ้นส่วนอิเล็กทรอนิกส์ เทียบเคียงได้ด้วย การเติบโตของรายได้, อัตรากำไรขั้นต้น, อัตราการใช้กำลังการผลิต, ROIC, เงินสดสุทธิ และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-12",
       "sources": [
@@ -4984,7 +4984,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
       "financialPublishedAt": "2026-11-05T18:29:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
@@ -5010,7 +5010,7 @@
           "709,342"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KCE/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5063,7 +5063,7 @@
       "moatReason": "การบูรณาการโรงกลั่น/การค้าปลีก แบรนด์/เครือข่ายทั่วประเทศ โลจิสติกส์ และแพลตฟอร์มพลังงานหลากหลาย สร้างความได้เปรียบในขนาด แม้ว่าการกำหนดราคาสินค้าโภคภัณฑ์จะจำกัดความแข็งแกร่งของคูเมือง",
       "industryComparison": "การผสมผสานการกลั่น/พลังงานแบบผสมผสานด้วย GRM, อัตราการใช้กำลังการผลิต, การตลาด อัตรากำไร, Upstream Cost, FCF, หนี้สุทธิต่อ EBITDA และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5090,7 +5090,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107365601?symbol=BCP",
       "financialPublishedAt": "2026-11-05T18:21:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107365601?symbol=BCP",
@@ -5116,7 +5116,7 @@
           "663,093"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BCP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5168,7 +5168,7 @@
       "moatReason": "เครือข่ายสาขาที่หนาแน่น ความสัมพันธ์ในท้องถิ่น ข้อมูลการรับประกัน และความสามารถในการรวบรวม ทำให้เกิดข้อได้เปรียบด้านขนาด/การสลับที่มีความหมาย",
       "industryComparison": "พบกับ สินเชื่อทะเบียนรถและสินเชื่อผู้บริโภค กลุ่มบริษัทเทียบเคียง ด้วย การเติบโตของสินเชื่อ, รายได้เฉลี่ยต่อหน่วย, NPL, ต้นทุนเครดิต, ROE, ต้นทุนเงินทุน และ P/BV; หนี้/EBITDA = ไม่มี",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5199,7 +5199,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107535201?symbol=MTC",
       "financialPublishedAt": "2026-11-10T19:43:43+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107535201?symbol=MTC",
@@ -5225,7 +5225,7 @@
           "4,942,179"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:29:45.696427556+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MTC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5278,7 +5278,7 @@
       "moatReason": "แบรนด์โรงแรม/อาหาร สถานที่ตั้ง การจัดจำหน่าย/ความภักดี ระบบนิเวศส่วนกลาง และความเชี่ยวชาญในการดำเนินงานสร้างความต้องการที่ยั่งยืนและความได้เปรียบในการดำเนินการ",
       "industryComparison": "ร่วมกับโรงแรม/อาหารด้วย RevPAR, ADR, อัตราการเข้าพัก, Restaurant SSSG, อัตรากำไร EBITDA, ROIC, หนี้ต่อ EBITDA และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5309,7 +5309,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105805601?symbol=CENTEL",
       "financialPublishedAt": "2026-08-10T18:36:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105805601?symbol=CENTEL",
@@ -5335,7 +5335,7 @@
           "858,188"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:00.696261484+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CENTEL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5388,7 +5388,7 @@
       "moatReason": "PPA ระยะยาว ลูกค้าอุตสาหกรรม ใบอนุญาต ความเชี่ยวชาญด้านการพัฒนา และการเข้าถึงทางการเงิน จะสร้างอุปสรรคด้านโครงสร้างพื้นฐานที่คงทน",
       "industryComparison": "SPP/IPP กลุ่มบริษัทเทียบเคียง ด้วย กำลังผลิต MW ตามสัญญา, ส่วนต่างกำไร SPP, การส่งผ่านต้นทุนเชื้อเพลิง, ROIC, หนี้สุทธิต่อ EBITDA, เงินลงทุน และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5415,7 +5415,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/BGRIM/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/BGRIM/financial-statement/five-years",
@@ -5439,7 +5439,7 @@
         "netProfit": 1397150,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:30:00.696261484+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BGRIM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5492,7 +5492,7 @@
       "moatReason": "แบรนด์เดิม การจัดจำหน่ายในระดับประเทศ การเข้าถึงผู้ค้าปลีก และขนาดการผลิต ก่อให้เกิดอุปสรรคต่อผู้บริโภคที่ยั่งยืน",
       "industryComparison": "เพื่อควบคุมเครื่องดื่ม/ผู้บริโภคด้วย ปริมาณ, ส่วนแบ่งตลาด, อัตรากำไรขั้นต้น/EBITDA, FCF, ROIC, เงินสดสุทธิ/หนี้สุทธิ และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5519,7 +5519,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/OSP/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/OSP/financial-statement/five-years",
@@ -5543,7 +5543,7 @@
         "netProfit": 2256536,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:30:00.696261484+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/OSP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5595,7 +5595,7 @@
       "moatReason": "สถานที่ตั้งของโรงกลั่นเชิงกลยุทธ์ โครงสร้างพื้นฐาน และความรู้ความชำนาญในการดำเนินงานเป็นอุปสรรค แต่การกำหนดราคาสินค้าโภคภัณฑ์จะขัดขวางคูน้ำที่แข็งแกร่งและทนทาน",
       "industryComparison": "การกลั่นเพียร์ด้วย GRM, อัตราการใช้กำลังการผลิต, ความซับซ้อนของโรงกลั่น, ต้นทุนเงินสด, FCF, เงินสดสุทธิ/หนี้สุทธิ และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -5622,7 +5622,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106203101?symbol=SPRC",
       "financialPublishedAt": "2026-08-14T18:19:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106203101?symbol=SPRC",
@@ -5648,7 +5648,7 @@
           "(98,819)"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:00.696261484+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:05.29633421+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SPRC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5700,7 +5700,7 @@
       "moatReason": "แบรนด์ การกระจายสินค้าทั่วประเทศ ความสัมพันธ์กับผู้ค้าปลีก และการผลิตในแนวดิ่งสร้างข้อได้เปรียบด้านเครื่องดื่มที่ยั่งยืน",
       "industryComparison": "เพื่อเทียบเคียงเครื่องดื่มด้วย ส่วนแบ่งตลาด, ปริมาณ การเติบโต, อัตรากำไรขั้นต้น, สัดส่วนลูกค้าต่างประเทศ, ROIC และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5727,7 +5727,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/CBG/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/CBG/financial-statement/five-years",
@@ -5751,7 +5751,7 @@
         "netProfit": 1347141,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:30:00.696261484+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:20.296872419+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CBG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5803,7 +5803,7 @@
       "moatReason": "การบูรณาการในแนวดิ่ง ความปลอดภัยทางชีวภาพ ขนาดอาหารสัตว์/การจัดซื้อ และการจำหน่ายปลีกให้ข้อได้เปรียบ แต่ราคาโปรตีนของสินค้าโภคภัณฑ์จำกัดความแข็งแกร่งของคูน้ำ",
       "industryComparison": "โปรตีน/อาหารเกษตรแบบผสมผสานด้วย ส่วนต่างราคาstock, ต้นทุนอาหารสัตว์, ค้าปลีก สัดส่วน, อัตรากำไร EBITDA, FCF และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5834,7 +5834,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105818601?symbol=TFG",
       "financialPublishedAt": "2026-08-10T20:50:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105818601?symbol=TFG",
@@ -5860,7 +5860,7 @@
           "4,588,674"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:20.296872419+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TFG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5913,7 +5913,7 @@
       "moatReason": "ตำแหน่งทรัพยากร การบูรณาการก๊าซ/พลังงานของสหรัฐอเมริกา และความเชี่ยวชาญในการดำเนินงานให้ข้อได้เปรียบ แต่การสัมผัสสินค้าโภคภัณฑ์จะจำกัดความทนทานของคูน้ำ",
       "industryComparison": "พบกับ ธุรกิจพลังงานหลากหลาย ด้วย ราคาขายถ่านหินและก๊าซจริง, ไฟฟ้า EBITDA, FCF, หนี้สุทธิต่อ EBITDA, เศรษฐศาสตร์ของปริมาณสำรอง และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -5944,7 +5944,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106612001?symbol=BANPU",
       "financialPublishedAt": "2026-08-31T17:45:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106612001?symbol=BANPU",
@@ -5970,7 +5970,7 @@
           "(1,144,008)"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:20.296872419+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BANPU/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6023,7 +6023,7 @@
       "moatReason": "การจัดหา แบรนด์ การรับรอง ความสัมพันธ์กับลูกค้า และความรู้ความชำนาญด้านการผลิต PetCare จากทั่วโลก ช่วยสร้างข้อได้เปรียบในระดับที่คงทน",
       "industryComparison": "พบกับ อาหารทะเลและอาหารระดับโลก กลุ่มบริษัทเทียบเคียง ด้วย Branded/PetCare สัดส่วน, อัตรากำไรขั้นต้น/EBITDA, FCF, หนี้สุทธิต่อ EBITDA และ P/E",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -6050,7 +6050,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107296801?symbol=TU",
       "financialPublishedAt": "2026-11-02T18:16:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107296801?symbol=TU",
@@ -6076,7 +6076,7 @@
           "3,596,173"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:20.296872419+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TU/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6128,7 +6128,7 @@
       "moatReason": "การจัดหาด้วยต้นทุนต่ำ ร้านค้าทั่วประเทศที่หนาแน่น รูปแบบที่ได้มาตรฐาน แบรนด์ และระดับห่วงโซ่อุปทาน สร้างความได้เปรียบด้านการค้าปลีกที่มีมูลค่าคงทน",
       "industryComparison": "พบกับมูลค่าที่เทียบเท่าการขายปลีก/การปรับปรุงบ้านด้วย ร้านค้า Count, SSSG, ยอดขายต่อสาขา, อัตรากำไรขั้นต้น, อัตราหมุนเวียนสินค้าคงคลัง, ROIC และ P/E",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -6155,7 +6155,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107498801?symbol=MRDIYT",
       "financialPublishedAt": "2026-11-10T17:01:31+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107498801?symbol=MRDIYT",
@@ -6181,7 +6181,7 @@
           "1,781,351"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:20.296872419+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MRDIYT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6233,7 +6233,7 @@
       "moatReason": "ความสัมพันธ์ระหว่างไซต์งาน ท่าเรือ สาธารณูปโภค และปตท. สร้างความได้เปรียบในการดำเนินงาน แต่การกำหนดราคาสินค้าโภคภัณฑ์ทำให้เกิดความทนทาน",
       "industryComparison": "แนวทางการกลั่น/ปิโตรเคมีแบบผสมผสานด้วย GRM, Product ส่วนต่างราคาs, อัตราการใช้กำลังการผลิต, FCF, หนี้สุทธิ และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -6264,7 +6264,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107435701?symbol=IRPC",
       "financialPublishedAt": "2026-11-09T17:15:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107435701?symbol=IRPC",
@@ -6290,7 +6290,7 @@
           "(2,997,816)"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/IRPC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6343,7 +6343,7 @@
       "moatReason": "สาขา/ข้อมูล/คอลเลกชัน การกระจายประกันภัย แบรนด์ และระบบนิเวศการระดมทุนของกรุงศรี สร้างความได้เปรียบในขนาดและการขายต่อเนื่อง",
       "industryComparison": "พบกับ สินเชื่อทะเบียนรถและสินเชื่อผู้บริโภค กลุ่มบริษัทเทียบเคียง ด้วย การเติบโตของสินเชื่อ, NPL, ต้นทุนเครดิต, อัตราสำรองต่อหนี้เสีย, ROE, สัดส่วนธุรกิจประกัน, ต้นทุนเงินทุน และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -6370,7 +6370,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107398301?symbol=TIDLOR",
       "financialPublishedAt": "2026-11-06T18:53:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107398301?symbol=TIDLOR",
@@ -6396,7 +6396,7 @@
           "3,900,657"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TIDLOR/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6449,7 +6449,7 @@
       "moatReason": "ใบอนุญาต การพัฒนาโครงการ ความสัมพันธ์ของกริด และความสามารถของ EPC จะสร้างข้อได้เปรียบ แต่ผลตอบแทนยังคงขึ้นอยู่กับนโยบาย/โครงการ",
       "industryComparison": "เพื่อ ผู้พัฒนาโครงการพลังงานหมุนเวียน ด้วย กำลังผลิต MW ที่ดำเนินงาน, EBITDA ต่อ MW, EPC งานในมือ, ROIC, หนี้สุทธิต่อ EBITDA และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -6476,7 +6476,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107424701?symbol=GUNKUL",
       "financialPublishedAt": "2026-11-09T17:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107424701?symbol=GUNKUL",
@@ -6502,7 +6502,7 @@
           "1,308,610"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:15.696309852+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GUNKUL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6555,7 +6555,7 @@
       "moatReason": "การบูรณาการในแนวดิ่ง ความปลอดภัยทางชีวภาพ การจัดจำหน่าย การปรับขนาด และอาหารที่มีตราสินค้า สร้างความได้เปรียบด้านต้นทุน/คุณภาพ แม้ว่าวงจรของสินค้าโภคภัณฑ์จะยังคงมีประสิทธิภาพก็ตาม",
       "industryComparison": "วิธีการบูรณาการ Agriอาหาร กลุ่มบริษัทเทียบเคียง ด้วย ส่วนต่างราคาปศุสัตว์, ต้นทุนอาหารสัตว์, สัดส่วนสินค้ามีแบรนด์, อัตรากำไร EBITDA, ROIC, FCF และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -6582,7 +6582,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107505001?symbol=BTG",
       "financialPublishedAt": "2026-11-10T17:12:21+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107505001?symbol=BTG",
@@ -6608,7 +6608,7 @@
           "5,658,273"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:30.696990206+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BTG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6660,7 +6660,7 @@
       "moatReason": "การขาดแคลนสนามบินสมุย ช่อง/เครือข่าย แบรนด์ และบริการการบิน ก่อให้เกิดอุปสรรคด้านทรัพย์สิน/เครือข่ายที่คงทน",
       "industryComparison": "สายการบินภูมิภาค/ผู้ให้บริการสนามบินด้วย รายได้เฉลี่ยต่อหน่วย, อัตราบรรทุกผู้โดยสาร, RASK/CASK, ปริมาณผู้ใช้สนามบิน, อัตรากำไร EBITDA, FCF และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -6687,7 +6687,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107475901?symbol=BA",
       "financialPublishedAt": "2026-11-10T12:31:54+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107475901?symbol=BA",
@@ -6713,7 +6713,7 @@
           "3,117,574"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:30.696990206+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6765,7 +6765,7 @@
       "moatReason": "แบรนด์ การจัดหาที่ดิน และการลงทุนในอสังหาริมทรัพย์เป็นประจำจะสร้างข้อได้เปรียบ แต่อำนาจการกำหนดราคาที่อยู่อาศัยนั้นมีจำกัด",
       "industryComparison": "สำหรับนักพัฒนาที่อยู่อาศัยด้วย ยอดขายรอโอน, ยอดโอน, อัตรากำไรขั้นต้น, อัตราหนี้สินสุทธิ, รายได้ค่าเช่า, อัตราผลตอบแทนเงินปันผล และ P/BV",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -6792,7 +6792,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/LH/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/LH/financial-statement/five-years",
@@ -6816,7 +6816,7 @@
         "netProfit": 1220478,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:30:30.696990206+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/LH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6868,7 +6868,7 @@
       "moatReason": "เครือข่ายร้านค้า ขนาดการจัดซื้อ/ลอจิสติกส์ ความสัมพันธ์ของผู้รับเหมา และความกว้างของการแบ่งประเภท สร้างความได้เปรียบในการดำเนินงานที่ยั่งยืน แม้ว่าอำนาจการกำหนดราคาจะมีจำกัดก็ตาม",
       "industryComparison": "พบกับ ค้าปลีกสินค้าเกี่ยวกับบ้าน กลุ่มบริษัทเทียบเคียง ด้วย SSSG, อัตรากำไรขั้นต้น, จำนวนวันสินค้าคงคลัง, ยอดขายต่อตารางเมตร, ROIC, FCF และ P/E",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -6899,7 +6899,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107215101?symbol=GLOBAL",
       "financialPublishedAt": "2026-10-27T18:06:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107215101?symbol=GLOBAL",
@@ -6925,7 +6925,7 @@
           "1,534,457"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:30.696990206+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:35.296412554+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GLOBAL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6978,7 +6978,7 @@
       "moatReason": "สถานที่โฆษณา/สัมปทานที่ขาดแคลน สินค้าคงคลังดิจิทัลระดับประเทศ ความสัมพันธ์และขนาดกับผู้ลงโฆษณา ก่อให้เกิดอุปสรรคที่แข็งแกร่งและเศรษฐศาสตร์เครือข่าย",
       "industryComparison": "พบกับ สื่อนอกบ้านและสื่อโฆษณา กลุ่มบริษัทเทียบเคียง ด้วย อัตราการใช้กำลังการผลิต, รายได้ต่อจุดโฆษณา, อัตรากำไร EBITDA, อายุสัมปทาน, FCF และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -7005,7 +7005,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106062001?symbol=PLANB",
       "financialPublishedAt": "2026-08-13T17:51:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106062001?symbol=PLANB",
@@ -7031,7 +7031,7 @@
           "462,593"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:50.296593172+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PLANB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7083,7 +7083,7 @@
       "moatReason": "การกระจายสินค้า ความสามารถในการประมาณการประกันภัย/การจัดจำหน่าย ความไว้วางใจของลูกค้า และข้อกำหนดด้านเงินทุนตามกฎระเบียบ ทำให้เกิดอุปสรรคในการประกันภัยที่คงทน",
       "industryComparison": "เพื่อประกันชีวิตด้วย APE, VONB/CSM, CAR/RBC, Persistency, ROE, P/EV และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -7114,7 +7114,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107537401?symbol=BLA",
       "financialPublishedAt": "2026-11-10T19:31:31+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107537401?symbol=BLA",
@@ -7140,7 +7140,7 @@
           "5,495,511"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:50.296593172+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BLA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7192,7 +7192,7 @@
       "moatReason": "ความหนาแน่นของสาขา ความรู้ด้านหลักประกันในท้องถิ่น และความสามารถในการเรียกเก็บเงินสร้างข้อได้เปรียบในขนาด แต่ข้อจำกัดด้านกฎระเบียบและความแข็งแกร่งของคูน้ำในการแข่งขัน",
       "industryComparison": "พบกับ สินเชื่อทะเบียนรถและสินเชื่อผู้บริโภค กลุ่มบริษัทเทียบเคียง ด้วย การเติบโตของสินเชื่อ, NPL, ต้นทุนเครดิต, อัตราสำรองต่อหนี้เสีย, ROE, ต้นทุนเงินทุน และ P/BV",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -7219,7 +7219,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105931201?symbol=SAWAD",
       "financialPublishedAt": "2026-08-11T20:43:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105931201?symbol=SAWAD",
@@ -7245,7 +7245,7 @@
           "2,370,119"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:50.296593172+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SAWAD/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7298,7 +7298,7 @@
       "moatReason": "คุณสมบัติ วิศวกรรมกระบวนการ และความสัมพันธ์กับลูกค้าสร้างอุปสรรคในการเปลี่ยน แต่อำนาจการกำหนดราคาที่จำกัดทำให้ความแข็งแกร่งของคูเมืองอ่อนแอลง",
       "industryComparison": "ไปสู่ การรับจ้างผลิตอิเล็กทรอนิกส์และประกอบเซมิคอนดักเตอร์ ด้วย การเติบโตของรายได้, อัตรากำไรขั้นต้น, อัตราการใช้กำลังการผลิต, ROIC, เงินสดสุทธิ และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -7325,7 +7325,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106206501?symbol=HANA",
       "financialPublishedAt": "2026-08-14T17:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106206501?symbol=HANA",
@@ -7351,7 +7351,7 @@
           "512,888"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:50.296593172+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/HANA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7404,7 +7404,7 @@
       "moatReason": "ที่ดินอุตสาหกรรมที่ขาดแคลน โครงสร้างพื้นฐาน ใบอนุญาต สาธารณูปโภค และความสัมพันธ์จาก FDI ในระยะยาว ก่อให้เกิดอุปสรรคในการเข้ามาสูงและความเหนียวแน่นของลูกค้า",
       "industryComparison": "ร่วมกับนิคมอุตสาหกรรมด้วย ยอดขายและโอนที่ดิน, งานในมือ, ปริมาณการใช้สาธารณูปโภค, EBITDA ที่เกิดซ้ำ, ROIC, NAV และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -7431,7 +7431,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106112001?symbol=AMATA",
       "financialPublishedAt": "2026-08-13T19:08:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106112001?symbol=AMATA",
@@ -7457,7 +7457,7 @@
           "969,048"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:50.296593172+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AMATA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7510,7 +7510,7 @@
       "moatReason": "แบรนด์ชั้นนำ เครือข่ายตัวแทนจำหน่าย/การย้อมสีทั่วประเทศ ความสัมพันธ์ของผู้รับเหมา และขนาด ทำให้เกิดอุปสรรคในการกระจายสินค้าและความไว้วางใจในระดับสูง",
       "industryComparison": "ร่วมกับ สีและสารเคลือบ ด้วย ส่วนแบ่งแบรนด์, ความครอบคลุมเครือข่ายตัวแทนจำหน่าย, อัตรากำไรขั้นต้น/EBITDA, ROIC, FCF, เงินสดสุทธิ และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -7537,7 +7537,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106115201?symbol=TOA",
       "financialPublishedAt": "2026-08-13T19:31:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106115201?symbol=TOA",
@@ -7563,7 +7563,7 @@
           "1,384,893"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:20:50.296593172+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TOA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7615,7 +7615,7 @@
       "moatReason": "เครือข่ายเส้นทาง ความสัมพันธ์กับลูกค้า และการดำเนินงานของกองเรือที่เป็นเจ้าของนั้นให้ข้อได้เปรียบ แต่การกำหนดราคาค่าขนส่งที่คล้ายกับสินค้าโภคภัณฑ์จะช่วยป้องกันคูน้ำที่ทนทานได้",
       "industryComparison": "โดยสามารถเทียบเคียงกับ ขนส่งตู้คอนเทนเนอร์ทางเรือ ด้วย ค่าระวางต่อตู้ TEU, ปริมาณ, อัตราการใช้กองเรือ, ต้นทุนน้ำมันเรือ, อัตรากำไร EBITDA, เงินสดสุทธิ/หนี้สุทธิ, NAV ของกองเรือ และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-14",
       "sources": [
@@ -7646,7 +7646,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107382401?symbol=RCL",
       "financialPublishedAt": "2026-11-06T12:37:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107382401?symbol=RCL",
@@ -7672,7 +7672,7 @@
           "6,363,519"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:30:45.696101671+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:05.296038077+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/RCL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7725,7 +7725,7 @@
       "moatReason": "การลงทะเบียนแบรนด์ ความไว้วางใจด้านการดูแลสุขภาพ การอนุมัติตามกฎระเบียบระดับประเทศ และเครือข่ายการจัดจำหน่ายที่จัดตั้งขึ้นในตลาดที่กำลังพัฒนา ทำให้เกิดอุปสรรคในเส้นทางสู่ตลาดและการเปลี่ยนเส้นทางที่คงทน",
       "industryComparison": "ไปสู่ สินค้าเพื่อสุขภาพที่มีแบรนด์ / การจัดจำหน่ายเวชภัณฑ์ กลุ่มบริษัทเทียบเคียง ด้วย การเติบโตแบบออร์แกนิก, อัตรากำไรขั้นต้น/EBIT, ROE/ROIC, การแปลงเงินสด, เงินสดสุทธิ และ P/E/EV-EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -7752,7 +7752,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106045201?symbol=MEGA",
       "financialPublishedAt": "2026-08-13T17:19:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106045201?symbol=MEGA",
@@ -7778,7 +7778,7 @@
           "840,754"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:00.696770183+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:05.296038077+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MEGA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7831,7 +7831,7 @@
       "moatReason": "การจัดหาที่ดิน แบรนด์ การดำเนินการก่อสร้าง และงบดุลเชิงอนุรักษ์สร้างข้อได้เปรียบ แม้ว่าอำนาจการกำหนดราคาที่อยู่อาศัยยังคงมีจำกัด",
       "industryComparison": "ไปจนถึง ผู้พัฒนาอสังหาริมทรัพย์เพื่ออยู่อาศัย ด้วย ยอดขายรอโอน, งานในมือ, อัตรากำไรขั้นต้น, สินค้าคงคลัง, อัตราหนี้สินสุทธิ, ROE, อัตราผลตอบแทนเงินปันผล และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -7858,7 +7858,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107515201?symbol=SPALI",
       "financialPublishedAt": "2026-11-10T18:51:59+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107515201?symbol=SPALI",
@@ -7884,7 +7884,7 @@
           "2,677,098"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:00.696770183+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:05.296038077+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SPALI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7936,7 +7936,7 @@
       "moatReason": "คุณสมบัติของโครงการขนาดใหญ่ ประวัติทางวิศวกรรม/การจัดการโครงการ และระบบนิเวศโครงสร้างพื้นฐานเชิงกลยุทธ์ ก่อให้เกิดอุปสรรคในการเข้ามาสูง",
       "industryComparison": "ให้กับ ก่อสร้างและโครงสร้างพื้นฐาน กลุ่มบริษัทเทียบเคียง ด้วย งานในมือ, อัตรากำไรขั้นต้น, เงินทุนหมุนเวียน, ROIC, หนี้สุทธิ และ SOTP ของ โครงสร้างพื้นฐาน Stakes",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -7963,7 +7963,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106260501?symbol=CK",
       "financialPublishedAt": "2026-08-14T19:35:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106260501?symbol=CK",
@@ -7989,7 +7989,7 @@
           "1,145,006"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:00.696770183+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:05.296038077+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CK/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8041,7 +8041,7 @@
       "moatReason": "เครือข่ายการจัดซื้อ/ตรวจสอบย้อนกลับ ขนาดการประมวลผล คุณสมบัติของลูกค้า และการบูรณาการในแนวดิ่งสร้างข้อได้เปรียบ แต่การกำหนดราคาสินค้าโภคภัณฑ์จำกัดอำนาจการกำหนดราคาที่คงทน",
       "industryComparison": "เทียบกับ ยางธรรมชาติและถุงมือ ด้วย ปริมาณ, ASP, อัตรากำไรขั้นต้น/EBITDA, อัตราการใช้กำลังการผลิต, เงินทุนหมุนเวียน, ROIC, หนี้สุทธิต่อ EBITDA และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -8072,7 +8072,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107523201?symbol=STA",
       "financialPublishedAt": "2026-11-10T18:11:44+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107523201?symbol=STA",
@@ -8098,7 +8098,7 @@
           "(939,971)"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:00.696770183+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:05.296038077+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/STA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8150,7 +8150,7 @@
       "moatReason": "สัมปทานทางรถไฟ ผลกระทบของเครือข่าย ข้อมูลการขนส่งสาธารณะ/ที่ตั้งสื่อ และความร่วมมือเชิงกลยุทธ์สร้างอุปสรรคที่คงทนในชั้นโครงสร้างพื้นฐาน",
       "industryComparison": "โฮลดิ้งระบบขนส่งและโครงสร้างพื้นฐาน ด้วย จำนวนผู้โดยสาร, EBITDA ที่เกิดซ้ำ, อายุสัมปทาน, หนี้สุทธิ, Receivables, FCF และ ส่วนลดจากมูลค่า SOTP",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q1 FY2027 / สะสม 3 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -8181,7 +8181,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/BTS/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q1 FY2027 / สะสม 3 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/BTS/financial-statement/five-years",
@@ -8205,7 +8205,7 @@
         "netProfit": -388405,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:31:00.696770183+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BTS/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8258,7 +8258,7 @@
       "moatReason": "สัมปทานสาธารณูปโภค/เครือข่ายภายในนิคมอุตสาหกรรมของดับบลิวเอชเอ ความใกล้ชิดกับลูกค้า โครงสร้างพื้นฐานด้านน้ำ และโซลูชั่นพลังงานแบบบูรณาการ ทำให้เกิดอุปสรรคในการสลับและเข้า",
       "industryComparison": "ไปยัง TTW/EA/GPSC/BGRIM และยูทิลิตี้เพียร์ด้วย น้ำ ปริมาณ, ไฟฟ้า MW, PPA สัดส่วน, ROIC, D/E, ICR, EV/EBITDA และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -8281,7 +8281,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/WHAUP/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/WHAUP/financial-statement/five-years",
@@ -8305,7 +8305,7 @@
         "netProfit": 834920.94,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:31:15.69621039+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/WHAUP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8358,7 +8358,7 @@
       "moatReason": "คุณสมบัติโครงการขนาดใหญ่ ประวัติทางวิศวกรรม/การจัดการโครงการ ความสามารถในการประมูล และประวัติการดำเนินงานที่ยาวนาน ทำให้เกิดอุปสรรคในการเข้าสู่โครงสร้างพื้นฐานสาธารณะ/ส่วนตัวที่ซับซ้อน",
       "industryComparison": "พบกับ CK/ITD/UNIQ และ EPC ระดับภูมิภาคด้วย งานในมือ, อัตรากำไรขั้นต้น, New Awards, เงินทุนหมุนเวียน, OCF/FCF, D/E และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -8385,7 +8385,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106256901?symbol=STECON",
       "financialPublishedAt": "2026-08-14T17:11:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106256901?symbol=STECON",
@@ -8411,7 +8411,7 @@
           "853,599"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:15.69621039+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/STECON/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8463,7 +8463,7 @@
       "moatReason": "ใบอนุญาตของโรงพยาบาล สถานที่ตั้ง เครือข่ายแพทย์ และประกันสังคม/ฐานผู้ป่วยระหว่างประเทศสร้างอุปสรรค แต่อำนาจในการกำหนดราคายังอ่อนแอกว่าคู่แข่งในโรงพยาบาลระดับพรีเมียม",
       "industryComparison": "เพื่อให้ โรงพยาบาล กลุ่มบริษัทเทียบเคียง ด้วย รายได้/เตียง, อัตราการใช้กำลังการผลิต, อัตรากำไร EBITDA, ผู้ป่วยต่างชาติ/เอกชน สัดส่วน, ROIC, หนี้สุทธิ และ P/E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -8494,7 +8494,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/BCH/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/BCH/financial-statement/five-years",
@@ -8518,7 +8518,7 @@
         "netProfit": 610656,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:31:15.69621039+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BCH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8571,7 +8571,7 @@
       "moatReason": "อาคารผู้โดยสาร/โลจิสติกส์ระดับภูมิภาค ความรู้ด้านเทคนิค และความสัมพันธ์ระหว่างผู้รับเหมา/รัฐบาล ทำให้เกิดอุปสรรค แต่ราคายางมะตอยยังคงขึ้นอยู่กับวงจรการผลิต",
       "industryComparison": "เทียบกับ ยางมะตอยและวัสดุก่อสร้าง ด้วย ปริมาณ, ยางมะตอย ส่วนต่างราคา, อัตรากำไร EBITDA, FCF, ช่องทางจัดจำหน่าย สินทรัพย์, ภาระหนี้ และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -8598,7 +8598,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105889101?symbol=TASCO",
       "financialPublishedAt": "2026-08-11T17:44:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105889101?symbol=TASCO",
@@ -8624,7 +8624,7 @@
           "844,841"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:15.69621039+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TASCO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8677,7 +8677,7 @@
       "moatReason": "ขนาด การรับรอง การจัดหายางแบบบูรณาการ และความสัมพันธ์กับลูกค้าทั่วโลกสร้างอุปสรรค แต่การกำหนดราคาถุงมือแบบสินค้าโภคภัณฑ์และกำลังการผลิตส่วนเกินของอุตสาหกรรมจำกัดอำนาจการกำหนดราคาที่คงทน",
       "industryComparison": "พบกับ ถุงมือระดับโลก กลุ่มบริษัทเทียบเคียง ด้วย ASP, อัตราการใช้กำลังการผลิต, ปริมาณ, อัตรากำไรขั้นต้น, ต้นทุนเงินสด, หนี้สุทธิ, วินัยในการบริหารกำลังการผลิต และ P/BV และ EV/EBITDA",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -8704,7 +8704,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107496201?symbol=STGT",
       "financialPublishedAt": "2026-11-10T17:02:55+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107496201?symbol=STGT",
@@ -8730,7 +8730,7 @@
           "395,259"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:15.69621039+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/STGT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8783,7 +8783,7 @@
       "moatReason": "แบรนด์ การจัดหาที่ดิน/การดำเนินการพัฒนา แพลตฟอร์มโครงการทั่วประเทศ ความสามารถในการออกแบบผลิตภัณฑ์ และขนาดสร้างข้อได้เปรียบที่คงทนปานกลาง แม้ว่าทรัพย์สินจะยังคงเป็นวัฏจักรก็ตาม",
       "industryComparison": "เปรียบเทียบผู้พัฒนาที่อยู่อาศัยไทยเกี่ยวกับยอดขายล่วงหน้า, งานในมือ, การโอน, GP อัตรากำไร, IBZD/E, การหมุนเวียนสินค้าคงคลัง, ROE, P/E, P/BV และอัตราผลตอบแทนจากเงินปันผล",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -8810,7 +8810,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/AP/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/AP/financial-statement/five-years",
@@ -8834,7 +8834,7 @@
         "netProfit": 1966906,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:31:30.696668925+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:20.296881022+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8887,7 +8887,7 @@
       "moatReason": "แบรนด์ การออกแบบโครงการ การจัดหาที่ดิน ฐานข้อมูลลูกค้า และกลุ่มผลิตภัณฑ์ที่กว้างขวางช่วยสนับสนุนการขาย แต่การพัฒนาที่อยู่อาศัยของไทยยังคงมีการแข่งขันด้วยอำนาจการกำหนดราคาเชิงโครงสร้างที่จำกัด",
       "industryComparison": "ไปยัง SPALI/AP/QH/ORI ด้วย ยอดขายรอโอน, งานในมือ, อัตรากำไรขั้นต้น, อัตราหนี้สินสุทธิ, สินค้าคงคลัง Turn, ROE, P/E, P/BV และ อัตราผลตอบแทนเงินปันผล",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -8910,7 +8910,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106148501?symbol=SIRI",
       "financialPublishedAt": "2026-08-14T08:17:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106148501?symbol=SIRI",
@@ -8936,7 +8936,7 @@
           "2,028,116"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:30.696668925+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:35.29647751+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SIRI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8989,7 +8989,7 @@
       "moatReason": "ระบบนิเวศของอิออน เครือข่ายผู้ค้า ข้อมูลการจัดจำหน่าย และการเข้าถึงเงินทุนสร้างข้อได้เปรียบ แต่การให้สินเชื่อที่ไม่มีหลักประกันนั้นมีการแข่งขัน และกฎระเบียบจำกัดราคา",
       "industryComparison": "เปรียบเทียบคู่แข่งด้านการเงินเพื่อผู้บริโภคเกี่ยวกับการเติบโตของลูกหนี้ อัตราผลตอบแทน ต้นทุนด้านเครดิต/ECL, NPL ความครอบคลุม ต้นทุนการจัดหาเงินทุน ROE เงินทุน และ P/BV/P-E",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9016,7 +9016,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107043301?symbol=AEONTS",
       "financialPublishedAt": "2026-10-07T18:21:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-08-31",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107043301?symbol=AEONTS",
@@ -9042,7 +9042,7 @@
           "1,563,380"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:30.696668925+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:35.29647751+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AEONTS/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9095,7 +9095,7 @@
       "moatReason": "สินทรัพย์ไฟฟ้าตามสัญญาที่มีอายุการใช้งานยาวนาน ท่อการพัฒนา และระบบนิเวศของบางจากสร้างอุปสรรค แต่ผลตอบแทนขึ้นอยู่กับเศรษฐศาสตร์ของโครงการ การเงิน และคุณภาพของทรัพยากร",
       "industryComparison": "เปรียบเทียบพลังงานทดแทน/IPP ในการดำเนินงานของ MW, กำลังการผลิตตามสัญญา, EBITDA, CFADS, หนี้สินสุทธิ/EBITDA, โครงการ IRR, เงินปันผล และ EV/EBITDA/PBV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9122,7 +9122,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107337101?symbol=BCPG",
       "financialPublishedAt": "2026-11-04T17:43:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107337101?symbol=BCPG",
@@ -9148,7 +9148,7 @@
           "128,203"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:30.696668925+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:35.29647751+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BCPG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9201,7 +9201,7 @@
       "moatReason": "ขนาด ความเชี่ยวชาญในการออกกำลังกาย โครงสร้างพื้นฐานด้านกฎหมาย/การกู้คืน ข้อมูล NPL/NPA ที่มีขนาดยาว และการเข้าถึงเงินทุนสร้างอุปสรรคในการจัดการสินทรัพย์",
       "industryComparison": "เปรียบเทียบ AMC กลุ่มบริษัทเทียบเคียง เกี่ยวกับการเก็บเงินสด ราคาซื้อ NPL/NPA ผลตอบแทนที่ได้รับคืน ต้นทุนในการเก็บ ต้นทุนเงินทุน D/E, ROE และ P/BV",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9228,7 +9228,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541401?symbol=BAM",
       "financialPublishedAt": "2026-11-10T20:10:46+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541401?symbol=BAM",
@@ -9254,7 +9254,7 @@
           "1,694,516"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:45.69604101+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:35.29647751+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BAM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9307,7 +9307,7 @@
       "moatReason": "การเข้าถึงสื่อการขนส่งสาธารณะ ระบบนิเวศของ BTS จุดเชื่อมต่อข้อมูล/การชำระเงินของ Rabbit และสินค้าคงคลังนอกบ้านทั่วประเทศ สร้างความได้เปรียบในขนาดและการจัดจำหน่าย แม้ว่าการโฆษณาจะยังคงเป็นวัฏจักรก็ตาม",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q1 FY2027 / สะสม 3 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9338,7 +9338,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/VGI/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q1 FY2027 / สะสม 3 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/VGI/financial-statement/five-years",
@@ -9362,7 +9362,7 @@
         "netProfit": 261104,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:31:30.696668925+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:35.29647751+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/VGI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9415,7 +9415,7 @@
       "moatReason": "กองเรือเฉพาะทาง ใบอนุญาตปฏิบัติการ ความสัมพันธ์กับลูกค้า ประวัติความปลอดภัย และขนาดในการขนส่งปิโตรเลียมทางทะเลของไทย ก่อให้เกิดอุปสรรคในการเข้ามาที่มีความหมาย",
       "industryComparison": "เปรียบเทียบโลจิสติกส์ทางทะเล/บริษัทคู่เทียบการขนส่งตามขนาด/อายุกองเรือ การใช้งาน อัตราการเช่าเหมาลำ ส่วนต่างของ EBITDA รายได้ตามสัญญา หนี้สินสุทธิ/EBITDA, ROIC และ EV/EBITDA",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9442,7 +9442,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106131301?symbol=PRM",
       "financialPublishedAt": "2026-08-13T20:25:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106131301?symbol=PRM",
@@ -9468,7 +9468,7 @@
           "1,177,489"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:45.69604101+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:50.296259329+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PRM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9521,7 +9521,7 @@
       "moatReason": "ความไว้วางใจในแบรนด์ เครือข่ายสาขาทั่วประเทศ การจัดการสินค้าคงคลัง/ความเสี่ยงด้านราคา ขนาดการจัดหา และระบบนิเวศของลูกค้าเกี่ยวกับผลิตภัณฑ์ทองคำ ก่อให้เกิดอุปสรรคที่มีความหมาย",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9552,7 +9552,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106046601?symbol=AURA",
       "financialPublishedAt": "2026-08-13T20:11:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106046601?symbol=AURA",
@@ -9578,7 +9578,7 @@
           "760,922"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:45.69604101+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:50.296259329+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AURA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9631,7 +9631,7 @@
       "moatReason": "แบรนด์ผู้บริโภคที่แข็งแกร่ง การตลาดที่นำโดยผู้ก่อตั้ง ความสัมพันธ์ในการกระจายสินค้าทั่วประเทศ และการผลิตเครื่องดื่มที่มีประสิทธิภาพ ทำให้เกิดคูน้ำที่มีความหมายแต่ขึ้นอยู่กับหมวดหมู่",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9662,7 +9662,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106016101?symbol=ICHI",
       "financialPublishedAt": "2026-08-13T17:02:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106016101?symbol=ICHI",
@@ -9688,7 +9688,7 @@
           "652,406"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:31:45.69604101+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:50.296259329+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/ICHI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9740,7 +9740,7 @@
       "moatReason": "แบรนด์ MK เครือข่ายร้านอาหารทั่วประเทศ การจัดซื้อจัดจ้าง/ขนาดครัวกลาง ความคุ้นเคยของลูกค้า และความรู้ในการดำเนินงานหลายแบรนด์สร้างแฟรนไชส์ที่ยั่งยืน แม้ว่ารสนิยมและการแข่งขันอาจกัดกร่อนการเข้าชมได้",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9771,7 +9771,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106009101?symbol=M",
       "financialPublishedAt": "2026-08-13T17:15:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106009101?symbol=M",
@@ -9797,7 +9797,7 @@
           "509,178"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:00.696878243+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:50.296259329+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/M/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9850,7 +9850,7 @@
       "moatReason": "สถานที่ตั้งของโรงแรมชั้นนำ แพลตฟอร์มการดำเนินงาน และพอร์ตโฟลิโอหลายส่วน รวมถึง HOP INN สร้างความได้เปรียบ แต่เศรษฐศาสตร์โรงแรมยังคงมีการใช้เงินทุนสูงและเป็นวัฏจักร",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9881,7 +9881,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/ERW/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/ERW/financial-statement/five-years",
@@ -9905,7 +9905,7 @@
         "netProfit": 447579,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:32:00.696878243+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:50.296259329+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/ERW/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9958,7 +9958,7 @@
       "moatReason": "PPAs สินทรัพย์ดำเนินงานที่หมุนเวียนได้ ความสามารถในการพัฒนาโครงการ และระบบนิเวศ EV/แบตเตอรี่แบบบูรณาการสร้างอุปสรรค แต่ความทนทานลดลงเนื่องจากความเข้มข้นของเงินทุน ความกดดันในการรีไฟแนนซ์ และข้อกังวลด้านธรรมาภิบาล",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -9989,7 +9989,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/EA/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/EA/financial-statement/five-years",
@@ -10013,7 +10013,7 @@
         "netProfit": 105808,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-10T20:32:00.696878243+07:00",
+      "marketDataAsOf": "2026-11-11T00:21:50.296259329+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/EA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10065,7 +10065,7 @@
       "moatReason": "เครือข่ายโรงพยาบาลทางภูมิศาสตร์ในกรุงเทพตะวันออก/EEC ระดับประกันสังคม เครือข่ายแพทย์ และศูนย์เฉพาะทางสร้างข้อได้เปรียบด้านความหนาแน่นในท้องถิ่น แต่อำนาจของแบรนด์ระดับพรีเมียมยังต่ำกว่าโรงพยาบาลเอกชนชั้นนำ",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องโดยใช้การเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10096,7 +10096,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106066501?symbol=CHG",
       "financialPublishedAt": "2026-08-14T07:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106066501?symbol=CHG",
@@ -10122,7 +10122,7 @@
           "432,979"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:00.696878243+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CHG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10175,7 +10175,7 @@
       "moatReason": "แพลตฟอร์มการรวบรวมขนาดใหญ่ โครงสร้างพื้นฐานด้านกฎหมาย/การกู้คืน ข้อมูล/การวิเคราะห์ ประสบการณ์การซื้อหนี้ และการเข้าถึงเงินทุน จะสร้างอุปสรรคขนาดที่มีความหมาย",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10206,7 +10206,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
       "financialPublishedAt": "2026-11-10T19:45:32+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
@@ -10232,7 +10232,7 @@
           "807,838"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:00.696878243+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/JMT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10245,10 +10245,10 @@
       "company": "Jaymart Group Holdings PCL.",
       "sector": "Commerce",
       "valuation": "Fair Value",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "qNpat": 212.961,
-      "periodNpat": 375.676,
-      "npatGrowth": 49.5,
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "qNpat": 191.229,
+      "periodNpat": 566.905,
+      "npatGrowth": 69.81,
       "debtEbitda": null,
       "debtEbitdaBasis": "บริษัทโฮลดิ้ง: ใช้การมองผ่าน NAV, เลเวอเรจของบริษัทย่อย, สภาพคล่องของบริษัทแม่ และเงินสดต้นทางที่เกิดขึ้นประจำ",
       "debtEbitdaNote": "หนี้รวมและการระดมทุนของบริษัทในเครืออาจบดบังเศรษฐศาสตร์ของผู้ปกครองได้ ประเมิน NAV เงินปันผลขั้นต้น การครบกำหนดชำระหนี้ และคุณภาพรายได้ทั่วทั้งการถือครอง JMT/J-Mobile/Singer/ระบบนิเวศ",
@@ -10283,9 +10283,9 @@
       "moatStatus": "มีบางส่วน",
       "moatReason": "การเป็นเจ้าของระบบนิเวศในการค้าปลีกบนมือถือ การจัดการหนี้ การเงิน และการพาณิชย์ทำให้เกิดทางเลือกในการถือครองข้ามสาย/เครือข่าย แต่ความซับซ้อนและการใช้ประโยชน์ลดความทนทาน",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
-      "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
-      "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
+      "updateStatus": "Research Needs Update",
+      "marketDataUpdated": "2026-11-11",
+      "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
         {
@@ -10306,24 +10306,24 @@
       "pe": null,
       "pbv": 0.81,
       "evEbitda": null,
-      "priorPeriodNpat": 251.29,
-      "quarterPriorNpat": 110.956,
+      "priorPeriodNpat": 333.838,
+      "quarterPriorNpat": 82.548,
       "npatGrowthBasis": "กำไรสะสมเทียบงวดเดียวกันปีก่อน; ไม่แสดง % หากฐานปีก่อนเป็นศูนย์หรือติดลบ",
-      "financialPeriodStart": "2026-01-01",
-      "financialPeriodEnd": "2026-06-30",
-      "financialSource": "SET / Settrade (งบรวม; หน่วยต้นทางพันบาท)",
-      "financialSourceUrl": "https://www.settrade.com/th/equities/quote/JMART/financial-statement/five-years",
-      "financialPublishedAt": null,
-      "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
-      "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
-      "latestAvailablePeriodEnd": "2026-06-30",
-      "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/JMART/financial-statement/five-years",
+      "financialPeriodStart": null,
+      "financialPeriodEnd": "2026-09-30",
+      "financialSource": "SET F45 ผ่าน Settrade (งบรวม)",
+      "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
+      "financialPublishedAt": "2026-11-10T22:24:26+07:00",
+      "financialAssurance": "สอบทานแล้ว",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
+      "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
+      "latestAvailablePeriodEnd": "2026-09-30",
+      "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
       "financialCheckStatus": "verified",
       "financialCheckError": null,
       "researchFinancialPeriod": "1H2026 / Q2 2026",
       "researchPeriodEnd": "2026-06-30",
-      "researchNeedsReview": false,
+      "researchNeedsReview": true,
       "valuationAsOf": "2026-11-03",
       "debtEbitdaAsOf": "1H2026 / Q2 2026",
       "financialRevenue": 8037.324,
@@ -10331,15 +10331,17 @@
       "financialEps": 0.26,
       "financialMetricsPeriodEnd": "2026-06-30",
       "financialSourceRecord": {
-        "symbol": "JMART",
-        "quarter": "6M",
-        "year": 2026,
-        "beginDate": "2026-01-01T00:00:00+07:00",
-        "endDate": "2026-06-30T00:00:00+07:00",
-        "netProfit": 375676,
-        "fsType": "C"
+        "quarter": 3,
+        "fiscalYear": 2026,
+        "sourceUnit": "พันบาท",
+        "netProfitValues": [
+          "191,229",
+          "82,548",
+          "566,905",
+          "333,838"
+        ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:15.697022252+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/JMART/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10391,7 +10393,7 @@
       "moatReason": "ความหนาแน่นของวิทยาเขตเดียว เครือข่ายแพทย์ผู้เชี่ยวชาญที่แข็งแกร่ง ชื่อเสียงระดับอุดมศึกษา/การดูแลที่ซับซ้อน และความสามารถของผู้ป่วยในระดับนานาชาติ ช่วยสร้างแบรนด์ท้องถิ่นที่มีความหมายและความได้เปรียบในการอ้างอิง",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10422,7 +10424,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105865101?symbol=PR9",
       "financialPublishedAt": "2026-08-11T17:53:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105865101?symbol=PR9",
@@ -10448,7 +10450,7 @@
           "382,448"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:15.697022252+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PR9/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10500,7 +10502,7 @@
       "moatReason": "ประวัติการดำเนินงานที่ยาวนาน ธนาคารที่ดิน แบรนด์ที่พักอาศัย และสัดส่วนการถือหุ้นอันมีค่าในสินทรัพย์ด้านอสังหาริมทรัพย์/การบริการที่เกี่ยวข้อง สนับสนุนมูลค่าทรัพย์สิน แต่คูน้ำที่มีการพัฒนาอยู่ในระดับปานกลางและการเติบโตจะเติบโตเต็มที่",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10531,7 +10533,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
       "financialPublishedAt": "2026-11-09T19:52:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
@@ -10557,7 +10559,7 @@
           "1,216,610"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:15.697022252+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/QH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10610,7 +10612,7 @@
       "moatReason": "เครือข่ายสถานีทั่วประเทศขนาดใหญ่ Max Card/ระบบนิเวศของลูกค้า ขนาดการกระจายสินค้า/ลอจิสติกส์ และการขายข้ามสายที่ไม่ใช่น้ำมันสร้างความหนาแน่น/ข้อได้เปรียบของเครือข่าย แต่อัตรากำไรเชื้อเพลิงได้รับการควบคุม/แข่งขันได้ และความเข้มข้นของเงินทุนอยู่ในระดับสูง",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10641,7 +10643,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106139501?symbol=PTG",
       "financialPublishedAt": "2026-08-13T21:14:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106139501?symbol=PTG",
@@ -10667,7 +10669,7 @@
           "502,048"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:15.697022252+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10719,7 +10721,7 @@
       "moatReason": "เครือข่ายการขายปลีกวัสดุก่อสร้างรูปแบบขนาดใหญ่ ขนาดการจัดซื้อจัดจ้าง ความสัมพันธ์ระหว่างผู้รับเหมา/ลูกค้า และฉลากส่วนตัว/การแบ่งประเภทที่หลากหลาย สร้างความได้เปรียบด้านต้นทุน/การกระจายสินค้าในระดับปานกลาง",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10750,7 +10752,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107454901?symbol=DOHOME",
       "financialPublishedAt": "2026-11-09T18:48:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107454901?symbol=DOHOME",
@@ -10776,7 +10778,7 @@
           "504,313"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:30.796964575+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:05.296491695+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/DOHOME/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10829,7 +10831,7 @@
       "moatReason": "ห่วงโซ่สัตว์ปีกบูรณาการในแนวตั้งตั้งแต่อาหารสัตว์/เพาะพันธุ์/ฟาร์ม ไปจนถึงการแปรรูป/ส่งออก สร้างความได้เปรียบด้านต้นทุน/การควบคุมคุณภาพ แต่การกำหนดราคาสินค้าโภคภัณฑ์และวัฏจักรอุตสาหกรรมจำกัดอำนาจในการกำหนดราคา",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10860,7 +10862,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105963401?symbol=GFPT",
       "financialPublishedAt": "2026-08-13T12:33:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/105963401?symbol=GFPT",
@@ -10886,7 +10888,7 @@
           "1,280,569"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:30.796964575+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:20.296147125+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GFPT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10939,7 +10941,7 @@
       "moatReason": "การวางตำแหน่งคุณค่าไลฟ์สไตล์ที่โดดเด่น การจัดวางสินค้าที่รวดเร็ว ขนาดการจัดหา การจดจำแบรนด์ และเครือข่ายร้านค้าที่ขยายตัวอย่างรวดเร็ว ทำให้เกิดคูเมืองค้าปลีกที่มีความหมายในช่องที่กระจัดกระจาย",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -10970,7 +10972,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106273601?symbol=MOSHI",
       "financialPublishedAt": "2026-08-14T17:38:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106273601?symbol=MOSHI",
@@ -10996,7 +10998,7 @@
           "290,418.92"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:30.796964575+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:20.296147125+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MOSHI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11049,7 +11051,7 @@
       "moatReason": "แบรนด์แอร์เอเชีย เครือข่ายเส้นทางระดับภูมิภาค รูปแบบการดำเนินงานราคาประหยัด ช่อง/ฮับ และระบบนิเวศของกลุ่มสร้างความได้เปรียบเชิงพาณิชย์ที่มีความหมาย แต่เศรษฐศาสตร์การบินยังคงมีโครงสร้างเป็นวัฏจักรและต้องใช้เงินทุนมาก",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Awaiting New Results",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -11080,7 +11082,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106005701?symbol=AAV",
       "financialPublishedAt": "2026-08-13T18:00:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-06-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/106005701?symbol=AAV",
@@ -11106,7 +11108,7 @@
           "1,601,454"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:30.796964575+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:20.296147125+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AAV/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11159,7 +11161,7 @@
       "moatReason": "สิทธิ์ในการดำเนินงานวงโคจร/ดาวเทียม ใบอนุญาตคลื่นความถี่/โทรคมนาคม ความสัมพันธ์กับลูกค้าที่ยาวนาน โครงสร้างพื้นฐานทางเทคนิค และการสนับสนุนเชิงกลยุทธ์ของอ่าวเปอร์เซีย ก่อให้เกิดอุปสรรคด้านกฎระเบียบและเงินทุนในระดับสูง",
       "industryComparison": "เปรียบเทียบกับกลุ่มคู่แข่งที่เกี่ยวข้องในเรื่องการเติบโต อัตรากำไร ROE/ROIC เลเวอเรจ การแปลงเงินสด และการประเมินมูลค่า",
       "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-10",
+      "marketDataUpdated": "2026-11-11",
       "financialDataUpdated": "Q3 FY2026 / สะสม 9 เดือน",
       "researchReviewed": "2026-11-03",
       "sources": [
@@ -11190,7 +11192,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
       "financialPublishedAt": "2026-11-05T17:05:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-10T20:28:11+07:00",
+      "financialCheckedAt": "2026-11-11T00:18:33+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
@@ -11216,7 +11218,7 @@
           "(88,748)"
         ]
       },
-      "marketDataAsOf": "2026-11-10T20:32:45.796224437+07:00",
+      "marketDataAsOf": "2026-11-11T00:22:20.296147125+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GST/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
