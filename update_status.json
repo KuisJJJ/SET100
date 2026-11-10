@@ -1,17 +1,12 @@
 {
-  "generatedAt": "2026-11-10T17:43:35+07:00",
+  "generatedAt": "2026-11-10T17:49:10+07:00",
   "target": "ALL",
-  "updatedStocks": 99,
-  "failures": [
-    {
-      "ticker": "AWC",
-      "error": "HTTP Error 401: Unauthorized"
-    }
-  ],
-  "rankRecalculated": false,
+  "updatedStocks": 100,
+  "failures": [],
+  "rankRecalculated": true,
   "universeValidation": {
     "ok": true,
-    "checkedAt": "2026-11-10T17:43:35+07:00",
+    "checkedAt": "2026-11-10T17:49:10+07:00",
     "validationMode": "locked_official_snapshot",
     "officialCount": 100,
     "researchedCount": 100,
@@ -53,6 +48,7 @@
     "TOP: 56.5 -> 56.5",
     "MINT: 21.7 -> 21.7",
     "SCGP: 27.25 -> 27.25",
+    "AWC: 3.26 -> 3.26",
     "KKP: 113 -> 113.0",
     "TISCO: 125 -> 125.0",
     "BEM: 6.2 -> 6.2",
@@ -123,6 +119,7 @@
     "GFPT: 9.65 -> 9.65",
     "MOSHI: 36.25 -> 36.25",
     "AAV: 0.79 -> 0.79",
-    "GST: 8.85 -> 8.85"
+    "GST: 8.85 -> 8.85",
+    "Rank recalculated 1-100 from refreshed market caps."
   ]
 }
