@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T01:40:30+07:00",
+  "checkedAt": "2026-11-11T10:06:07+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -94,9 +94,9 @@
     },
     {
       "ticker": "BANPU",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106612001?symbol=BANPU",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107548101?symbol=BANPU",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -598,9 +598,9 @@
     },
     {
       "ticker": "PR9",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/105865101?symbol=PR9",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107510801?symbol=PR9",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
