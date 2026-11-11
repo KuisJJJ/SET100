@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T19:43:00+07:00",
+  "checkedAt": "2026-11-12T00:28:20+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -440,7 +440,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -476,15 +476,6 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "KKP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107138401?symbol=KKP",
-      "assurance": "ก่อนสอบทาน",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -787,9 +778,9 @@
     },
     {
       "ticker": "TFG",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/105818601?symbol=TFG",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107642301?symbol=TFG",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -903,5 +894,10 @@
       "warnings": []
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "ticker": "KKP",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  ]
 }
