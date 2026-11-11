@@ -6,6 +6,7 @@ on:
     paths:
       - 'SET100_Investment_Research_Master.xlsx'
       - 'scripts/**'
+      - 'business_profiles.json'
       - '.github/workflows/update-dashboard.yml'
   workflow_dispatch:
 

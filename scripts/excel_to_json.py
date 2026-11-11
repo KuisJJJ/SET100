@@ -18,6 +18,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 import json, re, sys, zipfile
 import xml.etree.ElementTree as ET
+from apply_business_profiles import load_profiles
 
 ROOT = Path(__file__).resolve().parents[1]
 MASTER = ROOT / "SET100_Investment_Research_Master.xlsx"
@@ -151,6 +152,7 @@ for r in tables["07_Sources"]:
         sources.setdefault(t, []).append({"label":label or "Source","url":url})
 
 existing_stocks = {s.get("ticker"): s for s in existing.get("stocks", []) if s.get("ticker")}
+business_profiles = load_profiles(ROOT)
 market_fields = ["price","marketCap","pe","pbv","evEbitda"]
 
 snapshot_path = ROOT / "financial_snapshots.json"
@@ -244,6 +246,9 @@ for ticker, u in universe.items():
                 "valuationRatiosAsOf", "valuationFinancialPeriodEnd"):
         if key in old:
             record[key] = old[key]
+    if ticker not in business_profiles:
+        raise SystemExit(f"Missing source-linked business introduction: {ticker}")
+    record["businessProfile"] = business_profiles[ticker]
     stocks.append(record)
 
 stocks.sort(key=lambda x: x.get("rank", 999))
