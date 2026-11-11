@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T00:27:58+07:00",
+  "generatedAt": "2026-11-12T01:41:32+07:00",
   "target": "ALL",
   "updatedStocks": 100,
   "failures": [],
   "rankRecalculated": true,
   "universeValidation": {
     "ok": true,
-    "checkedAt": "2026-11-12T00:27:58+07:00",
+    "checkedAt": "2026-11-12T01:41:32+07:00",
     "validationMode": "locked_official_snapshot",
     "officialCount": 100,
     "researchedCount": 100,
@@ -48,7 +48,7 @@
     "IVL: 22.7 -> 22.7",
     "MINT: 21.7 -> 21.7",
     "SCGP: 27.25 -> 27.25",
-    "KKP: 114 -> 114.0",
+    "KKP: 114.0 -> 114.0",
     "AWC: 3.18 -> 3.18",
     "TISCO: 125 -> 125.0",
     "BEM: 6.2 -> 6.2",
