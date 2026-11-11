@@ -41,7 +41,6 @@
       ],
       "protectedResearchFields": [
         "valuation",
-        "score",
         "framework",
         "thesis",
         "bear",
@@ -540,7 +539,6 @@
       "debtEbitda": 0.19,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณการจาก SET: (EV - มูลค่าตลาด + เงินสด) / EBITDA; ใช้เป็น ค่าคัดกรองเบื้องต้น เพราะหน้า SET อัตราส่วน ไม่แสดงค่าด้วย ตัวอ่านข้อมูลข้อความ",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "การเติบโต",
@@ -651,7 +649,6 @@
       "debtEbitda": 2.22,
       "debtEbitdaBasis": "SET",
       "debtEbitdaNote": "รวมหนี้สินที่มีภาระดอกเบี้ย / EBITDA, 6M/2026 (TTM-ปรับปรุงโดย SET)",
-      "score": null,
       "flags": [
         "เงินปันผล",
         "มูลค่า",
@@ -762,7 +759,6 @@
       "debtEbitda": 1.86,
       "debtEbitdaBasis": "SET",
       "debtEbitdaNote": "รวมหนี้สินที่มีภาระดอกเบี้ย / EBITDA, 6M/2026 (TTM-ปรับปรุงโดย SET)",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "เงินปันผล",
@@ -872,7 +868,6 @@
       "debtEbitda": 4.2,
       "debtEbitdaBasis": "SET",
       "debtEbitdaNote": "รวมหนี้สินที่มีภาระดอกเบี้ย / EBITDA, 6M/2026 (TTM-ปรับปรุงโดย SET)",
-      "score": null,
       "flags": [
         "การเติบโต",
         "ระบบนิเวศ ความได้เปรียบการแข่งขัน",
@@ -981,7 +976,6 @@
       "debtEbitda": 0.24,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "คำนวณจากหนี้ที่มีภาระดอกเบี้ยในงบ 9M/FY2026 หาร SET EBITDA 29,108.74 ล้านบาท",
-      "score": null,
       "flags": [
         "Monopoly ความได้เปรียบการแข่งขัน",
         "Tourism การฟื้นตัว",
@@ -1090,7 +1084,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "NPL 2.92%; ความคุ้มครอง 205%; ROE ~10.5%; ใช้ตัวชี้วัดด้านทุน/คุณภาพสินทรัพย์แทน",
-      "score": null,
       "flags": [
         "เงินปันผล",
         "Digital Platform",
@@ -1199,7 +1192,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "ใช้ NIM, NPL, ความครอบคลุม, CAR และ ROE แทน หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Digital Banking",
         "Wealth",
@@ -1308,7 +1300,6 @@
       "debtEbitda": 0.5,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด) / SET EBITDA = ~0.50x",
-      "score": null,
       "flags": [
         "เงินปันผล",
         "พลังงาน Security",
@@ -1417,7 +1408,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "ใช้ NIM, NPL, ความครอบคลุม, CAR และ ROE แทน หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "เงินปันผล",
         "Wealth",
@@ -1526,7 +1516,6 @@
       "debtEbitda": 3.7,
       "debtEbitdaBasis": "Company",
       "debtEbitdaNote": "หนี้สินสุทธิ/EBITDA รายงานโดยบริษัทที่ 3.7 เท่าสำหรับไตรมาส 2/2569",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "ประโยชน์ร่วม",
@@ -1636,7 +1625,6 @@
       "debtEbitda": 3.0,
       "debtEbitdaBasis": "บริษัท (อ้างอิงปีงบประมาณ 2024)",
       "debtEbitdaNote": "CPALL One Report 2024 รายงานหนี้สุทธิ/EBITDA 3.0x; ใช้เป็นข้อมูลอ้างอิงเท่านั้นจนกว่าจะมีการก่อหนี้ในไตรมาสปัจจุบัน",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "เชิงรับ การเติบโต",
@@ -1743,7 +1731,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "ใช้ความเพียงพอของเงินกองทุน NPL ความครอบคลุม NIM และ ROE แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "มูลค่า",
         "เงินปันผล",
@@ -1852,7 +1839,6 @@
       "debtEbitda": 0.5,
       "debtEbitdaBasis": "Company reference",
       "debtEbitdaNote": "ข้อมูลอ้างอิงบริษัทล่าสุดที่ตรวจสอบได้ง่ายแสดง หนี้สุทธิต่อ EBITDA ประมาณ 0.5x; เพดานนโยบายเลเวอเรจ 2.5 เท่า",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "เชิงรับ การเติบโต",
@@ -1959,7 +1945,6 @@
       "debtEbitda": 3.19,
       "debtEbitdaBasis": "SET",
       "debtEbitdaNote": "รวมหนี้สินที่มีภาระดอกเบี้ย / EBITDA, 6M/2026, TTM-ปรับปรุงโดย SET",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "Recurring Income",
@@ -2068,7 +2053,6 @@
       "debtEbitda": 7.61,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ การคัดกรองหนี้รวม/EBITDA = (EV-MCap+พร็อกซีเงินสดไม่พร้อมใช้งาน); เลเวอเรจยังคงเพิ่มขึ้น ดังนั้นให้ถือว่า 7.6x เป็นประมาณการการคัดกรองแบบระมัดระวัง ไม่ใช่อัตราส่วนพันธสัญญาที่รายงาน",
-      "score": null,
       "flags": [
         "Conglomerate",
         "การฟื้นตัว",
@@ -2177,7 +2161,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "ใช้เงินทุน NIM คุณภาพสินทรัพย์ และ ROE แทน หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "เงินปันผล",
         "การคืนทุนให้ผู้ถือหุ้น",
@@ -2282,7 +2265,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending source",
       "debtEbitdaNote": "ใช้ประโยชน์จากตัวชี้วัดเพื่อตรวจสอบจากบริษัท/SET; รูปแบบการค้าปลีกแบบเช่าหนักต้องใช้พื้นฐานที่สอดคล้องกัน",
-      "score": null,
       "flags": [
         "Omnichannel",
         "Central ระบบนิเวศ",
@@ -2387,7 +2369,6 @@
       "debtEbitda": 3.78,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด) / SET EBITDA data 3.78x; การคัดกรองเท่านั้น",
-      "score": null,
       "flags": [
         "การฟื้นตัว",
         "มูลค่าสินทรัพย์",
@@ -2494,7 +2475,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending source",
       "debtEbitdaNote": "ใช้ หนี้สุทธิต่อ EBITDA จากบริษัท IR เมื่อรีเฟรช เลเวอเรจยังคงเป็นวัสดุ",
-      "score": null,
       "flags": [
         "ระดับโลก อาหาร",
         "บูรณาการในแนวตั้ง",
@@ -2593,7 +2573,6 @@
       "debtEbitda": 0.0,
       "debtEbitdaBasis": "เงินสดสุทธิ / เลเวอเรจต่ำมาก",
       "debtEbitdaNote": "SET EV ต่ำกว่า มูลค่าตลาด หมายถึงเงินสดสุทธิ หนี้/EBITDA ไม่ใช่ตัวชี้วัดความเสี่ยงที่มีผลผูกพัน",
-      "score": null,
       "flags": [
         "ความได้เปรียบการแข่งขัน",
         "Medical Tourism",
@@ -2696,7 +2675,6 @@
       "debtEbitda": 9.46,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด) / SET EBITDA data 9.46x; การคัดกรองเลเวอเรจสูง ใช้การวัดหนี้ของบริษัทเพื่อดูข้อตกลง",
-      "score": null,
       "flags": [
         "Power Platform",
         "พลังงาน Transition",
@@ -2805,7 +2783,6 @@
       "debtEbitda": 1.96,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด) / SETZ EBITDA data 1.96x",
-      "score": null,
       "flags": [
         "ค้าปลีก เครือข่าย",
         "Café Amazon",
@@ -2910,7 +2887,6 @@
       "debtEbitda": 2.06,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด) / SET EBITDA data 2.06x; D/E 2.94x ​​ที่ 6M26",
-      "score": null,
       "flags": [
         "การฟื้นตัว",
         "Flag Carrier",
@@ -3013,7 +2989,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Insurance",
       "debtEbitdaNote": "ใช้ CAR/RBC, มูลค่าธุรกิจประกันที่ฝังอยู่, New ธุรกิจ CSM/VONB และคุณภาพการลงทุนแทน หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Insurance",
         "มูลค่าธุรกิจประกันที่ฝังอยู่",
@@ -3120,7 +3095,6 @@
       "debtEbitda": 3.92,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (EV - มูลค่าตลาด) / EBITDA data 3.9x; การคัดกรองเท่านั้น",
-      "score": null,
       "flags": [
         "ระดับโลก ขนาดธุรกิจ",
         "การฟื้นตัว",
@@ -3225,7 +3199,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending source",
       "debtEbitdaNote": "ติดตามหนี้สุทธิ ฝ่ายทุนของโครงการ และส่วนหัวของข้อตกลง ตรวจสอบแล้ว SET EV/EBITDA 5.37x",
-      "score": null,
       "flags": [
         "Refining ความได้เปรียบการแข่งขัน",
         "เชิงวัฏจักร",
@@ -3324,7 +3297,6 @@
       "debtEbitda": 9.21,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าราคาตลาด) / EBITDA; การคัดกรองเท่านั้น",
-      "score": null,
       "flags": [
         "โรงแรมระดับโลกs",
         "อาหาร",
@@ -3431,7 +3403,6 @@
       "debtEbitda": 6.83,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าราคาตลาด) / SET EBITDA; การคัดกรองเท่านั้น",
-      "score": null,
       "flags": [
         "ASEAN บรรจุภัณฑ์",
         "การฟื้นตัว",
@@ -3540,7 +3511,6 @@
       "debtEbitda": 14.9,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA จาก SET EV/มูลค่าราคาตลาด/EBITDA; การคัดกรองเท่านั้น",
-      "score": null,
       "flags": [
         "Hospitality",
         "Tourism",
@@ -3647,7 +3617,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "ใช้ NPL, ความครอบคลุม, NIM, ต้นทุนเครดิต, CAR และ ROE แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Niche Bank",
         "เงินทุน Markets",
@@ -3752,7 +3721,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Banking",
       "debtEbitdaNote": "ใช้ NPL, ความครอบคลุม, CAR, ROE และตัวชี้วัดการจัดหาเงินทุนแทน หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "เงินปันผล",
         "High ROE",
@@ -3861,7 +3829,6 @@
       "debtEbitda": 28.2,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าราคาตลาด) / EBITDA; โครงสร้างสัมปทาน/โครงการ-การเงินมีข้อจำกัดในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "สัมปทาน ความได้เปรียบการแข่งขัน",
         "Recurring Traffic",
@@ -3968,7 +3935,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Finance",
       "debtEbitdaNote": "ใช้ NPL ความครอบคลุม ต้นทุนเครดิต ROE และตัวชี้วัดการจัดหาเงินทุนแทน หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "บัตรเครดิต",
         "High ROE",
@@ -4077,7 +4043,6 @@
       "debtEbitda": 3.74,
       "debtEbitdaBasis": "Calculation",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าราคาตลาด) / SET EBITDA; การบัญชีสัญญาเช่าอาจส่งผลต่อความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "Brand",
         "ร้านค้า เครือข่าย",
@@ -4186,7 +4151,6 @@
       "debtEbitda": 13.18,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA จาก SET EV ล่าสุดหักมูลค่าตลาดหารด้วย TTM EBITDA; รวมถึงผลกระทบจากโครงสร้างเงินทุนและเป็นมาตรการคัดกรอง",
-      "score": null,
       "flags": [
         "Big C",
         "บรรจุภัณฑ์",
@@ -4292,7 +4256,6 @@
       "debtEbitda": 15.13,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA จาก SET EV/มูลค่าราคาตลาด/EBITDA; ใช้หนี้โครงการ/กระแสเงินสดและอันดับเครดิตสำหรับการวิเคราะห์เลเวอเรจ",
-      "score": null,
       "flags": [
         "ตามสัญญา Power",
         "เงินปันผล",
@@ -4399,7 +4362,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - การถือครองทางการเงิน",
       "debtEbitdaNote": "ใช้ ROE, P/BV ความเพียงพอของเงินกองทุนของบริษัทย่อย รายได้เงินปันผล และมูลค่าสินทรัพย์ แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Financial Holding",
         "เงินปันผล",
@@ -4504,7 +4466,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Pending / ค้าปลีก",
       "debtEbitdaNote": "ใช้หนี้สินสุทธิ ภาระหนี้ที่ปรับตามสัญญาเช่า การแปลงสภาพเงินสด และเงินทุนหมุนเวียน หนี้ธรรมดา/EBITDA อาจแตกต่างกันไปตามสัญญาเช่า",
-      "score": null,
       "flags": [
         "Tech ค้าปลีก",
         "ระบบนิเวศ",
@@ -4607,7 +4568,6 @@
       "debtEbitda": 6.15,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA อิงจาก SET EV ล่าสุดหักมูลค่าตลาดหารด้วย TTM EBITDA; โครงสร้างสัญญาเช่า/เงินทุนหมุนเวียนอาจบิดเบือนความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "EMS ขนาดธุรกิจ",
         "AI/ตัวเลือกเซิร์ฟเวอร์",
@@ -4710,7 +4670,6 @@
       "debtEbitda": 13.75,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA ใช้ ZZZTERM16ZZE EV ใกล้เคียงภาพรวม ลบมูลค่าตลาดหารด้วย SET EBITDA; ธุรกรรมทรัพย์สิน/กอง REIT สามารถบิดเบือนการเปรียบเทียบการก่อหนี้แบบธรรมดาได้",
-      "score": null,
       "flags": [
         "นิคมอุตสาหกรรม",
         "โลจิสติกส์",
@@ -4818,7 +4777,6 @@
       "debtEbitda": 9.51,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด)/TTM EBITDA; การบัญชีบริษัทโฮลดิ้ง/บริษัทร่วมทุนลดความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "ตามสัญญา Power",
         "มูลค่าสินทรัพย์",
@@ -4921,7 +4879,6 @@
       "debtEbitda": 0.0,
       "debtEbitdaBasis": "เงินสดสุทธิ / การคำนวณ",
       "debtEbitdaNote": "EV ต่ำกว่ามูลค่าตลาด หนี้ต่อ EBITDA ไม่ใช่ตัวชี้วัดความเสี่ยงที่มีผลผูกพัน",
-      "score": null,
       "flags": [
         "Auto Electronics",
         "Export",
@@ -5030,7 +4987,6 @@
       "debtEbitda": 3.24,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA จาก SET EV ล่าสุดหักมูลค่าตลาดหารด้วย TTM EBITDA; ใช้หนี้สินสุทธิของบริษัทและรายละเอียดโครงการ/สัญญาเช่าเพื่อการวิเคราะห์ข้อตกลง",
-      "score": null,
       "flags": [
         "ธุรกิจพลังงานครบวงจร",
         "Refining",
@@ -5136,7 +5092,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Finance",
       "debtEbitdaNote": "ใช้ NPL ต้นทุนด้านเครดิต ความคุ้มครอง ROE ต้นทุนเงินทุน และความเพียงพอของเงินทุน แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Title สินเชื่อ",
         "Branch ขนาดธุรกิจ",
@@ -5245,7 +5200,6 @@
       "debtEbitda": 5.48,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด)/TTM EBITDA; การเช่าโรงแรม/การบัญชีและการเพิ่มโครงการใหม่อาจบิดเบือนความสามารถในการเปรียบเทียบได้",
-      "score": null,
       "flags": [
         "Hotel",
         "อาหาร",
@@ -5355,7 +5309,6 @@
       "debtEbitda": 15.53611217426287,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (SET EV - มูลค่าตามราคาตลาด)/SET EBITDA; โครงสร้างบริษัทโฮลดิ้ง/บริษัทร่วมทุน/โครงการ-การเงินลดความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "ตามสัญญา Power",
         "SPP",
@@ -5459,7 +5412,6 @@
       "debtEbitda": 0.0,
       "debtEbitdaBasis": "การคัดกรองเงินสดสุทธิ / เลเวอเรจต่ำ",
       "debtEbitdaNote": "SET EV ต่ำกว่า/ใกล้มูลค่าตลาด แสดงถึงหนี้สินสุทธิที่ต่ำมาก การแปลงสภาพเป็นเงินสดถือเป็นจุดแข็งที่สำคัญ",
-      "score": null,
       "flags": [
         "พลังงาน Drink",
         "Brand",
@@ -5563,7 +5515,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "วัฏจักร-sensitive",
       "debtEbitdaNote": "ใช้เงินสด/หนี้สุทธิ ค่าการกลั่น (GRM) ปกติ ปริมาณการใช้ และ FCF ตลอดวงจรการกลั่น แทนที่จะเป็นอัตราส่วนเลเวอเรจในช่วงเวลาเดียว",
-      "score": null,
       "flags": [
         "Refining",
         "Clean งบดุล",
@@ -5668,7 +5619,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "อัตราส่วนเลเวอเรจ/บริษัทต่ำ",
       "debtEbitdaNote": "D/E ประมาณ 0.36x ใน 1H26; ใช้หนี้สุทธิ/EBITDA เมื่อมีการรีเฟรชตัวเลขแหล่งที่มาหลักที่เปรียบเทียบได้โดยตรง",
-      "score": null,
       "flags": [
         "พลังงาน Drink",
         "ช่องทางจัดจำหน่าย",
@@ -5771,7 +5721,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "เชิงวัฏจักร agriอาหาร",
       "debtEbitdaNote": "ใช้หนี้สุทธิ/EBITDA และ FCF กับการทำให้ปศุสัตว์/วงจรอาหารสัตว์เป็นมาตรฐาน พาดหัว P/E สามารถประเมินความเสี่ยงของวงจรต่ำเกินไป",
-      "score": null,
       "flags": [
         "Integrated อาหาร",
         "ค้าปลีก",
@@ -5880,7 +5829,6 @@
       "debtEbitda": 14.02,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA อิงจาก SET EV ลบมูลค่าตลาด; สูงผิดปกติและบิดเบือนจากการควบรวมกิจการ/การบัญชี ดังนั้นให้ใช้การวัดหนี้สินสุทธิของบริษัทและกระแสเงินสด",
-      "score": null,
       "flags": [
         "พลังงาน Platform",
         "Gas",
@@ -5990,7 +5938,6 @@
       "debtEbitda": 19.25,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA จาก SET EV ลบมูลค่าตลาดหารด้วย TTM EBITDA; เงินทุนหมุนเวียนและสัญญาเช่าอาหารทะเลอาจส่งผลต่อความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "ระดับโลก Seaอาหาร",
         "Brands",
@@ -6096,7 +6043,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ความเสี่ยงด้านงบดุลต่ำ",
       "debtEbitdaNote": "D/E 0.86x ที่ 1H26; มุ่งเน้นไปที่เศรษฐศาสตร์ของร้านค้า ROIC ที่ปรับสัญญาเช่า, FCF และประสิทธิภาพการทำงานของร้านค้าเดิม",
-      "score": null,
       "flags": [
         "มูลค่า ค้าปลีก",
         "ร้านค้า Expansion",
@@ -6201,7 +6147,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "วัฏจักร-sensitive",
       "debtEbitdaNote": "ใช้หนี้สุทธิที่ทำให้เป็นมาตรฐาน/EBITDA, อัตรากำไรรวม, การใช้ประโยชน์ และ FCF วงจรสินค้าโภคภัณฑ์สามารถบิดเบือนการก่อหนี้ต่อท้ายได้",
-      "score": null,
       "flags": [
         "การกลั่นแบบผสมผสาน",
         "Petrochemical",
@@ -6310,7 +6255,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Finance",
       "debtEbitdaNote": "ใช้ NPL, ความคุ้มครอง, ต้นทุนเครดิต, ROE, ต้นทุนการจัดหาเงินทุน และความเพียงพอของเงินทุน แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Title สินเชื่อ",
         "Insurance",
@@ -6416,7 +6360,6 @@
       "debtEbitda": 6.114860405583777,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (EV - มูลค่าตลาด)/TTM EBITDA; โครงสร้างโครงการ-การเงินหมายความว่านี่เป็นตัวชี้วัดการคัดกรอง",
-      "score": null,
       "flags": [
         "Renewables",
         "EPC",
@@ -6522,7 +6465,6 @@
       "debtEbitda": 4.247160061010312,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (EV - มูลค่าตลาด)/TTM EBITDA; เงินทุนหมุนเวียนด้านการเกษตรและสินทรัพย์ชีวภาพส่งผลต่อความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "Integrated อาหาร",
         "Cost วัฏจักร",
@@ -6628,7 +6570,6 @@
       "debtEbitda": 3.545280838771799,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สุทธิ/EBITDA ใช้ EV ใกล้เคียงภาพรวมที่ปรับจากเอกสารข้อมูล SET การบัญชีสายการบิน/สัญญาเช่าส่งผลต่อความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "Boutique Airline",
         "Samui Airport",
@@ -6733,7 +6674,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Property developer",
       "debtEbitdaNote": "ใช้อัตราส่วนหนี้สินต่อทุนสุทธิ ยอดขายล่วงหน้า/งานในมือ การโอน รายได้ค่าเช่า/เงินปันผล และสินค้าคงคลัง แทนที่จะเป็นหนี้ธรรมดา/EBITDA",
-      "score": null,
       "flags": [
         "Housing",
         "Rental สินทรัพย์s",
@@ -6836,7 +6776,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Low ภาระหนี้ / ค้าปลีก",
       "debtEbitdaNote": "D/E ประมาณ 0.45 เท่าของข้อมูล SET ปี 2026 ในภายหลัง มุ่งเน้นไปที่การเปลี่ยนสินค้าคงคลัง SSSG อัตรากำไรขั้นต้น และการแปลงเงินสด",
-      "score": null,
       "flags": [
         "Home Improvement",
         "ร้านค้า เครือข่าย",
@@ -6945,7 +6884,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Media สินทรัพย์ รูปแบบ",
       "debtEbitdaNote": "มุ่งเน้นไปที่การใช้ความจุสื่อ ส่วนต่างของ EBITDA FCF และเงินทุนหมุนเวียนในการเข้าซื้อกิจการ/กิจกรรม",
-      "score": null,
       "flags": [
         "OOH เครือข่าย",
         "Digital Screens",
@@ -7051,7 +6989,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Insurance",
       "debtEbitdaNote": "ใช้ CAR/RBC, CSM/VONB ความคงอยู่ อัตราผลตอบแทนจากการลงทุน และการเรียกร้อง แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Life Insurance",
         "ความแข็งแกร่งของเงินกองทุน",
@@ -7160,7 +7097,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - Finance",
       "debtEbitdaNote": "ใช้ NPL ต้นทุนด้านเครดิต ความคุ้มครอง ROE ต้นทุนเงินทุน และความเพียงพอของเงินทุน แทนที่จะเป็น หนี้ต่อ EBITDA",
-      "score": null,
       "flags": [
         "Secured Lending",
         "Branch เครือข่าย",
@@ -7265,7 +7201,6 @@
       "debtEbitda": 0.0,
       "debtEbitdaBasis": "เงินสดสุทธิ / เลเวอเรจต่ำ",
       "debtEbitdaNote": "SET EV ในอดีตต่ำกว่าหรือใกล้มูลค่าตลาด งบดุลไม่ใช่ความเสี่ยงหลัก การดำเนินการกำไรและการประเมินมูลค่าคือ",
-      "score": null,
       "flags": [
         "EMS",
         "Semiconductor",
@@ -7371,7 +7306,6 @@
       "debtEbitda": 6.955335871300504,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA = (EV - มูลค่าตลาด)/EBITDA; สินค้าคงคลังของทรัพย์สินและการจัดหาเงินทุนของโครงการลดความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "นิคมอุตสาหกรรม",
         "FDI",
@@ -7477,7 +7411,6 @@
       "debtEbitda": 0.0,
       "debtEbitdaBasis": "เงินสดสุทธิ / เลเวอเรจต่ำ",
       "debtEbitdaNote": "SET EV ที่ต่ำกว่ามูลค่าตลาดโดยรอบภาพรวมหมายถึงเงินสดสุทธิ/หนี้สินสุทธิที่ต่ำมาก ใช้ FCF, ROIC และการแปลงเงินสด",
-      "score": null,
       "flags": [
         "Paint Brand",
         "ช่องทางจัดจำหน่าย",
@@ -7583,7 +7516,6 @@
       "debtEbitda": 1.15,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA อิงจากมูลค่าตลาด EV ของ SET และ EBITDA มูลค่ากองเรือขนส่งสินค้าและข้อผูกพันในการเช่าเหมาลำส่งผลต่อความสามารถในการเปรียบเทียบ",
-      "score": null,
       "flags": [
         "Regional Shipping",
         "เงินสดสุทธิ",
@@ -7692,7 +7624,6 @@
       "debtEbitda": 0.0,
       "debtEbitdaBasis": "เงินสดสุทธิ",
       "debtEbitdaNote": "SET EV ต่ำกว่ามูลค่าตลาดรอบๆ สแน็ปช็อต บ่งชี้เงินสดสุทธิ 6M26 D/E อยู่ที่ 0.55x แต่งบดุลการดำเนินงานรวมเงินทุนหมุนเวียนทางการค้าด้วย",
-      "score": null,
       "flags": [
         "Healthcare Brands",
         "ช่องทางจัดจำหน่าย",
@@ -7798,7 +7729,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "Property developer",
       "debtEbitdaNote": "ใช้อัตราส่วนหนี้สินต่อทุนสุทธิ ยอดขายล่วงหน้า/งานในมือ สินค้าคงคลัง และหนี้สินที่มีดอกเบี้ย แทนที่จะใช้หน้าจอเลเวอเรจ EBITDA แบบธรรมดา",
-      "score": null,
       "flags": [
         "Housing",
         "ที่ดิน Bank",
@@ -7904,7 +7834,6 @@
       "debtEbitda": 12.93737011853502,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/EBITDA จาก SET EV/มูลค่าราคาตลาด/EBITDA; เงินทุนหมุนเวียนในการก่อสร้างและการลงทุนด้านโครงสร้างพื้นฐานบิดเบือนการเปรียบเทียบการงัดอย่างง่าย",
-      "score": null,
       "flags": [
         "โครงสร้างพื้นฐาน",
         "งานในมือ",
@@ -8009,7 +7938,6 @@
       "debtEbitda": 5.29,
       "debtEbitdaBasis": "SET",
       "debtEbitdaNote": "หนี้สินที่มีภาระดอกเบี้ยรวม / EBITDA, 6M/2026 (ปรับปรุง SET TTM)",
-      "score": null,
       "flags": [
         "Natural ยาง",
         "Gloves",
@@ -8118,7 +8046,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "เลเวอเรจสูง/กลุ่มบริษัท",
       "debtEbitdaNote": "ใช้หนี้สินสุทธิ กระแสเงินสดประจำ ลูกหนี้การรถไฟ มูลค่าบริษัทในเครือ และ SOTP หนี้ธรรมดา/EBITDA ถูกบิดเบือนโดยโครงสร้างบริษัทโฮลดิ้ง",
-      "score": null,
       "flags": [
         "Rail เครือข่าย",
         "MOVE สัดส่วน MATCH",
@@ -8225,7 +8152,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "สาธารณูปโภค / การเงินโครงการ",
       "debtEbitdaNote": "D/E 1.40x ที่ 6M26 ติดตามหนี้สุทธิ ความคุ้มครองดอกเบี้ย รายจ่ายฝ่ายทุนของโครงการ และการกระจายเงินสดจากบริษัทร่วม",
-      "score": null,
       "flags": [
         "สาธารณูปโภคอุตสาหกรรม",
         "Water",
@@ -8325,7 +8251,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - การก่อสร้าง/การถือครอง",
       "debtEbitdaNote": "D/E 1.97x ที่ 6M26; OCF เท่านั้น THB19m. ติดตามเงินทุนหมุนเวียน สินทรัพย์ตามสัญญา การแปลงเงินสดของโครงการ และหนี้บริษัทโฮลดิ้ง",
-      "score": null,
       "flags": [
         "Construction",
         "งานในมือ",
@@ -8431,7 +8356,6 @@
       "debtEbitda": 0.39,
       "debtEbitdaBasis": "SET",
       "debtEbitdaNote": "หนี้สินที่มีภาระดอกเบี้ยรวม / EBITDA, 6M/2026 (ปรับปรุง SET TTM)",
-      "score": null,
       "flags": [
         "Hospital เครือข่าย",
         "Social Security",
@@ -8538,7 +8462,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "เลเวอเรจต่ำถึงปานกลาง",
       "debtEbitdaNote": "ใช้ SET ที่รายงาน EV/EBITDA หนี้สุทธิ และ FCF 6M EBITDA ที่แสดงไม่สามารถเทียบเคียงได้โดยตรงกับตัวส่วน TTM EV/EBITDA",
-      "score": null,
       "flags": [
         "Asphalt",
         "โครงสร้างพื้นฐานถนน",
@@ -8644,7 +8567,6 @@
       "debtEbitda": 0.83,
       "debtEbitdaBasis": "การคำนวณ/คัดกรอง",
       "debtEbitdaNote": "ประมาณ หนี้สินสุทธิ/TTM EBITDA อนุมานจากมูลค่าตลาดของ SET, EV และ EV/EBITDA ประมาณกลางเดือนตุลาคม 2026 ใช้เป็นการคัดกรองเท่านั้น D/E ที่ 6M26 คือ 0.22x",
-      "score": null,
       "flags": [
         "Gloves",
         "ระดับโลก Export",
@@ -8750,7 +8672,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "",
       "debtEbitdaNote": "ผู้พัฒนาอสังหาริมทรัพย์ : ใช้ IBZD/E / D/E",
-      "score": null,
       "flags": [
         "Housing",
         "Condominium",
@@ -8854,7 +8775,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "N/A - ผู้พัฒนาอสังหาริมทรัพย์",
       "debtEbitdaNote": "ใช้หนี้ที่มีดอกเบี้ย/ทุน 1.59 เท่า อัตราส่วนหนี้สินต่อทุนสุทธิ สินค้าคงคลัง ยอดขายล่วงหน้า/งานในมือ และ OCF แทนที่จะเป็น หนี้/EBITDA",
-      "score": null,
       "flags": [
         "Housing",
         "Condominium",
@@ -8956,7 +8876,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "",
       "debtEbitdaNote": "บริษัทเงินทุน: หนี้ต่อ EBITDA N/A",
-      "score": null,
       "flags": [
         "สินเชื่อผู้บริโภค",
         "บัตรเครดิต",
@@ -9062,7 +8981,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "",
       "debtEbitdaNote": "พลังงาน: EV/EBITDA / หนี้สุทธิ-EBITDA",
-      "score": null,
       "flags": [
         "Renewables",
         "Power",
@@ -9168,7 +9086,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "",
       "debtEbitdaNote": "AMC: หนี้ต่อ EBITDA N/A",
-      "score": null,
       "flags": [
         "AMC",
         "NPL/NPA",
@@ -9274,7 +9191,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "สื่อ/แพลตฟอร์ม: ใช้เงินสด/หนี้สุทธิ, EBITDA, เงินสมทบ และ FCF",
       "debtEbitdaNote": "ภาระหนี้ในงบดุลอยู่ในระดับต่ำ คุณภาพรายได้ขึ้นอยู่กับการโฆษณาการดำเนินงาน/กระแสเงินสดดิจิทัล เทียบกับการลงทุน/กำไรจากบริษัทร่วม",
-      "score": null,
       "flags": [
         "OOH Media",
         "BTS ระบบนิเวศ",
@@ -9382,7 +9298,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "",
       "debtEbitdaNote": "ค่าจัดส่ง: EV/EBITDA / หนี้สุทธิ-EBITDA",
-      "score": null,
       "flags": [
         "โลจิสติกส์ทางทะเล",
         "Tanker",
@@ -9488,7 +9403,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "การค้าปลีก/เงินทุนหมุนเวียนเข้มข้น: ใช้ D/E, การจัดหาเงินทุนสินค้าคงคลัง และ OCF",
       "debtEbitdaNote": "6M26 D/E ประมาณ 2.36x; การเติบโตของสินค้าคงคลังทองคำอย่างรวดเร็วอาจทำให้กระแสเงินสดจากการดำเนินงานติดลบอย่างมาก แม้ว่ากำไรทางบัญชีจะแข็งแกร่งก็ตาม",
-      "score": null,
       "flags": [
         "Gold ค้าปลีก",
         "High การเติบโต",
@@ -9598,7 +9512,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "เครื่องดื่มสำหรับผู้บริโภค: ใช้เงินสด/หนี้สุทธิ, ส่วนต่าง EBITDA, OCF และ ROIC",
       "debtEbitdaNote": "งบดุลมีความแข็งแกร่ง ตรวจสอบเงินสด การจ่ายเงินปันผล การใช้และรายจ่ายฝ่ายทุน ความเสี่ยงด้านหนี้สินไม่ใช่ตัวแปรหลักในวิทยานิพนธ์",
-      "score": null,
       "flags": [
         "RTD Tea",
         "Brand",
@@ -9708,7 +9621,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ผู้บริโภค/ร้านอาหาร: ใช้เลเวอเรจที่ปรับสัญญาเช่า, EBITDA และเงินสด",
       "debtEbitdaNote": "งบดุลยังคงแข็งแกร่ง ติดตามหนี้สินตามสัญญาเช่า ผลตอบแทนเงินสดระดับร้านค้า และกระแสเงินสดอิสระ แทนที่จะเป็นหนี้รวมเพียงอย่างเดียว",
-      "score": null,
       "flags": [
         "Restaurant",
         "Brand",
@@ -9817,7 +9729,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "โรงแรม: ใช้หนี้สุทธิ/EBITDA ความคุ้มครองค่าธรรมเนียมคงที่/ดอกเบี้ย และ RevPAR",
       "debtEbitdaNote": "6M26 D/E ประมาณ 1.65x; ภาระหนี้และรายจ่ายฝ่ายทุนของโรงแรมมีสาระสำคัญ ประเมินหนี้เทียบกับโรงแรม EBITDA ที่มีเสถียรภาพและกระแสเงินสด",
-      "score": null,
       "flags": [
         "Hotels",
         "Tourism",
@@ -9925,7 +9836,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "พลังงาน / การเงินโครงการ: ใช้ D/E, หนี้สุทธิต่อ EBITDA และสภาพคล่อง",
       "debtEbitdaNote": "6M26 D/E ประมาณ 1.61x การรีไฟแนนซ์ ช่องว่างตามสัญญา การขายสินทรัพย์ และกระแสเงินสดจากการดำเนินงานมีประโยชน์ในการตัดสินใจมากกว่าตราสารหนี้ทั่วไป/EBITDA เพียงอย่างเดียว",
-      "score": null,
       "flags": [
         "Renewables",
         "EV",
@@ -10033,7 +9943,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "โรงพยาบาล: ใช้ D/E, EBITDA กระแสเงินสด และการใช้กำลังการผลิต",
       "debtEbitdaNote": "6M26 D/E ประมาณ 0.24x; งบดุลมีความแข็งแกร่ง ตัวแปรทางการเงินที่สำคัญคือการใช้ประโยชน์/การผสมผสานมากกว่าการใช้ประโยชน์",
-      "score": null,
       "flags": [
         "Hospital เครือข่าย",
         "Social Security",
@@ -10142,7 +10051,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "AMC/การเรียกเก็บเงิน: หนี้/EBITDA N/A; ใช้การรวบรวมเงินสด IRR ต้นทุนเงินทุน D/E และผลตอบแทนที่ได้รับคืน",
       "debtEbitdaNote": "เศรษฐศาสตร์การจัดการสินทรัพย์ได้รับแรงผลักดันจากการรวบรวมเงินสดเทียบกับต้นทุนพอร์ตโฟลิโอและต้นทุนเงินทุน กำลังการผลิตในงบดุลและประสิทธิภาพในการรวบรวมมีความเกี่ยวข้องมากกว่าการใช้ประโยชน์จาก EBITDA แบบเดิม",
-      "score": null,
       "flags": [
         "AMC",
         "NPL",
@@ -10252,7 +10160,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "บริษัทโฮลดิ้ง: ใช้การมองผ่าน NAV, เลเวอเรจของบริษัทย่อย, สภาพคล่องของบริษัทแม่ และเงินสดต้นทางที่เกิดขึ้นประจำ",
       "debtEbitdaNote": "หนี้รวมและการระดมทุนของบริษัทในเครืออาจบดบังเศรษฐศาสตร์ของผู้ปกครองได้ ประเมิน NAV เงินปันผลขั้นต้น การครบกำหนดชำระหนี้ และคุณภาพรายได้ทั่วทั้งการถือครอง JMT/J-Mobile/Singer/ระบบนิเวศ",
-      "score": null,
       "flags": [
         "Holding Company",
         "JMT ระบบนิเวศ",
@@ -10361,7 +10268,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "โรงพยาบาล: ใช้ D/E, เงินสด, EBITDA และการใช้กำลังการผลิต",
       "debtEbitdaNote": "งบดุลมีความแข็งแกร่งโดยมีลักษณะเงินสดสุทธิ เลเวอเรจไม่ใช่ความเสี่ยงหลัก ตรวจสอบรายจ่ายฝ่ายทุนและการใช้ความสามารถในการดูแลที่ซับซ้อน",
-      "score": null,
       "flags": [
         "Hospital",
         "Tertiary Care",
@@ -10470,7 +10376,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ผู้พัฒนาอสังหาริมทรัพย์ : ใช้ D/E, IBZD/E กระแสเงินสด และรายได้จากการลงทุน",
       "debtEbitdaNote": "QH มีลักษณะงบดุลที่ค่อนข้างอนุรักษ์นิยมสำหรับภาคส่วนนี้ รายได้ยังขึ้นอยู่กับบริษัทร่วม/การลงทุนอย่างมาก ไม่ใช่แค่การพัฒนาที่อยู่อาศัยเท่านั้น",
-      "score": null,
       "flags": [
         "Property",
         "Deep มูลค่า",
@@ -10579,7 +10484,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "แพลตฟอร์มการขายปลีกน้ำมันเชื้อเพลิง / ผู้บริโภค: ใช้ EBITDA, OCF, เลเวอเรจที่ปรับสัญญาเช่า และความคุ้มครองดอกเบี้ย",
       "debtEbitdaNote": "6M26 D/E ได้รับการยกระดับโดยสถานี/สัญญาเช่าที่ใช้เงินทุนจำนวนมาก และการขยายระบบนิเวศ แม้จะขาดทุน 1H แต่ OCF ยังคงอยู่ THB3.70bn; ภาระผูกพันในงบดุลและสัญญาเช่าจำเป็นต้องได้รับการตรวจสอบ",
-      "score": null,
       "flags": [
         "Fuel ค้าปลีก",
         "ธุรกิจนอกน้ำมัน",
@@ -10689,7 +10593,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ขายปลีก: ใช้ EBITDA หนี้สุทธิ/EBITDA, OCF จำนวนวันสินค้าคงคลัง และเลเวอเรจที่ปรับปรุงสัญญาเช่า",
       "debtEbitdaNote": "ความเข้มข้นของเงินทุนและสินค้าคงคลังเป็นกุญแจสำคัญ ปัจจุบัน EV/EBITDA สำหรับวัยรุ่นระดับล่าง; งบดุลมีการใช้ประโยชน์มากกว่าผู้ค้าปลีกที่มีสินทรัพย์น้อย",
-      "score": null,
       "flags": [
         "Home Improvement",
         "วัสดุก่อสร้าง",
@@ -10798,7 +10701,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ธุรกิจการเกษตร: ใช้เงินสด/หนี้สุทธิ EBITDA วงจรสินค้าโภคภัณฑ์ และเงินทุนหมุนเวียน",
       "debtEbitdaNote": "งบดุลมีความแข็งแกร่งและการประเมินมูลค่าต่ำ ตัวแปรสำคัญคือเนื้อไก่ ต้นทุนอาหารสัตว์ ความต้องการในการส่งออก และการมีส่วนร่วมที่เกี่ยวข้อง มากกว่าการก่อหนี้ทางการเงิน",
-      "score": null,
       "flags": [
         "Poultry",
         "Export",
@@ -10908,7 +10810,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ขายปลีก: ใช้ EBITDA, OCF, เศรษฐศาสตร์ร้านค้า, การหมุนเวียนสินค้าคงคลัง และเลเวอเรจที่ปรับสัญญาเช่า",
       "debtEbitdaNote": "งบดุลและการสร้างเงินสดมีความแข็งแกร่ง ความเสี่ยงหลักไม่ใช่การก่อหนี้ทางการเงิน แต่เป็นการรักษาประสิทธิภาพการทำงานของร้านค้าไปพร้อมๆ กับการขยายธุรกิจอย่างรวดเร็ว",
-      "score": null,
       "flags": [
         "ค้าปลีกสินค้าไลฟ์สไตล์",
         "High การเติบโต",
@@ -11018,7 +10919,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "สายการบิน: หนี้ต่อ EBITDA N/A อยู่ในช่วงตึงเครียด; ใช้หนี้สินสุทธิ/สัญญาเช่า สภาพคล่อง โหลดแฟคเตอร์ RASK/CASK และการเผาผลาญเงินสด",
       "debtEbitdaNote": "6M26 D/E คือ 5.53x และ OCF -THB305m สภาพคล่อง หนี้สินตามสัญญาเช่า การป้องกันความเสี่ยงด้านเชื้อเพลิง และการเข้าถึงแหล่งเงินทุนเป็นตัวแปรทางการเงินที่สำคัญ",
-      "score": null,
       "flags": [
         "Airline",
         "Low-Cost Carrier",
@@ -11128,7 +11028,6 @@
       "debtEbitda": null,
       "debtEbitdaBasis": "ดาวเทียม/โทรคมนาคม: ใช้ EBITDA, FCF, D/E, กระแสเงินสดสัมปทาน/สัญญา และรายจ่ายฝ่ายทุนของโครงการ",
       "debtEbitdaNote": "6M26 D/E คือ 0.63x และ OCF THB234m งบดุลสามารถจัดการได้ แต่การลงทุนด้านดาวเทียม/อวกาศในอนาคตสามารถเปลี่ยนแปลงความเข้มข้นของเงินทุนได้อย่างมาก",
-      "score": null,
       "flags": [
         "Satellite",
         "Space Technology",

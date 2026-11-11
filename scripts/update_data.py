@@ -170,7 +170,7 @@ def main():
     meta['automaticUpdatePolicy']={
         'autoFields':['price','marketCap','marketDataUpdated','marketDataProvider','universeValidation'],
         'conditionalAutoFields':['rank (Update All only, 100/100 quotes, zero failures)'],
-        'protectedResearchFields':['valuation','score','framework','thesis','bear','moatStatus','moatReason','marketBelieves','marketMissing','variables','fit','teamComment'],
+        'protectedResearchFields':['valuation','framework','thesis','bear','moatStatus','moatReason','marketBelieves','marketMissing','variables','fit','teamComment'],
         'note':'Automatic updater never rewrites investment research intelligence.'
     }
     payload['stocks']=stocks

@@ -186,7 +186,6 @@ for ticker, u in universe.items():
         "debtEbitda": fnum(f.get("Debt / EBITDA (x)")),
         "debtEbitdaBasis": f.get("Debt/EBITDA Basis",""),
         "debtEbitdaNote": f.get("Debt/EBITDA Note",""),
-        "score": fnum(s.get("Overall Score")),
         "flags": split_flags(s.get("Special Flags")),
         "summary": d.get("5-Minute Summary",""),
         "framework": {
