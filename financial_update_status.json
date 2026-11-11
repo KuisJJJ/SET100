@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-11T16:19:56+07:00",
+  "checkedAt": "2026-11-11T19:43:00+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
       "ticker": "AAV",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106005701?symbol=AAV",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107616001?symbol=AAV",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -157,10 +157,10 @@
     },
     {
       "ticker": "BGRIM",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/BGRIM/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107561301?symbol=BGRIM",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -175,9 +175,9 @@
     },
     {
       "ticker": "BJC",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106105101?symbol=BJC",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107588601?symbol=BJC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -265,10 +265,10 @@
     },
     {
       "ticker": "CPALL",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/CPALL/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107565301?symbol=CPALL",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -292,9 +292,9 @@
     },
     {
       "ticker": "CRC",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106275701?symbol=CRC",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107595101?symbol=CRC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -400,9 +400,9 @@
     },
     {
       "ticker": "HANA",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106206501?symbol=HANA",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107573701?symbol=HANA",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -492,8 +492,8 @@
       "ticker": "KTB",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107173201?symbol=KTB",
-      "assurance": "ก่อนสอบทาน",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107604201?symbol=KTB",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -580,10 +580,10 @@
     },
     {
       "ticker": "OSP",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/OSP/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107572801?symbol=OSP",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
