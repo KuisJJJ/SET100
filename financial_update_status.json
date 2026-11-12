@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T20:46:11+07:00",
+  "checkedAt": "2026-11-13T00:45:06+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -61,6 +61,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107707101?symbol=AURA",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "AWC",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107704901?symbol=AWC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -431,7 +440,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -466,6 +475,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "KKP",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107564301?symbol=KKP",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -885,14 +903,5 @@
       "warnings": []
     }
   ],
-  "failures": [
-    {
-      "ticker": "AWC",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "KKP",
-      "error": "The read operation timed out"
-    }
-  ]
+  "failures": []
 }
