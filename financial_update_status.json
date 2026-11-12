@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T01:41:49+07:00",
+  "checkedAt": "2026-11-12T16:45:28+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -49,10 +49,10 @@
     },
     {
       "ticker": "AP",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/AP/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -166,10 +166,10 @@
     },
     {
       "ticker": "BH",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/BH/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107416001?symbol=BH",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -346,9 +346,9 @@
     },
     {
       "ticker": "GFPT",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/105963401?symbol=GFPT",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107656301?symbol=GFPT",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -483,8 +483,8 @@
       "ticker": "KKP",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107138401?symbol=KKP",
-      "assurance": "ก่อนสอบทาน",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107564301?symbol=KKP",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -535,10 +535,10 @@
     },
     {
       "ticker": "MINT",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/MINT/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107672501?symbol=MINT",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -841,10 +841,10 @@
     },
     {
       "ticker": "TOP",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/TOP/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107656601?symbol=TOP",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
