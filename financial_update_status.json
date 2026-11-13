@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T01:55:13+07:00",
+  "checkedAt": "2026-11-13T16:28:23+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -238,9 +238,9 @@
     },
     {
       "ticker": "CHG",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106066501?symbol=CHG",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107760801?symbol=CHG",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -319,10 +319,10 @@
     },
     {
       "ticker": "EA",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/EA/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107804201?symbol=EA",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -690,8 +690,8 @@
       "ticker": "SCB",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107154101?symbol=SCB",
-      "assurance": "ก่อนสอบทาน",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107652401?symbol=SCB",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -715,9 +715,9 @@
     },
     {
       "ticker": "SIRI",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106148501?symbol=SIRI",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107807601?symbol=SIRI",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -816,8 +816,8 @@
       "ticker": "TISCO",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107091001?symbol=TISCO",
-      "assurance": "ก่อนสอบทาน",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107817901?symbol=TISCO",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -879,7 +879,7 @@
       "ticker": "VGI",
       "period": "Q2 FY2026 / สะสม 6 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107754901?symbol=VGI",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107818101?symbol=VGI",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
