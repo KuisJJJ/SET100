@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T16:28:23+07:00",
+  "checkedAt": "2026-11-13T20:06:32+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -148,10 +148,10 @@
     },
     {
       "ticker": "BEM",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/BEM/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107901401?symbol=BEM",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -211,19 +211,19 @@
     },
     {
       "ticker": "CBG",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/CBG/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107940001?symbol=CBG",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
     {
       "ticker": "CCET",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/CCET/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107849401?symbol=CCET",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -661,10 +661,10 @@
     },
     {
       "ticker": "RATCH",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/RATCH/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107872101?symbol=RATCH",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -733,9 +733,9 @@
     },
     {
       "ticker": "SPRC",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106203101?symbol=SPRC",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107853501?symbol=SPRC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -751,9 +751,9 @@
     },
     {
       "ticker": "STECON",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106256901?symbol=STECON",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107914901?symbol=STECON",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -823,18 +823,18 @@
     },
     {
       "ticker": "TLI",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/TLI/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107899101?symbol=TLI",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
     {
       "ticker": "TOA",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106115201?symbol=TOA",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107940401?symbol=TOA",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
