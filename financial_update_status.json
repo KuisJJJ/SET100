@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T20:06:32+07:00",
+  "checkedAt": "2026-11-14T00:23:36+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -112,10 +112,10 @@
     },
     {
       "ticker": "BCH",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/BCH/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107951601?symbol=BCH",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -202,10 +202,10 @@
     },
     {
       "ticker": "BTS",
-      "period": "Q1 FY2027 / สะสม 3 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/BTS/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q2 FY2026 / สะสม 6 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107980201?symbol=BTS",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
