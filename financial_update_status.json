@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T16:34:40+07:00",
+  "checkedAt": "2026-11-16T20:38:44+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "ticker": "AMATA",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106112001?symbol=AMATA",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/108078901?symbol=AMATA",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -139,10 +139,10 @@
     },
     {
       "ticker": "BDMS",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/BDMS/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/108085201?symbol=BDMS",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -247,9 +247,9 @@
     },
     {
       "ticker": "CK",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/106260501?symbol=CK",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/108102201?symbol=CK",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -465,8 +465,8 @@
       "ticker": "KBANK",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107164801?symbol=KBANK",
-      "assurance": "ก่อนสอบทาน",
+      "source": "https://www.settrade.com/th/news-and-articles/news/108053401?symbol=KBANK",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
