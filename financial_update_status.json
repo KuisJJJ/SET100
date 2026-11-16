@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T20:38:44+07:00",
+  "checkedAt": "2026-11-17T02:52:56+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -287,8 +287,10 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107402901?symbol=CPN",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
+      "checkStatus": "partial",
+      "warnings": [
+        "F45 is future-dated or not identified as consolidated"
+      ]
     },
     {
       "ticker": "CRC",
@@ -679,9 +681,9 @@
     },
     {
       "ticker": "SAWAD",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/105931201?symbol=SAWAD",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/108103301?symbol=SAWAD",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
