@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-14T01:31:57+07:00",
+  "checkedAt": "2026-11-16T16:34:40+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -328,10 +328,10 @@
     },
     {
       "ticker": "EGCO",
-      "period": "Q2 FY2026 / สะสม 6 เดือน",
-      "endDate": "2026-06-30",
-      "source": "https://www.settrade.com/th/equities/quote/EGCO/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107990701?symbol=EGCO",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
