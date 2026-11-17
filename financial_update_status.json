@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T01:45:28+07:00",
+  "checkedAt": "2026-11-18T02:50:47+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -237,6 +237,15 @@
       "warnings": []
     },
     {
+      "ticker": "CHG",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107760801?symbol=CHG",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
       "ticker": "CK",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -466,15 +475,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "KKP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107564301?symbol=KKP",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -896,8 +896,8 @@
   ],
   "failures": [
     {
-      "ticker": "CHG",
-      "error": "Settrade snapshot not available"
+      "ticker": "KKP",
+      "error": "HTTP Error 502: Bad Gateway"
     }
   ]
 }
