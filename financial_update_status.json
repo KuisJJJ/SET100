@@ -1,7 +1,16 @@
 {
-  "checkedAt": "2026-11-17T21:23:45+07:00",
+  "checkedAt": "2026-11-18T01:45:28+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
+    {
+      "ticker": "AAV",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107616001?symbol=AAV",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
     {
       "ticker": "ADVANC",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
@@ -43,6 +52,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "AURA",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107707101?symbol=AURA",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -219,15 +237,6 @@
       "warnings": []
     },
     {
-      "ticker": "CHG",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107760801?symbol=CHG",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "CK",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -291,6 +300,15 @@
       "warnings": []
     },
     {
+      "ticker": "DOHOME",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107454901?symbol=DOHOME",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
       "ticker": "EA",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -314,7 +332,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107715401?symbol=ERW",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -323,7 +341,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107656301?symbol=GFPT",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -340,6 +358,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107348201?symbol=GPSC",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "GST",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -403,6 +430,24 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "JMART",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "JMT",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -489,6 +534,15 @@
       "warnings": []
     },
     {
+      "ticker": "MOSHI",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/equities/quote/MOSHI/financial-statement/five-years",
+      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
       "ticker": "MRDIYT",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -534,10 +588,28 @@
       "warnings": []
     },
     {
+      "ticker": "PR9",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107510801?symbol=PR9",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
       "ticker": "PRM",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107779101?symbol=PRM",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "PTG",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107757801?symbol=PTG",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -565,6 +637,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107559501?symbol=PTTGC",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "QH",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -791,7 +872,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107818101?symbol=VGI",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -815,44 +896,8 @@
   ],
   "failures": [
     {
-      "ticker": "AURA",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "QH",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "PR9",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "JMART",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "JMT",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "MOSHI",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "ticker": "DOHOME",
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
-    },
-    {
-      "ticker": "PTG",
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
-    },
-    {
-      "ticker": "AAV",
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
-    },
-    {
-      "ticker": "GST",
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "ticker": "CHG",
+      "error": "Settrade snapshot not available"
     }
   ]
 }
