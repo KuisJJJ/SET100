@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T20:57:45+07:00",
+  "checkedAt": "2026-11-19T01:24:54+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -872,7 +872,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107296801?symbol=TU",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
