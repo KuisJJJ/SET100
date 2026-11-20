@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T02:29:08+07:00",
+  "checkedAt": "2026-11-20T16:58:22+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -458,7 +458,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -548,7 +548,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/equities/quote/MOSHI/financial-statement/five-years",
       "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -656,7 +656,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
