@@ -1,7 +1,16 @@
 {
-  "checkedAt": "2026-11-21T02:06:11+07:00",
+  "checkedAt": "2026-11-23T17:41:54+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
+    {
+      "ticker": "AAV",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107616001?symbol=AAV",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
     {
       "ticker": "ADVANC",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
@@ -35,8 +44,10 @@
       "endDate": "2026-06-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/106027101?symbol=AOT",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
+      "checkStatus": "partial",
+      "warnings": [
+        "Unsupported F45 layout; retained verified values"
+      ]
     },
     {
       "ticker": "AP",
@@ -368,7 +379,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -894,10 +905,5 @@
       "warnings": []
     }
   ],
-  "failures": [
-    {
-      "ticker": "AAV",
-      "error": "The read operation timed out"
-    }
-  ]
+  "failures": []
 }
