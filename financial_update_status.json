@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T19:25:27+07:00",
+  "checkedAt": "2026-11-24T22:52:51+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -68,15 +68,6 @@
       "warnings": []
     },
     {
-      "ticker": "AWC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107704901?symbol=AWC",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "BA",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -90,15 +81,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107541401?symbol=BAM",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "BANPU",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107548101?symbol=BANPU",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -127,7 +109,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107365601?symbol=BCP",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -154,7 +136,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107901401?symbol=BEM",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -171,15 +153,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107416001?symbol=BH",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "BJC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107588601?symbol=BJC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -212,33 +185,6 @@
       "warnings": []
     },
     {
-      "ticker": "CBG",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107940001?symbol=CBG",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "CCET",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107849401?symbol=CCET",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "CENTEL",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107783501?symbol=CENTEL",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "CHG",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -252,15 +198,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/108102201?symbol=CK",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "COM7",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107774901?symbol=COM7",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -280,7 +217,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107689501?symbol=CPF",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -329,15 +266,6 @@
       "warnings": []
     },
     {
-      "ticker": "EGCO",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107990701?symbol=EGCO",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "ERW",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -360,15 +288,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107215101?symbol=GLOBAL",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "GPSC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107348201?symbol=GPSC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -410,15 +329,6 @@
       "warnings": []
     },
     {
-      "ticker": "HMPRO",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107202101?symbol=HMPRO",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "ICHI",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -442,7 +352,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -473,37 +383,10 @@
       "warnings": []
     },
     {
-      "ticker": "KCE",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "KKP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107564301?symbol=KKP",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "KTB",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107604201?symbol=KTB",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "KTC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107397301?symbol=KTC",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -536,15 +419,6 @@
       "warnings": []
     },
     {
-      "ticker": "MINT",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107672501?symbol=MINT",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "MOSHI",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -558,33 +432,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107498801?symbol=MRDIYT",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "MTC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107535201?symbol=MTC",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "OR",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107362001?symbol=OR",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "OSP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107572801?symbol=OSP",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -644,28 +491,10 @@
       "warnings": []
     },
     {
-      "ticker": "PTTGC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107559501?symbol=PTTGC",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "QH",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "RATCH",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107872101?symbol=RATCH",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -702,15 +531,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107472701?symbol=SCC",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "SCGP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107417001?symbol=SCGP",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -779,15 +599,6 @@
       "warnings": []
     },
     {
-      "ticker": "TCAP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107541601?symbol=TCAP",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "TFG",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -797,37 +608,10 @@
       "warnings": []
     },
     {
-      "ticker": "THAI",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107690101?symbol=THAI",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "TIDLOR",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107398301?symbol=TIDLOR",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "TISCO",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107817901?symbol=TISCO",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "TLI",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107899101?symbol=TLI",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -847,7 +631,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107656601?symbol=TOP",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -865,16 +649,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107708101?symbol=TTB",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "TU",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107296801?symbol=TU",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -892,7 +667,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107719301?symbol=WHA",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -905,5 +680,106 @@
       "warnings": []
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "ticker": "PTTGC",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "ticker": "OR",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "ticker": "THAI",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "ticker": "TLI",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "MINT",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "ticker": "GPSC",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "SCGP",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "KKP",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "TISCO",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "AWC",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "KTC",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "BJC",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "HMPRO",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "TCAP",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "COM7",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "RATCH",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "EGCO",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "CCET",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "KCE",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "MTC",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "CENTEL",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "OSP",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "CBG",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "TU",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "ticker": "BANPU",
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
+    }
+  ]
 }
