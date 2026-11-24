@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T03:21:20+07:00",
+  "checkedAt": "2026-11-25T04:11:13+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -50,15 +50,6 @@
       ]
     },
     {
-      "ticker": "AP",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "AURA",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -104,15 +95,6 @@
       "warnings": []
     },
     {
-      "ticker": "BBL",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107678201?symbol=BBL",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "BCH",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -145,7 +127,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/108085201?symbol=BDMS",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -172,16 +154,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107416001?symbol=BH",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "BJC",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107588601?symbol=BJC",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -190,7 +163,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107537401?symbol=BLA",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -261,15 +234,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107774901?symbol=COM7",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "CPALL",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107565301?symbol=CPALL",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -473,15 +437,6 @@
       "warnings": []
     },
     {
-      "ticker": "KCE",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "KKP",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -608,15 +563,6 @@
       "warnings": []
     },
     {
-      "ticker": "PRM",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107779101?symbol=PRM",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "PTG",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -703,7 +649,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107472701?symbol=SCC",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -739,7 +685,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107853501?symbol=SPRC",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -802,7 +748,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107690101?symbol=THAI",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -905,5 +851,30 @@
       "warnings": []
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "ticker": "CPALL",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "ticker": "BBL",
+      "error": "The read operation timed out"
+    },
+    {
+      "ticker": "KCE",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "ticker": "BJC",
+      "error": "Settrade snapshot not available"
+    },
+    {
+      "ticker": "AP",
+      "error": "The read operation timed out"
+    },
+    {
+      "ticker": "PRM",
+      "error": "Remote end closed connection without response"
+    }
+  ]
 }
