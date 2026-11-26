@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T03:29:16+07:00",
+  "checkedAt": "2026-11-26T17:49:49+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -226,8 +226,10 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107849401?symbol=CCET",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
+      "checkStatus": "partial",
+      "warnings": [
+        "F45 is future-dated or not identified as consolidated"
+      ]
     },
     {
       "ticker": "CENTEL",
@@ -590,15 +592,6 @@
       "warnings": []
     },
     {
-      "ticker": "PLANB",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107756801?symbol=PLANB",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "PR9",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -676,7 +669,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107382401?symbol=RCL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -905,5 +898,10 @@
       "warnings": []
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "ticker": "PLANB",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  ]
 }
