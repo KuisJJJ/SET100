@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T22:14:35+07:00",
+  "checkedAt": "2026-11-27T02:17:36+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -541,15 +541,15 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107672501?symbol=MINT",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
       "ticker": "MOSHI",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/equities/quote/MOSHI/financial-statement/five-years",
-      "assurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107715901?symbol=MOSHI",
+      "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
@@ -712,10 +712,8 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107417001?symbol=SCGP",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
-      "warnings": [
-        "F45 is future-dated or not identified as consolidated"
-      ]
+      "checkStatus": "verified",
+      "warnings": []
     },
     {
       "ticker": "SIRI",
@@ -831,7 +829,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107899101?symbol=TLI",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
