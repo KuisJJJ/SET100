@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T17:48:49+07:00",
+  "checkedAt": "2026-11-27T22:04:16+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -54,6 +54,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "AURA",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107707101?symbol=AURA",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -329,6 +338,15 @@
       "warnings": []
     },
     {
+      "ticker": "ERW",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107715401?symbol=ERW",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
       "ticker": "GFPT",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -424,10 +442,17 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
-      "warnings": [
-        "F45 is future-dated or not identified as consolidated"
-      ]
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "JMART",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
     },
     {
       "ticker": "JMT",
@@ -435,7 +460,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -623,6 +648,15 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107559501?symbol=PTTGC",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "QH",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -871,22 +905,5 @@
       "warnings": []
     }
   ],
-  "failures": [
-    {
-      "ticker": "AURA",
-      "error": "The read operation timed out"
-    },
-    {
-      "ticker": "ERW",
-      "error": "The read operation timed out"
-    },
-    {
-      "ticker": "QH",
-      "error": "The read operation timed out"
-    },
-    {
-      "ticker": "JMART",
-      "error": "The read operation timed out"
-    }
-  ]
+  "failures": []
 }
