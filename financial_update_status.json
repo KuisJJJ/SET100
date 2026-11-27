@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T22:04:16+07:00",
+  "checkedAt": "2026-11-28T02:11:43+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -379,7 +379,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
