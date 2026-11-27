@@ -5,15 +5,15 @@
     "researchOrder": "Market Cap 100%",
     "companiesResearched": 100,
     "totalUniverse": 100,
-    "marketDataUpdated": "2026-11-28T02:16:11.395101344+07:00",
+    "marketDataUpdated": "2026-11-28T03:01:56.995919544+07:00",
     "financialDataUpdated": "แสดงงวดและวันสิ้นงบแยกรายบริษัท",
     "researchReviewed": "2026-11-03",
-    "generatedAt": "2026-11-28T02:11:43+07:00",
+    "generatedAt": "2026-11-28T02:56:51+07:00",
     "masterWorkbook": "SET100_Investment_Research_Master.xlsx",
     "setIndexUpdated": "2026-11-27T16:44:21+07:00",
     "universeValidation": {
       "ok": true,
-      "checkedAt": "2026-11-28T02:11:16+07:00",
+      "checkedAt": "2026-11-28T02:56:34+07:00",
       "validationMode": "locked_official_snapshot",
       "officialCount": 100,
       "researchedCount": 100,
@@ -27,7 +27,7 @@
       "note": "Locked snapshot is a transparent fallback when SET dynamic HTML cannot be parsed; refresh it when SET announces a new constituent period."
     },
     "rankPolicy": "Rank recalculated from market cap only after a successful Update All of all 100 constituents.",
-    "rankUpdatedAt": "2026-11-28T02:11:16+07:00",
+    "rankUpdatedAt": "2026-11-28T02:56:34+07:00",
     "automaticUpdatePolicy": {
       "autoFields": [
         "price",
@@ -67,12 +67,12 @@
       "technicalAbbreviationsPreserved": true,
       "policy": "คำอธิบายเป็นภาษาไทย; คงเฉพาะชื่อเฉพาะและตัวย่อทางการเงินมาตรฐาน"
     },
-    "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+    "financialCheckedAt": "2026-11-28T02:56:51+07:00",
     "financialTargetPeriodEnd": "2026-09-30",
     "financialCoverage": {
       "checked": 100,
-      "checkedThisRun": 100,
-      "failed": 0,
+      "checkedThisRun": 99,
+      "failed": 1,
       "septemberOrLater": 99
     },
     "financialUpdatePolicy": "อัปเดตข้อเท็จจริงจาก SET/Settrade และ F45; คงวันที่และงวดของบทวิเคราะห์เดิม; ไม่สร้างงบที่ยังไม่มีหลักฐาน",
@@ -673,7 +673,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/DELTA/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/DELTA/financial-statement/five-years",
@@ -697,7 +697,7 @@
         "netProfit": 22913181,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:41.995318744+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/DELTA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -810,7 +810,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107717201?symbol=PTT",
       "financialPublishedAt": "2026-11-12T17:34:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107717201?symbol=PTT",
@@ -836,7 +836,7 @@
           "64,631,728"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:41.995318744+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -951,7 +951,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107317601?symbol=ADVANC",
       "financialPublishedAt": "2026-11-03T17:50:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107317601?symbol=ADVANC",
@@ -977,7 +977,7 @@
           "33,604,272"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:41.995318744+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/ADVANC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1090,7 +1090,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107361501?symbol=GULF",
       "financialPublishedAt": "2026-11-05T17:18:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107361501?symbol=GULF",
@@ -1116,7 +1116,7 @@
           "71,145,776"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:41.995318744+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GULF/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1230,7 +1230,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/equities/quote/AOT/financial-statement/five-years",
       "financialPublishedAt": null,
       "financialAssurance": "ไม่ระบุสถานะสอบทานในข้อมูลสรุป (ดูงบต้นฉบับ)",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "FY FY2026 / สะสม 12 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/equities/quote/AOT/financial-statement/five-years",
@@ -1254,7 +1254,7 @@
         "netProfit": 19309409.6,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:56.99599079+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AOT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1367,7 +1367,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107604201?symbol=KTB",
       "financialPublishedAt": "2026-11-11T17:36:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107604201?symbol=KTB",
@@ -1393,7 +1393,7 @@
           "37,455,802"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:56.99599079+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KTB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1502,7 +1502,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108053401?symbol=KBANK",
       "financialPublishedAt": "2026-11-16T17:09:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108053401?symbol=KBANK",
@@ -1528,7 +1528,7 @@
           "39,286,834"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:56.99599079+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KBANK/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1641,7 +1641,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107262101?symbol=PTTEP",
       "financialPublishedAt": "2026-10-30T18:03:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107262101?symbol=PTTEP",
@@ -1665,7 +1665,7 @@
         "netProfit": 53741770,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:11:41.395713918+07:00",
+      "marketDataAsOf": "2026-11-28T02:56:56.99599079+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTTEP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -1774,7 +1774,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107652401?symbol=SCB",
       "financialPublishedAt": "2026-11-13T12:34:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107652401?symbol=SCB",
@@ -1800,12 +1800,12 @@
           "37,344,410"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:56.395998418+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SCB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
       "valuationRatiosAsOf": "2026-11-26T00:00:00+07:00",
-      "valuationFinancialPeriodEnd": "2026-09-30",
+      "valuationFinancialPeriodEnd": null,
       "businessProfile": {
         "companyName": "บริษัท เอสซีบี เอกซ์ จำกัด (มหาชน)",
         "overview": "บริษัทแม่ SCBX ที่ถือหุ้นธนาคารและธุรกิจการเงิน โดยกำหนดทิศทางและจัดสรรเงินลงทุนให้กลุ่ม",
@@ -1910,7 +1910,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107565301?symbol=CPALL",
       "financialPublishedAt": "2026-11-11T17:00:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107565301?symbol=CPALL",
@@ -1936,7 +1936,7 @@
           "20,950,221"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:56.395998418+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CPALL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2050,7 +2050,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107282401?symbol=TRUE",
       "financialPublishedAt": "2026-11-02T12:34:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107282401?symbol=TRUE",
@@ -2074,7 +2074,7 @@
         "netProfit": 19812938,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:11:56.395998418+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TRUE/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2187,7 +2187,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107678201?symbol=BBL",
       "financialPublishedAt": "2026-11-12T17:03:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107678201?symbol=BBL",
@@ -2213,7 +2213,7 @@
           "38,247,126"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:11:56.395998418+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BBL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2322,7 +2322,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108085201?symbol=BDMS",
       "financialPublishedAt": "2026-11-16T17:53:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108085201?symbol=BDMS",
@@ -2348,7 +2348,7 @@
           "12,155,425"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BDMS/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2457,7 +2457,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107402901?symbol=CPN",
       "financialPublishedAt": "2026-11-09T08:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107402901?symbol=CPN",
@@ -2483,7 +2483,7 @@
           "13,956,479"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CPN/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2596,7 +2596,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107472701?symbol=SCC",
       "financialPublishedAt": "2026-11-10T12:45:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107472701?symbol=SCC",
@@ -2620,7 +2620,7 @@
         "netProfit": 20143415,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:11.995149571+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SCC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2726,7 +2726,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107708101?symbol=TTB",
       "financialPublishedAt": "2026-11-12T17:02:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107708101?symbol=TTB",
@@ -2752,12 +2752,12 @@
           "15,399,365"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:26.995205347+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TTB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
       "valuationRatiosAsOf": "2026-11-26T00:00:00+07:00",
-      "valuationFinancialPeriodEnd": "2026-09-30",
+      "valuationFinancialPeriodEnd": null,
       "businessProfile": {
         "companyName": "ธนาคารทหารไทยธนชาต จำกัด (มหาชน)",
         "overview": "ธนาคารพาณิชย์ที่ให้บริการเงินฝาก สินเชื่อ และธุรกรรมทางการเงินแก่บุคคลและธุรกิจ",
@@ -2857,7 +2857,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107595101?symbol=CRC",
       "financialPublishedAt": "2026-11-11T17:28:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107595101?symbol=CRC",
@@ -2883,7 +2883,7 @@
           "4,781,305"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:26.995205347+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CRC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -2992,7 +2992,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107559501?symbol=PTTGC",
       "financialPublishedAt": "2026-11-11T12:54:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107559501?symbol=PTTGC",
@@ -3018,7 +3018,7 @@
           "(9,098,708)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:26.995205347+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTTGC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3123,7 +3123,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107689501?symbol=CPF",
       "financialPublishedAt": "2026-11-12T17:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107689501?symbol=CPF",
@@ -3149,7 +3149,7 @@
           "24,112,216"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:11.395547261+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:26.995205347+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CPF/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3258,7 +3258,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107362001?symbol=OR",
       "financialPublishedAt": "2026-11-05T17:25:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107362001?symbol=OR",
@@ -3284,7 +3284,7 @@
           "9,225,542"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:26.395436915+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:41.995318441+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/OR/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3393,7 +3393,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107416001?symbol=BH",
       "financialPublishedAt": "2026-11-12T07:00:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107416001?symbol=BH",
@@ -3419,7 +3419,7 @@
           "5,626,417"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:26.395436915+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:41.995318441+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3524,7 +3524,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107690101?symbol=THAI",
       "financialPublishedAt": "2026-11-12T19:07:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107690101?symbol=THAI",
@@ -3550,7 +3550,7 @@
           "26,369,369"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:26.395436915+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:41.995318441+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/THAI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3663,7 +3663,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107348201?symbol=GPSC",
       "financialPublishedAt": "2026-11-05T17:09:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107348201?symbol=GPSC",
@@ -3689,7 +3689,7 @@
           "4,901,164"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:26.395436915+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:41.995318441+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GPSC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3791,7 +3791,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107656601?symbol=TOP",
       "financialPublishedAt": "2026-11-12T08:31:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107656601?symbol=TOP",
@@ -3817,7 +3817,7 @@
           "12,126,125"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:26.395436915+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:41.995318441+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TOP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -3926,7 +3926,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107672501?symbol=MINT",
       "financialPublishedAt": "2026-11-12T12:39:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107672501?symbol=MINT",
@@ -3952,7 +3952,7 @@
           "6,055,850"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:41.395809187+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:41.995318441+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MINT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4065,7 +4065,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107899101?symbol=TLI",
       "financialPublishedAt": "2026-11-13T17:42:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107899101?symbol=TLI",
@@ -4091,7 +4091,7 @@
           "9,358,974"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:41.395809187+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:56.995929749+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TLI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4197,7 +4197,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "financialPublishedAt": "2026-11-09T08:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
@@ -4223,7 +4223,7 @@
           "(2,651,205)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:41.395809187+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:56.995929749+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/IVL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4336,7 +4336,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107417001?symbol=SCGP",
       "financialPublishedAt": "2026-11-09T12:38:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107417001?symbol=SCGP",
@@ -4362,7 +4362,7 @@
           "2,862,894"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:41.395809187+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:56.995929749+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SCGP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4475,7 +4475,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107901401?symbol=BEM",
       "financialPublishedAt": "2026-11-13T17:14:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107901401?symbol=BEM",
@@ -4501,7 +4501,7 @@
           "2,943,489"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:41.395809187+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:56.995929749+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BEM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4614,7 +4614,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107817901?symbol=TISCO",
       "financialPublishedAt": "2026-11-13T08:33:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107817901?symbol=TISCO",
@@ -4640,7 +4640,7 @@
           "5,017,119"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:57:56.995929749+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TISCO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4749,7 +4749,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107704901?symbol=AWC",
       "financialPublishedAt": "2026-11-12T18:25:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107704901?symbol=AWC",
@@ -4775,7 +4775,7 @@
           "4,521,914"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:11.995092988+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AWC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -4880,7 +4880,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107564301?symbol=KKP",
       "financialPublishedAt": "2026-11-12T12:33:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107564301?symbol=KKP",
@@ -4906,7 +4906,7 @@
           "4,140,903"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:11.995092988+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KKP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5015,7 +5015,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107397301?symbol=KTC",
       "financialPublishedAt": "2026-11-06T17:42:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107397301?symbol=KTC",
@@ -5041,7 +5041,7 @@
           "5,706,601"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:11.995092988+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KTC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5150,7 +5150,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107202101?symbol=HMPRO",
       "financialPublishedAt": "2026-10-27T07:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107202101?symbol=HMPRO",
@@ -5176,7 +5176,7 @@
           "4,409,497"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:11.995092988+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/HMPRO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5282,7 +5282,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107588601?symbol=BJC",
       "financialPublishedAt": "2026-11-11T17:51:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107588601?symbol=BJC",
@@ -5308,7 +5308,7 @@
           "2,717,794"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:11.995092988+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BJC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5417,7 +5417,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541601?symbol=TCAP",
       "financialPublishedAt": "2026-11-10T20:24:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541601?symbol=TCAP",
@@ -5441,7 +5441,7 @@
         "netProfit": 6952655,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:12:56.395321446+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:26.995819589+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TCAP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5555,7 +5555,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107872101?symbol=RATCH",
       "financialPublishedAt": "2026-11-13T17:05:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107872101?symbol=RATCH",
@@ -5581,7 +5581,7 @@
           "5,445,454"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:11.395383213+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:26.995819589+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/RATCH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5691,7 +5691,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107774901?symbol=COM7",
       "financialPublishedAt": "2026-11-12T18:46:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107774901?symbol=COM7",
@@ -5717,7 +5717,7 @@
           "2,855,833"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:11.395383213+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:26.995819589+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/COM7/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5822,7 +5822,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107990701?symbol=EGCO",
       "financialPublishedAt": "2026-11-16T06:32:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107990701?symbol=EGCO",
@@ -5848,7 +5848,7 @@
           "5,078,392"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:11.395383213+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:26.995819589+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/EGCO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -5962,7 +5962,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
       "financialPublishedAt": "2026-11-05T18:29:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107355101?symbol=KCE",
@@ -5988,7 +5988,7 @@
           "709,342"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:11.395383213+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:41.995561748+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/KCE/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6089,7 +6089,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107849401?symbol=CCET",
       "financialPublishedAt": "2026-11-13T17:00:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107849401?symbol=CCET",
@@ -6113,7 +6113,7 @@
         "netProfit": 1885670,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:13:26.395947425+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:41.995561748+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CCET/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6223,7 +6223,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107719301?symbol=WHA",
       "financialPublishedAt": "2026-11-12T17:31:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107719301?symbol=WHA",
@@ -6249,7 +6249,7 @@
           "3,689,795"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:26.395947425+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:41.995561748+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/WHA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6363,7 +6363,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107535201?symbol=MTC",
       "financialPublishedAt": "2026-11-10T19:43:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107535201?symbol=MTC",
@@ -6389,7 +6389,7 @@
           "4,942,179"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:26.395947425+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:41.995561748+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MTC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6499,7 +6499,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107783501?symbol=CENTEL",
       "financialPublishedAt": "2026-11-12T19:20:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107783501?symbol=CENTEL",
@@ -6525,7 +6525,7 @@
           "1,018,550"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:26.395947425+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:41.995561748+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CENTEL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6631,7 +6631,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107572801?symbol=OSP",
       "financialPublishedAt": "2026-11-11T19:09:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107572801?symbol=OSP",
@@ -6657,7 +6657,7 @@
           "2,974,736"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:26.395947425+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:41.995561748+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/OSP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6763,7 +6763,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107365601?symbol=BCP",
       "financialPublishedAt": "2026-11-05T18:21:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107365601?symbol=BCP",
@@ -6787,7 +6787,7 @@
         "netProfit": 28231957,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:13:41.395049074+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:56.995797827+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BCP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -6896,7 +6896,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107940001?symbol=CBG",
       "financialPublishedAt": "2026-11-13T19:06:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107940001?symbol=CBG",
@@ -6922,7 +6922,7 @@
           "2,177,131"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:41.395049074+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:56.995797827+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CBG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7028,7 +7028,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107296801?symbol=TU",
       "financialPublishedAt": "2026-11-02T18:16:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107296801?symbol=TU",
@@ -7052,7 +7052,7 @@
         "netProfit": 3722974,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:13:41.395049074+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:56.995797827+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TU/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7157,7 +7157,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107853501?symbol=SPRC",
       "financialPublishedAt": "2026-11-13T18:02:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107853501?symbol=SPRC",
@@ -7183,7 +7183,7 @@
           "1,479,769"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:41.395049074+07:00",
+      "marketDataAsOf": "2026-11-28T02:58:56.995797827+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SPRC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7293,7 +7293,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107548101?symbol=BANPU",
       "financialPublishedAt": "2026-11-11T06:45:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107548101?symbol=BANPU",
@@ -7319,7 +7319,7 @@
           "(373,294)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:41.395049074+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:11.995735527+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BANPU/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7433,7 +7433,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107642301?symbol=TFG",
       "financialPublishedAt": "2026-11-11T20:40:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107642301?symbol=TFG",
@@ -7457,7 +7457,7 @@
         "netProfit": 5546046,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:13:41.395049074+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:11.995735527+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TFG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7566,7 +7566,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107498801?symbol=MRDIYT",
       "financialPublishedAt": "2026-11-10T17:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107498801?symbol=MRDIYT",
@@ -7592,7 +7592,7 @@
           "1,781,351"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:11.995735527+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MRDIYT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7694,7 +7694,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107561301?symbol=BGRIM",
       "financialPublishedAt": "2026-11-11T17:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107561301?symbol=BGRIM",
@@ -7720,7 +7720,7 @@
           "1,181,777"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:11.995735527+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BGRIM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7827,7 +7827,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107398301?symbol=TIDLOR",
       "financialPublishedAt": "2026-11-06T18:53:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107398301?symbol=TIDLOR",
@@ -7851,7 +7851,7 @@
         "netProfit": 4635138,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TIDLOR/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -7965,7 +7965,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107435701?symbol=IRPC",
       "financialPublishedAt": "2026-11-09T17:15:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107435701?symbol=IRPC",
@@ -7991,7 +7991,7 @@
           "(2,997,816)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/IRPC/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8097,7 +8097,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107505001?symbol=BTG",
       "financialPublishedAt": "2026-11-10T17:12:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107505001?symbol=BTG",
@@ -8123,7 +8123,7 @@
           "5,658,273"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BTG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8228,7 +8228,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107759001?symbol=LH",
       "financialPublishedAt": "2026-11-12T19:55:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107759001?symbol=LH",
@@ -8254,7 +8254,7 @@
           "2,999,102"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/LH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8361,7 +8361,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107573701?symbol=HANA",
       "financialPublishedAt": "2026-11-11T17:04:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107573701?symbol=HANA",
@@ -8387,7 +8387,7 @@
           "527,669"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:13:56.39538111+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/HANA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8492,7 +8492,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107475901?symbol=BA",
       "financialPublishedAt": "2026-11-10T12:31:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107475901?symbol=BA",
@@ -8518,7 +8518,7 @@
           "3,117,574"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:11.395319144+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8624,7 +8624,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107424701?symbol=GUNKUL",
       "financialPublishedAt": "2026-11-09T17:01:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107424701?symbol=GUNKUL",
@@ -8650,7 +8650,7 @@
           "1,308,610"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:11.395319144+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:26.995652215+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GUNKUL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8767,7 +8767,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107215101?symbol=GLOBAL",
       "financialPublishedAt": "2026-10-27T18:06:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107215101?symbol=GLOBAL",
@@ -8793,7 +8793,7 @@
           "1,534,457"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:11.395319144+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:41.995922301+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GLOBAL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -8894,7 +8894,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108103301?symbol=SAWAD",
       "financialPublishedAt": "2026-11-16T21:00:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108103301?symbol=SAWAD",
@@ -8920,7 +8920,7 @@
           "3,693,122"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:11.395319144+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:41.995922301+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SAWAD/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9029,7 +9029,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107537401?symbol=BLA",
       "financialPublishedAt": "2026-11-10T19:31:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107537401?symbol=BLA",
@@ -9055,7 +9055,7 @@
           "5,495,511"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:11.395319144+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:41.995922301+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BLA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9162,7 +9162,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107756801?symbol=PLANB",
       "financialPublishedAt": "2026-11-12T19:30:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107756801?symbol=PLANB",
@@ -9188,7 +9188,7 @@
           "752,977"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:26.395961295+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:41.995922301+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PLANB/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9297,7 +9297,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107382401?symbol=RCL",
       "financialPublishedAt": "2026-11-06T12:37:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107382401?symbol=RCL",
@@ -9321,7 +9321,7 @@
         "netProfit": 6913791,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:14:26.395961295+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:56.995832379+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/RCL/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9427,7 +9427,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107940401?symbol=TOA",
       "financialPublishedAt": "2026-11-13T17:56:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107940401?symbol=TOA",
@@ -9451,7 +9451,7 @@
         "netProfit": 2328997,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:14:26.395961295+07:00",
+      "marketDataAsOf": "2026-11-28T02:59:56.995832379+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TOA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9557,12 +9557,12 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107696201?symbol=MEGA",
       "financialPublishedAt": "2026-11-12T17:04:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107696201?symbol=MEGA",
-      "financialCheckStatus": "verified",
-      "financialCheckError": null,
+      "financialCheckStatus": "partial",
+      "financialCheckError": "HTTP Error 502: Bad Gateway",
       "researchFinancialPeriod": "1H2026 / Q2 2026",
       "researchPeriodEnd": "2026-06-30",
       "researchNeedsReview": true,
@@ -9573,17 +9573,15 @@
       "financialEps": 1.99,
       "financialMetricsPeriodEnd": "2026-09-30",
       "financialSourceRecord": {
-        "quarter": 3,
-        "fiscalYear": 2026,
-        "sourceUnit": "พันบาท",
-        "netProfitValues": [
-          "615,333",
-          "494,188",
-          "1,734,460",
-          "1,334,942"
-        ]
+        "symbol": "MEGA",
+        "quarter": "9M",
+        "year": 2026,
+        "beginDate": "2026-01-01T00:00:00+07:00",
+        "endDate": "2026-09-30T00:00:00+07:00",
+        "netProfit": 1734460,
+        "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:14:26.395961295+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:11.99548414+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MEGA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9689,7 +9687,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107515201?symbol=SPALI",
       "financialPublishedAt": "2026-11-10T18:51:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107515201?symbol=SPALI",
@@ -9715,7 +9713,7 @@
           "2,677,098"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:26.395961295+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:11.99548414+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SPALI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9824,7 +9822,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107951601?symbol=BCH",
       "financialPublishedAt": "2026-11-13T21:52:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107951601?symbol=BCH",
@@ -9850,7 +9848,7 @@
           "1,056,862"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:26.395961295+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:11.99548414+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BCH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -9927,8 +9925,8 @@
       "moatStatus": "มี",
       "moatReason": "สัมปทานทางรถไฟ ผลกระทบของเครือข่าย ข้อมูลการขนส่งสาธารณะ/ที่ตั้งสื่อ และความร่วมมือเชิงกลยุทธ์สร้างอุปสรรคที่คงทนในชั้นโครงสร้างพื้นฐาน",
       "industryComparison": "โฮลดิ้งระบบขนส่งและโครงสร้างพื้นฐาน ด้วย จำนวนผู้โดยสาร, EBITDA ที่เกิดซ้ำ, อายุสัมปทาน, หนี้สุทธิ, Receivables, FCF และ ส่วนลดจากมูลค่า SOTP",
-      "updateStatus": "Research Needs Update",
-      "marketDataUpdated": "2026-11-28",
+      "updateStatus": "Verification Pending",
+      "marketDataUpdated": "2026-11-27",
       "financialDataUpdated": "Q2 FY2026 / สะสม 6 เดือน",
       "researchReviewed": "2026-10-29",
       "sources": [
@@ -9963,8 +9961,8 @@
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107980201?symbol=BTS",
-      "financialCheckStatus": "verified",
-      "financialCheckError": null,
+      "financialCheckStatus": "failed",
+      "financialCheckError": "HTTP Error 502: Bad Gateway",
       "researchFinancialPeriod": "Q1 FY2027",
       "researchPeriodEnd": "2026-06-30",
       "researchNeedsReview": true,
@@ -9985,9 +9983,9 @@
           "(127,204)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:41.395821117+07:00",
-      "marketDataProvider": "SET / Settrade",
-      "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BTS/financial-statement/five-years",
+      "marketDataAsOf": "2026-11-27T16:36:49+07:00",
+      "marketDataProvider": "Yahoo Finance (.BK) secondary fallback",
+      "marketSourceUrl": "https://finance.yahoo.com/quote/BTS.BK/",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
       "valuationRatiosAsOf": "2026-11-26T00:00:00+07:00",
       "valuationFinancialPeriodEnd": null,
@@ -10095,7 +10093,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108102201?symbol=CK",
       "financialPublishedAt": "2026-11-16T19:43:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108102201?symbol=CK",
@@ -10121,7 +10119,7 @@
           "2,883,871"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:41.395821117+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:26.995154639+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CK/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10228,7 +10226,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108078901?symbol=AMATA",
       "financialPublishedAt": "2026-11-16T17:32:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/108078901?symbol=AMATA",
@@ -10254,7 +10252,7 @@
           "2,107,584"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:41.395821117+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:26.995154639+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AMATA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10368,7 +10366,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107523201?symbol=STA",
       "financialPublishedAt": "2026-11-10T18:11:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107523201?symbol=STA",
@@ -10394,7 +10392,7 @@
           "(939,971)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:41.395821117+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:26.995154639+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/STA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10500,7 +10498,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
       "financialPublishedAt": "2026-11-12T12:37:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
@@ -10526,7 +10524,7 @@
           "3,024,722"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:41.395821117+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:41.99589057+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10633,7 +10631,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107749301?symbol=TASCO",
       "financialPublishedAt": "2026-11-12T17:43:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107749301?symbol=TASCO",
@@ -10659,7 +10657,7 @@
           "1,024,695"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:56.395772702+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:41.99589057+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/TASCO/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10765,7 +10763,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107496201?symbol=STGT",
       "financialPublishedAt": "2026-11-10T17:02:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107496201?symbol=STGT",
@@ -10791,7 +10789,7 @@
           "395,259"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:56.395772702+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:41.99589057+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/STGT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -10889,7 +10887,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107807601?symbol=SIRI",
       "financialPublishedAt": "2026-11-13T08:27:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107807601?symbol=SIRI",
@@ -10915,7 +10913,7 @@
           "3,029,044"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:56.395772702+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:41.99589057+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/SIRI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11017,7 +11015,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107697901?symbol=WHAUP",
       "financialPublishedAt": "2026-11-12T17:55:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107697901?symbol=WHAUP",
@@ -11043,7 +11041,7 @@
           "852,036"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:56.395772702+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:56.995265222+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/WHAUP/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11154,7 +11152,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107043301?symbol=AEONTS",
       "financialPublishedAt": "2026-10-07T18:21:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q2 FY2027 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-08-31",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107043301?symbol=AEONTS",
@@ -11178,7 +11176,7 @@
         "netProfit": 1435371,
         "fsType": "C"
       },
-      "marketDataAsOf": "2026-11-28T02:14:56.395772702+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:56.995265222+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AEONTS/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11284,7 +11282,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107914901?symbol=STECON",
       "financialPublishedAt": "2026-11-13T17:11:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107914901?symbol=STECON",
@@ -11310,12 +11308,12 @@
           "1,016,869"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:14:56.395772702+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:56.995265222+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/STECON/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
       "valuationRatiosAsOf": "2026-11-26T00:00:00+07:00",
-      "valuationFinancialPeriodEnd": "2026-09-30",
+      "valuationFinancialPeriodEnd": null,
       "businessProfile": {
         "companyName": "บริษัท สเตคอน กรุ๊ป จำกัด (มหาชน)",
         "overview": "บริษัทแม่ที่ถือหุ้นกิจการรับเหมาก่อสร้าง สาธารณูปโภค พลังงาน และโครงสร้างพื้นฐานขนส่ง",
@@ -11417,7 +11415,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541401?symbol=BAM",
       "financialPublishedAt": "2026-11-10T20:10:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107541401?symbol=BAM",
@@ -11443,7 +11441,7 @@
           "1,694,516"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:11.395819114+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:56.995265222+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BAM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11550,7 +11548,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107337101?symbol=BCPG",
       "financialPublishedAt": "2026-11-04T17:43:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107337101?symbol=BCPG",
@@ -11576,7 +11574,7 @@
           "128,203"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:11.395819114+07:00",
+      "marketDataAsOf": "2026-11-28T03:00:56.995265222+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/BCPG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11687,7 +11685,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107700801?symbol=ICHI",
       "financialPublishedAt": "2026-11-12T17:06:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107700801?symbol=ICHI",
@@ -11713,7 +11711,7 @@
           "1,010,718"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:11.395819114+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:11.995154834+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/ICHI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11822,7 +11820,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107760801?symbol=CHG",
       "financialPublishedAt": "2026-11-13T08:00:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107760801?symbol=CHG",
@@ -11848,7 +11846,7 @@
           "705,119"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:11.395819114+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:11.995154834+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/CHG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -11958,7 +11956,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107818101?symbol=VGI",
       "financialPublishedAt": "2026-11-13T08:34:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q2 FY2026 / สะสม 6 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107818101?symbol=VGI",
@@ -11984,7 +11982,7 @@
           "0.006"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:11.395819114+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:11.995154834+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/VGI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12098,7 +12096,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107804201?symbol=EA",
       "financialPublishedAt": "2026-11-13T07:17:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107804201?symbol=EA",
@@ -12124,7 +12122,7 @@
           "(205,562)"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:26.395940439+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:11.995154834+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/EA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12234,7 +12232,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107779101?symbol=PRM",
       "financialPublishedAt": "2026-11-12T18:53:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107779101?symbol=PRM",
@@ -12260,7 +12258,7 @@
           "1,740,875"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:26.395940439+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:11.995154834+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PRM/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12373,7 +12371,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107699601?symbol=M",
       "financialPublishedAt": "2026-11-12T17:07:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107699601?symbol=M",
@@ -12399,7 +12397,7 @@
           "735,363"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:26.395940439+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:11.995154834+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/M/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12509,7 +12507,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107707101?symbol=AURA",
       "financialPublishedAt": "2026-11-12T18:21:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107707101?symbol=AURA",
@@ -12535,7 +12533,7 @@
           "1,022,438"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:26.395940439+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:26.995766579+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AURA/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12646,7 +12644,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107715401?symbol=ERW",
       "financialPublishedAt": "2026-11-12T17:12:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107715401?symbol=ERW",
@@ -12672,7 +12670,7 @@
           "464,991"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:41.395409878+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:26.995766579+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/ERW/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12781,7 +12779,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107510801?symbol=PR9",
       "financialPublishedAt": "2026-11-11T08:09:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107510801?symbol=PR9",
@@ -12807,7 +12805,7 @@
           "605,787"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:41.395409878+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:26.995766579+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PR9/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -12916,7 +12914,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
       "financialPublishedAt": "2026-11-09T19:52:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
@@ -12942,7 +12940,7 @@
           "1,216,610"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:41.395409878+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:26.995766579+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/QH/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13052,7 +13050,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
       "financialPublishedAt": "2026-11-10T19:45:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
@@ -13078,7 +13076,7 @@
           "807,838"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:41.395409878+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:41.995150762+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/JMT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13192,7 +13190,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
       "financialPublishedAt": "2026-11-10T22:24:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
@@ -13218,7 +13216,7 @@
           "333,838"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:41.395409878+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:41.995150762+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/JMART/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13329,7 +13327,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107656301?symbol=GFPT",
       "financialPublishedAt": "2026-11-12T12:38:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107656301?symbol=GFPT",
@@ -13355,7 +13353,7 @@
           "1,995,977"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:56.395378726+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:41.995150762+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GFPT/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13464,7 +13462,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107454901?symbol=DOHOME",
       "financialPublishedAt": "2026-11-09T18:48:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107454901?symbol=DOHOME",
@@ -13490,7 +13488,7 @@
           "504,313"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:56.395378726+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:41.995150762+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/DOHOME/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13600,7 +13598,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107757801?symbol=PTG",
       "financialPublishedAt": "2026-11-12T19:39:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107757801?symbol=PTG",
@@ -13626,7 +13624,7 @@
           "707,153"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:56.395378726+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:56.995919544+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/PTG/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13740,7 +13738,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107715901?symbol=MOSHI",
       "financialPublishedAt": "2026-11-12T17:34:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107715901?symbol=MOSHI",
@@ -13766,7 +13764,7 @@
           "427,647.14"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:56.395378726+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:56.995919544+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/MOSHI/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13872,7 +13870,7 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107616001?symbol=AAV",
       "financialPublishedAt": "2026-11-11T19:15:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107616001?symbol=AAV",
@@ -13898,7 +13896,7 @@
           "726,707"
         ]
       },
-      "marketDataAsOf": "2026-11-28T02:15:56.395378726+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:56.995919544+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/AAV/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
@@ -13939,7 +13937,7 @@
       "sector": "Information & Communication Technology",
       "valuation": "Fair Value",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "qNpat": -11.664,
+      "qNpat": 11.664,
       "periodNpat": 488.585,
       "npatGrowth": null,
       "debtEbitda": null,
@@ -14008,12 +14006,12 @@
       "financialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
       "financialPublishedAt": "2026-11-05T17:05:00+07:00",
       "financialAssurance": "สอบทานแล้ว",
-      "financialCheckedAt": "2026-11-28T02:11:43+07:00",
+      "financialCheckedAt": "2026-11-28T02:56:51+07:00",
       "latestAvailablePeriod": "Q3 FY2026 / สะสม 9 เดือน",
       "latestAvailablePeriodEnd": "2026-09-30",
       "latestFinancialSourceUrl": "https://www.settrade.com/th/news-and-articles/news/107356801?symbol=GST",
-      "financialCheckStatus": "partial",
-      "financialCheckError": "HTTP Error 502: Bad Gateway",
+      "financialCheckStatus": "verified",
+      "financialCheckError": null,
       "researchFinancialPeriod": "1H2026 / Q2 2026",
       "researchPeriodEnd": "2026-06-30",
       "researchNeedsReview": true,
@@ -14024,15 +14022,17 @@
       "financialEps": 0.45,
       "financialMetricsPeriodEnd": "2026-09-30",
       "financialSourceRecord": {
-        "symbol": "GST",
-        "quarter": "9M",
-        "year": 2026,
-        "beginDate": "2026-01-01T00:00:00+07:00",
-        "endDate": "2026-09-30T00:00:00+07:00",
-        "netProfit": 488585,
-        "fsType": "C"
+        "quarter": 3,
+        "fiscalYear": 2026,
+        "sourceUnit": "พันบาท",
+        "netProfitValues": [
+          "11,664)",
+          "(885)",
+          "488,585",
+          "(88,748)"
+        ]
       },
-      "marketDataAsOf": "2026-11-28T02:16:11.395101344+07:00",
+      "marketDataAsOf": "2026-11-28T03:01:56.995919544+07:00",
       "marketDataProvider": "SET / Settrade",
       "marketSourceUrl": "https://www.settrade.com/th/equities/quote/GST/financial-statement/five-years",
       "marketCapBasis": "ราคา × จำนวนหุ้นจดทะเบียน จาก SET / Settrade",
