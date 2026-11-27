@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T03:10:39+07:00",
+  "checkedAt": "2026-11-27T17:48:49+07:00",
   "targetPeriodEnd": "2026-09-30",
   "results": [
     {
@@ -54,15 +54,6 @@
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107674701?symbol=AP",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "AURA",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107707101?symbol=AURA",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -338,15 +329,6 @@
       "warnings": []
     },
     {
-      "ticker": "ERW",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107715401?symbol=ERW",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
       "ticker": "GFPT",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
@@ -397,7 +379,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107424701?symbol=GUNKUL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "partial",
+      "checkStatus": "verified",
       "warnings": []
     },
     {
@@ -442,17 +424,10 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107408201?symbol=IVL",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
-    },
-    {
-      "ticker": "JMART",
-      "period": "Q3 FY2026 / สะสม 9 เดือน",
-      "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107546701?symbol=JMART",
-      "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
-      "warnings": []
+      "checkStatus": "partial",
+      "warnings": [
+        "F45 is future-dated or not identified as consolidated"
+      ]
     },
     {
       "ticker": "JMT",
@@ -460,7 +435,7 @@
       "endDate": "2026-09-30",
       "source": "https://www.settrade.com/th/news-and-articles/news/107539001?symbol=JMT",
       "assurance": "สอบทานแล้ว",
-      "checkStatus": "verified",
+      "checkStatus": "partial",
       "warnings": []
     },
     {
@@ -653,19 +628,28 @@
       "warnings": []
     },
     {
-      "ticker": "QH",
+      "ticker": "RATCH",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107444001?symbol=QH",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107872101?symbol=RATCH",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
     },
     {
-      "ticker": "RATCH",
+      "ticker": "RCL",
       "period": "Q3 FY2026 / สะสม 9 เดือน",
       "endDate": "2026-09-30",
-      "source": "https://www.settrade.com/th/news-and-articles/news/107872101?symbol=RATCH",
+      "source": "https://www.settrade.com/th/news-and-articles/news/107382401?symbol=RCL",
+      "assurance": "สอบทานแล้ว",
+      "checkStatus": "verified",
+      "warnings": []
+    },
+    {
+      "ticker": "SAWAD",
+      "period": "Q3 FY2026 / สะสม 9 เดือน",
+      "endDate": "2026-09-30",
+      "source": "https://www.settrade.com/th/news-and-articles/news/108103301?symbol=SAWAD",
       "assurance": "สอบทานแล้ว",
       "checkStatus": "verified",
       "warnings": []
@@ -889,12 +873,20 @@
   ],
   "failures": [
     {
-      "ticker": "RCL",
-      "error": "HTTP Error 502: Bad Gateway"
+      "ticker": "AURA",
+      "error": "The read operation timed out"
     },
     {
-      "ticker": "SAWAD",
-      "error": "HTTP Error 502: Bad Gateway"
+      "ticker": "ERW",
+      "error": "The read operation timed out"
+    },
+    {
+      "ticker": "QH",
+      "error": "The read operation timed out"
+    },
+    {
+      "ticker": "JMART",
+      "error": "The read operation timed out"
     }
   ]
 }
